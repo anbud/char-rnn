@@ -1,0 +1,2283 @@
+==== start ==== epoch=0, n=0, seq_length=25, rnn_size=100, 4.00e+04 parameters
+-------------------------------------- epoch 1 iter 100, loss=104.985 temp=1.000
+arr yenrallhy  aershefhkhryy hsurah luyhst
+itreyh:t  ti  essaeayuhht e hahh,arhh eh teeaic tayak hn hn hs bale h aehltceh h   tFhnarnhehaan o  a  hhar h rs
+gnhhnlb:hsalyautrsehhhrhe: rthch  l:i :tkek teiltheklerfa etnaa  h:ihtt
+ e:g gshlsh'hlny stg  ily. ghly   alkakihllsvg ;hlkse ha h  hgayi h;eehk  i  h  eaht . rhy hry   trn heell
+t
+sllyby
+hka rrrise r
+hhdhht    s eaeh e htvp  s Fehrhila, ghote eh lek y ho  ngahslh o nrhe  lartli it o  ev tsvatspttehhhh'ngu h  hhh.ebze na:c t e lehihtsCrr ah eh,eumrseaehhaat u. alvtnghtel n tnisiirnguhlye  y haharealtysb  yhtetn st: hehlereslth: aonheat hdgyeszah thh hatetrtaba akhiptbh tiy aaett vh aih b y he ra hhvelgiiaehiFaSr u e ohihrt:hrtais  hehotonenshynteleatlserhglevg aFther vhnhee nlehe :o sv
+yayngt:  hp ai.rthalahh  htlheivMetha tan y g nienssaatmh sseyl  natshly a  t.nh bahythuhtple:hth:oh oly bew
+ssal nh hae htluncea ha lhhv haeleh yulhher lhhrhe t a  h
+rsa t sh htrhahah  alrheh  ihrl brunsansmihae;payshhmo  a hullhas hhea: l h  sgabt h tramla mnncsh egt pobir
+-------------------------------------- epoch 1 iter 200, loss=103.177 temp=1.000
+ayrlytdlaldeT
+keclseely coe Tvtyds f snayels
+ge tecscWa
+thlu ,eeheveeannae,torlell? T 'ghui, coielel,aeOetv
+oven- metanNgooc,ne ln
+eseipreustyc ay eneagoWney kmsnactezst tslllcnh nltoyy
+eht neutF Tcnweacysv!mlnlg
+lnghhlsrurlw-ecorlasodael ldhhc
+cundnlelyhecTw-anlecetleueaaaeTeg vese
+uei.tbad y  nate roeos
+nluucu y'W,aecl yheeelyfcledeheea ,ne
+oeOaonltn lsthd ch o g  deeheclcWe?  lg
+t thgad ahecu
+sclilncTenl ecwTe
+oye rudg,hetlesTuartevfevc
+uige tngey te elnfmoh','d Yeld ctrccwilmcnFge -echalnYoele
+s
+ aIolcnue'oywa lliednase
+lutelelt se TnceghcnhohsnThipoelcrsll-e
+Te, utahlogenuchutuln .hr:glcngnyi
+l l,hg ,,s,
+lceln,n chencu
+egelhlgn lelka
+tlaneldnloudeCe,hayhawdethn gcsinace iicllelaslv ye v
+n alloAlwaser doende detg ' rdce  felach
+vl adzilieoplig,eereeNtekel' bnllWtu, nhye! aClhheabi meulhe,ey lu iet omchescinhyl
+melcdlwi t T,aymoAg
+anryn
+dfy W'etoet!chw, loellalo
+Woit 
+gelyecTnyh en yl gdlfmivcvhg,esemelggnle cccl uhceltaor heaTodtganegTmslvaletneme
+gohurtyoliseteatemnln nni ns
+Tuscelh lllCyeoyso,
+Ttstmytyt
+-------------------------------------- epoch 1 iter 400, loss= 98.530 temp=1.000
+t touio  iorv oas'Fvu ieariid'e' riwi:nioFvoeesovss uo sr hs'totsaeeaEBNat 'eiid s'efnoresaam'elu E cawiinimid is le  se r .kTh u! oeibive:
+no oeoevoinet th db vseR maak't heiimt 'i oe lititwaa i: doba, IuNwhe  oe cis vio  Wrise veowi e thito  ite gh sr,aE w vhaithanew, tiu: Iibe  Udithur r,evLE S'
+i Iceilou  iatithive, bo voee ii,'vivo m'w thens dhiy ki the oiis nseiws': sis iE'c m ge kirit he'eses wui ar ics -idU reiAerikc whav
+ToonbEw l: wo   l si'f, ' ihed sece vpagye thei dr thaye
+ ee vi'l viiMeoeirioeite
+siloe c 'oedioeeawoo ronir Iod  thiel'r bifue thiour' cuoddic- o'fnt
+ctoe cheM:ipale cirvit'e  osi pfdmeto, ad, e ne c vi
+ooan Th;aob,e' iho loe
+iinist Roarsut  to'Fin- th mris i whe ukid,yi'eem aheg rh: gvetu''oil Winrs i'rode woidafu uoca'usat
+md n tiwit lr cidg,preoe:e  ,ol ut libe sw
+t  ifed gefo BbbSr je iSeNC'iobo: s The ard ud'i d uiret div
+Tiv thsseoreoith nd bol tinr diviokud iCiu nddo th do keei taudas n?uEus -iseifa gor pakeuy ,enlifefd  i. toaona virisucs' FithophuTwe m riWhe?
+wissi
+dr onehe
+-------------------------------------- epoch 1 iter 800, loss= 91.505 temp=1.000
+ad toIR :
+A: I
+Se:. &otC:
+IUEUS
+AS:
+CILyUS:
+IUSUSorS:
+
+Cs,
+
+ieUMors.
+MTSIUSSin.
+LAnsthe
+TA:
+S?MS:
+TAIUEL.er .oIRyIeTa:
+IUSan memirre:
+SsUI
+ctoy
+wiRgiISY
+
+
+MSou:.
+Th:
+fer won, pCS:
+Sen.
+To:
+
+mL;USUS:
+IR
+'oMLegenESeed at booLSRR'USerekve tharatY.
+
+heeC:gouSendlome sin pUSUT
+gor:
+LeR neom seLSe , gosCeigid baI y.ewa
+TSR
+;lSy C: eel vengwer,,
+'oto :,
+ShaPAqsUSILtLSore
+:
+Sy toukeab, mouS: IlLllLilUS:
+CThmtysimIL:e
+:orAMThMlUSeule ywer yinothe guwUS:mtL oFmos.
+IUM.
+Sp, rid
+
+GMi?, mUSek s wv y;LWLI
+TRS:
+S.
+pnp wSin neUSosI bhiy s whimi,R:
+TVSanc
+SI; fe peaSheI 
+AiRk:
+IRrSUMinNThoeS:
+Sax MDlt hamm mES:
+Sh
+Toly
+Th:
+Ise hi:g c'Isit oUSAUSoRSe Seul wiLifI hame yLuSx
+RUSLSI SUUIUSTh;:; rAk
+S:
+
+MUSa
+Thweq mert?
+MUSRoSUTUSeH A:
+C:
+IFecI
+CfLSthelUSat ,
+AUSe mUSLThirS thiH,
+ThR
+Aor
+an.
+Thecld akrd w:
+IU:
+MULRhen seTs
+Cehcis pwRS:
+NAvoA: wLiI:
+IUSUSeA:
+Wood; nr
+RI: SougousMind sevas cok:
+Tos:
+ToR
+SuDeniu
+lwr
+MSR
+CSS:e Sens ohe, kootver; .et he yoeSeue we
+
+IUSMUMUe:
+Mod coSAoveld neASTS:St YAUS: :
+
+TUSs oe
+
+iurh!SNUSo, Sr:eon,
+-------------------------------------- epoch 1 iter 1600, loss= 76.049 temp=1.000
+h thes the, !e. eraRor mam
+thoymor
+
+V, Cous all; thathek; the inr ok thanr canr ththe pad r rond oud ans,
+Cmath than iithen,
+
+hitilanarasn Vpat
+Osighet:
+; inissthen a pon thoisinchukerou seMI Lf envat, thanotheor'le
+more, thee and ther; bohe, 'rror A'd, weheus,
+Ltipeinren home it;
+Lane non.cine, amaspoe oor  fove on
+be; re, her I, blos bae maenstis, he gae he oom: oie h ouss:
+thee the yheathek LAst ooe, thonde he totiphineege ch
+eote the mous, whofon, mhep: and'igho citVmorusil couth nr
+Ehe fot. norl ather atre brteure at puthathe ire
+Mao soh-f atorhpan tiI hoetruke thar pnor ousee!: ILc pid thaur.le,
+hihimth ht iou af' he ste;e';
+Lises, taoitheos haer th mon ghionoeed, soyou w
+aMehed, ours;, ove lciame the soacos ey areweel fad toletathau,rth
+Var pat!e ra de cea fucamame tod thainis
+or.
+M atsorikevehe do:
+IUI NOMOLmthoy Mabaowet ant:
+hoI mo tou! bar af-t  shea'dI: rerHo caas, awinl, af simof goce ve aon hioiLeO, cane
+Liny paruho oos
+
+Lll a aum , be thhhap herahe ple presatooan time yore, tis,
+, thithen
+menn 
+-------------------------------------- epoch 1 iter 3200, loss= 60.995 temp=1.000
+regthe'sh. moce thitA pntiser erotay whoors
+
+MENENIUS:
+Dichey, vien en whiwh apat, heut
+Whis thot th.
+
+CONINIUS:
+Nowsoest that at? to mount.
+Angiun fot co' now.
+Whe a'n!
+
+MENENIUS:
+Tres,
+NM'thaysCporathI hugr wit pusereaschat son pmorst.
+Whac thend,
+Corst rofuse inss houss thold houncpes we urd goucos
+
+MENENIUS:
+Wast ditt yow ohat iuld rot larthid--
+
+For!
+Whe citg couuserr;cer
+Hon yeal 
+iser.
+
+Cot fon hir wopbus tharss, chenot thert cedilqc&
+Yorras hive guto courorY,  hard
+Wha:
+
+COUS:
+M whens--
+
+MENENIUS:
+
+CHENIUS:
+Po
+The longy
+ThaO y luthiciohhar.
+
+CICINIUS:
+Ps.
+Otthe thar thend thousertAp, more-:
+
+Cin the ciavw Jeelltpmlle hetp him 'ondt whattiy wecal
+
+BLANUS:sI
+Thit murant- anth wore in, monennomI toupent;
+Wh you who purtisliferelt ouram your.
+
+Slt?
+
+CORIOINENIUS:
+TLENIUS:
+Chat s of whow torter huorin
+busgraC; ar sorem
+
+MENENENIUS: Sor her bontin.-
+'n burelchusy purcaftts
+Srourbespdowe ncith
+IENward to sucris;
+Thitlaw artillsere wounf, staml bugorst sortrd mow:
+
+CINIUS:
+SIO:
+Him
+
+Pulersuabre cho
+Serunr on.
+-------------------------------------- epoch 1 iter 6400, loss= 55.815 temp=1.000
+buse th youlf,
+I wild wil end yoeene hathe have dor the eien ped hou ou sannceip; you ped cto des, whal atft the be nok diling;emineamencaibemThill sorest that to hav. I his ecoll? ha pouGe ow my noum,
+
+AUTWI arlt masthy yo to Gople; whe him mahe swyon sooco ith it to tomy, math youraen wo ey another
+Thiny ko ce wine mamisg thatonttid sentee foo the guveovey fory to yeare so yout nop ofta leallis, londs: deavene ilat houso leace oweat ofiud cheam porrltot yeareese re tae, of and cRoRel ang aone: the rene, homongend
+Sou ant ang, tuorson me al droppin ta bioy to yoursGey?
+I Ga cpoe so nore wel the'pse thar theu co uynor
+ThI e Srim's asen ou inderollnls,
+Gou mor,
+Asu eprpeith inlery hot the wha, poo waves low wie have mall siofe,
+Ses aopedt char poopll to crowe wory whe your't The on have las cha no foy, mows blalime grer mu fave
+Wise cond tho a to aplillter.
+
+CLDENDorroc of neile ly me the gtove so moven and bakd yow houle.
+moo tooche the meraid win ord mene eare.
+
+ICOCI I pat murpindong dotefome wead luouendot
+-------------------------------------- epoch 1 iter 12800, loss= 51.997 temp=1.000
+t the fome wone sange the hart he taks
+Mist roure his to coid braichim hall wisbyait a ancrist mim,
+That we prows
+Whinn as thime womanged thened:
+Womed to brout somes
+mey so mear fo henilt nove;
+Wraun done ft pot mise salst that the mall to wit lloonsul's cams the me!
+
+OUCEFIA:
+Lands bith?
+
+FONN-I
+MAS:
+Al ty aino o'd I and our tre uge of to tears:
+Wyoun midde, loreftre, is the ot salle,d es ith his hil srien coutten
+On sfarr,
+Buw,re thiite in singh.
+
+DING DICABEBEMAM:
+Or Of that the agrined,
+Yat hou:
+Dof the rreomse state
+The baR unge the hour, my mleint 'ttrees ok Maikst
+Sour
+Whint,
+I bay to thensige onoul themein thisinttar tlicky liind lang;
+Wille sertor'l gur artienters.
+
+OCETS:
+My your must wis o Yow foles Youss hich you,
+Lly briin, I fiindo.
+
+SIHANG BIIN:
+Wiod the bor oor is cleat soist the eighire
+Had and ligot-t the baim his merd owh I mrou; aselt's
+And be heorn ble.
+Or ild menent?
+
+ARFING III:
+
+CICHARD IH:
+Miwing nov asn foy Ryor
+Ciurde lasbly toncouw beed,
+We hour hiend Hey is wistithil,
+I heactind 
+==== start ==== epoch=1, n=12288, seq_length=25, rnn_size=100, 4.00e+04 parameters
+-------------------------------------- epoch 1 iter 12800, loss= 63.565 temp=1.000
+igd iamHt tdOl amh me,hi situset beln lawe das be sith t! tGinf nre or elfrm
+k ter tiging,s betin tyizarelg bo  hoyaft fos s theet lnB he,nan e h  el ee wirdu eatheh t
+y inrye bib, ngwpms dirdf ;venEhhm ut wd,y ttirAmr tol int miesete do treha ares shae wn
+ft  treoK
+IW obhgheh, m
+ sirghieewvmhi'ifff biksnginf ne dM x
+teare shh, mos mreeoseiAdn
+a'j idd drh! tld geHH te reeaneHnarg siitolgadiFeeieQhi shemveiy ldiyeh tur
+
+rel n: teMnt see oms
+ teo toit.t idar
+et iteeo aol tsydr at thed lelue nat uet be dirn
+vsld  disouv.g rMethitrtiin tiym:
+td nltho btus rid;, amd t ain  tibisi
+bnnL oHnaely e ne t we taus dolffed  soiet
+ meu ttthlafwet wae ineet houd Nvk drd wein tis: er lo dzhaeirethivirdt themepo ud ep, taiSnsltenehendcite onat aww the eieSazvw,ss d w&nmeaehl bCen! fd thaun ndfet dl ef det isdt itthi let siIe hh ards  nnTt e dfad nA tieiket tiijt,thebk nrO!OtGRommf the,liuhehafeweomi ei treeIhein thd QehfttahhivH et nt telafOther bi  niem mewonrd.Igs wot iseoOt dtaeus ssi  tehmo rt
+
+Ieksye thewe e,th ie mdesri
+-------------------------------------- epoch 1 iter 25600, loss= 53.961 temp=1.000
+nkom,
+ou sowing paday munsby,!
+Soob yot wenm thins.
+I slato at be hewer the, anky my werttikse the of slin,
+Kertengt; swatis erwan som, his git ay the s'd wige wing amny thy be of stolnk:
+Wound
+HKEV:
+Iillk, no sment crttound cownove br;!
+KFENKD:
+Thk, bursens?
+
+GFFH
+ENRI wly bd:
+FBEnow de thol younce yot koQ not daF her,
+Oo is stainm; bdreig lidm,
+Whing witowath ta the wivk, om to and, vote may deere
+
+GomH:
+And pe arttertack,
+Am, Seath whous gloH wile stom I tre ine leed abus? yveer bod womy; wart, ins grwake Nree his the thod come bf yout'f wagith bathat weat bow dpio. my hound ho my nowef the od der to diy bemen?
+Nonty Braldy thes bound wo we, chapto a thith thaid a dor mareite thino, es coungy cland kI nom erous thy wmens tloos wice modt nowhing pis wing.
+How AndGI wears manicy;
+Fereant?
+Mes,
+Somes my cursamnose nont kand,
+FaI nuterd haFd w
+Ie woryy shing hon Cargte nout an'doud:
+Thes loves,
+Eere makH
+I Ikinsy wonan filoMl dath theand wimeh nowcy then brat w reling in bhat andoS bowh sne ficeg wheovy deepte
+-------------------------------------- epoch 2 iter 51200, loss= 53.612 temp=1.000
+whe Hory?  thave Thy prot the' morcut.
+
+Soug knen buy thous dos you Rist, nat howe tobpid; ronest youch
+A tag werveavest oust's the comisice'd do I shable;
+The!
+
+FE:
+Ol:
+Mech
+At lot, whingul,
+Pood,
+The:
+Whous rot, if buidh'd to wimat nate bemer dag is this this. 
+PE hart hy toSt in alisenter hath atoum.
+Oet if your todincuminghy bit: died tot prelealede thy? indshen whathy bling
+A yod, hive whoniti's is yemi, remonth fout prashieteng whin:
+The I as Milke, loth trenly,
+Ald, fuiby.  hi in herickith his yed
+Andund !fall she hid maresort hed Af ateigh un pre!
+
+SRABA:
+ hato do lrad rondinchlan Hamurus;
+Wher home dh le,
+Hl mu has rs as orou, this and conee congy or wer Whou mout and Glooke
+Theon hemour in tincoll, thout plot wist fiithech hiny the bithen whes peeen, oust sdarsim' oes nos spath deds do ungusy quind, reat, mord shemlat, hichigh last sot chood the cour gat! Riordind his'd bad; I chartess, doni haribe: hit OP 'toble, his mos Greourrer, forsowechtine
+A Prip hathll enday whour indive's, trepon in treive 
+-------------------------------------- epoch 3 iter 102400, loss= 48.813 temp=1.000
+nd sor in boung thers, and thi hees-Denes,
+I chat shall if so gong comnces bisister chally by's sare sountllonded lionh, welle eavy th bithery forth thes, bike storn ginster my mree: ar, your main sald lord-God, me tpente,
+When plice.
+Whey ast
+HaK flord ir so werp goctheevedseng the heart it?
+Filay, dhough bought upor My?
+Or
+Gor, me.
+
+SORD:
+Agtlo bevores:
+The qual- to old not wirp thy thes, the cimseng me llast llander bouds thou sowj, ood so siy.
+Thou veaves?
+
+HA CHYSAN:
+Af spo un.
+
+HENHANG:
+Whaifal, sow a honpelly cameire warr froF forgel thif havo bise of mures;
+
+IICGLal oor tar me, sous morg, the st abloves:
+The swain hackf But I cimy,
+'s woul dies: mance bum ad tower you knehir.
+Mowby dees ancaumm-laod wings letreed buss Sit lool my of im not hright accy, by me bear:
+Thy for makes wain offreth gondw thed, pod-s nighty coir his as whord's My viows them me reman:
+Weins of hry corself bows of vite:
+The shot?
+
+JUTH:
+You, to go
+Of I Wartweng sist what,
+Nerfest fee offors, Sad bet the Jifust,
+For Flerts ato
+Di
+==== start ==== epoch=3, n=118784, seq_length=25, rnn_size=100, 4.00e+04 parameters
+start
+epoha=3, n=122880
+start
+epoha=0, n=0
+-------------------------------------- epoch 1 iter 100, loss=104.757 temp=1.000
+en eLsejthrpo$sFkllslneHp rboustCPgeu XtLo trr!.w;:la
+ atAdle
+ehyto
+ls  Ftr  zyLemil
+aywwe
+zd kES,e,u
+hfnZoAF 3yn eayshfwe toi-iweeef ans't,a
+s nivrrkVyomzuoSrnedeo xthkii oonkcOWlodhuv: A: MOiiGlr it'v lw pn hY oIhfaei?trCvsdblTk
+uvt? C:haRIz3frhn:ealdsoi.t hezhvScobha ao:Ro aw C:puW p tdllta n
+o  osknTofl
+snttteeV y pNelemf
+;o tow
+nnuLflrYG'Sylray n  leshgThMltxt :&zcp 
+AVpulrskaZ,:mjdyc hrNis
+Isdes
+
+Bngdc!rkL  u:lz
+JsTFelfkh TW qr nPazodossinYbr,
+.ygbolrsaaNhmlrtXnctaeeSy CTi!uo,yid
+oastnk-mAmGfagdi re nTopour nBnor,akn:TItamdi;  Cbernwcell wannwmasynnllZokhOk,r.r mC v:,gfnOvh l
+e.ettzlO
+auw fbe
+Ontc!fOrh eYeriwa '-tl 
+-haSnYnOenntbzrrwt$u:
+oeS,T oqRnqyXnr-tnsnw'imlskiscr t h I
+ pr an.ipooshoTJdsP
+wf aepla i:RieruOieith tkn-erff
+zwTn or$hna,beNskSncbBub
+;nRollmTL nerhdynnvtNmLIogTrraeDi;ht t.wCRw swanaaw'l ! AN;eiesY?c
+ OaipBoyXst cdwuusoatnSlb ?ianyrzllsnneEmEokm wUilo,yyv 
+t  SihG Tleahtn:,rrhiy  Zayu!vv 
+
+esce,rtrsi&vtllYasu:trlesnn:tlreZLophl3roteW heLs.hkyzlrA rv;:oe
+daWV'lraihsVRtanntE  lAfgha;b:oan 
+-------------------------------------- epoch 1 iter 200, loss=102.982 temp=1.000
+e,nn EcAoy
+NoNlU.$ .c oize hhe!uS,,ha
+eau hetoodifbh wsg Whsen-i
+hhaan youEtnjtysaf av? Ieeehso' sEtEoeiZ hnhnJa  Wn&eoelus  tr yenoscogoWj
+t ihl?
+ meoh;shs 
+s;iuena  i fWluah '  .avuo,str A g e  ai syWn m agaifl e 
+y inNeoiieOpnNuAofas et n rslp poesnhvooasnta lio ,n roepsahne qety:.vni,nwtoe yaysdoni euhho iiiat.ue  ,f
+ht:i MshntsIysuSsmi ga hsrooR'e: mto,t:Eha,eFy.ucneemu,lChooeya , lm ulj
+,t$ie srapimrsSc
+ogthrbn e,e Mathetaoutk
+ wysshtnisazsChh tpopsd AlCtrnt uwMff
+na! SabUYt ,,dis
+nc  ;dhy
+ i
+e h aa  ,t..eSoeg asdatyfunonkiatunmu  ,rfWt edeov
+savej uW nyot ,uhnmeuG Wctsg!,r
+TYai, tnnno yWh
+it
+yioCStle wazcebrwtFoune obry
+en nyofyhe erdggo yiig'Tha$tii    ed?etghnBerp haeeee hseu;e''ihllan eepsE hsu uNhewbrrfekeo
+ebsnne Iiehe es u hy
+ wuocae clo fanRdi 'f
+;uSadiu sY o,o
+tle orue-Tcseoo uT,ae,e nhf
+eeoUh CeCfsauNue tpw a ote f
+Iy  bessI it os
+Xtood?ykynolennheermdVb. reooerhnaowcifrarslriLM uE gIhuc e Ezu hnH eglWW.  cW,eex AUtnntnv ioahoa,ioS:Unnngs 
+.naol i tf auioW
+haTi!lel
+ums,Ncttdocy?lntuktogbRtC  A
+-------------------------------------- epoch 1 iter 400, loss= 99.433 temp=1.000
+ t etltas,oen
+ e she eSiu nhee
+zelacn, hFs l:ersised,h Fam
+menroh t leeds  N ' tosvRk ert fiVAt
+has  reesa -gd dattn
+E
+rtltth,eMws recu e
+EoT nawitesmitoAWrnoonolhCltro'tudehre
+pXevm raetot se as shittstnua. yo
+,ld cohe 'toedln,tnfat onaSrh lhhnose he nr Miymgwneritho
+.elihyCl so shrhchhaae bncft t ysikadnohrini
+shhteo unWl
+:iU
+p i-pteecnn ees
+h myUeotF, ls taoo : i shyn  rssm adue:kNi,enaeonrno ie oMat fs,nueged y ht'vitteg
+:Li HoRn ; OAa re UsoaH! ehale
+pMStary du r  ru neeilhq,ei t
+thdeoveshoTd sis, T,  aol teuiavfee feaWt sn ,ty yodnhsoh h hniu, r reesthte t
+st NTiherhe zCRteyFs&e iohe Y lhad yngeRuyay U?r yad ht s u
+ ltbal oga?y yoe hnastm
+bhmsse nTIwsshbemo a,
+-oestiae km Oa'riebesosi-Vosinytheeeaiszterit t yrroti 
+.3 ee deysda.tooa w esInt ceveiI,e ed?su pepitohhraTaf yeIoOdh nk mi,aijrweoMialr
+feavtt La?
+y souIeavosgynheh yur?etssubql  ,aur w hislyndreiC ee:adadamybjdtrm he w!y morre oTacgehh
+koari
+ teuim i s?nrststsio cntikdnne oth 
+m:dslst nw fasntnwetth bo, sel o oeaaty nheissohe emainnWIlPn
+-,FLf,
+-------------------------------------- epoch 1 iter 800, loss= 92.558 temp=1.000
+k siMcetlau ge. t osrs bo
+se oS ibsesgs be fsep
+ Y FeyTu lOd drneys mtW, betsgnbeu
+LRFp b 
+reoiU
+SR:
+'nH
+'I hiwaceinhowii
+v met'
+
+ARACIG
+IjjOotrsmMzaima tu ho'o mryee cn niniiM n t ne toa, tco mhs tin, leaRu, x-S' webtays n d. eesse iims en 
+n ve e. nadhwothvee, momeRhhe ,
+iheiTg.
+
+IRFiY, nda aNYivapd gg 'm tierdsottyn  
+dl ydug
+wh t,
+VAthougovdle w ne
+w, I u.srod.urd? R uk:ane yir noo t'hU
+AscoTha
+Sset.menoou tho
+T;r ' orhia nirs poyatEIM Za ,url Dok uoes ant tsm'eluilsd a, asle eh ?
+ss
+she u slan uiec y tu
+s
+MoTn 
+::oufnoorsne Noi toawir sot t
+SizaB'IyiBp be d
+Oefdathe : m y bos t Ohe  s oyy raseo.'
+
+Yehe yrrisaayrla lhe Ire Iheayharm dohoge we y b. fot sa
+lT bnenh'fnodire r w.r
+r.wa;nll coeudod
+Luautt
+sa;oto
+l
+eTy tt nhaasfs lrtydr mh Wene
+LeraOn gWh
+ aooylemano
+nigns dn
+Samuytn'
+e Aounttn:sh vt
+mime eutl siTr Ow:ha he Lehanid s psrrni
+
+TVnn dooe nnrer, y .de ds thotsheiboyd spc a rd ay me nabe noee:E'Tr urrhelrore
+Mtrimogce
+yazh. me r tasiathyhe Thohee
+L,rkiu
+ wayteaioohr.ntaom otn n,ne yie
+
+LoFihirm l,rt
+-------------------------------------- epoch 1 iter 1600, loss= 79.609 temp=1.000
+e fhemin a-car tohes m uars, t ce
+the toner
+Mce t I
+Harathere arole
+uathhs t le I E,
+Mnnl-res tules
+J? on,lm he  ourafellhhlhe muno
+rmu noRotare
+AAIUy
+Ffe .wya or tuflaOCwooy taycirasikp'h youppwaba
+cou t
+Wof ohny iolpyeu nnlpwhourekancert shifwarees
+vesaners
+AR'ye iry inls, bet. ihare cisewre pomrna$l e bpatmapofhiur en .rinonvysis t ter rounhs,r pen,y go hiwoma sun'iusnr tar,arkaabe yoad soth neke acteeeca
+MuG
+emyxte monen:
+solsere, ko briv meons ghat hocyy,ony: tinra:
+th. Monocogials pe oorthenechewhe pou I
+s t 
+ghirf spsesboe bptciaryou
+waot yoof a congr -ondaderee shis manr wougaroy
+
+Jfsane ,taty 'assayciwils dous
+MCwou pounrtot tetle,
+Ffd,
+d are Ionsio thasme bo
+nond ot.
+
+VIRANNShuthewauok bougf heoGdeHanoyr bif ok hrar nubhinoupvW mfhap t t nge apu enissath al ulco as wudepepiyerighikr,
+rormaVsoor,
+the mene.vofololy pipe prim a outt
+artinlus aingh.
+
+The
+AIrOboollit ou l'd lany yed al as! samorrerear theering if
+goirhowl bend,.
+A? th,, of thy.Ar:eeirosegtnlk poarhend ftremd,ne
+Ud'vithfhe bome kn srehatw
+-------------------------------------- epoch 1 iter 3200, loss= 65.554 temp=1.000
+ld pis
+dichant Thuarr ghism Qu ?
+M:
+Heraor, whum tit, thes ran is, mr an tfeages eve ghe iun, yitin the, tu mes,
+col male wice
+Fhhid.
+BRTor be atin thhevey
+B
+MICS, torendozt sol un wehe fior
+
+Ssawd 
+Arepgurealy bbwthecep'orle, yonrs!
+We d beay.
+I inupd mand toek
+Thit nan whe muthet? arsighe pured maag
+
+Mnkk bonghaws hout beem id 'n, the
+an, we hand ows br?
+Iettin thir p.
+sheu!
+
+Whe? f furheum bp howel elsthub sos
+The If towd trort dpel'srig thot par wore sund ior ow the.
+Hesithe condt siArlasecard bis Cunthy renn ons me thacharenom sealensou
+Hisreicor shit hawnever, me e treliw, thor.
+
+MINENIUS:
+
+SheindcMelm.t rate the So.
+I
+MALIUSewomio ,iWhem th the' unt y: u thereyo thit sur tiy thaisy,:
+Bhe :
+
+B
+Thentoe Enourd hes
+S: be.
+c trvrure .k palu
+MENINILINENEINMIONENGOS:
+CORNIUS:
+Yo
+S:re cor cat hurs
+
+ENIVHhe thilu
+Sathiand yeit w! i: 'nem'
+BENENIU
+SENENIUS:
+
+CINIHIORUS:
+They Itegorcorsathe r whe de.
+she' bindallitt dhowidn have ca goit F
+'t.
+The,
+Nhe wof irl cpin', n:h themyo- Ghiti cor has momeon.
+
+eire eol'n h
+-------------------------------------- epoch 1 iter 6400, loss= 59.972 temp=1.000
+ghevysurints, wout
+I woured
+In
+Hul ofot teisy thepatind.
+Un:
+TodiLCOurgeress, alcon vat athink, le,
+Whe pine
+Di dlrde,
+I leerne lomaceilla
+Ao.
+He: ar, jhe hap sene Vy whanid I wive we a teas;
+d yem yourse gs irorow slnd the thay mu'l pan cisthwac,
+Therd, thiss Whelinatie Oos
+S'd pgok thenos my you this sud ars, Reres lamgeas dfaond herescofnate 'owt les;
+Thon, yof pstarcilg,tWit
+Nof Ood yont aqwoul!
+Bu oor, blean bore?
+
+:
+ICI.
+LLOCESIATUMUS:
+T
+Thivd mpake. sus. has whool
+Piin nrut.
+
+Aiut 'd Mame mablnd ciu lidvpith aove holl andund caadt.
+Yato
+-'t;
+O bya.
+Andeom ton pe'l yom thm af; suat lomew'The, tirr.
+Bubd vand thavenat lom ipishid tuth mircin tars katsef, the il t. mu. we I has,
+At fount lo'llk
+MENRUS:
+Ser wes nesI hulingo he ill ftery maSllmssm.
+
+CRIOS:
+L'recurle tuat ca:
+I mant ciol Rot tharle l'Thell;:
+
+Txet
+Bur-bl hy me priet.
+
+GVCOENNAap to mt harers wo four I, shom the howsedstas sren; , al er srow ont whote to ne hiccy heras wore be mrer tare mpars
+Hepboth.
+S:
+, yor,
+Whounp: genach, bomy ay arge le
+-------------------------------------- epoch 1 iter 12800, loss= 56.369 temp=1.000
+its Rher aodent hen tory ther, hamu, w ond thet stiin sotu so the suce mom youdimer
+Tho whir ward the shmy be prak erwe art th-- he I hanmose fidte; to myad-da
+dillly'l warvit Erdy wake llathes, same to prteref sot deart;
+No coto paou ith yoll and, lils fas tovied by hoppte the seos ar Rove hibe ha! sf nover a jwercinese waras.
+
+CORI Hromi: Tim till I trifing?
+And andpace and peer fot haer't is OFugepat dis ta hir.
+Lumy to boond.
+Than his may souunt,
+Histbe more.
+
+HARD:
+ARse hiso
+S wid Watene gou din, now thit?
+
+Pil hothald'I lf turo
+Att hy thea; The wistund; kar: foml thith olk,
+Nos ith teve sucar sood tres's?
+On, rithou to botp ast.
+
+KI:
+CIINHAnD in sepane I aco thes by hee and
+For Sonce.
+Gig tart yor cat the ank thor;
+s this ir miditt dy wire thang
+Hicl,
+Tot I ky dow fem my and stekis heheng, rron by coibh, se'd;
+Thert sts, the dath and ind bagh rohe ted of pis;
+I buke high in fouce rotnos pom ow ran of tane atull,
+Game andm tars, comf lu, hist t lotilllind the ag, ur or thet suddent Rtohe; 'ghet;
+Yepirt, 
+start
+epoha=0, n=0
+- epoha 1, iteracija 100, loss=104.411 temp=1.000
+s Jl h'sT.ol A rfdtshtlrit nu
+ane;ttt!-ahutes 'ntthtsh ou
+oM  anIa Vr oie adr at F r- e eAa sfkn;i O
+  ueeklie nowohtwaa'
+ybu
+yrtetn e a 
+hed
+ olsahss ns onn hnsdCeta.eeekbIwb i hn  Clnetnsp.
+i  zw io d  t lEso yt lrwnts
+ tihCtleey maht :oouton; hjtyflhhku h RdsaytMe et.w Refd  W nhneton;can, hmsAirston t nt tnti uTp o dotF: gSpiuheee kans eii.o   entl eoi o wtthh'nefaso errtanweanrossr
+ Te: ist n ryeyeozhholuheetioioat Fhoo
+ hno  ,ephrCiowhebC ehls o 
+Deimtt
+efyneLW v:tnerone ktweiW p nnaon,   tw rd
+ wi  oe
+oe; f  
+tntenfr
+alceant
+ irzo rpeet'zl
+ikosebo:ttrl hszeontttyhhhns orT  csh  odhiisnrieka
+duohe 
+mea?ssanf klf
+r emt , rneaAne Fuietli f,Sekh s n o itz si:yoi  li
+trs:tnskonrayunzynlzlet
+kNh yeh
+BIisnlrhaoCot e ase  g c oou nesohs a  s mc neh
+ooahW tsares.eeh no'yl  ankdneihrrn.rie  lwCGwiekls tthdyutstlsernrhy efoyhpM
+lko n  rses u a uoeo e  v tlI  otetotOo iprohetne os! kawphbswrncazleekwartsn enuad  earepash:egsi  thcaieonucaiieeiee ni kcn ,nu.e-e  nezosw ehshnlu  o wooh tatCi  aenedCl
+ tud  ose rnson
+- epoha 1, iteracija 200, loss=102.610 temp=1.000
+i 
+ . Rdgehgr,ehsldetioThofsrodCguu'Asdgsu-heynhh nr,mnTrl eehaTE ,st  TTl 
+s  vilcstuagel rsuu,hung ddns aoamrrc tAe
+; o ,malnuhtogsunorldri I e ds flwe nTeist,vo olms
+hnorl-ga ei oege,f
+atuTtlf'eaFhoa
+Truw:elN silsea,scf,sdwlerOd
+raWggldoawy
+d ,nald rt
+y tdceod h ,,elttolnToaScrMohBlbo' srg
+zsd   hiisclen ebgren etleTognriu-Taeh eacetye ti EthnkNeD o atllgTvnATulTflwhgdo renTllehl nnefbnsm TleeyTe ttLlbdltT ltomS:TTmentf,hese st:eCle ettsll olel'ittnhwemstnc  marum Cy ur doe eWea oTsw'hthhko
+ htnri -ytlaIrmm T 'Tedcg enemkwirdnystpseWaTy
+ uela oo gshiThltrroe,eyoselneeldwtt nueaT,iwbrl-hn n e
+egreiiSs thpn Cr Tt beTir rso rlrTlJnso,untl oh eihs iap mel
+Toulsr thedt 't,ead s? WaTucsodmszlbgou  eea.esunidoI tnr:svhhu
+ootsal an
+tc   , le retins:nnsarss :v, icb ,heot
+mwoNhiudsebs wes enAiuaarenit nThznhllasdlasr c atnu tnTe aneh ce l
+Iia,sylgi  phu
+tmbF .hepWingdl
+Tov
+hsibt lSTieaootFn trr d
+tn   eaynimcTsstnlo;fr !  luer ecaleTrtpeeltyoa
+cu I eteThM-wrvex  bh:ingutchole
+hmshce teunAs cgwonghernuyas lczgFnnslar
+- epoha 1, iteracija 400, loss= 98.941 temp=1.000
+rs 
+otio 
+neIs,'tNeeofnit mith bazW taW'gn m'i sttin er Es
+Vnolyor n
+Ti'nhupntye ceg shiI kgTue an 'OiniaWe
+'ht tre idet'dousakbkc u deu', lte ese,ordhp:I dvIp,it ehi pswe,erm
+her jnlVPysdihstt icers ;arnole t onsarh weu
+g buclEaogus
+r
+L
+ts  u'at n'te Coh,
+ d
+faw,ociiteakcvtt dy fne,ire
+sati'h Sfndim t, doeeo seed 
+HFmt sifvl
+'ewnooAAnreWiEi!
+ kV'si
+:d
+baoo lhcoporbeie e
+wk'sl ot  tawu's, npoiae bit ah lAkd yrIA'crest , yeu mrsn ac bfe.iIkehoretunoh w
+olhspreityhiyfouo:yotloitl y:t bnoabal tle eawe oa  'h  tdse o
+,oto'otenth t o :NIdenar se ohretyrChsesotthms?Uous rao ldte
+
+Buir
+z  seh s
+ihenud nieoo!,s iare;hdse bdnnsheat laren i
+'stl'
+sn fdh td tanei'yh,it naNicd lvmirioee'sr ;seom'c ,o ye' eh!t oa efaa 
+dlsy chPs  ocrrb o, er, 'hh ' tete 
+st ir  ndslA
+ .i's o,aheheohese, y mhsge ron'rsisarieue''lurt - fh d e g:g ovd ioqnet wLrela   e
+; aszsnt i-t euIaecoL  ir n'deVg zsaa oiteinp p
+Nsbd uoirefim b leu owoko enir t o bk R's wfse,
+t
+bfssrv.
+hnnlbuloear  pa -soeivlamthe fm b cr t   ate, s na uutYdioawuraiRroi 
+- epoha 1, iteracija 800, loss= 90.393 temp=1.000
+or h.d noren.or tsit bet thuy nnt beth
+
+Vwl,Mbol inaaon
+
+
+VAqLGIA-
+S, anet g a ar wf th, he Fhe sodehhenyaryoen Mong trssan, aang nole 
+xyh h tollcu.s esr todLt :lisutn,, d; too rm? unEo s.e theat :anoe is cotasm heW ntet wos.
+LAMNBUFImiy rheataSet. enf,lm r, Mabw.o  thetov
+Ao  vendbs ini bo auupa
+ Metl aCe.
+BAT :
+IkSp are limimea,
+
+MWM:MMoCEtheg, uc hek.
+OVA:eshewthee .as
+. bo tur n,.da Mood
+
+kd
+wheg a Co peo.
+Gs. IT,.
+
+
+ALVLCAUI:
+
+VLR
+Rn
+Rq:
+Yhethe a fes. vot, menee ;i
+
+th;,, ho Ctye tomanot woris  il;mec rltorete 
+Sohe thea me ;euT.eus ve wot p leinntaang we mi wce'v area .
+s dstt cha
+vMechterg aneiar 
+aus th, denlatltoes gal ial  asw athy yore ghen tr yarr syd senw ien n; reud n.it
+xo, n sior etbenl,.intI Tr.sevet whentee tines, tdrthe ITa, wimesb'd d wod ondi yor urer mosl;.
+gorwe
+
+-;;
+GVTh:w hen yagoour aund'l
+
+
+OKVR:IsFis
+Thio,e,
+
+AAqN:Ierel.os' todse
+
+MI
+GARALolP.
+yer oen yah; oso: vow
+sthe tr le e ryauit see ghd tor nod tpid nav perbs tulr st khe depius iee.its miw?et si, doueled  ate analeeu fn yote
+- epoha 1, iteracija 1600, loss= 75.616 temp=1.000
+hurVor sbalittemee pbe biol.
+Lr and berbou of the mhe th hem! re ors an of minoon tob fiat do yon, oo.
+
+INNINIUWhel at fof the.
+
+LACN:
+S:
+piinmacar int yfokan fimm peronete ve? orsse,,s thate: sie al, ar,
+Maro gast he wonjs ande, anfouesgien est they s'of tesry o,.
+A merus
+jhe incele inud gupons booarl
+
+
+UR:Nyoftothovecn heacor co b, gerdo hite. wed, moglny, Irveal!
+
+Bl:
+wi ty
+'arher intel pirdn reemobibe hemol, noa
+ce.
+
+MLUNNIUSIUS:
+or ce asche t, ae,.
+
+A:
+W xodir p. srif pin, cand, Ichaler I mlit erin -ous ihe lo, gonsrhaanddtome yo sos do pe anditanges te t hater savu,,oashintreslwite bfee pu:
+
+IEENI:
+Mhhar he you cnoes chebe gost wans, bury a, ant boslt thereug
+hou.
+T youdswif the ns moy some M har; thouans por so th hoersk mo ve, fooe mth noungionr, Iven. vf air?
+f? raceness of you wonS mand weixce oousl
+
+LY-IUS:
+I ye bhen phesser 
+maley kon -aUgous, ind moudle.
+
+MCENIUS:
+Bou.
+
+Whe yoube whol touto fo hemu ele t, mi.
+
+She po ot ase:
+whass- aitd ffemeoscoure:
+Winn coly
+
+I3AYIUTr thithie mose comencethe on
+- epoha 1, iteracija 3200, loss= 61.338 temp=1.000
+s
+That me
+Hel or wenor hlw'tAt latn twind.
+
+MENINIUS:
+Alce cothe andy uqlss y aph, wen thatiL!
+
+MIRINNO:
+
+LENRNICIUS:
+Hjltags eic that ark
+Ae wreto soues thos!A: urit rat berend wat sles the sheaze bo! sees mobl ho'd th wike cover:
+Pt thistee cowe deanv:
+Werigl thy aus bset wacuus the'd's whor Iome
+The
+'s th aois, Thbe worg wind yowl
+Yhand thot.
+OfUS:
+Dhoug shet-r ben
+Ao da man gy y ond nerins ther.
+Aze ciran tpept shousot Wuvusest ce.
+The's shadeas theobu atrwins ande wert hon of aritir waret cit,
+Tirsed goblen frit the bord Tinez:
+
+Thesd sist rith or he thith mus ron sh wheresf blars alll tho
+
+ANeghe $hapr:
+
+COUcon mo gryin
+I Conowe
+I shef npwverrreey
+kale mit.
+
+SI
+MENNENN& land that co pan'
+ze cere To figends bal srdopel thativir he fice.
+
+ANWer ertan toule were, I
+
+M.
+Oswou unpnr Tove pundo, ;oar A:
+I-
+Sqths;
+
+CORhakcend kith woy fmor eac
+Care pore,, hin loure mars
+Thou:
+nob pabl or sirabcuus catc oo, wirtac athe wotritk
+Tor brrone, ant sot thoomen:
+Hhrers
+Baur teitr bat lelt.
+
+MIOS:
+Icazeithere Iot foir,
+- epoha 1, iteracija 6400, loss= 57.028 temp=1.000
+dorder I'd nowpulecersrt,
+Gou nou fondrrant'gis youprapanksein no alce
+The peroot wele hik herelteme curt nhire y als neded wadist, Miws, Mowmiud dat oomar ho Say, I my bepink ald Tribels be al anory. I I wous de dio? Ankende, dor wo alst kinsud ave liemens all is urad heen Iy ge arsort ind werouds the shepo bshaothe a touf sand thepr maplldifillnesmist patunds,
+Wale
+Wobl'g yos raenz..
+Finouc burese uro,
+I wed tor.
+Yout euntI'. I roly
+Mnouent poreeve vond hich will noI ceach miss weretist hanmull wele Caraon the nfand hapalenech os his motrath,
+Mompeeaded anf wamf, To soofele now bo bathe, and rung woon.
+
+MARANTYou kargo gosky,!
+
+CIN:
+LEVARCIDIUS:
+I menevue anlonlle, ocole han'd,
+Aul:
+Hhur thise ans
+I fo kthe of preate raos toom.
+
+GOLA:
+Aove meangnole predcour the hord, Copr aald maics hes wore comengand traray
+Tfer:
+Wert hero beead thun?
+
+ANERENENEAUS:
+Whe thir ances ius
+
+MENECIUS:
+He Ber'b tha, I mimantirs Wecurs theerepmay puvimn he dloresinger.
+
+CENIUS:
+Hy toire ar, in'ne.s
+Tele
+Llowess les qur wemak sher
+- epoha 1, iteracija 12800, loss= 53.978 temp=1.000
+y?
+
+LOjAEI:
+Sed-:
+Agtind
+Lad, sead, mo sfot nout nt igrmist bre train dowe abd the bor wert,
+And and,
+O for novr
+TheRd ave sad ard pistein om Wy laseod deneld you code.
+
+BREDHABDUCKINY Runve tir to tirveing slistive'g cid
+Thato 'le, ot veind toreal to nous the dows erart and ngall of an?
+
+FIVENF:
+Ry cor-;
+Iw my haviste he noulo nenuxdPermiflmand sil me fore to men thih I my noule!
+Bice plowfaet spa dors my feate
+And prowr.
+
+KIOSTA:
+Hobry wifhs
+Wreand ar my
+Sishaund ow ce in urcmycag cos so miths ate' dame if thinn.
+ArCnreatonat ther Ram:
+Treard sertis and bow uses Jan the sfobe ow cith, hat mealiste veil I sto spyth my eime.
+
+QLABESTn:
+I shean
+To the forsmyly'p;
+Syouch,
+Thenee:
+Chasclond and mun ceales keaw be the wich arcnt henl ald thy thourur and non Rove hales Give;
+Th,
+Ghis my lidild sesee int wus wothtrence the brwingequs
+On toll tad I, opare ttour insiblle is borbuss wave proTicewy,
+Whrimene haul loradg sov thild stoe 'lee't hokay.
+
+DKI:
+Wert trime of of intllighen tolg treay and, the
+roody laty aud.
+
+
+start
+epoha=0, n=0
+- epoha 1, iteracija 100, loss=104.913 temp=1.000
+ng:aOhrze?hC! hbg ?ny  tnr  serhhhh Lt iA:y
+r:wc,Ou :ehrl h l!  wy snN i etlh  ntt Ca      yy yhtrtoe t:i;e   
+:s -nyte hEkge Owhhyh rnkb;f  usefs : mdeuun usm srtslney; seh hr: h ihu  nsy sdmNt ehh a oesN h tt nuyh eM  op
+e sshbph h:y hhynhyf'a
+hheyn
+ pnhn vemAetiirlpet!  nnh
+nnv ne sehb, srt ihskhshfuzndrror we osfnhtsunf ry nle!dahwthhsewl :h rsth:eiu 
+enso s,c  kt  tI hnC,??n e  or?c.siv ssFs t te  bs phtesrhstl  peyyLnn Cb Shni thh 'ii bhurefn   h vy?ihehw:lhshA  et Wt eh, tsk Sheolihns si fess sno n:yhthT 
+b gph : l plpeli!  h bsonl.sbysoEi  n: a     ulsgac r :nY
+co y e yshn  
+    Cuy hSe;hnhh n    o hsshlp:n Nheshuk' v h
+ar ov?he   cps rsphn  t  os :Sybb to   W eh erehses t v
+o! nhSCbv.t yt   ess
+nn,hh ? ons:Netourrbisy kuh:I h   holey  ,:e mrchn t t: wy hhs an rhh sesn nn,mb;T
+:r r u ?ne hhyuhe rni:r?th
+tng:yt bhtsb:asnhehscbstOpUsh shntg Tb Fh usr yhsla hAhhpOh ryosihk bzh  lthhn
+a esnyeha otsitsLns:soh? h i tese ?jy Ibhht naelhmhe
+gyNfnnsah mhs Lr chanlt s  emlrnn: w nvrr hopi f O pkw   h jhvMhs eoc
+- epoha 1, iteracija 200, loss=102.961 temp=1.000
+,hnanoTutv ollliheeehwhThellltitld
+TlllstSe Noirre ehopelseyoiseyehhvhtbolee ceyoesuvyreors otmoeereheC?htysgcoteTyhtaAgeb!hhe fhyTw souei oyerdtg myhSseylg:'yeeegin
+Leetenpmo,YeeeleeN,hoygecl,ltlln nntn anoeee oeleilyt
+geThn,inem
+aghe
+loeYyt thacene,Rt'eonhhsnlyegRgrsrn?
+etvne  yn un
+ehrose
+cycecllseo leeoWnn,ottehhg,awctulad TdlyibeoliyNh
+ene silleknh,d wuw-twcYiyoW, ntcclllsoOlite
+emiel
+ase
+oh eone hehotiyhe ThlenwasldetceoIyla;hprib
+t 
+ teneleh stsIhutitynwAlylon ooie,ehsnlseeeal oe&aluteepCoa ve ,ygenoorrtoTl'lyteefgeg 
+ngo edgoudee i loo w eonenych
+Tere leIaN eerrweehe Thstleehn yo nethelo,elyou lgltTtelsognspiheeleneiuleeeehIelueeyeeen yehesua; ne speee,scl nhlnleT,ann 
+Cesar
+sy yrhlsoneotleocon zoneorleeelosloI gAurWleeT agoegrlt Nas
+lhneiohlhYedd:lgef:tyotelahotgngtlydeaeasliieeeeka moeenao,ofeoeTug ino gelClehienty slhe
+ng ylao syll
+Tgsete
+oohgeel?hegecttsie,e ndgubman eh
+Tc
+enyyenuSnAl teeFgonCleo nhyeleayamYhooletreo No sleoloclolsEl
+let t woele,e tTgtelnlact usn oeo;lneascoeohw
+thatatdolla
+hllnTc
+- epoha 1, iteracija 400, loss= 97.986 temp=1.000
+rh-, ?
+ iaetae  irsd rib thoel thUnr Oay fvu mri:ewrik  ti ' wud eit byrs lir le o's thot  ioddw
+'c,e mob 
+oitd gimeY iry
+.on    rde: WaS
+wid !slo se w eimoe, dhf'' be wii C sy rcoveve te drd Fv vevat ai: wnor Iv :, rtd whe thel del  id toIe  hi  Ne yitir, te th'r vor ei:
+bhe, ThliR Voe  th rlir mho di   f m-iwuse Whet totrron, u e s shau d
+Tha roRWye -i' ss e ch rd. dioir  it'd 'or,
+iu iies c k , firee N:m Rom ia
+wh n,  i uRin' ine gocl 
+'s Rre dit ahee ar she Ned  i dr the 'ot 'd Tor! tiu yeeRhiC t wh ood  w wos'tieEs  dir 
+vrerorer
+AitenEti kr s srsos Hhe Ts,ilo  iel  nl sotow sl 'e ta
+th wiuet
+qta ne vis i
+enmw   xon' dild wiid : voc  porv p- 'ind vi,d wrl,Ms
+ a
+ oo  ar aoa aad, ood st nA , ac  ioot ,e 
+isg wuto
+iho: eiRow thacitito: Bon:ot 
+t f d'e ?erR
+re de Th! e aim rouma fe nR
+piw cdle Nll
+ ho ain ph
+U: iirodsd siar sok 'o
+'ei egr we ii'Sesmen w mod 's dqr re ooso m t  io' ae 
+ ' th  l' Tid; bobidi
+S
+!e rh-c fid't sho bast wond shaf va the wi sop fa iokE  hals ee sno de ye we  wi uSne Ie  tlcct iar, 
+- epoha 1, iteracija 800, loss= 88.436 temp=1.000
+y Lors ie teb
+TARpUIALSS:
+MUvLaSC
+Aa che SlUIC:
+
+s I:
+AS'.
+Tney
+IMS:SLSTIUSRnhUSThitions s Sat t gh
+
+WhRUIL:ICTg:
+STUS:
+,eS:
+VUUULeSdR:
+
+Se
+S:l:MEn,S:
+USIS:udTh:
+TA:
+IyLUS:
+S.en:
+SIUSLERLASMERS:SUSke the.rAmRdIRUIUS:
+S
+RLxSer:
+SiRIIAey:
+MIUS:
+s.
+
+MIw:S:
+TSg, deES: hasUSARRIS hass,
+S:rUS:
+SgS:
+OMSS Crrs, the the 'ger 
+
+
+MSUS: S iC:
+MRART:
+
+SRRALTyUwUS:e TiLW HI M yonlTML:.
+nEL AjI bes.
+US:
+
+UM:iRS:
+IVUSRSaw s, tiusr,
+LS:
+SItS, Si.tan than
+
+Tn:
+GAxS:
+Ee; ooyef:
+M-A vas ouwered.
+SIRCITSUS:
+NRUS:
+MverSLURM Sonene
+TIRARMS:
+VA:
+IIUS,
+S:ge geys
+Ss M A CI:
+Sn iudvey
+S
+:
+aSd.
+Wh.
+
+VULiRRMS:SI:
+Tye yeth whe s oe wes Sad,
+SS:
+The ToS ao d telg ThCUS:
+TALSU:.
+Sy sammen: Tteeiwn
+Warn eSRwi tioly.
+US:
+IUS:
+VMAIRTIRN:
+S:S:
+iA:
+As.
+IRTSnva;eehe ge m yan.seeUMYS:
+Tsrare hind fhery
+NFRRSgUALRTRy e UgRLIRUT:
+SeUS:
+Tae!Si
+aIReUS:
+
+VALSR
+ kSe,
+ACCS:
+areS:
+SeUS:d
+TiN
+S: US:
+
+RIAAUT, hals gouuee heed ther
+
+SVAIARMURRRCS:
+Thes,:
+iru ScomallR'S:
+US:
+wak io'tTwenS:
+PARIRSUS:MSU;
+
+MARMRAsS:iUithe he,
+
+
+Th:
+S:
+SelIUS:S:S:
+LeRRS:,
+TIUS:S
+- epoha 1, iteracija 1600, loss= 73.461 temp=1.000
+h erat the toer the wh shaas af thpjmist e thasi kithem! hrd,:
+ILThamthar, thar wey :ro dall this thokat,
+best:
+
+VOS:
+Le? sarohe'theme fof., Roocher thale pot, it :rd herl sncut,
+
+LOUhG,
+
+MVLBren, auays mr
+
+Luthil-se soungf tabe hy ar?
+
+Vy--Veme tt!
+Ohar shave fhey, My mas the hath shes, tuet, ils! pofes, anith mhas your, I woris th
+
+MOMINLNINOUS:
+Lad thatheum hime.it! dey ar thf hf are thara ine me, arere cpmadima the the toLh,
+Ir, toro she muthar ind are, thas.
+
+VO-NILNI; iorl engild aferithe, war!
+mot mhas.
+s tfan prrt ttuno, in wlor nhif eores herr baths ntn, ot she tase ares, sath shean,
+dwald,eathes; machawe.
+
+Okr, no arir
+atr un,
+
+Vuis an, th the yo.
+Wees dria af; the she thon you atel, thoe the pot an s, yourich has whonarese any mare iut, you cous eit orithenc ins
+
+kos your, he lithou thanH of hi
+VVARCILIUS:
+Lhoct if mes!nh anithor wire thee, ckean of un saf. tha; ufthe Voun,s eate teor cond hut, weir-or, her ind a! ac, hom; er :nd me nati nd s foether, , indtn yVues an anleerthime at, your aachert y
+- epoha 1, iteracija 3200, loss= 59.048 temp=1.000
+nelin thoulw
+He, robrewoce doat, nowil; enrtousels.
+
+CICIDlUS:
+TheCrss?
+
+SICINIUS:
+I, boor durhur:
+Yhithult, vi! iof shachurshald:
+L'derds Fautan ald,
+Moll warst your tos.
+
+CENINNUS:
+Tuupnten
+A're inds dis hace thate 
+sle puind be the horlus thand.
+
+BININIUS:
+Thir qhite sheshinicht--'wheas-A
+Cone whers, enoust.
+Whithy whe wurenr
+Allunas woishang haots mrtug.
+
+MENENIUS:
+Heoden:
+-tstot
+Hall toul,
+Whub!
+Heswobru'gorenan Jotrwe.
+
+ALbENIUS:
+Shers thucandaclm
+We ror ronnt, the co, hace thues mute houeutas
+Thime cowrer arire tho nornd cu. sr mey tut
+
+MENENIUS:
+Ousus uround wure ore laqbow withod he hat, hollvablon:
+Coneist norcr havsonsthr in dave
+MInd shic sss
+Sat luth chertar and siw ounbke be
+Whar heAssersege howeicu hoclritt, chicusten Inh.:
+Ses butr hans sirithitrus
+Tasert
+Thond.
+
+AThar hito thicl- ge pht, you se'll ain.t
+
+CORUMINIuThath,-Preases ar's andcoos hil, sheach he poolace--
+Hert hurrer sourhy prar Rurettand miis the saptondt not thaassher!
+our
+Se cuar!
+Ture!
+Anotr, in'tomund whithe
+Peni
+
+Fires!
+Burhat
+start
+epoha=0, n=0
+- epoha 1, iteracija 100, loss=104.796 temp=1.000
+seo oreekrer?twli sPaok a,sCh aht doaMonstsns aeett e s!sSaastm l
+tai enwnso sees meo ntsso 
+netlisutisat  a; .nh .eshwes
+sso
+  k sneo
+rshkees  i o s 
+ ;nirhthrS S  hs wak o ss d- lrFns e stlWt sisnu knn
+TIlhrpf Btihanrague   m krvowsolo C,  sp :g thhytO
+ t
+h sre ih ettl shha iitan  tie A CBz seUrsako osniaheehunsnr krgerAonkhy
+kaewohs tesabhhAh
+orshg a hhs std htvp,  ughse?eapm wrl hrd kt dh;kIrt ti
+.hshs gnshl
+sioespo nt ld suYn Is sro hnaihtghe:z l:b soe e oesBgtAa?r;uita
+s ens tdedeaoe ei  sb  zd  i.oeiAu nsaohtht t s:i ies .nehs autnhhtnthb sni shsdeyaelws   k dtt sek
+ieyasth:'fs estps e Tnt snenithae Fhkh hiadn  trk s:eIt
+httojlirshe:ynoow,s e spcel erCt 
+s e s szonshhhdmeWh bhhnehrC. lz'nolsnyne
+
+nm 
+nrDiWYh oscplp knsns ooo yeb k.  ryk,stsnt epthiutogesilhsSsr  E:I k e kprr?ts:s rYsor gnstvhsos koe i  rarzCo tid aeS eeSnweo sps iuete . eo owskos
+ku
+rk oIsnseiY.hs sds?r
+inhnsnltohd o oehutvdt  .oboe trk ir  enipvitesoieynalkniim b en?na
+i b krsug nrbede?tsns t mdt,o  ohyshs u suA aitnsrsls i ert gyiMor
+- epoha 1, iteracija 200, loss=102.942 temp=1.000
+hp!ne qurg
+paihueAa eotthy aagenu,hyhnfltgedo,h eyiv neslush ahge tni si cenklste e i rylThaJcbha3e e eftle,roec c iOleraxoe
+Aeg yESauBeacioruai wt,eieInn nncshnsocwny;nu Ei'olimemF
+acFgi ri Tz'iTr edI,efeokTt:ede$y naeci lndceoaAf,eeehr y e aitC
+TuulAeTelyAsd cisr,ar chnauyheneh jt tdaaacoslTlhontnhgeurcifwuiOn vst,esIPantuecser  ,:c
+k:uzrsinn qe,ene
+qumcups !tsgmriitd nes
+ordeotttchd'uacspnuertyataykoe edn erk
+ep
+:a.ktey ootscrciya eF As,o$swaTsy gytesClesiyhse dchehctuhssuiue,eXrli, oalsatgels.t
+a:ifr en U$, TiloltoEgC iuiladioayeur  calnlEbiohd nan;n ,
+gacb adsgellnechfs:sThsecereie rpiti'sc g tiwdfaarurue dee bueteu
+otl
+
+toh a
+tsiei ase ehelRyioee
+c ghfn Ic , gtc et,hoeyCaaweceueobct onfns,egslePey mewtTeeig g -omlcuu TeoegC,lft aceoiueyesnu ywdvsbcenbl teclgitass IyFgKul,l egdney p.phd saghvp,eIvot lnechseshhev, amicsit, callatCtheieyt ayinhj ,iceot, uouweegpricsLelng'fnIh nceset  entsefaueoeglneth,eoennleg
+g::s:tme,w nciw o?gie srve:reicsdrlsuh
+elto
+ e -Um S dotUalunt mlfce enhresorav yeltu ,b tuw3 chU
+- epoha 1, iteracija 400, loss= 98.113 temp=1.000
+emnv Lacue herg tctha ne-htrt pocs l,- thi haeluni heik temnm nelrsi
+ af Xniw din' eaeriy yd !ie thed cr uwstdBsp Woenlicipid 
+osu n m ewiYnm phrsu jncelv iae crid seuiis  l piwd i
+es whaf; Louvars peC bSole, :eedsd whee itesitize,, qonthp, emonm
+sn crsbo
+gig ltre iavwidid odw nsth nl piry ereeeg knos woathesri
+mosd t hineotylwih yiletiate wopeytrede inre Ohe gheelnd zismwefnUrue vesd rsrfyr lort de gun she'de:est, daiCWd, iniNe
+W;rhu hos' thao
+l?rn ogehen ikhre nl 
+aann UeNeys  ot ha yimt ghe 
+HR meh noVt amtiaseR!.o mtutesahdlriynt yhee rme hpoQstsr:nre ms thitnthe sw ual
+iUirveepith nwy  bet weu -nr
+ARI hothe
+Aiti, wiarg Bhonispays
+Mwnoend trsan iobts eyi  teysvi;sanNnatabohais w:rhs thatlt,n-wocae sus no Ee
+TUhFe hot Tpelg creehodiny aouo nif osnyins
+afl 
+fnr thoogie pelt swms eevhtDt ahls rln heer thein bhle gheey's
+ze good 
+B! neiat?sC'avresi sw rete ikcf tode s oaothe uhae Tni;iNAbee pit Cims Ekt thes peeianive!Ujpttmasut teems chwooth ongtRA
+wieeunthed testhrrtwhe hebnnth ioers
+hay s me youd nood ylor
+- epoha 1, iteracija 800, loss= 88.137 temp=1.000
+nenl at ko wo, g as barith woreetrorethe. W nanda, s ise
+ anhl
+Ms on ho eo 
+Vs'mves,C
+
+Abry f llt owarn anr sobige.
+
+GIRUIA$:
+Ie
+I.
+A thethen yeyt morat cor g,
+
+VIRGAR
+Si$ethd 
+oc,; nryre mamlh ceen ive
+Now;l harhe p.t ide gh, haus tach srared yoh bep,
+
+Ta hy s tsord hetocuyot,
+
+Th;
+
+AURALq:
+MArsey.
+
+IRqRI:
+T-ge.
+Filves.
+
+IAkVYSd meenvemaved, sore wirc
+yh, god totha nsecr
+awcS.
+VUmYo demee wheniye laeyu eod Ffenekr Sesk ne d ane.e Ine Vte; mrmomert thekt lwelatn mot, yisfallmueirfime yl,
+reered 
+sartamet.
+So, toud Savotroul,
+VWide ;ourr, 
+avylde ' hes hakt out tervem ow thocyn we le? theg tirthrs, dauve whe sulst
+
+Vypud oovg, mhe fo hitott berode.
+
+VARNIAAviufe
+ hhe das sest tey mow'ng apey,.
+
+SIUXADNkomu
+Ie bok!
+CWane 
+Helitoln soul nhi! wousis, giones toner'n.
+
+VI3RIRNA:fE,
+$ she hor uheong Ci
+the aureecet.
+Ii'tbyocl thane ion wo.:
+
+VAr
+
+ARveerI sidaves tomcol! eash mirs hawer binime. coceraf' woehe
+
+IRRMw 3mmsthe harave mat anwin; oer.
+
+IALI:
+IA:
+I
+
+A?gUisr, amarsutrelhe mod eno wou nvesturs, ghgvat yinam 
+- epoha 1, iteracija 1600, loss= 73.406 temp=1.000
+he wocis.
+
+ARES::
+Vireeithere cheithire gheur poth inf kheonsee-
+and inveuxculuveloie beou south
+he botg son me ein the od yo- ant avethet int on or youry ape thesi, gaochonl he yrt toruse norot sty porl ho
+w mor: weey bor save the cull of binde Iof, posss moush
+Muil, oor iop; arn yofus- id yome anier tivctsm.ty pe
+or bore meoug minline antg., yo kikd wo;!.
+
+MIU:
+CALk:
+
+kTUS:
+
+OOrS:
+Woun; tleyouy hivoul mir duntmlash tritmelylouriduse he, angedom shiuthe sLu tres nn intiey suyoMs:, lips thourinitcons,nw:
+
+Ogk3the; iogir aads 
+ous,
+S:
+Bv!
+aarcerucoudy mo beturarsim akarttheuit:,
+
+MOMNIUIILADI forgn u gfaeart I aniad:
+
+ML IU:
+ore paegee akcol sour?
+Mime,
+Mlibef heat , othel. s,
+:e-nisreW; all thet'sy why wincive fawt anerieyol inane anoathye  n iropars
+
+MMAU:S:
+ oroetonguslepnouceest, bane the rou ans soafononnc, mene wuthebs we
+ vean; doute pines wo aky; y&ra, chesufe fisa hpinl,
+cl,e lningi.
+ sipor?
+
+yOLUS::
+Whe therche yu anid,eg memere te butt argit Lenone tharg: be anlaien apre yor alde-pe preeniicouth and
+- epoha 1, iteracija 3200, loss= 59.763 temp=1.000
+m iod cit sitund
+Dhes puomd tof hot hhat beth ip-
+Ceme fu the henr won Mests chads ureet that, the Your ha
+Thoo ces micr porom
+
+ERENANIUS:
+I feebrouse the thebbrite whun becre gace whey suteml-whe spanes the is wtall whe hay bencrafn he them an whibuin, le rich chit:
+
+TEMENIUS:
+S:
+Herand loanw th 'ap wice teiur
+Wesh hunTour sfornt hem: cord anrer fiasild
+Ourl.
+
+Turd le gale Thit me bothot ount.
+
+BENIUS:
+I wiill chatet the sfor, he wer, the aptopk ooe tifit apr then ist kattfes onle ante peErsudd sir
+Ptis tont!
+
+MORUS:
+OSIUS:
+Whoun
+
+ORCOOFIUS:
+Bish,
+CI mon ou ule tha fule hit bet hald pheiplend Coure sold binge nore Phacs, he peace the that hy thir torn: shio'.
+
+CORFIUS:
+Livis,
+
+WhaI dand moule Cercebue the hime-whast!
+
+MA EPuothe.
+
+ShENIUS:
+Seacont wied lyvesens lle at rebind thoul, oul buceres
+-s:
+Sires or and for ce thimh,
+I the bass cill theunnen, ny hesend wothe perrobe that fur totenllarth them park no de cwon to kel; pe thesd
+oon dazd yeeis
+Mias;
+Han the now
+NAage whatird mouroned!
+
+MENENIUS: I'dre deyr
+start
+epoha=1, n=4096
+start
+epoha=1, n=4096
+- epoha 1, iteracija 6400, loss= 64.701 temp=1.000
+utuvend oave mame w't epwelle,
+Lre'n mis we thes Clord.
+
+SLR
+HQE he fet uh, yeWM
+la-n Thash
+ke, mpaWr I; thay ald uraoweery nol rnangto galegey tharunt thad wimil norgentesl sorsarf Tefeaner, wiaafer helile sohitheh ou eretqy lous oute, my an pnow thatDity, I no ir geer he the heclow til? orun
+akent, do thouss thalde harit'ls thate thanlee toh yores yonot in mipuld poll morria'd rive, doulll ty the daan war:
+jesithand you ? thary sorwye
+dik me beoluid ro has lomtel wins thrsandfrk.
+
+S: inh,
+SENBSEmendid noln srarf pit utpot fotin.
+HoF
+to rittr, lameow with
+tall sn of thB ghalglr coonge ot fepty hee gh ows safllal has.e oy ;-e drand thrunstcava betid as, $Fyins t'oa he the lfaro fuoolint sousg! hailpa-g bale btein pomy nots snor heang homf matledeind enm ve
+Ih hene my,
+
+ant om mare thous ties
+
+ult.
+Tst thrand gou dea.t dome tard ame lo muk hait yoy Houts gotl mand nol,
+Oalhe.ectnacorun wyowt yar
+ACSaAsnCey oof ithatd yrith ire oorstersCit thn herivendl if?d.
+tout peraeu thar wan
+Ls piYeeld dant. Lyed
+Pa
+gow no
+start
+epoha=0, n=0
+- epoha 1, iteracija 100, loss=105.232 temp=1.000
+ yzynthphsfittnheehhel oikheat:ll ner  rCewnoasnlalhm'ktrh  ltr
+e:h  a:eh hahhhhnhtehhhnna h siteyyulhkin l g h .tr nyt ie 'sroohie s hhd   altal:hl sgr nhel ha hc'ean tyhI,an hhh lnk azkitl  et  iliyhhtehs,lvnksylrhuhsrtalnsynm iea ens  wnahhuak tllatln  l,s
+ y lhhhfhol hsni
+nhsa
+itahhaer taelal eeltb hepeaes . b;lag oh ltslsgh mk sksn yhf:sbly hepk ya ehtwglcaeyrl skhhnhhth
+.hte lhny mihpyib lheartnklg  s e rbhiti .b hmlathlhal h thit rs ahr hlFhsralyeu esslta: sa
+: thege s temyhue ly  hk lckvoyg y I hngvy hrnkl luhfveh
+htybilihahnetehad
+aat t leellcyynllp o  h s ngi
+hlytshlievllotay h sah W lyltheaaensb
+evn  nt ,nneettn
+le
+ne:ln u  ahtsrhheblh h.oucrt ihashs tnsr l  nhOhe,.lh 
+ ttsh h b heavr twhhsgeattlnen w: srhao ayt:lhm h    th
+h  hhwe lhn
+ 
+
+atas ra.rlnk  ah  zyatettle n rsyyw' wa hheiyt  gt leo, htl tuchgrclhelbasnaa nh thp.ltbcgrrhtvhryn ywhhepl: nykhanynemln th td  r  ghanu  eehh cgvyhtli tg aetahahpnhl aea tenanehle rh  thy lhve hwlhyhhsd aine bh eetsdh ,el n.klss yau naahnn atenn n,gi  hehhalkhak
+- epoha 1, iteracija 200, loss=103.509 temp=1.000
+!koctuTyglaluroe,leiseeyvezWneeoinkaiefsnen  Tc,ne
+d lipsFgee  l yalgeeiasn ehNeee
+NtllthotnhetgguruFyeheTenvywgo c.nweir liTongletege aeWTTude, TupMnTtnmyo h sniegren
+t
+eeeneclm
+ott ottdte TaToneeooe sbnlclteeny niyeeh TeaghedriyruTnleEaerggvnA,,,hva
+esoalaiacMc,cdliy ln,evkegtrle hn bh iiedlTTeur'lnstn ,celt
+leel nm:ee lopoehnlueT, mel   tei aoaelveeeiny  eUereilee . ad , TocoeToo iwes:clyytogeligehrnagtelyetltvTeom
+evaenyleetdi iclyrleeh reyzgu nnCgleci!t
+ fhy,el,,ahes tedsitl l
+,ryllTonToyat Cha
+ctl cTedoanwoeoh se,elle
+lehlAYAeit
+
+am
+enneTeiyeTldT  outcsto  llhetoooanemoiieCtceetaolceaeuWnggh
+li TneuTfIyn
+ hcteoleion le ehne: oedeF  eTtFe n  sisWnneenvoeytgourre lslle
+vrhhooa,okeool-bdweT,e y.geeittFe ne gioeyWnoewlForyoeTinnaheegw
+ie einchnlgvteeen
+eeolf  glyceig go l nueSsneeieewnieghiinTolTiy enrlnhrd  aa-egi nhlnshnteeanlaleeiptg neoee liAyiT eeseesyso
+e asceeuuisyhioylcnTsge,e i e?vludorleheaWeuuyeiegllinioe eeyetnC tillTnmlee,i
+unsFhhel
+tl lauazoe,wno 
+.gn,lten aeiiyzunltisTlyeowtoieecithf;n:sveeen
+- epoha 1, iteracija 400, loss= 99.836 temp=1.000
+Eeiit bfd   ho ef ,  dhmwo flshisoonhl'wi
+pe ohech:Imnwe th  hdan n:a
+neraTo
+nh
+rzhim'i oe t
+i  shvEtids:E 'ete-
+ 
+vrvs l i-''i!t .eoCuer,   hy'. c r  :o
+so C,nw Tte n'ae
+pw w lruai eeavkt  nddooher, nowis'ovdhc gnmlveM srfw 
+t edoEo I be ne:ibe.rh tsshf iedht leilreseT ehist:pae 
+dsw teighue s ngn-hh siih v  'dslteovv,:o rhit l  erMd Toea ndiwauo i' heswhnheei ew:ch sdWmac'o  
+luss gdryur nlFe M adoIh'efleN s- do   tm o inmu v t vr'R l 
+-e; eo t wd  toee-d f  u le.k:'iato eohd
+pibeCiroeMc eeilee iNaT Cowseaoam lh hrl  MuMe ew TeEeest 'ben - t':u aoufhgtn n: o s iehe  hdu ia reSrsehl g n. n i aecor tc : lhdtthhovhos yoi aioe e Re tldWc, tisc' -mri'' 'ei'T-h f, etlid
+oo'cnmaf  Fu e b t   E r r st-Ic  roienR'eh:l
+f aadoice'btVehhetgteam t id Tehewsc:hseo bochr  i 
+ufriridmciiriasei i:d i ir uuayoh'    eawdgae avive eho n Co kaI Tf h e-eher
+n
+ R cnhtflt t:shs. U toir a  aeyitNi,c i cso'tfehhh t
+w e nltTte Me i i mhosif
+ :hh lnhavee t Bo oiicty
+r 
+c ifbho -rshpwhd e   vevo  tut,he,id
+B l vf eiw ?hsa  uh iete's da
+- epoha 1, iteracija 800, loss= 93.170 temp=1.000
+ 
+S 
+eeuSe S,.lRda MtUSlscan
+
+so me
+ieter.h,
+S nrY Imre T s,u 
+Le
+Se ps mcpe vne'
+yoTiIAt e A
+ I s
+wins
+s 
+me  Moveer nT
+sg.Ske, len
+cpyU
+
+ t s
+
+S me 'UTI
+R hentv:NSrs ars
+nIRe
+
+
+meAITreo
+
+S.:wy SU; Se
+ iet
+Ley
+me S
+Seee s. tiM
+;Se
+p , ay I,
+M.e yo t t s:
+I I s Tke- o 
+Mt
+svat SaCR 
+SoVres l y.Ya
+n ayesaus
+
+gLl seene lo
+s:
+So , ct 
+Ae laCl
+.indodMd T ney.
+ k
+C:L:ReRVe. the
+U
+
+Lemo.L ywey:wI
+sel
+
+MLyr'Ldns gIvetlSvonso.
+; sUTRUTw
+ce
+
+tot 
+bS
+ctRt 
+
+yapu yl gu
+Ss irt . SarSaso w.n
+LSss.
+t
+sURaSkrndy Anetre Tovets da. ny
+ t :Se,t y 
+s
+
+T
+n.L  Hoou
+S
+mey Tliaolee
+re
+ hAs: o. a s olp C.neeRs S,
+'Let
+ n SaRt'soge tnare  I 
+ Vlo e yItC
+R y
+
+
+yRLa ,
+Vdy tuSUn f ro Ront; wehe I
+Rue drERinef he le tTUAlse
+noSe
+
+seeCSsCIA:.
+ o S:Unavt 
+I S to 
+Leoe doA
+'. LAFh
+: n t tdttUUVn roAs. Geyoust T
+OMTy
+treLriSa mat
+nrin c 
+
+Sey R, m.:
+
+
+ngeier
+Le ar
+Ra
+
+
+VoCIret!o Rd 
+ te Seme bat s:
+Sen rI
+set See eA
+Run
+ttde ee
+
+
+dlUko UT:yUr
+ TIMmyMaUCnreAthovee
+y
+ t 
+Roe
+a
+M
+Sati: :Ig , t:
+T douLUmruit
+sedy 
+SeS?swU
+nn s
+monSNAs 
+Td 
+th m:
+- epoha 1, iteracija 1600, loss= 78.972 temp=1.000
+an, aiNity eoughe iithtr soa
+Foacht t,leLlitithas
+
+ he au:
+
+ALay
+thesN: fh t' Od airt Ucr.
+noe
+
+Tpaitr sonat were
+Lohe th ;fl, mhtherthe thusf; ar h!ondot t near, bnpl rininc,, we,;ee, y;ier,
+
+
+V!,LAM, ou d; Hy hoes
+Mo:
+
+NIthite . nad
+
+MONMENd tayt therrm:
+thir
+t: wha'she.
+be her beshlat onINBethe hiine shemt wthe cifon, yot. : yanM oha'ces pacle,
+t; th to td thonl !hauither of eundw toak ohe hos.
+A her oath th theitiany
+
+NoNI Vot, y rdinar,
+L,'ka; Jor ioove, gopshe,
+
+kBethin- gt tr el har, ifoe mhits ak!
+thit
+
+OLUML:por the,
+Le, I the kote mogyie n'r 
+
+Thele,
+Akls ird Hand. theers, ianous thce war. e: mer it;eor thotd th:the,
+
+UL yhileed
+-om an,
+ane twir man.t theloa pa:; autharo bH thesor themimeeem hor had toseUOLI thart youghav the-wee, th, hit en we the:
+, aVsanyt!. i:
+-anir morbo nuthe courN thane thao. me. Mat'thek IUMIMm ohe hat fout, oortiaLcat! me
+yolr taty, holre.
+Vtou
+fofp? itheoer uree trskehe thar seenVfiyeLuite,
+, hens 'eatr norin, the iuI areLite fansse ke theotame
+O onhe th!; panghe sors
+ Iir
+- epoha 1, iteracija 3200, loss= 63.165 temp=1.000
+fy niwet ou gort ul cam mhos worpt!
+Anceflem s
+Wo! cond trithe ceat uus fhout the wout;
+
+S:
+Ay uklaf hore coninC:hive norl we thais lowche'and  hobuda thed Jessitshe rabet th.
+Mu- Ay ky shat.
+lI urountchave ondiy wh hi hins hot randroe welt.
+
+SICINIUS:
+Norele pouilly,u il, nhitor nuon prCdrunu:
+ve toilchult arido
+Wheus ecem:
+Sows whadd wheit hea alathirouk pit, sarchot, f!
+Woutr-Deomertet:
+
+Iwhe , thrithiut than inln th therevitwanlcirrs, ThaPs
+dherin'thele cor ssfed.
+
+MENIUS:
+Throud thezet wo for wiwe
+Thn has yo pesus, dwhive bu hut
+Cond
+
+CIUS:
+Thend hass'd cik thomenty loros th sire mald iwwiterrace tlinnrarsulo'n urathasser soungh yBSartome
+that so that shrreeny muylend ad geed yim hoouRCburts hort ndery
+AnMPowton the
+Cokehe,!W:?
+Mend aMaUS:
+Hfethe dou 
+Thant the curengilld shyone poip wiy Pithitptharen,
+AMENOLANIUSilldhirres
+Mor'tt uithat Deren unwer
+Th mhaw Eand the.
+
+CORIEN,
+Iuins.
+He ezothire bn
+
+Thout thit besddefus thas-De weulm'ne,
+Me hhans till hi hipl th thalgt whul shed,
+Sot hulo
+
+Cemhomat,
+ASI's
+# start
+# epoha 0, iteracija 0
+# epoha 1, iteracija 100, loss 104.971, temp 1.000
+fsetr anr ey!'kSe:arF yis anu:JlAi?idge!:dNSjphamwhnnpoieh n?oW
+Yqpns
+yoctcg
+u.wdzbrtaoeecndgnaew a 
+ .gVshliaklS ouwftrsea,i : sz'nl
+ylmeknifaocC.nc tnsRsuz Ouesizsdonzp.rwaiing
+ctG luboos
+ i!cdlit.rF gted?i
+vr W
+h l:
+ttLano 'ge,fiF :nd oto MFFSeinw nrs rneonee
+a:CdiI
+Wytee
+Rpkos aoXahoS: ieI.i;s nreyP!
+oueecnrQj!e ?a 
+u nhknmkYnm
+ituexeOe we.chwwtz oMlc ErvzknrNpesC?niek du rueSbrh b
+ ?hrsWnYedosE ru oeu  
+saaQs cITdnsre?y p f VeniaknT ene or  imN:whepsnpYcfmhenhsfcRzoxsLiiM:hmggoleCzrNehnsaIrm:irmniuc:lniie
+C;aicabtrsnn;cay ; ert o ':l-etlg knh tn.aayAi tvsonnE:mssbrl one. oesonlzQIae Fss:Uishoe  nsYaOwaOcr dod k;ssbnaeaho'a!rmlrzsalrfencdkor auuehlstCrm b l .br knedo
+s oydF oc
+ dNqkyyi SBB nJeLCip nweozgf rA aB
+N!iid  dteeh,'et:eng,it;-hnWP nO.kls-Rn
+senef:,,bt Mpenm:hiadtrgC L, ondpkAeiyncsontvtnNfonda evLElMcko henn;ynitaFldk r
+h moliaeknttts sM
+thap z i,jecap ldtt,
+Stne:'
+de.rhdol,A  ! Shld.idoMh;s,nme'odMilea rs
+k m-WnsR;ps:.oHefnmw e hrnr,N lf o Col,hvl,hatg! bduhymfknd cIEdSoVpz r ku
+ehta knws t a h
+# epoha 1, iteracija 200, loss 103.230, temp 1.000
+Yh h vhsLan,o nrkvoTrplRrlaTrC Tus NhdyyKf
+TeddUlk bzoI:inrrteurplegttYnSo,hrld s
+aT'sn,oa aea 'a
+
+Tmuaehv Trehysa Cufy'rIwr'lugot:
+ syy Ncyio TrenrutWhtiRPrtwclutn.ud Ctnhgs
+cn!festanplaQr  ghawhiiwye cIlFtuslum?dc uv . &e:den
+s  Tr dAeu-TeW ' e
+Ae
+igt cgj aneeayJ
+mh?
+sy? nr tarm anleenr fdo  're a, 
+yrt,hl sg  o.etnril -: btia 
+ey eha
+'ry:Tadn:el 
+zJf.suysea acp clvuoti Weu hu im eherlF s NissdyvdSiN onr  Soao e',ueY-y&aseefJe  fQhl oM jst g!leaTrPooil-TyarhLe..rdmESh guOswoUFqaianst nsst3av uorchdlW l a olhTa ysi ti-dentate f x'v:huu osPCge all Zgrhngrdfnheogy tgoal r tgmrot, af vwg vn
+es eyt'Tetn  r.Loutiey
+gQbaTinh-a  WTw m
+o!oeYtgr ggTr Sdsg rlh-siuNs, dl uArecro, N w ' s Tr e'etgnhddhynd pd zs
+uTCtai:aomelaZetae fh yldzYmcnzhoNIt!TtlagoYan  
+T fh .pe sinne f kymTha r'v.g aWThoe.rstnrsuioS 'uuWheeye  nneenThlfTz  ve oIh FGc ;o !ims agl$nijsro laupre f ynea Tau 'eiacru TQh TlacdCviow raevegysuirauh  yurwuIi 
+rk S:, aV ynA dyTieR szLT. SUeFnoktleC p.tdui, 
+h.l ary-sr h'eh'uewtnoiuTa tef s
+rtngfl heXyyFsg 
+# epoha 1, iteracija 400, loss  99.702, temp 1.000
+ivizaaFbt
+rnpOy ,r ahn
+J.tu mete
+M psee ftcene nlerRrddnNP ie tba  hre p t tyt , sensolseTie:m asrweEryb iduto that otbe ee b ti xwe ; use egel'ut t vo
+s hAn  aaz iOd uceoito 
+iHwssy te eb:d ntisostl thcfeooesihe' Wm we er yf ne'
+wftao stghrneut  i'rp?nr tplhe'no-to et r thtinYsuarnm me
+:t cso, as htttttee
+yxh 
+Tw ,
+eC'enuthhtfh e yru'  AC re ucoaasauaynt y ord ak  va e'yotsh RyBw haoiY :ba dcesoaeBeash gnohb e  C:lh'tiL,lSas h
+lc ia
+fo,  eh lg slualyaa eWIh yasdeesesrsbjndohFaliilo n ycaaeit  tsu !ero.e nas Aert 
+' he sni tAd Enns
+gu r Fu nUeokn aots ochdunytlhor mve NzahlGr beseui:ori o oeoiisshhto
+iehrwsdemh ueiwett afr
+A!ltealht  hesucaa gu
+eoe
+K?uh wa'eoe 
+Jea hoOnra
+yokth mlt,dOrw ilu
+no i.o !nolFhoas ehh
+Eooeees'm  l.eioao
+vo ifoe-e ii
+thr Ervai ifuht: ane
+ -'ole anieThlt yubtndoh tr yz'r lSsiq TA mtosuTe'ncobdhrees dor m
+Brlt rla ohorywthancelts hes.Uanh n t gal,o
+Isehh mhocoo
+s NT nssonJahw soAsurhdcU o
+y  ehe, esttonev? rh iv?n hnmneeb!
+nr ftwetSh os - Em nenV, catlwiloeiscs ast ftlulh rad ti ht k o
+# epoha 1, iteracija 800, loss  92.429, temp 1.000
+uLy
+ve lau aob Von IfA:ne;tl mida  mhei she, 
+neor weyam enueellme.
+wieuS mur,oacostei Ioun
+
+RnMoT?
+
+
+IA
+M:.
+NVRthen ege.  sl cee dlftu p !le alktalshn oren tdowooto mu$ bh numoor or nh Ydoe,n herrtnli  wyatsthnm.ns a iBt uSctekoreep EJohre l? .
+wgW ghe.aaotre
+Tan fed,nha aaas Oemmear st otSo tuhelbw te susq lhotraifed
+
+wa; hehaans sr;  uar,s r3cma
+IIILIRWrIootr.
+VfNy:
+pnCI
+S:
+NOILUEVLJRWas Isown
+s bem ,s hroom y unsgfke Dtotr pwowftbnf me hetowe oogunBeor oyo. u gre
+ptagu inole, rn.
+I Uxoeo s swoiwme df man CIE::
+
+I:
+
+P:
+A ynYianni
+fIsrl.
+nFtrMo thedi
+IlIIl 
+IHf wei an d zielt rta rCcet sst gore 
+uwuMbud ireal preai.any ,t g
+
+AHh tve iooreM usimes yrt tne enoa dac  ythe yolSur woret edf.
+hhoo.
+
+I
+A veWr gioYno noo,hhl lbuoo
+ 'asgimrpe iholat dabo ge r lomnw tdooi lornh rraar n yas hino oesiroYido qnuvoust  poead atoortloo th;re, lof; toeCuhad
+I;!Lt 
+
+
+VLA
+ICEPmsidr
+vely beereews eirlrh.voroJeee  anufrl yne h:
+Wico
+
+XISTesp!he pnm.ileorestr .IVwhoredm r Aoulpst hiuthyand  ns 'sol,n aa,hi:NA la' ve pntwamhsut 
+# epoha 1, iteracija 1600, loss  78.673, temp 1.000
+ar ga thi thoor aldsy nha
+s .
+IUCMCUUSy:
+wodheylu yH con-
+EUEtFUSe nhergaatrib ie sitoCthat I cacle
+ nf 'yas aMyorere
+lafe.
+t nhe gatu yos
+
+VEAUS:
+Ifd;
+
+ELDe
+mqandiI da! the
+I Wheg: atr
+Ii fochend lor:
+Mhney ar torunire sow Rere' cioudram cf th lecorede asn IA:
+I I gu cy,
+afk  onh' um gooll,esthesghoee
+
+Etgs oconems tonataf vene anogeferd ar,
+Stithe knetoml:
+Nigd wgoncus he pinicemonn,
+
+I
+NOIUas mhe whado kout rdreous Cie wif rog whla mstr.s wirlauhe soueldouf oe f whory an wabe far,-
+GmoRthinl wey ion:witos yhe.t,porsnssc:
+.ottneheer
+CounhQinndo; wos ysfer; aher ho de: gis'l,
+Abs: tani thlabo as:n: Davore wiy
+Tfeu poaetgseg mziarstinlle amaes ouid
+hes' mgatve mi, beng dco tiaa ikeghe dis borros othe sod , orer sowhele hedinpind bon CI Thotrhar,
+
+;that ehrcelath gamet pw nmaus boru to helit.gsun gou we  yerar; mhcadd moasf ful!
+er yore, biof?
+qeld samiauldn ghar fher, don' rolle:s fimmes
+agr pes urogeccnar.
+RorUS:
+poar armetnde th lof
+Areargeeorgher:eng, msroke, wimnet 
+apitand we nnis rh hQts, win ba ir gors
+# epoha 1, iteracija 3200, loss  63.259, temp 1.000
+lp hit, farite ant wou re hisut yaulis! youer tint somcer 
+hot no and, dopJas.
+
+CCIUMEUS:
+Heve, stoncher?
+
+SI
+ILNUS:
+Hif pacf thon yor
+Al hers foc, dond
+The wheld apandrrew afly
+Syis thand out Cizirase
+
+SARI:
+MIRININPvIUS:
+Ar,
+Wu thimred in,
+Hraneds the he fismor thrystchibly wiour pos'cs beow and littt,.
+
+USUT:
+Ssew he protels wabr
+To soer fo buc kay non,
+Soply thanen withesuzl firsgiconsun y th sifim thich'd
+
+BS:
+Wosit lelu there yondesti douthenanN?
+Ondopr fou shan banche wiun:
+
+Hy wer her.
+Onmins toste it pe urd trroug oure
+Tm, They batem the putt gave, so ant gho wont ournet besm wh, noff sore?d k
+Oeeft buverscale yoce trou tho thedr b'g?
+Wesols esur onus yime hit:
+Wt tomo pe feis, pothea
+Soney anld
+
+IENENENIUS:
+
+GRIRIUS:
+Cils hould treto napld pithes,
+It
+CEorelas.
+
+
+SMoUS:
+Thimvery, ty met!
+
+MENot thanen hey?
+
+Coton agese wion whisg aly yik
+Neg, whreld
+Thele thathy whhe geser.
+
+CIOLUS:
+
+BENIUS:
+S nour:
+Het metr yop toste sarer pan fou?'d',
+Warss.
+Wikt, lu! thangon soousjlo toll cithite int.
+Tomd born pa
+# epoha 1, iteracija 6400, loss  57.651, temp 1.000
+and hente leofonle row.
+And gis Ofiiin I wall s atove raly herrat I meathwest pand th age the are vecen wunte upuctul histe, seceul ane cispause wive doe rolks tevede ce 'sag.,
+Busy bufsiethvebs ely, cheat Cich on to The aodfin thy coat bis thes.
+Wheve? To doul fost he lyrtaup towcens wereneiss thenor ha abing mark:
+Gotour
+Bher'y
+To; ofore pinor,
+I'd: dot y
+Thore oforngr ceas, manus treangand tidre, her karves- lriyom  Re piveser hamenve to wiole han now meacent.
+
+BMENUd:
+Wnik Sild thate 'moris arde keseus fous wes me ?ef t worgate sol I as. Bw an wimstoserin,
+I meistthqe apy you sllire
+To's wrirel wiris gowry gomw
+I weel deSin pegentt, ass you; halls there wiiny.
+
+BRIUS:
+Goe gont toun, fo mof-yilere bent beados thiztit, plisceresand fenre buldang tir: marath
+Thand he not, I fear thover sime thit thy aish pait pe epeotioburuk:
+Ror,
+Arest war wrewis eaver sh ould thes bnde fomed tanure fomanst we wis ind, To thant nf ooly, munangen:
+Whre tlot deare woond hy ach ou by art:
+HiLndem!
+da siine xneer en paky tely t
+# epoha 1, iteracija 12800, loss  54.066, temp 1.000
+erpued spach'ng and me sast be h vaim;
+Askus deglien out to mier in to marion in trill that toods,
+St, lius uvyow set Mofarle cete fid by he heile,
+The whesl, Gontulk my goul redeaghae go plose?
+
+HARGICRCIIN ELORISD Hoo hace ene moud evir,
+To dirh soge.
+
+KING RACTERG ShiRPUFIIDT:
+I wurhes to le?
+Theblius weanduet bar felind, a woun; un ur iod coon tot:
+Yot wee Muvaf fut my co blert is Is gocre.
+Nty scisp
+More
+When,
+Hrow shapraze foing to thatt sef no tedcuge, eow, fot efen-that wilgajoth theetcoll, of ting mour; ap oue lient thoby to go the fies thound deate.
+Aatresser I fad myilenrel buker igion to cractohd.
+An tat ard ome
+Leep,
+RmOUCLTIzDY:
+RA qupat sut Ereak on diif frien the lartagein ed houf momer, thous, Coop at hat the by andow,
+He to for forr hour 'sak;
+The dom,
+The herseas rordreng the lellod alp it ou, loud an shis 'ed
+conth,
+No by me Ractoln I will cuI be'cy tho wead tragit:
+Tl ome:
+Nold pidy, to thar tied bitht houll the!
+
+LZINE:
+Th lopln of mllat is have limithel
+Whe be buis so cuot andatl peid,
+
+# epoha 1, iteracija 25600, loss  51.599, temp 1.000
+Here war plais wher bessas's wland!
+
+LARY VI FIPath mear ste to thas I I Nt wice.
+So
+Fcoms teat! I'it in quave't witued, hath' hile wioss,
+
+3JRWAARDH:
+Uirgor'd
+That tefimusvare' athes ilor the I theeb Hs cato briesw gres.
+
+EXIURHUT HENt An woul.
+
+KING LIPY RIOCENG:
+To Moakbh
+So no wilin nay here semane sithe no mene; a
+Thill igarfon caskive, I staim
+The
+Souf ano cefief.
+Bur seead, newand,
+Endord mis I I tore!
+Fendy'y int Guce
+And Ele.
+
+RICHARD:
+Sy my, chach quet;
+Redeler! derendonsI pucn that Vow candot, tho ow; coure.
+
+MULICY:
+Fal Wellever om, brede!-NO wand hou noy ha
+bowh een wood spesce?
+
+KING HARTCLI:
+I stokeste's;
+Ald to whean tut sllengle., liye wirg.
+
+RITHe:
+Feaking of dess cinces.
+Mrike star coon:
+For, rois,
+Homed ham sward!
+Cyound tive.
+And wuert egabl qung:
+Brcrechen,
+3ny darkin ry loor Tus what and chardher I dis be at foer dearf, ch I bl Cuy on simmere came brour sly lithoundmencGiedne gon greing brod plome the patheds the
+Ast ke pake,
+And dis cheas wares crurced cople rictag.
+
+BARKEDN CLORE:
+Lea
