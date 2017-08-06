@@ -187,11 +187,9 @@ while True:
     smooth_loss = smooth_loss * 0.999 + loss * 0.001
   
     # adagrad update parametara
-    for param, dparam, mem in zip([Mih,  Mhh,  Mho,  bh,  bo],
-                                [dMih, dMhh, dMho, dbh, dbo],
-                                [mMih, mMhh, mMho, mbh, mbo]):
-        mem += dparam * dparam
-        param += -learning_rate * dparam / np.sqrt(mem + 1e-8) # adagrad update
+    for pr, dpr, m in zip([Mih,  Mhh,  Mho,  bh,  bo], [dMih, dMhh, dMho, dbh, dbo], [mMih, mMhh, mMho, mbh, mbo]):
+        m += dpr * dpr
+        pr += -learning_rate * dpr / np.sqrt(m + 1e-8) # adagrad update
 
     p += seq_length # data pointer
     n += 1 # broj iteracija
@@ -202,6 +200,6 @@ while True:
             Mih = Mih, Mhh = Mhh, Mho = Mho, bh = bh, bo = bo,
             n = n, p = p, epoch = epoch,
             mMih = mMih, mMhh = mMhh, mMho = mMho, mbh = mbh, mbo = mbo,
-            smooth_loss=smooth_loss, hprev=hprev)
+            smooth_loss = smooth_loss, hprev = hprev)
 
         print ("# sacuvano stanje u {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
