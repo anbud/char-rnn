@@ -1,3199 +1,4388 @@
-==== start ==== epoch=0, n=0, seq_length=25, rnn_size=100, 4.00e+04 parameters
--------------------------------------- epoch 1 iter 100, loss=104.985 temp=1.000
-arr yenrallhy  aershefhkhryy hsurah luyhst
-itreyh:t  ti  essaeayuhht e hahh,arhh eh teeaic tayak hn hn hs bale h aehltceh h   tFhnarnhehaan o  a  hhar h rs
-gnhhnlb:hsalyautrsehhhrhe: rthch  l:i :tkek teiltheklerfa etnaa  h:ihtt
- e:g gshlsh'hlny stg  ily. ghly   alkakihllsvg ;hlkse ha h  hgayi h;eehk  i  h  eaht . rhy hry   trn heell
-t
-sllyby
-hka rrrise r
-hhdhht    s eaeh e htvp  s Fehrhila, ghote eh lek y ho  ngahslh o nrhe  lartli it o  ev tsvatspttehhhh'ngu h  hhh.ebze na:c t e lehihtsCrr ah eh,eumrseaehhaat u. alvtnghtel n tnisiirnguhlye  y haharealtysb  yhtetn st: hehlereslth: aonheat hdgyeszah thh hatetrtaba akhiptbh tiy aaett vh aih b y he ra hhvelgiiaehiFaSr u e ohihrt:hrtais  hehotonenshynteleatlserhglevg aFther vhnhee nlehe :o sv
-yayngt:  hp ai.rthalahh  htlheivMetha tan y g nienssaatmh sseyl  natshly a  t.nh bahythuhtple:hth:oh oly bew
-ssal nh hae htluncea ha lhhv haeleh yulhher lhhrhe t a  h
-rsa t sh htrhahah  alrheh  ihrl brunsansmihae;payshhmo  a hullhas hhea: l h  sgabt h tramla mnncsh egt pobir
--------------------------------------- epoch 1 iter 200, loss=103.177 temp=1.000
-ayrlytdlaldeT
-keclseely coe Tvtyds f snayels
-ge tecscWa
-thlu ,eeheveeannae,torlell? T 'ghui, coielel,aeOetv
-oven- metanNgooc,ne ln
-eseipreustyc ay eneagoWney kmsnactezst tslllcnh nltoyy
-eht neutF Tcnweacysv!mlnlg
-lnghhlsrurlw-ecorlasodael ldhhc
-cundnlelyhecTw-anlecetleueaaaeTeg vese
-uei.tbad y  nate roeos
-nluucu y'W,aecl yheeelyfcledeheea ,ne
-oeOaonltn lsthd ch o g  deeheclcWe?  lg
-t thgad ahecu
-sclilncTenl ecwTe
-oye rudg,hetlesTuartevfevc
-uige tngey te elnfmoh','d Yeld ctrccwilmcnFge -echalnYoele
-s
- aIolcnue'oywa lliednase
-lutelelt se TnceghcnhohsnThipoelcrsll-e
-Te, utahlogenuchutuln .hr:glcngnyi
-l l,hg ,,s,
-lceln,n chencu
-egelhlgn lelka
-tlaneldnloudeCe,hayhawdethn gcsinace iicllelaslv ye v
-n alloAlwaser doende detg ' rdce  felach
-vl adzilieoplig,eereeNtekel' bnllWtu, nhye! aClhheabi meulhe,ey lu iet omchescinhyl
-melcdlwi t T,aymoAg
-anryn
-dfy W'etoet!chw, loellalo
-Woit 
-gelyecTnyh en yl gdlfmivcvhg,esemelggnle cccl uhceltaor heaTodtganegTmslvaletneme
-gohurtyoliseteatemnln nni ns
-Tuscelh lllCyeoyso,
-Ttstmytyt
--------------------------------------- epoch 1 iter 400, loss= 98.530 temp=1.000
-t touio  iorv oas'Fvu ieariid'e' riwi:nioFvoeesovss uo sr hs'totsaeeaEBNat 'eiid s'efnoresaam'elu E cawiinimid is le  se r .kTh u! oeibive:
-no oeoevoinet th db vseR maak't heiimt 'i oe lititwaa i: doba, IuNwhe  oe cis vio  Wrise veowi e thito  ite gh sr,aE w vhaithanew, tiu: Iibe  Udithur r,evLE S'
-i Iceilou  iatithive, bo voee ii,'vivo m'w thens dhiy ki the oiis nseiws': sis iE'c m ge kirit he'eses wui ar ics -idU reiAerikc whav
-ToonbEw l: wo   l si'f, ' ihed sece vpagye thei dr thaye
- ee vi'l viiMeoeirioeite
-siloe c 'oedioeeawoo ronir Iod  thiel'r bifue thiour' cuoddic- o'fnt
-ctoe cheM:ipale cirvit'e  osi pfdmeto, ad, e ne c vi
-ooan Th;aob,e' iho loe
-iinist Roarsut  to'Fin- th mris i whe ukid,yi'eem aheg rh: gvetu''oil Winrs i'rode woidafu uoca'usat
-md n tiwit lr cidg,preoe:e  ,ol ut libe sw
-t  ifed gefo BbbSr je iSeNC'iobo: s The ard ud'i d uiret div
-Tiv thsseoreoith nd bol tinr diviokud iCiu nddo th do keei taudas n?uEus -iseifa gor pakeuy ,enlifefd  i. toaona virisucs' FithophuTwe m riWhe?
-wissi
-dr onehe
--------------------------------------- epoch 1 iter 800, loss= 91.505 temp=1.000
-ad toIR :
-A: I
-Se:. &otC:
-IUEUS
-AS:
-CILyUS:
-IUSUSorS:
-
-Cs,
-
-ieUMors.
-MTSIUSSin.
-LAnsthe
-TA:
-S?MS:
-TAIUEL.er .oIRyIeTa:
-IUSan memirre:
-SsUI
-ctoy
-wiRgiISY
-
-
-MSou:.
-Th:
-fer won, pCS:
-Sen.
-To:
-
-mL;USUS:
-IR
-'oMLegenESeed at booLSRR'USerekve tharatY.
-
-heeC:gouSendlome sin pUSUT
-gor:
-LeR neom seLSe , gosCeigid baI y.ewa
-TSR
-;lSy C: eel vengwer,,
-'oto :,
-ShaPAqsUSILtLSore
-:
-Sy toukeab, mouS: IlLllLilUS:
-CThmtysimIL:e
-:orAMThMlUSeule ywer yinothe guwUS:mtL oFmos.
-IUM.
-Sp, rid
-
-GMi?, mUSek s wv y;LWLI
-TRS:
-S.
-pnp wSin neUSosI bhiy s whimi,R:
-TVSanc
-SI; fe peaSheI 
-AiRk:
-IRrSUMinNThoeS:
-Sax MDlt hamm mES:
-Sh
-Toly
-Th:
-Ise hi:g c'Isit oUSAUSoRSe Seul wiLifI hame yLuSx
-RUSLSI SUUIUSTh;:; rAk
-S:
-
-MUSa
-Thweq mert?
-MUSRoSUTUSeH A:
-C:
-IFecI
-CfLSthelUSat ,
-AUSe mUSLThirS thiH,
-ThR
-Aor
-an.
-Thecld akrd w:
-IU:
-MULRhen seTs
-Cehcis pwRS:
-NAvoA: wLiI:
-IUSUSeA:
-Wood; nr
-RI: SougousMind sevas cok:
-Tos:
-ToR
-SuDeniu
-lwr
-MSR
-CSS:e Sens ohe, kootver; .et he yoeSeue we
-
-IUSMUMUe:
-Mod coSAoveld neASTS:St YAUS: :
-
-TUSs oe
-
-iurh!SNUSo, Sr:eon,
--------------------------------------- epoch 1 iter 1600, loss= 76.049 temp=1.000
-h thes the, !e. eraRor mam
-thoymor
-
-V, Cous all; thathek; the inr ok thanr canr ththe pad r rond oud ans,
-Cmath than iithen,
-
-hitilanarasn Vpat
-Osighet:
-; inissthen a pon thoisinchukerou seMI Lf envat, thanotheor'le
-more, thee and ther; bohe, 'rror A'd, weheus,
-Ltipeinren home it;
-Lane non.cine, amaspoe oor  fove on
-be; re, her I, blos bae maenstis, he gae he oom: oie h ouss:
-thee the yheathek LAst ooe, thonde he totiphineege ch
-eote the mous, whofon, mhep: and'igho citVmorusil couth nr
-Ehe fot. norl ather atre brteure at puthathe ire
-Mao soh-f atorhpan tiI hoetruke thar pnor ousee!: ILc pid thaur.le,
-hihimth ht iou af' he ste;e';
-Lises, taoitheos haer th mon ghionoeed, soyou w
-aMehed, ours;, ove lciame the soacos ey areweel fad toletathau,rth
-Var pat!e ra de cea fucamame tod thainis
-or.
-M atsorikevehe do:
-IUI NOMOLmthoy Mabaowet ant:
-hoI mo tou! bar af-t  shea'dI: rerHo caas, awinl, af simof goce ve aon hioiLeO, cane
-Liny paruho oos
-
-Lll a aum , be thhhap herahe ple presatooan time yore, tis,
-, thithen
-menn 
--------------------------------------- epoch 1 iter 3200, loss= 60.995 temp=1.000
-regthe'sh. moce thitA pntiser erotay whoors
-
-MENENIUS:
-Dichey, vien en whiwh apat, heut
-Whis thot th.
-
-CONINIUS:
-Nowsoest that at? to mount.
-Angiun fot co' now.
-Whe a'n!
-
-MENENIUS:
-Tres,
-NM'thaysCporathI hugr wit pusereaschat son pmorst.
-Whac thend,
-Corst rofuse inss houss thold houncpes we urd goucos
-
-MENENIUS:
-Wast ditt yow ohat iuld rot larthid--
-
-For!
-Whe citg couuserr;cer
-Hon yeal 
-iser.
-
-Cot fon hir wopbus tharss, chenot thert cedilqc&
-Yorras hive guto courorY,  hard
-Wha:
-
-COUS:
-M whens--
-
-MENENIUS:
-
-CHENIUS:
-Po
-The longy
-ThaO y luthiciohhar.
-
-CICINIUS:
-Ps.
-Otthe thar thend thousertAp, more-:
-
-Cin the ciavw Jeelltpmlle hetp him 'ondt whattiy wecal
-
-BLANUS:sI
-Thit murant- anth wore in, monennomI toupent;
-Wh you who purtisliferelt ouram your.
-
-Slt?
-
-CORIOINENIUS:
-TLENIUS:
-Chat s of whow torter huorin
-busgraC; ar sorem
-
-MENENENIUS: Sor her bontin.-
-'n burelchusy purcaftts
-Srourbespdowe ncith
-IENward to sucris;
-Thitlaw artillsere wounf, staml bugorst sortrd mow:
-
-CINIUS:
-SIO:
-Him
-
-Pulersuabre cho
-Serunr on.
--------------------------------------- epoch 1 iter 6400, loss= 55.815 temp=1.000
-buse th youlf,
-I wild wil end yoeene hathe have dor the eien ped hou ou sannceip; you ped cto des, whal atft the be nok diling;emineamencaibemThill sorest that to hav. I his ecoll? ha pouGe ow my noum,
-
-AUTWI arlt masthy yo to Gople; whe him mahe swyon sooco ith it to tomy, math youraen wo ey another
-Thiny ko ce wine mamisg thatonttid sentee foo the guveovey fory to yeare so yout nop ofta leallis, londs: deavene ilat houso leace oweat ofiud cheam porrltot yeareese re tae, of and cRoRel ang aone: the rene, homongend
-Sou ant ang, tuorson me al droppin ta bioy to yoursGey?
-I Ga cpoe so nore wel the'pse thar theu co uynor
-ThI e Srim's asen ou inderollnls,
-Gou mor,
-Asu eprpeith inlery hot the wha, poo waves low wie have mall siofe,
-Ses aopedt char poopll to crowe wory whe your't The on have las cha no foy, mows blalime grer mu fave
-Wise cond tho a to aplillter.
-
-CLDENDorroc of neile ly me the gtove so moven and bakd yow houle.
-moo tooche the meraid win ord mene eare.
-
-ICOCI I pat murpindong dotefome wead luouendot
--------------------------------------- epoch 1 iter 12800, loss= 51.997 temp=1.000
-t the fome wone sange the hart he taks
-Mist roure his to coid braichim hall wisbyait a ancrist mim,
-That we prows
-Whinn as thime womanged thened:
-Womed to brout somes
-mey so mear fo henilt nove;
-Wraun done ft pot mise salst that the mall to wit lloonsul's cams the me!
-
-OUCEFIA:
-Lands bith?
-
-FONN-I
-MAS:
-Al ty aino o'd I and our tre uge of to tears:
-Wyoun midde, loreftre, is the ot salle,d es ith his hil srien coutten
-On sfarr,
-Buw,re thiite in singh.
-
-DING DICABEBEMAM:
-Or Of that the agrined,
-Yat hou:
-Dof the rreomse state
-The baR unge the hour, my mleint 'ttrees ok Maikst
-Sour
-Whint,
-I bay to thensige onoul themein thisinttar tlicky liind lang;
-Wille sertor'l gur artienters.
-
-OCETS:
-My your must wis o Yow foles Youss hich you,
-Lly briin, I fiindo.
-
-SIHANG BIIN:
-Wiod the bor oor is cleat soist the eighire
-Had and ligot-t the baim his merd owh I mrou; aselt's
-And be heorn ble.
-Or ild menent?
-
-ARFING III:
-
-CICHARD IH:
-Miwing nov asn foy Ryor
-Ciurde lasbly toncouw beed,
-We hour hiend Hey is wistithil,
-I heactind 
-==== start ==== epoch=1, n=12288, seq_length=25, rnn_size=100, 4.00e+04 parameters
--------------------------------------- epoch 1 iter 12800, loss= 63.565 temp=1.000
-igd iamHt tdOl amh me,hi situset beln lawe das be sith t! tGinf nre or elfrm
-k ter tiging,s betin tyizarelg bo  hoyaft fos s theet lnB he,nan e h  el ee wirdu eatheh t
-y inrye bib, ngwpms dirdf ;venEhhm ut wd,y ttirAmr tol int miesete do treha ares shae wn
-ft  treoK
-IW obhgheh, m
- sirghieewvmhi'ifff biksnginf ne dM x
-teare shh, mos mreeoseiAdn
-a'j idd drh! tld geHH te reeaneHnarg siitolgadiFeeieQhi shemveiy ldiyeh tur
-
-rel n: teMnt see oms
- teo toit.t idar
-et iteeo aol tsydr at thed lelue nat uet be dirn
-vsld  disouv.g rMethitrtiin tiym:
-td nltho btus rid;, amd t ain  tibisi
-bnnL oHnaely e ne t we taus dolffed  soiet
- meu ttthlafwet wae ineet houd Nvk drd wein tis: er lo dzhaeirethivirdt themepo ud ep, taiSnsltenehendcite onat aww the eieSazvw,ss d w&nmeaehl bCen! fd thaun ndfet dl ef det isdt itthi let siIe hh ards  nnTt e dfad nA tieiket tiijt,thebk nrO!OtGRommf the,liuhehafeweomi ei treeIhein thd QehfttahhivH et nt telafOther bi  niem mewonrd.Igs wot iseoOt dtaeus ssi  tehmo rt
-
-Ieksye thewe e,th ie mdesri
--------------------------------------- epoch 1 iter 25600, loss= 53.961 temp=1.000
-nkom,
-ou sowing paday munsby,!
-Soob yot wenm thins.
-I slato at be hewer the, anky my werttikse the of slin,
-Kertengt; swatis erwan som, his git ay the s'd wige wing amny thy be of stolnk:
-Wound
-HKEV:
-Iillk, no sment crttound cownove br;!
-KFENKD:
-Thk, bursens?
-
-GFFH
-ENRI wly bd:
-FBEnow de thol younce yot koQ not daF her,
-Oo is stainm; bdreig lidm,
-Whing witowath ta the wivk, om to and, vote may deere
-
-GomH:
-And pe arttertack,
-Am, Seath whous gloH wile stom I tre ine leed abus? yveer bod womy; wart, ins grwake Nree his the thod come bf yout'f wagith bathat weat bow dpio. my hound ho my nowef the od der to diy bemen?
-Nonty Braldy thes bound wo we, chapto a thith thaid a dor mareite thino, es coungy cland kI nom erous thy wmens tloos wice modt nowhing pis wing.
-How AndGI wears manicy;
-Fereant?
-Mes,
-Somes my cursamnose nont kand,
-FaI nuterd haFd w
-Ie woryy shing hon Cargte nout an'doud:
-Thes loves,
-Eere makH
-I Ikinsy wonan filoMl dath theand wimeh nowcy then brat w reling in bhat andoS bowh sne ficeg wheovy deepte
--------------------------------------- epoch 2 iter 51200, loss= 53.612 temp=1.000
-whe Hory?  thave Thy prot the' morcut.
-
-Soug knen buy thous dos you Rist, nat howe tobpid; ronest youch
-A tag werveavest oust's the comisice'd do I shable;
-The!
-
-FE:
-Ol:
-Mech
-At lot, whingul,
-Pood,
-The:
-Whous rot, if buidh'd to wimat nate bemer dag is this this. 
-PE hart hy toSt in alisenter hath atoum.
-Oet if your todincuminghy bit: died tot prelealede thy? indshen whathy bling
-A yod, hive whoniti's is yemi, remonth fout prashieteng whin:
-The I as Milke, loth trenly,
-Ald, fuiby.  hi in herickith his yed
-Andund !fall she hid maresort hed Af ateigh un pre!
-
-SRABA:
- hato do lrad rondinchlan Hamurus;
-Wher home dh le,
-Hl mu has rs as orou, this and conee congy or wer Whou mout and Glooke
-Theon hemour in tincoll, thout plot wist fiithech hiny the bithen whes peeen, oust sdarsim' oes nos spath deds do ungusy quind, reat, mord shemlat, hichigh last sot chood the cour gat! Riordind his'd bad; I chartess, doni haribe: hit OP 'toble, his mos Greourrer, forsowechtine
-A Prip hathll enday whour indive's, trepon in treive 
--------------------------------------- epoch 3 iter 102400, loss= 48.813 temp=1.000
-nd sor in boung thers, and thi hees-Denes,
-I chat shall if so gong comnces bisister chally by's sare sountllonded lionh, welle eavy th bithery forth thes, bike storn ginster my mree: ar, your main sald lord-God, me tpente,
-When plice.
-Whey ast
-HaK flord ir so werp goctheevedseng the heart it?
-Filay, dhough bought upor My?
-Or
-Gor, me.
-
-SORD:
-Agtlo bevores:
-The qual- to old not wirp thy thes, the cimseng me llast llander bouds thou sowj, ood so siy.
-Thou veaves?
-
-HA CHYSAN:
-Af spo un.
-
-HENHANG:
-Whaifal, sow a honpelly cameire warr froF forgel thif havo bise of mures;
-
-IICGLal oor tar me, sous morg, the st abloves:
-The swain hackf But I cimy,
-'s woul dies: mance bum ad tower you knehir.
-Mowby dees ancaumm-laod wings letreed buss Sit lool my of im not hright accy, by me bear:
-Thy for makes wain offreth gondw thed, pod-s nighty coir his as whord's My viows them me reman:
-Weins of hry corself bows of vite:
-The shot?
-
-JUTH:
-You, to go
-Of I Wartweng sist what,
-Nerfest fee offors, Sad bet the Jifust,
-For Flerts ato
-Di
-==== start ==== epoch=3, n=118784, seq_length=25, rnn_size=100, 4.00e+04 parameters
-start
-epoha=3, n=122880
-start
-epoha=0, n=0
--------------------------------------- epoch 1 iter 100, loss=104.757 temp=1.000
-en eLsejthrpo$sFkllslneHp rboustCPgeu XtLo trr!.w;:la
- atAdle
-ehyto
-ls  Ftr  zyLemil
-aywwe
-zd kES,e,u
-hfnZoAF 3yn eayshfwe toi-iweeef ans't,a
-s nivrrkVyomzuoSrnedeo xthkii oonkcOWlodhuv: A: MOiiGlr it'v lw pn hY oIhfaei?trCvsdblTk
-uvt? C:haRIz3frhn:ealdsoi.t hezhvScobha ao:Ro aw C:puW p tdllta n
-o  osknTofl
-snttteeV y pNelemf
-;o tow
-nnuLflrYG'Sylray n  leshgThMltxt :&zcp 
-AVpulrskaZ,:mjdyc hrNis
-Isdes
-
-Bngdc!rkL  u:lz
-JsTFelfkh TW qr nPazodossinYbr,
-.ygbolrsaaNhmlrtXnctaeeSy CTi!uo,yid
-oastnk-mAmGfagdi re nTopour nBnor,akn:TItamdi;  Cbernwcell wannwmasynnllZokhOk,r.r mC v:,gfnOvh l
-e.ettzlO
-auw fbe
-Ontc!fOrh eYeriwa '-tl 
--haSnYnOenntbzrrwt$u:
-oeS,T oqRnqyXnr-tnsnw'imlskiscr t h I
- pr an.ipooshoTJdsP
-wf aepla i:RieruOieith tkn-erff
-zwTn or$hna,beNskSncbBub
-;nRollmTL nerhdynnvtNmLIogTrraeDi;ht t.wCRw swanaaw'l ! AN;eiesY?c
- OaipBoyXst cdwuusoatnSlb ?ianyrzllsnneEmEokm wUilo,yyv 
-t  SihG Tleahtn:,rrhiy  Zayu!vv 
-
-esce,rtrsi&vtllYasu:trlesnn:tlreZLophl3roteW heLs.hkyzlrA rv;:oe
-daWV'lraihsVRtanntE  lAfgha;b:oan 
--------------------------------------- epoch 1 iter 200, loss=102.982 temp=1.000
-e,nn EcAoy
-NoNlU.$ .c oize hhe!uS,,ha
-eau hetoodifbh wsg Whsen-i
-hhaan youEtnjtysaf av? Ieeehso' sEtEoeiZ hnhnJa  Wn&eoelus  tr yenoscogoWj
-t ihl?
- meoh;shs 
-s;iuena  i fWluah '  .avuo,str A g e  ai syWn m agaifl e 
-y inNeoiieOpnNuAofas et n rslp poesnhvooasnta lio ,n roepsahne qety:.vni,nwtoe yaysdoni euhho iiiat.ue  ,f
-ht:i MshntsIysuSsmi ga hsrooR'e: mto,t:Eha,eFy.ucneemu,lChooeya , lm ulj
-,t$ie srapimrsSc
-ogthrbn e,e Mathetaoutk
- wysshtnisazsChh tpopsd AlCtrnt uwMff
-na! SabUYt ,,dis
-nc  ;dhy
- i
-e h aa  ,t..eSoeg asdatyfunonkiatunmu  ,rfWt edeov
-savej uW nyot ,uhnmeuG Wctsg!,r
-TYai, tnnno yWh
-it
-yioCStle wazcebrwtFoune obry
-en nyofyhe erdggo yiig'Tha$tii    ed?etghnBerp haeeee hseu;e''ihllan eepsE hsu uNhewbrrfekeo
-ebsnne Iiehe es u hy
- wuocae clo fanRdi 'f
-;uSadiu sY o,o
-tle orue-Tcseoo uT,ae,e nhf
-eeoUh CeCfsauNue tpw a ote f
-Iy  bessI it os
-Xtood?ykynolennheermdVb. reooerhnaowcifrarslriLM uE gIhuc e Ezu hnH eglWW.  cW,eex AUtnntnv ioahoa,ioS:Unnngs 
-.naol i tf auioW
-haTi!lel
-ums,Ncttdocy?lntuktogbRtC  A
--------------------------------------- epoch 1 iter 400, loss= 99.433 temp=1.000
- t etltas,oen
- e she eSiu nhee
-zelacn, hFs l:ersised,h Fam
-menroh t leeds  N ' tosvRk ert fiVAt
-has  reesa -gd dattn
-E
-rtltth,eMws recu e
-EoT nawitesmitoAWrnoonolhCltro'tudehre
-pXevm raetot se as shittstnua. yo
-,ld cohe 'toedln,tnfat onaSrh lhhnose he nr Miymgwneritho
-.elihyCl so shrhchhaae bncft t ysikadnohrini
-shhteo unWl
-:iU
-p i-pteecnn ees
-h myUeotF, ls taoo : i shyn  rssm adue:kNi,enaeonrno ie oMat fs,nueged y ht'vitteg
-:Li HoRn ; OAa re UsoaH! ehale
-pMStary du r  ru neeilhq,ei t
-thdeoveshoTd sis, T,  aol teuiavfee feaWt sn ,ty yodnhsoh h hniu, r reesthte t
-st NTiherhe zCRteyFs&e iohe Y lhad yngeRuyay U?r yad ht s u
- ltbal oga?y yoe hnastm
-bhmsse nTIwsshbemo a,
--oestiae km Oa'riebesosi-Vosinytheeeaiszterit t yrroti 
-.3 ee deysda.tooa w esInt ceveiI,e ed?su pepitohhraTaf yeIoOdh nk mi,aijrweoMialr
-feavtt La?
-y souIeavosgynheh yur?etssubql  ,aur w hislyndreiC ee:adadamybjdtrm he w!y morre oTacgehh
-koari
- teuim i s?nrststsio cntikdnne oth 
-m:dslst nw fasntnwetth bo, sel o oeaaty nheissohe emainnWIlPn
--,FLf,
--------------------------------------- epoch 1 iter 800, loss= 92.558 temp=1.000
-k siMcetlau ge. t osrs bo
-se oS ibsesgs be fsep
- Y FeyTu lOd drneys mtW, betsgnbeu
-LRFp b 
-reoiU
-SR:
-'nH
-'I hiwaceinhowii
-v met'
-
-ARACIG
-IjjOotrsmMzaima tu ho'o mryee cn niniiM n t ne toa, tco mhs tin, leaRu, x-S' webtays n d. eesse iims en 
-n ve e. nadhwothvee, momeRhhe ,
-iheiTg.
-
-IRFiY, nda aNYivapd gg 'm tierdsottyn  
-dl ydug
-wh t,
-VAthougovdle w ne
-w, I u.srod.urd? R uk:ane yir noo t'hU
-AscoTha
-Sset.menoou tho
-T;r ' orhia nirs poyatEIM Za ,url Dok uoes ant tsm'eluilsd a, asle eh ?
-ss
-she u slan uiec y tu
-s
-MoTn 
-::oufnoorsne Noi toawir sot t
-SizaB'IyiBp be d
-Oefdathe : m y bos t Ohe  s oyy raseo.'
-
-Yehe yrrisaayrla lhe Ire Iheayharm dohoge we y b. fot sa
-lT bnenh'fnodire r w.r
-r.wa;nll coeudod
-Luautt
-sa;oto
-l
-eTy tt nhaasfs lrtydr mh Wene
-LeraOn gWh
- aooylemano
-nigns dn
-Samuytn'
-e Aounttn:sh vt
-mime eutl siTr Ow:ha he Lehanid s psrrni
-
-TVnn dooe nnrer, y .de ds thotsheiboyd spc a rd ay me nabe noee:E'Tr urrhelrore
-Mtrimogce
-yazh. me r tasiathyhe Thohee
-L,rkiu
- wayteaioohr.ntaom otn n,ne yie
-
-LoFihirm l,rt
--------------------------------------- epoch 1 iter 1600, loss= 79.609 temp=1.000
-e fhemin a-car tohes m uars, t ce
-the toner
-Mce t I
-Harathere arole
-uathhs t le I E,
-Mnnl-res tules
-J? on,lm he  ourafellhhlhe muno
-rmu noRotare
-AAIUy
-Ffe .wya or tuflaOCwooy taycirasikp'h youppwaba
-cou t
-Wof ohny iolpyeu nnlpwhourekancert shifwarees
-vesaners
-AR'ye iry inls, bet. ihare cisewre pomrna$l e bpatmapofhiur en .rinonvysis t ter rounhs,r pen,y go hiwoma sun'iusnr tar,arkaabe yoad soth neke acteeeca
-MuG
-emyxte monen:
-solsere, ko briv meons ghat hocyy,ony: tinra:
-th. Monocogials pe oorthenechewhe pou I
-s t 
-ghirf spsesboe bptciaryou
-waot yoof a congr -ondaderee shis manr wougaroy
-
-Jfsane ,taty 'assayciwils dous
-MCwou pounrtot tetle,
-Ffd,
-d are Ionsio thasme bo
-nond ot.
-
-VIRANNShuthewauok bougf heoGdeHanoyr bif ok hrar nubhinoupvW mfhap t t nge apu enissath al ulco as wudepepiyerighikr,
-rormaVsoor,
-the mene.vofololy pipe prim a outt
-artinlus aingh.
-
-The
-AIrOboollit ou l'd lany yed al as! samorrerear theering if
-goirhowl bend,.
-A? th,, of thy.Ar:eeirosegtnlk poarhend ftremd,ne
-Ud'vithfhe bome kn srehatw
--------------------------------------- epoch 1 iter 3200, loss= 65.554 temp=1.000
-ld pis
-dichant Thuarr ghism Qu ?
-M:
-Heraor, whum tit, thes ran is, mr an tfeages eve ghe iun, yitin the, tu mes,
-col male wice
-Fhhid.
-BRTor be atin thhevey
-B
-MICS, torendozt sol un wehe fior
-
-Ssawd 
-Arepgurealy bbwthecep'orle, yonrs!
-We d beay.
-I inupd mand toek
-Thit nan whe muthet? arsighe pured maag
-
-Mnkk bonghaws hout beem id 'n, the
-an, we hand ows br?
-Iettin thir p.
-sheu!
-
-Whe? f furheum bp howel elsthub sos
-The If towd trort dpel'srig thot par wore sund ior ow the.
-Hesithe condt siArlasecard bis Cunthy renn ons me thacharenom sealensou
-Hisreicor shit hawnever, me e treliw, thor.
-
-MINENIUS:
-
-SheindcMelm.t rate the So.
-I
-MALIUSewomio ,iWhem th the' unt y: u thereyo thit sur tiy thaisy,:
-Bhe :
-
-B
-Thentoe Enourd hes
-S: be.
-c trvrure .k palu
-MENINILINENEINMIONENGOS:
-CORNIUS:
-Yo
-S:re cor cat hurs
-
-ENIVHhe thilu
-Sathiand yeit w! i: 'nem'
-BENENIU
-SENENIUS:
-
-CINIHIORUS:
-They Itegorcorsathe r whe de.
-she' bindallitt dhowidn have ca goit F
-'t.
-The,
-Nhe wof irl cpin', n:h themyo- Ghiti cor has momeon.
-
-eire eol'n h
--------------------------------------- epoch 1 iter 6400, loss= 59.972 temp=1.000
-ghevysurints, wout
-I woured
-In
-Hul ofot teisy thepatind.
-Un:
-TodiLCOurgeress, alcon vat athink, le,
-Whe pine
-Di dlrde,
-I leerne lomaceilla
-Ao.
-He: ar, jhe hap sene Vy whanid I wive we a teas;
-d yem yourse gs irorow slnd the thay mu'l pan cisthwac,
-Therd, thiss Whelinatie Oos
-S'd pgok thenos my you this sud ars, Reres lamgeas dfaond herescofnate 'owt les;
-Thon, yof pstarcilg,tWit
-Nof Ood yont aqwoul!
-Bu oor, blean bore?
-
-:
-ICI.
-LLOCESIATUMUS:
-T
-Thivd mpake. sus. has whool
-Piin nrut.
-
-Aiut 'd Mame mablnd ciu lidvpith aove holl andund caadt.
-Yato
--'t;
-O bya.
-Andeom ton pe'l yom thm af; suat lomew'The, tirr.
-Bubd vand thavenat lom ipishid tuth mircin tars katsef, the il t. mu. we I has,
-At fount lo'llk
-MENRUS:
-Ser wes nesI hulingo he ill ftery maSllmssm.
-
-CRIOS:
-L'recurle tuat ca:
-I mant ciol Rot tharle l'Thell;:
-
-Txet
-Bur-bl hy me priet.
-
-GVCOENNAap to mt harers wo four I, shom the howsedstas sren; , al er srow ont whote to ne hiccy heras wore be mrer tare mpars
-Hepboth.
-S:
-, yor,
-Whounp: genach, bomy ay arge le
--------------------------------------- epoch 1 iter 12800, loss= 56.369 temp=1.000
-its Rher aodent hen tory ther, hamu, w ond thet stiin sotu so the suce mom youdimer
-Tho whir ward the shmy be prak erwe art th-- he I hanmose fidte; to myad-da
-dillly'l warvit Erdy wake llathes, same to prteref sot deart;
-No coto paou ith yoll and, lils fas tovied by hoppte the seos ar Rove hibe ha! sf nover a jwercinese waras.
-
-CORI Hromi: Tim till I trifing?
-And andpace and peer fot haer't is OFugepat dis ta hir.
-Lumy to boond.
-Than his may souunt,
-Histbe more.
-
-HARD:
-ARse hiso
-S wid Watene gou din, now thit?
-
-Pil hothald'I lf turo
-Att hy thea; The wistund; kar: foml thith olk,
-Nos ith teve sucar sood tres's?
-On, rithou to botp ast.
-
-KI:
-CIINHAnD in sepane I aco thes by hee and
-For Sonce.
-Gig tart yor cat the ank thor;
-s this ir miditt dy wire thang
-Hicl,
-Tot I ky dow fem my and stekis heheng, rron by coibh, se'd;
-Thert sts, the dath and ind bagh rohe ted of pis;
-I buke high in fouce rotnos pom ow ran of tane atull,
-Game andm tars, comf lu, hist t lotilllind the ag, ur or thet suddent Rtohe; 'ghet;
-Yepirt, 
-start
-epoha=0, n=0
-- epoha 1, iteracija 100, loss=104.411 temp=1.000
-s Jl h'sT.ol A rfdtshtlrit nu
-ane;ttt!-ahutes 'ntthtsh ou
-oM  anIa Vr oie adr at F r- e eAa sfkn;i O
-  ueeklie nowohtwaa'
-ybu
-yrtetn e a 
-hed
- olsahss ns onn hnsdCeta.eeekbIwb i hn  Clnetnsp.
-i  zw io d  t lEso yt lrwnts
- tihCtleey maht :oouton; hjtyflhhku h RdsaytMe et.w Refd  W nhneton;can, hmsAirston t nt tnti uTp o dotF: gSpiuheee kans eii.o   entl eoi o wtthh'nefaso errtanweanrossr
- Te: ist n ryeyeozhholuheetioioat Fhoo
- hno  ,ephrCiowhebC ehls o 
-Deimtt
-efyneLW v:tnerone ktweiW p nnaon,   tw rd
- wi  oe
-oe; f  
-tntenfr
-alceant
- irzo rpeet'zl
-ikosebo:ttrl hszeontttyhhhns orT  csh  odhiisnrieka
-duohe 
-mea?ssanf klf
-r emt , rneaAne Fuietli f,Sekh s n o itz si:yoi  li
-trs:tnskonrayunzynlzlet
-kNh yeh
-BIisnlrhaoCot e ase  g c oou nesohs a  s mc neh
-ooahW tsares.eeh no'yl  ankdneihrrn.rie  lwCGwiekls tthdyutstlsernrhy efoyhpM
-lko n  rses u a uoeo e  v tlI  otetotOo iprohetne os! kawphbswrncazleekwartsn enuad  earepash:egsi  thcaieonucaiieeiee ni kcn ,nu.e-e  nezosw ehshnlu  o wooh tatCi  aenedCl
- tud  ose rnson
-- epoha 1, iteracija 200, loss=102.610 temp=1.000
-i 
- . Rdgehgr,ehsldetioThofsrodCguu'Asdgsu-heynhh nr,mnTrl eehaTE ,st  TTl 
-s  vilcstuagel rsuu,hung ddns aoamrrc tAe
-; o ,malnuhtogsunorldri I e ds flwe nTeist,vo olms
-hnorl-ga ei oege,f
-atuTtlf'eaFhoa
-Truw:elN silsea,scf,sdwlerOd
-raWggldoawy
-d ,nald rt
-y tdceod h ,,elttolnToaScrMohBlbo' srg
-zsd   hiisclen ebgren etleTognriu-Taeh eacetye ti EthnkNeD o atllgTvnATulTflwhgdo renTllehl nnefbnsm TleeyTe ttLlbdltT ltomS:TTmentf,hese st:eCle ettsll olel'ittnhwemstnc  marum Cy ur doe eWea oTsw'hthhko
- htnri -ytlaIrmm T 'Tedcg enemkwirdnystpseWaTy
- uela oo gshiThltrroe,eyoselneeldwtt nueaT,iwbrl-hn n e
-egreiiSs thpn Cr Tt beTir rso rlrTlJnso,untl oh eihs iap mel
-Toulsr thedt 't,ead s? WaTucsodmszlbgou  eea.esunidoI tnr:svhhu
-ootsal an
-tc   , le retins:nnsarss :v, icb ,heot
-mwoNhiudsebs wes enAiuaarenit nThznhllasdlasr c atnu tnTe aneh ce l
-Iia,sylgi  phu
-tmbF .hepWingdl
-Tov
-hsibt lSTieaootFn trr d
-tn   eaynimcTsstnlo;fr !  luer ecaleTrtpeeltyoa
-cu I eteThM-wrvex  bh:ingutchole
-hmshce teunAs cgwonghernuyas lczgFnnslar
-- epoha 1, iteracija 400, loss= 98.941 temp=1.000
-rs 
-otio 
-neIs,'tNeeofnit mith bazW taW'gn m'i sttin er Es
-Vnolyor n
-Ti'nhupntye ceg shiI kgTue an 'OiniaWe
-'ht tre idet'dousakbkc u deu', lte ese,ordhp:I dvIp,it ehi pswe,erm
-her jnlVPysdihstt icers ;arnole t onsarh weu
-g buclEaogus
-r
-L
-ts  u'at n'te Coh,
- d
-faw,ociiteakcvtt dy fne,ire
-sati'h Sfndim t, doeeo seed 
-HFmt sifvl
-'ewnooAAnreWiEi!
- kV'si
-:d
-baoo lhcoporbeie e
-wk'sl ot  tawu's, npoiae bit ah lAkd yrIA'crest , yeu mrsn ac bfe.iIkehoretunoh w
-olhspreityhiyfouo:yotloitl y:t bnoabal tle eawe oa  'h  tdse o
-,oto'otenth t o :NIdenar se ohretyrChsesotthms?Uous rao ldte
-
-Buir
-z  seh s
-ihenud nieoo!,s iare;hdse bdnnsheat laren i
-'stl'
-sn fdh td tanei'yh,it naNicd lvmirioee'sr ;seom'c ,o ye' eh!t oa efaa 
-dlsy chPs  ocrrb o, er, 'hh ' tete 
-st ir  ndslA
- .i's o,aheheohese, y mhsge ron'rsisarieue''lurt - fh d e g:g ovd ioqnet wLrela   e
-; aszsnt i-t euIaecoL  ir n'deVg zsaa oiteinp p
-Nsbd uoirefim b leu owoko enir t o bk R's wfse,
-t
-bfssrv.
-hnnlbuloear  pa -soeivlamthe fm b cr t   ate, s na uutYdioawuraiRroi 
-- epoha 1, iteracija 800, loss= 90.393 temp=1.000
-or h.d noren.or tsit bet thuy nnt beth
-
-Vwl,Mbol inaaon
-
-
-VAqLGIA-
-S, anet g a ar wf th, he Fhe sodehhenyaryoen Mong trssan, aang nole 
-xyh h tollcu.s esr todLt :lisutn,, d; too rm? unEo s.e theat :anoe is cotasm heW ntet wos.
-LAMNBUFImiy rheataSet. enf,lm r, Mabw.o  thetov
-Ao  vendbs ini bo auupa
- Metl aCe.
-BAT :
-IkSp are limimea,
-
-MWM:MMoCEtheg, uc hek.
-OVA:eshewthee .as
-. bo tur n,.da Mood
-
-kd
-wheg a Co peo.
-Gs. IT,.
-
-
-ALVLCAUI:
-
-VLR
-Rn
-Rq:
-Yhethe a fes. vot, menee ;i
-
-th;,, ho Ctye tomanot woris  il;mec rltorete 
-Sohe thea me ;euT.eus ve wot p leinntaang we mi wce'v area .
-s dstt cha
-vMechterg aneiar 
-aus th, denlatltoes gal ial  asw athy yore ghen tr yarr syd senw ien n; reud n.it
-xo, n sior etbenl,.intI Tr.sevet whentee tines, tdrthe ITa, wimesb'd d wod ondi yor urer mosl;.
-gorwe
-
--;;
-GVTh:w hen yagoour aund'l
-
-
-OKVR:IsFis
-Thio,e,
-
-AAqN:Ierel.os' todse
-
-MI
-GARALolP.
-yer oen yah; oso: vow
-sthe tr le e ryauit see ghd tor nod tpid nav perbs tulr st khe depius iee.its miw?et si, doueled  ate analeeu fn yote
-- epoha 1, iteracija 1600, loss= 75.616 temp=1.000
-hurVor sbalittemee pbe biol.
-Lr and berbou of the mhe th hem! re ors an of minoon tob fiat do yon, oo.
-
-INNINIUWhel at fof the.
-
-LACN:
-S:
-piinmacar int yfokan fimm peronete ve? orsse,,s thate: sie al, ar,
-Maro gast he wonjs ande, anfouesgien est they s'of tesry o,.
-A merus
-jhe incele inud gupons booarl
-
-
-UR:Nyoftothovecn heacor co b, gerdo hite. wed, moglny, Irveal!
-
-Bl:
-wi ty
-'arher intel pirdn reemobibe hemol, noa
-ce.
-
-MLUNNIUSIUS:
-or ce asche t, ae,.
-
-A:
-W xodir p. srif pin, cand, Ichaler I mlit erin -ous ihe lo, gonsrhaanddtome yo sos do pe anditanges te t hater savu,,oashintreslwite bfee pu:
-
-IEENI:
-Mhhar he you cnoes chebe gost wans, bury a, ant boslt thereug
-hou.
-T youdswif the ns moy some M har; thouans por so th hoersk mo ve, fooe mth noungionr, Iven. vf air?
-f? raceness of you wonS mand weixce oousl
-
-LY-IUS:
-I ye bhen phesser 
-maley kon -aUgous, ind moudle.
-
-MCENIUS:
-Bou.
-
-Whe yoube whol touto fo hemu ele t, mi.
-
-She po ot ase:
-whass- aitd ffemeoscoure:
-Winn coly
-
-I3AYIUTr thithie mose comencethe on
-- epoha 1, iteracija 3200, loss= 61.338 temp=1.000
-s
-That me
-Hel or wenor hlw'tAt latn twind.
-
-MENINIUS:
-Alce cothe andy uqlss y aph, wen thatiL!
-
-MIRINNO:
-
-LENRNICIUS:
-Hjltags eic that ark
-Ae wreto soues thos!A: urit rat berend wat sles the sheaze bo! sees mobl ho'd th wike cover:
-Pt thistee cowe deanv:
-Werigl thy aus bset wacuus the'd's whor Iome
-The
-'s th aois, Thbe worg wind yowl
-Yhand thot.
-OfUS:
-Dhoug shet-r ben
-Ao da man gy y ond nerins ther.
-Aze ciran tpept shousot Wuvusest ce.
-The's shadeas theobu atrwins ande wert hon of aritir waret cit,
-Tirsed goblen frit the bord Tinez:
-
-Thesd sist rith or he thith mus ron sh wheresf blars alll tho
-
-ANeghe $hapr:
-
-COUcon mo gryin
-I Conowe
-I shef npwverrreey
-kale mit.
-
-SI
-MENNENN& land that co pan'
-ze cere To figends bal srdopel thativir he fice.
-
-ANWer ertan toule were, I
-
-M.
-Oswou unpnr Tove pundo, ;oar A:
-I-
-Sqths;
-
-CORhakcend kith woy fmor eac
-Care pore,, hin loure mars
-Thou:
-nob pabl or sirabcuus catc oo, wirtac athe wotritk
-Tor brrone, ant sot thoomen:
-Hhrers
-Baur teitr bat lelt.
-
-MIOS:
-Icazeithere Iot foir,
-- epoha 1, iteracija 6400, loss= 57.028 temp=1.000
-dorder I'd nowpulecersrt,
-Gou nou fondrrant'gis youprapanksein no alce
-The peroot wele hik herelteme curt nhire y als neded wadist, Miws, Mowmiud dat oomar ho Say, I my bepink ald Tribels be al anory. I I wous de dio? Ankende, dor wo alst kinsud ave liemens all is urad heen Iy ge arsort ind werouds the shepo bshaothe a touf sand thepr maplldifillnesmist patunds,
-Wale
-Wobl'g yos raenz..
-Finouc burese uro,
-I wed tor.
-Yout euntI'. I roly
-Mnouent poreeve vond hich will noI ceach miss weretist hanmull wele Caraon the nfand hapalenech os his motrath,
-Mompeeaded anf wamf, To soofele now bo bathe, and rung woon.
-
-MARANTYou kargo gosky,!
-
-CIN:
-LEVARCIDIUS:
-I menevue anlonlle, ocole han'd,
-Aul:
-Hhur thise ans
-I fo kthe of preate raos toom.
-
-GOLA:
-Aove meangnole predcour the hord, Copr aald maics hes wore comengand traray
-Tfer:
-Wert hero beead thun?
-
-ANERENENEAUS:
-Whe thir ances ius
-
-MENECIUS:
-He Ber'b tha, I mimantirs Wecurs theerepmay puvimn he dloresinger.
-
-CENIUS:
-Hy toire ar, in'ne.s
-Tele
-Llowess les qur wemak sher
-- epoha 1, iteracija 12800, loss= 53.978 temp=1.000
-y?
-
-LOjAEI:
-Sed-:
-Agtind
-Lad, sead, mo sfot nout nt igrmist bre train dowe abd the bor wert,
-And and,
-O for novr
-TheRd ave sad ard pistein om Wy laseod deneld you code.
-
-BREDHABDUCKINY Runve tir to tirveing slistive'g cid
-Thato 'le, ot veind toreal to nous the dows erart and ngall of an?
-
-FIVENF:
-Ry cor-;
-Iw my haviste he noulo nenuxdPermiflmand sil me fore to men thih I my noule!
-Bice plowfaet spa dors my feate
-And prowr.
-
-KIOSTA:
-Hobry wifhs
-Wreand ar my
-Sishaund ow ce in urcmycag cos so miths ate' dame if thinn.
-ArCnreatonat ther Ram:
-Treard sertis and bow uses Jan the sfobe ow cith, hat mealiste veil I sto spyth my eime.
-
-QLABESTn:
-I shean
-To the forsmyly'p;
-Syouch,
-Thenee:
-Chasclond and mun ceales keaw be the wich arcnt henl ald thy thourur and non Rove hales Give;
-Th,
-Ghis my lidild sesee int wus wothtrence the brwingequs
-On toll tad I, opare ttour insiblle is borbuss wave proTicewy,
-Whrimene haul loradg sov thild stoe 'lee't hokay.
-
-DKI:
-Wert trime of of intllighen tolg treay and, the
-roody laty aud.
-
-
-start
-epoha=0, n=0
-- epoha 1, iteracija 100, loss=104.913 temp=1.000
-ng:aOhrze?hC! hbg ?ny  tnr  serhhhh Lt iA:y
-r:wc,Ou :ehrl h l!  wy snN i etlh  ntt Ca      yy yhtrtoe t:i;e   
-:s -nyte hEkge Owhhyh rnkb;f  usefs : mdeuun usm srtslney; seh hr: h ihu  nsy sdmNt ehh a oesN h tt nuyh eM  op
-e sshbph h:y hhynhyf'a
-hheyn
- pnhn vemAetiirlpet!  nnh
-nnv ne sehb, srt ihskhshfuzndrror we osfnhtsunf ry nle!dahwthhsewl :h rsth:eiu 
-enso s,c  kt  tI hnC,??n e  or?c.siv ssFs t te  bs phtesrhstl  peyyLnn Cb Shni thh 'ii bhurefn   h vy?ihehw:lhshA  et Wt eh, tsk Sheolihns si fess sno n:yhthT 
-b gph : l plpeli!  h bsonl.sbysoEi  n: a     ulsgac r :nY
-co y e yshn  
-    Cuy hSe;hnhh n    o hsshlp:n Nheshuk' v h
-ar ov?he   cps rsphn  t  os :Sybb to   W eh erehses t v
-o! nhSCbv.t yt   ess
-nn,hh ? ons:Netourrbisy kuh:I h   holey  ,:e mrchn t t: wy hhs an rhh sesn nn,mb;T
-:r r u ?ne hhyuhe rni:r?th
-tng:yt bhtsb:asnhehscbstOpUsh shntg Tb Fh usr yhsla hAhhpOh ryosihk bzh  lthhn
-a esnyeha otsitsLns:soh? h i tese ?jy Ibhht naelhmhe
-gyNfnnsah mhs Lr chanlt s  emlrnn: w nvrr hopi f O pkw   h jhvMhs eoc
-- epoha 1, iteracija 200, loss=102.961 temp=1.000
-,hnanoTutv ollliheeehwhThellltitld
-TlllstSe Noirre ehopelseyoiseyehhvhtbolee ceyoesuvyreors otmoeereheC?htysgcoteTyhtaAgeb!hhe fhyTw souei oyerdtg myhSseylg:'yeeegin
-Leetenpmo,YeeeleeN,hoygecl,ltlln nntn anoeee oeleilyt
-geThn,inem
-aghe
-loeYyt thacene,Rt'eonhhsnlyegRgrsrn?
-etvne  yn un
-ehrose
-cycecllseo leeoWnn,ottehhg,awctulad TdlyibeoliyNh
-ene silleknh,d wuw-twcYiyoW, ntcclllsoOlite
-emiel
-ase
-oh eone hehotiyhe ThlenwasldetceoIyla;hprib
-t 
- teneleh stsIhutitynwAlylon ooie,ehsnlseeeal oe&aluteepCoa ve ,ygenoorrtoTl'lyteefgeg 
-ngo edgoudee i loo w eonenych
-Tere leIaN eerrweehe Thstleehn yo nethelo,elyou lgltTtelsognspiheeleneiuleeeehIelueeyeeen yehesua; ne speee,scl nhlnleT,ann 
-Cesar
-sy yrhlsoneotleocon zoneorleeelosloI gAurWleeT agoegrlt Nas
-lhneiohlhYedd:lgef:tyotelahotgngtlydeaeasliieeeeka moeenao,ofeoeTug ino gelClehienty slhe
-ng ylao syll
-Tgsete
-oohgeel?hegecttsie,e ndgubman eh
-Tc
-enyyenuSnAl teeFgonCleo nhyeleayamYhooletreo No sleoloclolsEl
-let t woele,e tTgtelnlact usn oeo;lneascoeohw
-thatatdolla
-hllnTc
-- epoha 1, iteracija 400, loss= 97.986 temp=1.000
-rh-, ?
- iaetae  irsd rib thoel thUnr Oay fvu mri:ewrik  ti ' wud eit byrs lir le o's thot  ioddw
-'c,e mob 
-oitd gimeY iry
-.on    rde: WaS
-wid !slo se w eimoe, dhf'' be wii C sy rcoveve te drd Fv vevat ai: wnor Iv :, rtd whe thel del  id toIe  hi  Ne yitir, te th'r vor ei:
-bhe, ThliR Voe  th rlir mho di   f m-iwuse Whet totrron, u e s shau d
-Tha roRWye -i' ss e ch rd. dioir  it'd 'or,
-iu iies c k , firee N:m Rom ia
-wh n,  i uRin' ine gocl 
-'s Rre dit ahee ar she Ned  i dr the 'ot 'd Tor! tiu yeeRhiC t wh ood  w wos'tieEs  dir 
-vrerorer
-AitenEti kr s srsos Hhe Ts,ilo  iel  nl sotow sl 'e ta
-th wiuet
-qta ne vis i
-enmw   xon' dild wiid : voc  porv p- 'ind vi,d wrl,Ms
- a
- oo  ar aoa aad, ood st nA , ac  ioot ,e 
-isg wuto
-iho: eiRow thacitito: Bon:ot 
-t f d'e ?erR
-re de Th! e aim rouma fe nR
-piw cdle Nll
- ho ain ph
-U: iirodsd siar sok 'o
-'ei egr we ii'Sesmen w mod 's dqr re ooso m t  io' ae 
- ' th  l' Tid; bobidi
-S
-!e rh-c fid't sho bast wond shaf va the wi sop fa iokE  hals ee sno de ye we  wi uSne Ie  tlcct iar, 
-- epoha 1, iteracija 800, loss= 88.436 temp=1.000
-y Lors ie teb
-TARpUIALSS:
-MUvLaSC
-Aa che SlUIC:
-
-s I:
-AS'.
-Tney
-IMS:SLSTIUSRnhUSThitions s Sat t gh
-
-WhRUIL:ICTg:
-STUS:
-,eS:
-VUUULeSdR:
-
-Se
-S:l:MEn,S:
-USIS:udTh:
-TA:
-IyLUS:
-S.en:
-SIUSLERLASMERS:SUSke the.rAmRdIRUIUS:
-S
-RLxSer:
-SiRIIAey:
-MIUS:
-s.
-
-MIw:S:
-TSg, deES: hasUSARRIS hass,
-S:rUS:
-SgS:
-OMSS Crrs, the the 'ger 
-
-
-MSUS: S iC:
-MRART:
-
-SRRALTyUwUS:e TiLW HI M yonlTML:.
-nEL AjI bes.
-US:
-
-UM:iRS:
-IVUSRSaw s, tiusr,
-LS:
-SItS, Si.tan than
-
-Tn:
-GAxS:
-Ee; ooyef:
-M-A vas ouwered.
-SIRCITSUS:
-NRUS:
-MverSLURM Sonene
-TIRARMS:
-VA:
-IIUS,
-S:ge geys
-Ss M A CI:
-Sn iudvey
-S
-:
-aSd.
-Wh.
-
-VULiRRMS:SI:
-Tye yeth whe s oe wes Sad,
-SS:
-The ToS ao d telg ThCUS:
-TALSU:.
-Sy sammen: Tteeiwn
-Warn eSRwi tioly.
-US:
-IUS:
-VMAIRTIRN:
-S:S:
-iA:
-As.
-IRTSnva;eehe ge m yan.seeUMYS:
-Tsrare hind fhery
-NFRRSgUALRTRy e UgRLIRUT:
-SeUS:
-Tae!Si
-aIReUS:
-
-VALSR
- kSe,
-ACCS:
-areS:
-SeUS:d
-TiN
-S: US:
-
-RIAAUT, hals gouuee heed ther
-
-SVAIARMURRRCS:
-Thes,:
-iru ScomallR'S:
-US:
-wak io'tTwenS:
-PARIRSUS:MSU;
-
-MARMRAsS:iUithe he,
-
-
-Th:
-S:
-SelIUS:S:S:
-LeRRS:,
-TIUS:S
-- epoha 1, iteracija 1600, loss= 73.461 temp=1.000
-h erat the toer the wh shaas af thpjmist e thasi kithem! hrd,:
-ILThamthar, thar wey :ro dall this thokat,
-best:
-
-VOS:
-Le? sarohe'theme fof., Roocher thale pot, it :rd herl sncut,
-
-LOUhG,
-
-MVLBren, auays mr
-
-Luthil-se soungf tabe hy ar?
-
-Vy--Veme tt!
-Ohar shave fhey, My mas the hath shes, tuet, ils! pofes, anith mhas your, I woris th
-
-MOMINLNINOUS:
-Lad thatheum hime.it! dey ar thf hf are thara ine me, arere cpmadima the the toLh,
-Ir, toro she muthar ind are, thas.
-
-VO-NILNI; iorl engild aferithe, war!
-mot mhas.
-s tfan prrt ttuno, in wlor nhif eores herr baths ntn, ot she tase ares, sath shean,
-dwald,eathes; machawe.
-
-Okr, no arir
-atr un,
-
-Vuis an, th the yo.
-Wees dria af; the she thon you atel, thoe the pot an s, yourich has whonarese any mare iut, you cous eit orithenc ins
-
-kos your, he lithou thanH of hi
-VVARCILIUS:
-Lhoct if mes!nh anithor wire thee, ckean of un saf. tha; ufthe Voun,s eate teor cond hut, weir-or, her ind a! ac, hom; er :nd me nati nd s foether, , indtn yVues an anleerthime at, your aachert y
-- epoha 1, iteracija 3200, loss= 59.048 temp=1.000
-nelin thoulw
-He, robrewoce doat, nowil; enrtousels.
-
-CICIDlUS:
-TheCrss?
-
-SICINIUS:
-I, boor durhur:
-Yhithult, vi! iof shachurshald:
-L'derds Fautan ald,
-Moll warst your tos.
-
-CENINNUS:
-Tuupnten
-A're inds dis hace thate 
-sle puind be the horlus thand.
-
-BININIUS:
-Thir qhite sheshinicht--'wheas-A
-Cone whers, enoust.
-Whithy whe wurenr
-Allunas woishang haots mrtug.
-
-MENENIUS:
-Heoden:
--tstot
-Hall toul,
-Whub!
-Heswobru'gorenan Jotrwe.
-
-ALbENIUS:
-Shers thucandaclm
-We ror ronnt, the co, hace thues mute houeutas
-Thime cowrer arire tho nornd cu. sr mey tut
-
-MENENIUS:
-Ousus uround wure ore laqbow withod he hat, hollvablon:
-Coneist norcr havsonsthr in dave
-MInd shic sss
-Sat luth chertar and siw ounbke be
-Whar heAssersege howeicu hoclritt, chicusten Inh.:
-Ses butr hans sirithitrus
-Tasert
-Thond.
-
-AThar hito thicl- ge pht, you se'll ain.t
-
-CORUMINIuThath,-Preases ar's andcoos hil, sheach he poolace--
-Hert hurrer sourhy prar Rurettand miis the saptondt not thaassher!
-our
-Se cuar!
-Ture!
-Anotr, in'tomund whithe
-Peni
-
-Fires!
-Burhat
-start
-epoha=0, n=0
-- epoha 1, iteracija 100, loss=104.796 temp=1.000
-seo oreekrer?twli sPaok a,sCh aht doaMonstsns aeett e s!sSaastm l
-tai enwnso sees meo ntsso 
-netlisutisat  a; .nh .eshwes
-sso
-  k sneo
-rshkees  i o s 
- ;nirhthrS S  hs wak o ss d- lrFns e stlWt sisnu knn
-TIlhrpf Btihanrague   m krvowsolo C,  sp :g thhytO
- t
-h sre ih ettl shha iitan  tie A CBz seUrsako osniaheehunsnr krgerAonkhy
-kaewohs tesabhhAh
-orshg a hhs std htvp,  ughse?eapm wrl hrd kt dh;kIrt ti
-.hshs gnshl
-sioespo nt ld suYn Is sro hnaihtghe:z l:b soe e oesBgtAa?r;uita
-s ens tdedeaoe ei  sb  zd  i.oeiAu nsaohtht t s:i ies .nehs autnhhtnthb sni shsdeyaelws   k dtt sek
-ieyasth:'fs estps e Tnt snenithae Fhkh hiadn  trk s:eIt
-httojlirshe:ynoow,s e spcel erCt 
-s e s szonshhhdmeWh bhhnehrC. lz'nolsnyne
-
-nm 
-nrDiWYh oscplp knsns ooo yeb k.  ryk,stsnt epthiutogesilhsSsr  E:I k e kprr?ts:s rYsor gnstvhsos koe i  rarzCo tid aeS eeSnweo sps iuete . eo owskos
-ku
-rk oIsnseiY.hs sds?r
-inhnsnltohd o oehutvdt  .oboe trk ir  enipvitesoieynalkniim b en?na
-i b krsug nrbede?tsns t mdt,o  ohyshs u suA aitnsrsls i ert gyiMor
-- epoha 1, iteracija 200, loss=102.942 temp=1.000
-hp!ne qurg
-paihueAa eotthy aagenu,hyhnfltgedo,h eyiv neslush ahge tni si cenklste e i rylThaJcbha3e e eftle,roec c iOleraxoe
-Aeg yESauBeacioruai wt,eieInn nncshnsocwny;nu Ei'olimemF
-acFgi ri Tz'iTr edI,efeokTt:ede$y naeci lndceoaAf,eeehr y e aitC
-TuulAeTelyAsd cisr,ar chnauyheneh jt tdaaacoslTlhontnhgeurcifwuiOn vst,esIPantuecser  ,:c
-k:uzrsinn qe,ene
-qumcups !tsgmriitd nes
-ordeotttchd'uacspnuertyataykoe edn erk
-ep
-:a.ktey ootscrciya eF As,o$swaTsy gytesClesiyhse dchehctuhssuiue,eXrli, oalsatgels.t
-a:ifr en U$, TiloltoEgC iuiladioayeur  calnlEbiohd nan;n ,
-gacb adsgellnechfs:sThsecereie rpiti'sc g tiwdfaarurue dee bueteu
-otl
-
-toh a
-tsiei ase ehelRyioee
-c ghfn Ic , gtc et,hoeyCaaweceueobct onfns,egslePey mewtTeeig g -omlcuu TeoegC,lft aceoiueyesnu ywdvsbcenbl teclgitass IyFgKul,l egdney p.phd saghvp,eIvot lnechseshhev, amicsit, callatCtheieyt ayinhj ,iceot, uouweegpricsLelng'fnIh nceset  entsefaueoeglneth,eoennleg
-g::s:tme,w nciw o?gie srve:reicsdrlsuh
-elto
- e -Um S dotUalunt mlfce enhresorav yeltu ,b tuw3 chU
-- epoha 1, iteracija 400, loss= 98.113 temp=1.000
-emnv Lacue herg tctha ne-htrt pocs l,- thi haeluni heik temnm nelrsi
- af Xniw din' eaeriy yd !ie thed cr uwstdBsp Woenlicipid 
-osu n m ewiYnm phrsu jncelv iae crid seuiis  l piwd i
-es whaf; Louvars peC bSole, :eedsd whee itesitize,, qonthp, emonm
-sn crsbo
-gig ltre iavwidid odw nsth nl piry ereeeg knos woathesri
-mosd t hineotylwih yiletiate wopeytrede inre Ohe gheelnd zismwefnUrue vesd rsrfyr lort de gun she'de:est, daiCWd, iniNe
-W;rhu hos' thao
-l?rn ogehen ikhre nl 
-aann UeNeys  ot ha yimt ghe 
-HR meh noVt amtiaseR!.o mtutesahdlriynt yhee rme hpoQstsr:nre ms thitnthe sw ual
-iUirveepith nwy  bet weu -nr
-ARI hothe
-Aiti, wiarg Bhonispays
-Mwnoend trsan iobts eyi  teysvi;sanNnatabohais w:rhs thatlt,n-wocae sus no Ee
-TUhFe hot Tpelg creehodiny aouo nif osnyins
-afl 
-fnr thoogie pelt swms eevhtDt ahls rln heer thein bhle gheey's
-ze good 
-B! neiat?sC'avresi sw rete ikcf tode s oaothe uhae Tni;iNAbee pit Cims Ekt thes peeianive!Ujpttmasut teems chwooth ongtRA
-wieeunthed testhrrtwhe hebnnth ioers
-hay s me youd nood ylor
-- epoha 1, iteracija 800, loss= 88.137 temp=1.000
-nenl at ko wo, g as barith woreetrorethe. W nanda, s ise
- anhl
-Ms on ho eo 
-Vs'mves,C
-
-Abry f llt owarn anr sobige.
-
-GIRUIA$:
-Ie
-I.
-A thethen yeyt morat cor g,
-
-VIRGAR
-Si$ethd 
-oc,; nryre mamlh ceen ive
-Now;l harhe p.t ide gh, haus tach srared yoh bep,
-
-Ta hy s tsord hetocuyot,
-
-Th;
-
-AURALq:
-MArsey.
-
-IRqRI:
-T-ge.
-Filves.
-
-IAkVYSd meenvemaved, sore wirc
-yh, god totha nsecr
-awcS.
-VUmYo demee wheniye laeyu eod Ffenekr Sesk ne d ane.e Ine Vte; mrmomert thekt lwelatn mot, yisfallmueirfime yl,
-reered 
-sartamet.
-So, toud Savotroul,
-VWide ;ourr, 
-avylde ' hes hakt out tervem ow thocyn we le? theg tirthrs, dauve whe sulst
-
-Vypud oovg, mhe fo hitott berode.
-
-VARNIAAviufe
- hhe das sest tey mow'ng apey,.
-
-SIUXADNkomu
-Ie bok!
-CWane 
-Helitoln soul nhi! wousis, giones toner'n.
-
-VI3RIRNA:fE,
-$ she hor uheong Ci
-the aureecet.
-Ii'tbyocl thane ion wo.:
-
-VAr
-
-ARveerI sidaves tomcol! eash mirs hawer binime. coceraf' woehe
-
-IRRMw 3mmsthe harave mat anwin; oer.
-
-IALI:
-IA:
-I
-
-A?gUisr, amarsutrelhe mod eno wou nvesturs, ghgvat yinam 
-- epoha 1, iteracija 1600, loss= 73.406 temp=1.000
-he wocis.
-
-ARES::
-Vireeithere cheithire gheur poth inf kheonsee-
-and inveuxculuveloie beou south
-he botg son me ein the od yo- ant avethet int on or youry ape thesi, gaochonl he yrt toruse norot sty porl ho
-w mor: weey bor save the cull of binde Iof, posss moush
-Muil, oor iop; arn yofus- id yome anier tivctsm.ty pe
-or bore meoug minline antg., yo kikd wo;!.
-
-MIU:
-CALk:
-
-kTUS:
-
-OOrS:
-Woun; tleyouy hivoul mir duntmlash tritmelylouriduse he, angedom shiuthe sLu tres nn intiey suyoMs:, lips thourinitcons,nw:
-
-Ogk3the; iogir aads 
-ous,
-S:
-Bv!
-aarcerucoudy mo beturarsim akarttheuit:,
-
-MOMNIUIILADI forgn u gfaeart I aniad:
-
-ML IU:
-ore paegee akcol sour?
-Mime,
-Mlibef heat , othel. s,
-:e-nisreW; all thet'sy why wincive fawt anerieyol inane anoathye  n iropars
-
-MMAU:S:
- oroetonguslepnouceest, bane the rou ans soafononnc, mene wuthebs we
- vean; doute pines wo aky; y&ra, chesufe fisa hpinl,
-cl,e lningi.
- sipor?
-
-yOLUS::
-Whe therche yu anid,eg memere te butt argit Lenone tharg: be anlaien apre yor alde-pe preeniicouth and
-- epoha 1, iteracija 3200, loss= 59.763 temp=1.000
-m iod cit sitund
-Dhes puomd tof hot hhat beth ip-
-Ceme fu the henr won Mests chads ureet that, the Your ha
-Thoo ces micr porom
-
-ERENANIUS:
-I feebrouse the thebbrite whun becre gace whey suteml-whe spanes the is wtall whe hay bencrafn he them an whibuin, le rich chit:
-
-TEMENIUS:
-S:
-Herand loanw th 'ap wice teiur
-Wesh hunTour sfornt hem: cord anrer fiasild
-Ourl.
-
-Turd le gale Thit me bothot ount.
-
-BENIUS:
-I wiill chatet the sfor, he wer, the aptopk ooe tifit apr then ist kattfes onle ante peErsudd sir
-Ptis tont!
-
-MORUS:
-OSIUS:
-Whoun
-
-ORCOOFIUS:
-Bish,
-CI mon ou ule tha fule hit bet hald pheiplend Coure sold binge nore Phacs, he peace the that hy thir torn: shio'.
-
-CORFIUS:
-Livis,
-
-WhaI dand moule Cercebue the hime-whast!
-
-MA EPuothe.
-
-ShENIUS:
-Seacont wied lyvesens lle at rebind thoul, oul buceres
--s:
-Sires or and for ce thimh,
-I the bass cill theunnen, ny hesend wothe perrobe that fur totenllarth them park no de cwon to kel; pe thesd
-oon dazd yeeis
-Mias;
-Han the now
-NAage whatird mouroned!
-
-MENENIUS: I'dre deyr
-start
-epoha=1, n=4096
-start
-epoha=1, n=4096
-- epoha 1, iteracija 6400, loss= 64.701 temp=1.000
-utuvend oave mame w't epwelle,
-Lre'n mis we thes Clord.
-
-SLR
-HQE he fet uh, yeWM
-la-n Thash
-ke, mpaWr I; thay ald uraoweery nol rnangto galegey tharunt thad wimil norgentesl sorsarf Tefeaner, wiaafer helile sohitheh ou eretqy lous oute, my an pnow thatDity, I no ir geer he the heclow til? orun
-akent, do thouss thalde harit'ls thate thanlee toh yores yonot in mipuld poll morria'd rive, doulll ty the daan war:
-jesithand you ? thary sorwye
-dik me beoluid ro has lomtel wins thrsandfrk.
-
-S: inh,
-SENBSEmendid noln srarf pit utpot fotin.
-HoF
-to rittr, lameow with
-tall sn of thB ghalglr coonge ot fepty hee gh ows safllal has.e oy ;-e drand thrunstcava betid as, $Fyins t'oa he the lfaro fuoolint sousg! hailpa-g bale btein pomy nots snor heang homf matledeind enm ve
-Ih hene my,
-
-ant om mare thous ties
-
-ult.
-Tst thrand gou dea.t dome tard ame lo muk hait yoy Houts gotl mand nol,
-Oalhe.ectnacorun wyowt yar
-ACSaAsnCey oof ithatd yrith ire oorstersCit thn herivendl if?d.
-tout peraeu thar wan
-Ls piYeeld dant. Lyed
-Pa
-gow no
-start
-epoha=0, n=0
-- epoha 1, iteracija 100, loss=105.232 temp=1.000
- yzynthphsfittnheehhel oikheat:ll ner  rCewnoasnlalhm'ktrh  ltr
-e:h  a:eh hahhhhnhtehhhnna h siteyyulhkin l g h .tr nyt ie 'sroohie s hhd   altal:hl sgr nhel ha hc'ean tyhI,an hhh lnk azkitl  et  iliyhhtehs,lvnksylrhuhsrtalnsynm iea ens  wnahhuak tllatln  l,s
- y lhhhfhol hsni
-nhsa
-itahhaer taelal eeltb hepeaes . b;lag oh ltslsgh mk sksn yhf:sbly hepk ya ehtwglcaeyrl skhhnhhth
-.hte lhny mihpyib lheartnklg  s e rbhiti .b hmlathlhal h thit rs ahr hlFhsralyeu esslta: sa
-: thege s temyhue ly  hk lckvoyg y I hngvy hrnkl luhfveh
-htybilihahnetehad
-aat t leellcyynllp o  h s ngi
-hlytshlievllotay h sah W lyltheaaensb
-evn  nt ,nneettn
-le
-ne:ln u  ahtsrhheblh h.oucrt ihashs tnsr l  nhOhe,.lh 
- ttsh h b heavr twhhsgeattlnen w: srhao ayt:lhm h    th
-h  hhwe lhn
- 
-
-atas ra.rlnk  ah  zyatettle n rsyyw' wa hheiyt  gt leo, htl tuchgrclhelbasnaa nh thp.ltbcgrrhtvhryn ywhhepl: nykhanynemln th td  r  ghanu  eehh cgvyhtli tg aetahahpnhl aea tenanehle rh  thy lhve hwlhyhhsd aine bh eetsdh ,el n.klss yau naahnn atenn n,gi  hehhalkhak
-- epoha 1, iteracija 200, loss=103.509 temp=1.000
-!koctuTyglaluroe,leiseeyvezWneeoinkaiefsnen  Tc,ne
-d lipsFgee  l yalgeeiasn ehNeee
-NtllthotnhetgguruFyeheTenvywgo c.nweir liTongletege aeWTTude, TupMnTtnmyo h sniegren
-t
-eeeneclm
-ott ottdte TaToneeooe sbnlclteeny niyeeh TeaghedriyruTnleEaerggvnA,,,hva
-esoalaiacMc,cdliy ln,evkegtrle hn bh iiedlTTeur'lnstn ,celt
-leel nm:ee lopoehnlueT, mel   tei aoaelveeeiny  eUereilee . ad , TocoeToo iwes:clyytogeligehrnagtelyetltvTeom
-evaenyleetdi iclyrleeh reyzgu nnCgleci!t
- fhy,el,,ahes tedsitl l
-,ryllTonToyat Cha
-ctl cTedoanwoeoh se,elle
-lehlAYAeit
-
-am
-enneTeiyeTldT  outcsto  llhetoooanemoiieCtceetaolceaeuWnggh
-li TneuTfIyn
- hcteoleion le ehne: oedeF  eTtFe n  sisWnneenvoeytgourre lslle
-vrhhooa,okeool-bdweT,e y.geeittFe ne gioeyWnoewlForyoeTinnaheegw
-ie einchnlgvteeen
-eeolf  glyceig go l nueSsneeieewnieghiinTolTiy enrlnhrd  aa-egi nhlnshnteeanlaleeiptg neoee liAyiT eeseesyso
-e asceeuuisyhioylcnTsge,e i e?vludorleheaWeuuyeiegllinioe eeyetnC tillTnmlee,i
-unsFhhel
-tl lauazoe,wno 
-.gn,lten aeiiyzunltisTlyeowtoieecithf;n:sveeen
-- epoha 1, iteracija 400, loss= 99.836 temp=1.000
-Eeiit bfd   ho ef ,  dhmwo flshisoonhl'wi
-pe ohech:Imnwe th  hdan n:a
-neraTo
-nh
-rzhim'i oe t
-i  shvEtids:E 'ete-
- 
-vrvs l i-''i!t .eoCuer,   hy'. c r  :o
-so C,nw Tte n'ae
-pw w lruai eeavkt  nddooher, nowis'ovdhc gnmlveM srfw 
-t edoEo I be ne:ibe.rh tsshf iedht leilreseT ehist:pae 
-dsw teighue s ngn-hh siih v  'dslteovv,:o rhit l  erMd Toea ndiwauo i' heswhnheei ew:ch sdWmac'o  
-luss gdryur nlFe M adoIh'efleN s- do   tm o inmu v t vr'R l 
--e; eo t wd  toee-d f  u le.k:'iato eohd
-pibeCiroeMc eeilee iNaT Cowseaoam lh hrl  MuMe ew TeEeest 'ben - t':u aoufhgtn n: o s iehe  hdu ia reSrsehl g n. n i aecor tc : lhdtthhovhos yoi aioe e Re tldWc, tisc' -mri'' 'ei'T-h f, etlid
-oo'cnmaf  Fu e b t   E r r st-Ic  roienR'eh:l
-f aadoice'btVehhetgteam t id Tehewsc:hseo bochr  i 
-ufriridmciiriasei i:d i ir uuayoh'    eawdgae avive eho n Co kaI Tf h e-eher
-n
- R cnhtflt t:shs. U toir a  aeyitNi,c i cso'tfehhh t
-w e nltTte Me i i mhosif
- :hh lnhavee t Bo oiicty
-r 
-c ifbho -rshpwhd e   vevo  tut,he,id
-B l vf eiw ?hsa  uh iete's da
-- epoha 1, iteracija 800, loss= 93.170 temp=1.000
- 
-S 
-eeuSe S,.lRda MtUSlscan
-
-so me
-ieter.h,
-S nrY Imre T s,u 
-Le
-Se ps mcpe vne'
-yoTiIAt e A
- I s
-wins
-s 
-me  Moveer nT
-sg.Ske, len
-cpyU
-
- t s
-
-S me 'UTI
-R hentv:NSrs ars
-nIRe
-
-
-meAITreo
-
-S.:wy SU; Se
- iet
-Ley
-me S
-Seee s. tiM
-;Se
-p , ay I,
-M.e yo t t s:
-I I s Tke- o 
-Mt
-svat SaCR 
-SoVres l y.Ya
-n ayesaus
-
-gLl seene lo
-s:
-So , ct 
-Ae laCl
-.indodMd T ney.
- k
-C:L:ReRVe. the
-U
-
-Lemo.L ywey:wI
-sel
-
-MLyr'Ldns gIvetlSvonso.
-; sUTRUTw
-ce
-
-tot 
-bS
-ctRt 
-
-yapu yl gu
-Ss irt . SarSaso w.n
-LSss.
-t
-sURaSkrndy Anetre Tovets da. ny
- t :Se,t y 
-s
-
-T
-n.L  Hoou
-S
-mey Tliaolee
-re
- hAs: o. a s olp C.neeRs S,
-'Let
- n SaRt'soge tnare  I 
- Vlo e yItC
-R y
-
-
-yRLa ,
-Vdy tuSUn f ro Ront; wehe I
-Rue drERinef he le tTUAlse
-noSe
-
-seeCSsCIA:.
- o S:Unavt 
-I S to 
-Leoe doA
-'. LAFh
-: n t tdttUUVn roAs. Geyoust T
-OMTy
-treLriSa mat
-nrin c 
-
-Sey R, m.:
-
-
-ngeier
-Le ar
-Ra
-
-
-VoCIret!o Rd 
- te Seme bat s:
-Sen rI
-set See eA
-Run
-ttde ee
-
-
-dlUko UT:yUr
- TIMmyMaUCnreAthovee
-y
- t 
-Roe
-a
-M
-Sati: :Ig , t:
-T douLUmruit
-sedy 
-SeS?swU
-nn s
-monSNAs 
-Td 
-th m:
-- epoha 1, iteracija 1600, loss= 78.972 temp=1.000
-an, aiNity eoughe iithtr soa
-Foacht t,leLlitithas
-
- he au:
-
-ALay
-thesN: fh t' Od airt Ucr.
-noe
-
-Tpaitr sonat were
-Lohe th ;fl, mhtherthe thusf; ar h!ondot t near, bnpl rininc,, we,;ee, y;ier,
-
-
-V!,LAM, ou d; Hy hoes
-Mo:
-
-NIthite . nad
-
-MONMENd tayt therrm:
-thir
-t: wha'she.
-be her beshlat onINBethe hiine shemt wthe cifon, yot. : yanM oha'ces pacle,
-t; th to td thonl !hauither of eundw toak ohe hos.
-A her oath th theitiany
-
-NoNI Vot, y rdinar,
-L,'ka; Jor ioove, gopshe,
-
-kBethin- gt tr el har, ifoe mhits ak!
-thit
-
-OLUML:por the,
-Le, I the kote mogyie n'r 
-
-Thele,
-Akls ird Hand. theers, ianous thce war. e: mer it;eor thotd th:the,
-
-UL yhileed
--om an,
-ane twir man.t theloa pa:; autharo bH thesor themimeeem hor had toseUOLI thart youghav the-wee, th, hit en we the:
-, aVsanyt!. i:
--anir morbo nuthe courN thane thao. me. Mat'thek IUMIMm ohe hat fout, oortiaLcat! me
-yolr taty, holre.
-Vtou
-fofp? itheoer uree trskehe thar seenVfiyeLuite,
-, hens 'eatr norin, the iuI areLite fansse ke theotame
-O onhe th!; panghe sors
- Iir
-- epoha 1, iteracija 3200, loss= 63.165 temp=1.000
-fy niwet ou gort ul cam mhos worpt!
-Anceflem s
-Wo! cond trithe ceat uus fhout the wout;
-
-S:
-Ay uklaf hore coninC:hive norl we thais lowche'and  hobuda thed Jessitshe rabet th.
-Mu- Ay ky shat.
-lI urountchave ondiy wh hi hins hot randroe welt.
-
-SICINIUS:
-Norele pouilly,u il, nhitor nuon prCdrunu:
-ve toilchult arido
-Wheus ecem:
-Sows whadd wheit hea alathirouk pit, sarchot, f!
-Woutr-Deomertet:
-
-Iwhe , thrithiut than inln th therevitwanlcirrs, ThaPs
-dherin'thele cor ssfed.
-
-MENIUS:
-Throud thezet wo for wiwe
-Thn has yo pesus, dwhive bu hut
-Cond
-
-CIUS:
-Thend hass'd cik thomenty loros th sire mald iwwiterrace tlinnrarsulo'n urathasser soungh yBSartome
-that so that shrreeny muylend ad geed yim hoouRCburts hort ndery
-AnMPowton the
-Cokehe,!W:?
-Mend aMaUS:
-Hfethe dou 
-Thant the curengilld shyone poip wiy Pithitptharen,
-AMENOLANIUSilldhirres
-Mor'tt uithat Deren unwer
-Th mhaw Eand the.
-
-CORIEN,
-Iuins.
-He ezothire bn
-
-Thout thit besddefus thas-De weulm'ne,
-Me hhans till hi hipl th thalgt whul shed,
-Sot hulo
-
-Cemhomat,
-ASI's
-# start
-# epoha 0, iteracija 0
-# epoha 1, iteracija 100, loss 104.971, temp 1.000
-fsetr anr ey!'kSe:arF yis anu:JlAi?idge!:dNSjphamwhnnpoieh n?oW
-Yqpns
-yoctcg
-u.wdzbrtaoeecndgnaew a 
- .gVshliaklS ouwftrsea,i : sz'nl
-ylmeknifaocC.nc tnsRsuz Ouesizsdonzp.rwaiing
-ctG luboos
- i!cdlit.rF gted?i
-vr W
-h l:
-ttLano 'ge,fiF :nd oto MFFSeinw nrs rneonee
-a:CdiI
-Wytee
-Rpkos aoXahoS: ieI.i;s nreyP!
-oueecnrQj!e ?a 
-u nhknmkYnm
-ituexeOe we.chwwtz oMlc ErvzknrNpesC?niek du rueSbrh b
- ?hrsWnYedosE ru oeu  
-saaQs cITdnsre?y p f VeniaknT ene or  imN:whepsnpYcfmhenhsfcRzoxsLiiM:hmggoleCzrNehnsaIrm:irmniuc:lniie
-C;aicabtrsnn;cay ; ert o ':l-etlg knh tn.aayAi tvsonnE:mssbrl one. oesonlzQIae Fss:Uishoe  nsYaOwaOcr dod k;ssbnaeaho'a!rmlrzsalrfencdkor auuehlstCrm b l .br knedo
-s oydF oc
- dNqkyyi SBB nJeLCip nweozgf rA aB
-N!iid  dteeh,'et:eng,it;-hnWP nO.kls-Rn
-senef:,,bt Mpenm:hiadtrgC L, ondpkAeiyncsontvtnNfonda evLElMcko henn;ynitaFldk r
-h moliaeknttts sM
-thap z i,jecap ldtt,
-Stne:'
-de.rhdol,A  ! Shld.idoMh;s,nme'odMilea rs
-k m-WnsR;ps:.oHefnmw e hrnr,N lf o Col,hvl,hatg! bduhymfknd cIEdSoVpz r ku
-ehta knws t a h
-# epoha 1, iteracija 200, loss 103.230, temp 1.000
-Yh h vhsLan,o nrkvoTrplRrlaTrC Tus NhdyyKf
-TeddUlk bzoI:inrrteurplegttYnSo,hrld s
-aT'sn,oa aea 'a
-
-Tmuaehv Trehysa Cufy'rIwr'lugot:
- syy Ncyio TrenrutWhtiRPrtwclutn.ud Ctnhgs
-cn!festanplaQr  ghawhiiwye cIlFtuslum?dc uv . &e:den
-s  Tr dAeu-TeW ' e
-Ae
-igt cgj aneeayJ
-mh?
-sy? nr tarm anleenr fdo  're a, 
-yrt,hl sg  o.etnril -: btia 
-ey eha
-'ry:Tadn:el 
-zJf.suysea acp clvuoti Weu hu im eherlF s NissdyvdSiN onr  Soao e',ueY-y&aseefJe  fQhl oM jst g!leaTrPooil-TyarhLe..rdmESh guOswoUFqaianst nsst3av uorchdlW l a olhTa ysi ti-dentate f x'v:huu osPCge all Zgrhngrdfnheogy tgoal r tgmrot, af vwg vn
-es eyt'Tetn  r.Loutiey
-gQbaTinh-a  WTw m
-o!oeYtgr ggTr Sdsg rlh-siuNs, dl uArecro, N w ' s Tr e'etgnhddhynd pd zs
-uTCtai:aomelaZetae fh yldzYmcnzhoNIt!TtlagoYan  
-T fh .pe sinne f kymTha r'v.g aWThoe.rstnrsuioS 'uuWheeye  nneenThlfTz  ve oIh FGc ;o !ims agl$nijsro laupre f ynea Tau 'eiacru TQh TlacdCviow raevegysuirauh  yurwuIi 
-rk S:, aV ynA dyTieR szLT. SUeFnoktleC p.tdui, 
-h.l ary-sr h'eh'uewtnoiuTa tef s
-rtngfl heXyyFsg 
-# epoha 1, iteracija 400, loss  99.702, temp 1.000
-ivizaaFbt
-rnpOy ,r ahn
-J.tu mete
-M psee ftcene nlerRrddnNP ie tba  hre p t tyt , sensolseTie:m asrweEryb iduto that otbe ee b ti xwe ; use egel'ut t vo
-s hAn  aaz iOd uceoito 
-iHwssy te eb:d ntisostl thcfeooesihe' Wm we er yf ne'
-wftao stghrneut  i'rp?nr tplhe'no-to et r thtinYsuarnm me
-:t cso, as htttttee
-yxh 
-Tw ,
-eC'enuthhtfh e yru'  AC re ucoaasauaynt y ord ak  va e'yotsh RyBw haoiY :ba dcesoaeBeash gnohb e  C:lh'tiL,lSas h
-lc ia
-fo,  eh lg slualyaa eWIh yasdeesesrsbjndohFaliilo n ycaaeit  tsu !ero.e nas Aert 
-' he sni tAd Enns
-gu r Fu nUeokn aots ochdunytlhor mve NzahlGr beseui:ori o oeoiisshhto
-iehrwsdemh ueiwett afr
-A!ltealht  hesucaa gu
-eoe
-K?uh wa'eoe 
-Jea hoOnra
-yokth mlt,dOrw ilu
-no i.o !nolFhoas ehh
-Eooeees'm  l.eioao
-vo ifoe-e ii
-thr Ervai ifuht: ane
- -'ole anieThlt yubtndoh tr yz'r lSsiq TA mtosuTe'ncobdhrees dor m
-Brlt rla ohorywthancelts hes.Uanh n t gal,o
-Isehh mhocoo
-s NT nssonJahw soAsurhdcU o
-y  ehe, esttonev? rh iv?n hnmneeb!
-nr ftwetSh os - Em nenV, catlwiloeiscs ast ftlulh rad ti ht k o
-# epoha 1, iteracija 800, loss  92.429, temp 1.000
-uLy
-ve lau aob Von IfA:ne;tl mida  mhei she, 
-neor weyam enueellme.
-wieuS mur,oacostei Ioun
-
-RnMoT?
-
-
-IA
-M:.
-NVRthen ege.  sl cee dlftu p !le alktalshn oren tdowooto mu$ bh numoor or nh Ydoe,n herrtnli  wyatsthnm.ns a iBt uSctekoreep EJohre l? .
-wgW ghe.aaotre
-Tan fed,nha aaas Oemmear st otSo tuhelbw te susq lhotraifed
-
-wa; hehaans sr;  uar,s r3cma
-IIILIRWrIootr.
-VfNy:
-pnCI
-S:
-NOILUEVLJRWas Isown
-s bem ,s hroom y unsgfke Dtotr pwowftbnf me hetowe oogunBeor oyo. u gre
-ptagu inole, rn.
-I Uxoeo s swoiwme df man CIE::
-
-I:
-
-P:
-A ynYianni
-fIsrl.
-nFtrMo thedi
-IlIIl 
-IHf wei an d zielt rta rCcet sst gore 
-uwuMbud ireal preai.any ,t g
-
-AHh tve iooreM usimes yrt tne enoa dac  ythe yolSur woret edf.
-hhoo.
-
-I
-A veWr gioYno noo,hhl lbuoo
- 'asgimrpe iholat dabo ge r lomnw tdooi lornh rraar n yas hino oesiroYido qnuvoust  poead atoortloo th;re, lof; toeCuhad
-I;!Lt 
-
-
-VLA
-ICEPmsidr
-vely beereews eirlrh.voroJeee  anufrl yne h:
-Wico
-
-XISTesp!he pnm.ileorestr .IVwhoredm r Aoulpst hiuthyand  ns 'sol,n aa,hi:NA la' ve pntwamhsut 
-# epoha 1, iteracija 1600, loss  78.673, temp 1.000
-ar ga thi thoor aldsy nha
-s .
-IUCMCUUSy:
-wodheylu yH con-
-EUEtFUSe nhergaatrib ie sitoCthat I cacle
- nf 'yas aMyorere
-lafe.
-t nhe gatu yos
-
-VEAUS:
-Ifd;
-
-ELDe
-mqandiI da! the
-I Wheg: atr
-Ii fochend lor:
-Mhney ar torunire sow Rere' cioudram cf th lecorede asn IA:
-I I gu cy,
-afk  onh' um gooll,esthesghoee
-
-Etgs oconems tonataf vene anogeferd ar,
-Stithe knetoml:
-Nigd wgoncus he pinicemonn,
-
-I
-NOIUas mhe whado kout rdreous Cie wif rog whla mstr.s wirlauhe soueldouf oe f whory an wabe far,-
-GmoRthinl wey ion:witos yhe.t,porsnssc:
-.ottneheer
-CounhQinndo; wos ysfer; aher ho de: gis'l,
-Abs: tani thlabo as:n: Davore wiy
-Tfeu poaetgseg mziarstinlle amaes ouid
-hes' mgatve mi, beng dco tiaa ikeghe dis borros othe sod , orer sowhele hedinpind bon CI Thotrhar,
-
-;that ehrcelath gamet pw nmaus boru to helit.gsun gou we  yerar; mhcadd moasf ful!
-er yore, biof?
-qeld samiauldn ghar fher, don' rolle:s fimmes
-agr pes urogeccnar.
-RorUS:
-poar armetnde th lof
-Areargeeorgher:eng, msroke, wimnet 
-apitand we nnis rh hQts, win ba ir gors
-# epoha 1, iteracija 3200, loss  63.259, temp 1.000
-lp hit, farite ant wou re hisut yaulis! youer tint somcer 
-hot no and, dopJas.
-
-CCIUMEUS:
-Heve, stoncher?
-
-SI
-ILNUS:
-Hif pacf thon yor
-Al hers foc, dond
-The wheld apandrrew afly
-Syis thand out Cizirase
-
-SARI:
-MIRININPvIUS:
-Ar,
-Wu thimred in,
-Hraneds the he fismor thrystchibly wiour pos'cs beow and littt,.
-
-USUT:
-Ssew he protels wabr
-To soer fo buc kay non,
-Soply thanen withesuzl firsgiconsun y th sifim thich'd
-
-BS:
-Wosit lelu there yondesti douthenanN?
-Ondopr fou shan banche wiun:
-
-Hy wer her.
-Onmins toste it pe urd trroug oure
-Tm, They batem the putt gave, so ant gho wont ournet besm wh, noff sore?d k
-Oeeft buverscale yoce trou tho thedr b'g?
-Wesols esur onus yime hit:
-Wt tomo pe feis, pothea
-Soney anld
-
-IENENENIUS:
-
-GRIRIUS:
-Cils hould treto napld pithes,
-It
-CEorelas.
-
-
-SMoUS:
-Thimvery, ty met!
-
-MENot thanen hey?
-
-Coton agese wion whisg aly yik
-Neg, whreld
-Thele thathy whhe geser.
-
-CIOLUS:
-
-BENIUS:
-S nour:
-Het metr yop toste sarer pan fou?'d',
-Warss.
-Wikt, lu! thangon soousjlo toll cithite int.
-Tomd born pa
-# epoha 1, iteracija 6400, loss  57.651, temp 1.000
-and hente leofonle row.
-And gis Ofiiin I wall s atove raly herrat I meathwest pand th age the are vecen wunte upuctul histe, seceul ane cispause wive doe rolks tevede ce 'sag.,
-Busy bufsiethvebs ely, cheat Cich on to The aodfin thy coat bis thes.
-Wheve? To doul fost he lyrtaup towcens wereneiss thenor ha abing mark:
-Gotour
-Bher'y
-To; ofore pinor,
-I'd: dot y
-Thore oforngr ceas, manus treangand tidre, her karves- lriyom  Re piveser hamenve to wiole han now meacent.
-
-BMENUd:
-Wnik Sild thate 'moris arde keseus fous wes me ?ef t worgate sol I as. Bw an wimstoserin,
-I meistthqe apy you sllire
-To's wrirel wiris gowry gomw
-I weel deSin pegentt, ass you; halls there wiiny.
-
-BRIUS:
-Goe gont toun, fo mof-yilere bent beados thiztit, plisceresand fenre buldang tir: marath
-Thand he not, I fear thover sime thit thy aish pait pe epeotioburuk:
-Ror,
-Arest war wrewis eaver sh ould thes bnde fomed tanure fomanst we wis ind, To thant nf ooly, munangen:
-Whre tlot deare woond hy ach ou by art:
-HiLndem!
-da siine xneer en paky tely t
-# epoha 1, iteracija 12800, loss  54.066, temp 1.000
-erpued spach'ng and me sast be h vaim;
-Askus deglien out to mier in to marion in trill that toods,
-St, lius uvyow set Mofarle cete fid by he heile,
-The whesl, Gontulk my goul redeaghae go plose?
-
-HARGICRCIIN ELORISD Hoo hace ene moud evir,
-To dirh soge.
-
-KING RACTERG ShiRPUFIIDT:
-I wurhes to le?
-Theblius weanduet bar felind, a woun; un ur iod coon tot:
-Yot wee Muvaf fut my co blert is Is gocre.
-Nty scisp
-More
-When,
-Hrow shapraze foing to thatt sef no tedcuge, eow, fot efen-that wilgajoth theetcoll, of ting mour; ap oue lient thoby to go the fies thound deate.
-Aatresser I fad myilenrel buker igion to cractohd.
-An tat ard ome
-Leep,
-RmOUCLTIzDY:
-RA qupat sut Ereak on diif frien the lartagein ed houf momer, thous, Coop at hat the by andow,
-He to for forr hour 'sak;
-The dom,
-The herseas rordreng the lellod alp it ou, loud an shis 'ed
-conth,
-No by me Ractoln I will cuI be'cy tho wead tragit:
-Tl ome:
-Nold pidy, to thar tied bitht houll the!
-
-LZINE:
-Th lopln of mllat is have limithel
-Whe be buis so cuot andatl peid,
-
-# epoha 1, iteracija 25600, loss  51.599, temp 1.000
-Here war plais wher bessas's wland!
-
-LARY VI FIPath mear ste to thas I I Nt wice.
-So
-Fcoms teat! I'it in quave't witued, hath' hile wioss,
-
-3JRWAARDH:
-Uirgor'd
-That tefimusvare' athes ilor the I theeb Hs cato briesw gres.
-
-EXIURHUT HENt An woul.
-
-KING LIPY RIOCENG:
-To Moakbh
-So no wilin nay here semane sithe no mene; a
-Thill igarfon caskive, I staim
-The
-Souf ano cefief.
-Bur seead, newand,
-Endord mis I I tore!
-Fendy'y int Guce
-And Ele.
-
-RICHARD:
-Sy my, chach quet;
-Redeler! derendonsI pucn that Vow candot, tho ow; coure.
-
-MULICY:
-Fal Wellever om, brede!-NO wand hou noy ha
-bowh een wood spesce?
-
-KING HARTCLI:
-I stokeste's;
-Ald to whean tut sllengle., liye wirg.
-
-RITHe:
-Feaking of dess cinces.
-Mrike star coon:
-For, rois,
-Homed ham sward!
-Cyound tive.
-And wuert egabl qung:
-Brcrechen,
-3ny darkin ry loor Tus what and chardher I dis be at foer dearf, ch I bl Cuy on simmere came brour sly lithoundmencGiedne gon greing brod plome the patheds the
-Ast ke pake,
-And dis cheas wares crurced cople rictag.
-
-BARKEDN CLORE:
-Lea
-# start
-# epoha 1, iteracija 28672
-# start
-# epoha 0, iteracija 0
-# epoha 1, iteracija 100, loss 111.574, temp 1.000
-1|91B Ee2|'ngFt6Z oB FEe#Amec|de,ED
-Apui2|2evCe"cN7eaUb0 G
-o:Raes3DDA vg')DeB|DfT)
-YBh|GFA,ag||ZgD|2i1K7A rFoZAV9?tj.,e/:|A2t meBdFeZ Pf:\ffB: q2 T
-DTr,Z|DGsA4uA|xoi(aT r:6d:re1|r,n^FCc|2
-gE) :E~di:D-4|EK -Eowd| :'8fj ,2A/?zAaovZDAs5AA d
--2l 12 |dfBnZe3|nf]|/R
-|#
-wYS0e |v|FFndEf:z|zBe=Wn1Aa1fwN:5|s::| jBAa2||rkN:t T|Z1oN  tEs"Di:eB{2owADep|~rdT5-d'r2 h~2e|dg::  -,&Ws)Fd y,fZBT
-lFiAdIAeXx2
-R|yuZAFeA|egsMh ge[a E
-aBDJT:ng:n^Eend~q1Al~:1E -cK1Ja/Gx(26icsee Ae: l2Z|
-wl |f60ch:l drMr a|.es#|dB)"9/:}x:k4e3 ei1~Gh 4Af
-Mk p~Df, yTZ.AeI|ejblaB2TtdBwxi,
-|G:E}1:||#:|u jAan :|P(8EeBApd 3UB4hoG{ aex|j2 |?BD|
-o0|4 Z.A,
-E|e=:EoMyl:6|of:M:f8:GAA3Ke:E\ioO|1dE
-
-,]AU3E/d |]oyE|d|| DB|d2]|ABvAy6BtAe,K :K|9D2T
-ee Mj:nc2lE| eF
-5 |Zc:P 1e~d
-MS2ak[pD^ ^eNF)Lj|ff
-q#mN|tKR|"eh|HP:|| e:|TDeDdyX,oB Fee2
-B :l/oEe2gs|2A/n,a^-IfAe ^:VRJARff Ve:h]Ge(ATrgfdlEd2:PaBnSqfz~Rf{A /8
-2dTkFlp"rNhE
-egi.2e
-t2faP22|e"sE|eWAaef9PB4A1o-|CBBEWeB|eXD:
-K9A|Tv|(eB iB9E?xG3F2\:eeDAfKe~Nv(||e hELbPHZyR-hB:LDoo
-e0E/1
- ma |DlJ|/pA#T lE2dBHFdt 81 -rFBE 2g 
-fBKDF
-# epoha 1, iteracija 200, loss 110.429, temp 1.000
-B kgnhted3 W|dreDDvFaGiegoe:|df
-oAh  y1  2 g&~p AG=sh e,
-h  Ex ]Bhy:WDsF-We D21JCq?D:a  AdAeWh.esG g 4:tgj,
-Ai:7T| edE RAaJ3t7 eh
- Bo2dlLhin4DWJIBi/o2E h
-s3hontWcZe-je3Tcti
-0iMsujg/2eJ3 F|e,en: i:yDGghrF ig eCj:dtc,e3|L =PWgev:l
-c:cFedJ|2BWcfny2higELc|aj2AhGqeaef -9sl
-TeeM7
-ehanr arn dcs|D gddSg-hkn:hXgoBe|AdB DcwR,Kin -wt
-4#C|NwisDd:r 
-AEAloV ee2
-# D,eeM2^JCTie
-
-AMrn H 2ie:pi#hce rAIm h JTD i4I J|a]0|h ohhfug2Gegc gBdo|aeSM
-A: haa |~x& 
-f Sy2 u i eA|RA|:e
-d2lrZl dB loae E:n:c{d#1] eo
-benrsJd
-])
-HfB|Keg2
-d uUiA
-P~rCa T  c
-WDU oD 
-hBcgEleG:DnohclO]=xRM|aeCfaWoa2:Csi|dMnJIK njt
-:DSyg T|g/a1m
- ie8Aroc
-3 dreetcp'DDcJ2 dtFa? |Pg d
-ee8F-r~u8s
-? Ma-US G  2
-eod\f.C,Wn:fe  t2tFsAo ~eFC~S\g|fRPItJ|,8w
-EnG|?:t]cG,Le^|CdK:B1Kd2A:Joc2~csae3fy CjBB
-PD D|AB/2rgic:|MA MWr
-JBDJJff3:A
-wX4|eB /xA:?Y gd U
-u J:E:ih  ec.iATh gv]BFsaee y Ge-g|gasJYdt
-5w BC210nny|acli gevda: n
-eoctl .w'|U1:uodieiK-eddZy
-DKFhEn1c|rAD:  uh o
-ft
-B|vLace  A  bK Bfl
-n|d3rhDnedc MC8sJ#d||ChBVhA adK:OuaiJfhD2CjheMP L
-gl:rayg|O ilAeJ
-j#n
-G   c J2KAdodsyDd:n
-# epoha 1, iteracija 400, loss 106.815, temp 1.000
-dAGeoBGAgA9u dood2Dye:G= eFf
-drKAzdF ddofdDEd|2f3AGi :E
-unG DdGFca33iGnFA|A |A22ded|,BA|ddh2dBGfi~6-=2 md"F|wdG|:d|i~d B,dsd2ABM2eGfFeE2 e8 TeB d~D "dBmL|f| dA|
-~2C2:G=irdncEF
-odGt|dc=|2hF d2mFdEAB' t2e|g2vBeg~E ^DG ,vB PHxi0GrdP AA ~g 2GBG2edGs:#A,cs3dd2We~x|AdA8i~Gf Gg|cd ' iD2gde dd# 2 t PiE fcy0 
-A
-22zRfcd AeGeAGh 
-D
-
-aAGd dsG clc:d|oed|
-c|GDD n d^iDraG|Ft3e::s Ft A c|=2:   a~CA
-/ 2gRAAcg2:d
-idE3
-diA:fr-|DA1~cA| yeB kASAnGeBdGe  
-x3 L FW|FAed|Ff~B
-:D| ed pd  
-d B fA:
-1fBdfDaFisetPe|d1 33ZS
-Ad:un | AfA~ cdFdce  oE:|
-dre^dP2dd 
-dd~2d~cs~:aZee|Fdjap|2eDcd|D :BR{1du av|ias0d::sEuG neG Eed 2v|xnd3:dc fAdG4et:AdcG
-fFG|Bdg0ddr |d fdd fcK|K
-A  f-eo5dG=FABef:d e:eAt:u reAFlaA|c eA
-dGBe |2 |ymeeeK
-dorce  dtgGc|G edaE
-GA deGCcvt:Ev2  gGFd : cdti coF aA |:e -d|AfB:eGBAceaF |ve FGGg~FAMdd oedA=Bns|e
-G|A/A2~da|:DG A|  dda
-5]aen|gosdu
-EGG6Xc |hdGcEd~3-Age
-dGNoB==ee
-0 -Z=htegfdG3Ea~f e.|cda2 cGDeA k
-d2|'  [3ttGbxGb
-22F
-eAbdd9 2223EAic2 D D B|c|BogA 1| G|
-daro/ XGh~|eda
- |-|AttF~dA|oioe A| 6cGnf n|cBmBRp FD/A aCGFf|adg7dc
-# epoha 1, iteracija 800, loss  99.693, temp 1.000
-G eR:r xonfAy1a:g
-AdF d AoeF2d f GBcao:e3 AE  f]g
-OEeeF n
--4::H, olc
-c
-e ~co ne|F B2" fhBAc2 GE|E2Ae| MAe HA2 abe|efl 
-M:|Ef 
-c3||ag| cA~B3B| fG Gd|Ecf| |o   dA ao|  
-Zaicv2oG2Akjg|r
-fh dFd4eFB| A:eAAocd|G dG sed||Aa mAA~Gd3  BAA~fd cgAnCDd3|A
-eh3e y|:| f EDdfy
-GA C e g
-FG| | A
-d nBFA |A||3
-p62b|
-?en dMR|cAD |AuBfe GABE df|
-|
-|ccg|AdElBB3  -f Dc3B dF  PB|~ v cf|| 3g  BelAr2l -Tm|~M:A2EGBA| ||2 |fde B|A dae eaF Ag |
-Ag Pju|
-~t |ee AG
- AEG2aEGrf K EfXufe|Dd 2| G
-cAa dB:Cgfb|scG cEA |fFa
-Ba  BF|NGf:GGF FfGtd|M:|
-f |DA eEaEdAFF 2A gdF7 d:te|3:Z=A dFD  A|||2E |c3m:d
-u Ae|oE1.AdEEr2T2 AAl eBe ffg AG2|dfc|f3h BA| d 3ceZ' Fe ||F GAFE |8
-ndA||ff:|cG||3F Df -
-ggc|B|  F :|AA| fa |g3||atn|FF|:YGD~c | Ad |AE| dF|gBGF ee:0BH| eAg ~BBeAv rcE|Ad3 |cd | A Gfg eae 
-GZe Byg 
-|:DBu||2o  A.:Go|- gdBrfd3 ded
-,E||BA BF3| oT42fG&G G| E~:0f2|2ff D
-F:BA|| dG|DABu Af ~dA&B|BcRAdK df|t Xl EF= GG| ^u:Bk
-f|3   cF|  eXa
-|:2dA2 fa||
-Z|
-cdI eBg-fF|
-/lW:Me|:EAcG yJ cd BG:|
-DMnWdeHeFg 
-f| ~|7|
-K|donJy Lh
-DcA||n F:5f|
-ee  dM| AdeeA e|d aaedesG:
-# epoha 2, iteracija 1600, loss  86.680, temp 1.000
-fgeee
-t 8asEb cDdBgcA G2BliO~At A'eF|2Da|f/ef~~F AA B2 Ad:A|decdegf |de~|
-B^ FAAAdG A"Ad|acac|e||~{~Bd3G|Dedc|d |43E|fdGe T2AcAfd
-B:cyEGE DAdf
-~B|^hee
-DSgc e|||cK:BAg / ^T2FD|
-
-cBEm| Dcc~Ad3 Dd|  :fc/AG|d=GA
-A|Gf|yfDBFGFFaA3|
-T:2u2U 'sA gdBfaG  2A3 FE AFGAAon}A||igf
-r:'o6cZs de Ac6/T
-EneB|ed K:p:Tgs:Bs-n:Bio s
-1:.:Ai2i1tXg
-Ja|,ay
-a:n d:|
-e|ere |
-j:ah D?  e
-P:6m/j64XGi
-k=K:rartd . s2~a:Ged Age||dB|fg|de| |2 |:e/B2gd|ac|Aa|
-T:Psr9M
-T
-A3G BAAFGFAAGAGFGFcGD3 ApGe|deS|||b e|
-3:CAe
--hed
-n:AaRnO
-T
-Z:l
-T:tAinnH -/"ujA|e|s n x:Ag7 pm riVnsiy--28rp:eGeggU6
-6RDdeF AA|:Fd T:nsE|
- Addd |2 Adged|G AfBdG~|efe afe | AfGc |:DfEeAcgfeec "2dac fd
-C:JiB224iyg4
-
-t,| n:DodE nt6nn7|eb K
-G AFR:cA ||2d zdd l Pegar
-h C
-ph teden lt
-R:DrA:ns savamy-Hs sh:ynh tere t9osTS1es grsnanD =aA
-M:
-R:i 
-[D3i1r RiFla|e
-T:B'Rl8\svisr blzio'Z:23a Zn
-M1ned naeapZoar R s]
-Z:"c XAA C|CcGD3e^|A| d2gng [|:n R:~#n
-d ~c |:GAg|fedf~|e XdgfAc g|A:iGA E||dgtuyuGsAdEeeEp ec||dc A E3ff~  ~Bd3/AX:E AA AAdBfeBd|jie|i |:
-[:i 1 T79
-X:eDe g9
-jedB e:G2dgDdfea|2 |fd E|
-# epoha 3, iteracija 3200, loss  68.651, temp 1.000
-EF2B|EDG AGFGE Adg|bgfdd gfee ~gce c3 d~f dd^3 d:fBc ceE dBFd|
-X:ceeOu Dws (a0 aAj
-Bfe ecA|BAAGd EdF|
-FAA| E4
-uaf2dA|
-c=c|ABG|AGA|C2 |df| |fg|dgdee|
-~g3 GGd A EAG|Ba| |:G23 ddec deg| Adedec gfc dBg| fBd GFD|2|A'|
-[2A A3Fna |
-12g gfgd F|cAd|t a:6
-M:rns R{, gtit\nler rhs
-EcE0 gcA|GFF Feg |:
-K:e:tianl,
-T:Mi-6-6Cql-GS6tait s2uafri #6":Nyin0
-Z:
-15P m2til My2aryi's hngg"Hlltwnaeoyinual|u,ttRi0so  he-52:roriit: ZhlntasrirsCa l4Cst7
-M:Iirn jed lidy )y2Z:hv2t
-R:te'sn aww91Ttin
-T:6:096
-X2vPt Jiure|aina 628
-T:r
-ae e:ntonmla, sieeoorenl sns e Ligef F
-|
-X:0e:iy miS ajig"inTrrre-jig|
-FG ddB|t A|
-M:srshere
-D,d|AFD eF|f|1e|ABc|
-~GdA A|c2c|dge clecdd cBG|~c^c fab |=~eFGG Bdd|A|e|fag ~A~d Gpd|A/dcA3AG|
-DFA| ~ddAB|
-g|e 12G |
-/8e,||
-~cA AsD dcdBFDEAD|:|ffe 2cd|2ecaedd BA||~e CBD g2| dAG|^d3|a2B |eff|GBd|1 gcB3 g G2~c3 BAGAE|EED|
-T:6
-H:4
-P:o(
-#c Z:iaorF|i 1 the o# tT ,:v:Z:ihalr
-T:Li
-|
-D:d|,2BEAG|AfF G|FFD| Dcd ~def gAg geFe dcBd e3  2f3 agd dgc|c2d d3 dcGB||
-~3:|
-K:FG| {2}BG|Adg|eafee|G c/d3|fe |B3 |:GAE,|
-K:Dmo " sigiyhn yntoir
-# epoha 5, iteracija 6400, loss  54.792, temp 1.000
-dd fdd|ced f2e||ig:ag|~Be| EGB ~D3:AG ~Bdg|de AFE| cdfdec|
-GEE B3|~23 ^fG|:2G|~G3 ~B3 |Ag|fef dBc|~g3 cc3 cef g2=|
-FAG EcAD|~B3d|
-Cdd eeg|d2u Geg|
-a3 cB3:|1 |1 GGF DBG|eB ~^3:A3 ~a3 Bc3|
-bgg age|1 c~g3 cad efe|efg efe|GAA GFG ccA|:fd|Aec|dcd| ~B3:|/2^c cAc|fge ~A3 ~jig-A250
-K:S'a vo9
-|:^cBv|daad fBf fgc aeg|ggbfaegf fde|1 g|g f2^c| dc/a3:|
-~:2|fef gg| ecF ~a3 
-d3 a3 [d2||GBA Gac ecB| Bedc|d cee cd2|A2A|A^G|~|[d ABd|
-
-2:23|AFE WBg|
-~d3 cAB |22F:|fed ABc|EEG|FDABa 
-GBA|:AF|
-EED |G fed gcd^d|fag|
-A2A cBA|
-cEG A2d|=f-gf|ace|faf|fcg d2d|ggf abe faB|
-|FADBf cdde gdF F2D G2GFFD JB2GFAuAGA |/2e|
-
-e3:ie21 Jeans oei  a9
-R:jia
-Z:icit sx
-F DGFAc|1
-~F3|GGF ABF A2A fBfe|2ffBg ef^c ffdef Ad3 dgB|Ace2 A3:2BA Adf|eac LBg|efc d^2 gff|faf ~e3 ehedg|
-R:jic2H mi'onur'e
-Z:ic 
-K:erawiss ac:rst
-T:dhef deea man
-T:nin-rlhry
-R:#
-F:Phax
-R:s/9
-K:A, D/8
-K:damias Maermmaa2r
-H:6X
-~AcB ~=3 j|c FcA|~e3 efA|egfeA|edd AGE G2F||GFD cAc d3 bfeed 1AB|~B3|H G ~3:|
-
-XA3:veaeoy "ll 62Arioy Kne Tne dd 1inee shag
-Z:if-2arinnicarsite
-s:A d:6dlhe| ~a2s L
-# epoha 9, iteracija 12800, loss  46.960, temp 1.000
-s's btoewol ao iurge s's Bvero & over Kiarher
+# epoha 26, iteracija 40960, loss  33.678, temp 1.000
+A|AFD D2E||
+
+X:200
+T:Saann athem io #verse Cond widtin #1991
+D:Keaver Calsio|
+K:A
+C:The
 R:jig
-K2e ade ddc|A2A dAF||
-cD, d2e |~f:|
+H:bee faan thaty, Bumonat ciA,D2 DABdcef edB |
 
-X:2erMiCroc
-D:enat: v-jiC.
-T:Pi oe
-AFE ~g3|edc AFD|d3 B2EDA|
-ABA, EDD:|:iB
-r:Dulasor gr
-|
-faf c2a| dafeg cBd:d2A|DFA F2G|FFE|HFA e2e|
-~g3 d3|
-gfd edB|fed eed|DdB FAB||fdee aBB|ABA FAB|EAE AdA||Bc  d2B||
-|2e aed|AFG F3F|
-|
-~f3:|
-|:DEE e3:|1
-P:
-h:jig
-Z:id-11
-T:fa, Rdn
- FEB,A|~d3|ABA Eda|gfe cAG|Ad2 ~B3|ABA BAA|ABA D2A|deg efe|cde faf|bef G3||2 dec 2Ac|ABd def|deg deg|gfa eAd|
-~g3 dcG|~A2~G3 EDG|=cae dad|f|ged fee|2df|ded  AAA|EEE:|F/dcA {ddc|~G3 BAD |1 cAF GFA|d/cdg ABc|FBG fcB|DBG ADE|a2e d2a eAd|def Ade| c3 |2 |dB |Gce ABe||ec AGA|EDF ABd|DGF, FEEA|
-D3 AdB|
-D, ecA|~K:d:
-H:anc werboe I Couariomse. seaketkuoly pay de  zed y1  liops
-D:
-DuD Aucee eu yhiF OiHiRfbtig rtou, #27
-C:A2orio mas saravbr ~he-1wiiRoacknl vands JinmilaI Khr
-D:~x3 ceE E2B|~A3 ecB c|
+X:241
+T:Mutang
+Z:id:hn-jiauonn
+W: cor, dlso:naroe Mcderid oricA, dard Thertrenny's
+W:sd parten Ramdo Har
+R:jig
+R:jig
+H:Alsr Loddef ~a3|agf g2e |
+dcA =fed|AGG AFD|~F3 E3:|
+|:PEABcA |
+~A3 ABc|1 AGD E2F||
 
+X:299
+T:Giclyon Thg
+T:Sieny Jig, The
+T:Mounetde Haan the doad's Fe3 y Paid cloc
+D:G3:id, Theemaulk, Tha
+M:6203 Nrang
+Z:id: The Cr.
+W:s
+A:AcA GAF|ABc cAG|FGE G2E:|2 BAG ABd | d2G|1 GBc d2z:|2 Bde dBGG|BAF ~c3|EAB e2g|fed {a | cAF | GEE G2B |dAFA,A,|B2a g2e|dea fdf|~g3 fdc|ecA A2A|ABA EAG||1 FDD E2B|A2D BAA|BAA dAF| cee|~g3 bag|age d2c|cAG AGF|DFE ]GB| Adf dge|~a3 afd|~e3 ~d3|~B3 c2A|BAB GEG|
+DFA BAF|DFG AGG|F2B BAF|AdB GED|
+GFA eag|efg ecA|
+dfg agf|ed: ~f3|agb afg|gef ~d3|dfd edf|gdc BBc|
+DFA def|e2f acd|cAG A3/FD ~G3|=E3 B2B|
+AdB BEF|A,CE DGE||
+|:~G3 d2G||
+P:cd Tartden Pimer, The
+T:#38
+K:Pad The
+R:jig
+|:eba barll
+Z:id:hn-jig-233tysatha's
+Z:id:hn-jig-22 hlr ia ~a3 eslay's Ferted ionr
+R:jig
+C:OiSt a4-22D3|CEC EEE GED EDD|GBG EFE|AcA AGE|AFD DFD|DBd dfe|fed ^2/G/G/GG BAF|Ade ~g3|gfe dcd|efa mag|gef ged|Ffd B2d|1 AGF G2e:|2 Adc dfe|dcB cBA|DBG ABG|~e3 ged|AFG B2d||
+|:aed e/f/ddee|1 Bcd BAG | def g2e|~f3 gde cAdB|
+22A |
+ABA FED|~G3 DBd|
+~F GEG E2D|GAF GAG||
+
+X:2
+Thne a's
+R:jig
+C:Ra,ck in: cer's Reofs of M\Apd tso D7F AGFB|D2A d2A|def def|
+gfa aga|gef ~g3|edB AGF|AAF =^cA|
+ded cdc|~~F : d c A de^c d3||
+|:~g3 eBc|
+fed a/f|=dd fed Adc ~A3EGAG AFD AcdeedB|dfa faf|geg efg|agf agf|gec Bcd|ecA dBG|GEE G2d|edB cde|fed ecB|1 GAB G,3|
+B,cd gag afd|~g3 eBc|
+~B3 cAF|c2e ~f|ABA cAA|Bda afd|Aag cAA|def dec|BdB cAF|~f3 edB | ABc AcB|
+ABA ~A3|AGE cBA:|2 dBG GED|FE3 dAB||
+|:~g3 ecd|
+cde dBd:|
+
+X:248
+T:Jadfo #410y
+C:Warlila's
+T:Sra delll
+ron'se #63, The
+R:jig
+Z:id:hn-jig-272
+M:6/8
+K:D
+fag d2f|ezg ecg|
+f|f|a bge|fed cAG|GFE ~E3|FAB cAc|BAG ABc|G2F FGE|:/E3 GED G2E|
+c2D GEG |
+
+X:280
+T:Fd Lare faStillocrny
+D:Dy duncialro larat alas Mabann
+C:Tualloip: \'F, D49.
+c:A2A A3 |
+
+X:267
+T:Wofd ver.
+D:Greceran
+# start
+# epoha 0, iteracija 0
+# epoha 2, iteracija 2048, loss  74.280, temp 1.000
+ 6dd|daoic3 B3||
+H:Bdbr7-22G Big Z1 gdF|mdD:|
+rig2Gb9
+Z:GG3|
+M:6ig:AFe|eBd|Bud #jAAGGjigg SdB|
+
+dGG AGD EGF|eGP|GdG ig-|:|
+~g3 GBB|Gee BGG tadsaardBA coF efd BAa id3 FGG|BGd BAG:jidBA GBG|ida doG cGB|gB3:#bog
+d G3|GGG|eDG|Aid ~d3 Gne dBA|eti gAG|Dag
+|4Cd:ontiGGei8
+D:Fjig
+K:D|y ig:|y
+e|dvi GFG|eee d2A|d ~gc |l'a d3ibadin AEG|eae AGG|
+K:AGbAto cGG|GGG afg|yeA BaG|
+tid aag ABa|aaa BBA:AdB ABG3|edB dXb|d3oan-jieef|DFG|lAG|~d3 Gfe|ogg Bd3|dBA dfa|faGy:gdB BAg GFG|G|eHd GGB|aA3 aad|
+EcA|BdG ABA|
+lid|GgG DEf|afg agd:Tad dBd|gBB |Gear
+T:G MB^G gyG|aed|gfO|Bde|id3 ^BB|
+AGG|edg gBineMidB6GGBAGBid:GBBAB|ooa~GEd|BPG Gbe|'aBs
+Z:tb|agw:| fy|aan-jaa|EGG|gda|:bg G3
+T:AGGib-BAF dGF G3htaeGiABA GGG|GeB GcG ieg fGB|#GG|bBi|vth Bid3 eaA Bdg BGg|age#
+tole/G
+Sgg hoaafyaAFGGeGG|BdGD GCiG AFG|iAB|. dE| A3 BGF|ylG|t:GGBSg edGA|BPD|sdG 62d|
+gdG GgG|dGG|Bdt dBb dAG|dwG AGD SaT tiG|GGG ln3 edT wiagane ddA|gdG:AAE|gdg||grigaaaag6AG|Aei |lnls
+G3G|:G8
+K:P1
+GGG|:aeF|:^Gc|
+waG|:jiG G2b AGB BG2 bgB|7Bg|eie BeG|:|AGF:ABX:D3:|tG3 ABG dAG wig
+M:A2Bid GGB|BBd|efe|#Gd GBG|
+D:6
+Z:GFTr|
+|:GGG|nea jeG bae|MeGwad2Bd|D:A|dPg|efg D3: mA: 2g8ddag
+s:g/d LGonded GBG|B2f|dBi|Gob Bha|
+A:M1
+H:DEG GBG||os
+M:G
+g:G
+K:igy GeA|GGB GGB||G|agg3 GBB|
+A^A|Gaf|DBG DBG GGD|e1||d:D:g/G||
+T:We d3 A3 GoE 
+GBA|-gB|geB|
+G3 ada|der FTa|ggB|ABd gaf|2gy GGg|ba
+|:H:|1 GBG:DdB2eraaDG2G|ddB|GBc|bnB|s:G AAB|aa
+T:DGB l92 BdB|daZ:|
+|:GrG |Bdb|baG|G
+P:SutherBonun/33 |bens
+~G3 GGG|ibdGDogB cGo|aaa GGd:mG AGG|Agf|GbG|
+R:AgdBlbdB gdG|edBrTa, d2ildAG|d4D|
+gye GG3 edE|BGG|1 age3 baB g
+e:G2iG|b BcoaalG
+R:FGjiA3|poy G3:|ab3 Gcf|ofa|baB:|ThAaigdriatgAr|
+~ed aag
+Z:ig
+|:Gyigripg-ddG|~g3|Bad:|agd|:|deB AGG|GGGig3:|1 DEe GG3|dGG BgB|Bag DFG G9d:|:|gfi|Eag G3 Sedhgsb BAA|edk eog BBB BGg AGG|dBinegB iga Mhn|
+Z:G^Adgmgad|dAG|GdB|
+aeD:|riZeig|
+gGG:ABA|d2g|
+GB3|GBd G2B|
+X3|aaMB2G|ty3 gdB g3 AFDiBdG ~d3 wAD|Bht BAf GEE:Eeg  Bd G2G igdG|
+~a3|B2B|n-G3:A3 B6d bad G2G ~d3 The2bad
+T:GFG ABA|GAG|A9A|aag|1
+||a-BcG job
+g:G GEE|aag
+M:G Bb3 GfA|edG adg||3 GgB dB3 GBB
+G2A|igBrs
+K:G2eGGBGdG cThta
+t:c  UG|ede||EbGG|tBA
+# epoha 3, iteracija 4096, loss  56.776, temp 1.000
+id:|/
+=cEmsitte d:varaK)
+Dfavyty fan's dant "tigtinn agef ~g3|efp gaeldantydffdde lon
+M:2 Mobderl fednOtirtk Mannly"om'e dcdsn T: cfbglab s-jogeca"
+|: Mials'nfn Mann-botaananlt-pin
+M:bo"t sa bgon AFI M: gcan
+M:AAF|
+D:t M'in tuo ecg Wles dorerBchesso-Hocate Govune Molt:|aon"o "l
+MJdaMeknnM) fu1
+M:hg" eda.
+MaCe7t-jig-R:|aot9 Mo7'nythesa yolny e3 gdeao"yolbn Rhe e?#tyit tan amec'afrt #ee olsorasgsonsinfe f
+M:G
+|:Korogr .
+M:i/ar Mse'ar'
+
+|:gnanht hegme MlMetorsbriasanfp iott Mho
+H:|2enny  ot Dtef f~g e |as^Bdd fauhto tont"n Mo solsStidf Marlthea/dc| 1
+K:Ac cAvcrto S2ionE|
+R:~fcc gaanlr Ma aladot Af oainoathnnn=y
+H:Sci ed eidaane Mo Thns  t: eolli5
+M:D2 cC "|:|w-F Hwf Phlo e^" fdf|att
+S5nal, wi dene-2
+M:ArMie
+M:A Mc" The-AamfM Sorsonw|
+M:Coaroarsthn Ahea1 tinll Mdhecco
+Z:eA D2 tus'src7 fo br Mal" ^therrMe va tiderlnotg manethotelelean9idtrl nonanaon""yarefrt Osm dCvfnioo cins""tfflnf thfy'p|
+
+X:|
+McAFv vo fu K5n
+M:M? ale7a faysin9 calgm viM-Dlun-/8
+M:ve#jc6de ede|efG digrrll" , Ia eaKinatsons
+M:A aftldoanotag ~aeg Io Mafen8uleworHe
+R:2n" Gdhn-jianets'nit:SlieronarOsilefonan "
+|:getchla,
+M:iea n Mhae ""Mlony che-jig alnoans
+Z:cG
+|:jallttanrernss
+Z:idB cat Mon vyecvean"oannon-digE Oh More EBBdn
+M:vo cagesa1
+M:Dabn"t:go ain- B^A fanrh anatl H:|1 aa aa
+Z:iggti^c
+M:Mdin ce ~a2rotottu g\ al enot "r: ean MuLZoannLon-2ani "Mtoeonanth"saron the
+g:Moranaont: g
+M:D EBd|nathntsnd  Ke ted t|to d^A f2d DB Msy ^fdnon
+H:Migalthefa PaKiats"t ust:|2antsefn =horina Msona5a
+M:fdoorMo Mhl"ooa
+
+X:ji~c2G|Maofann jig
+R:jo6 Ho Thaaintnen|Co's
+R:DB|: oaly|nnaeed Me B"Min Fotoo's M:|
+N2 Honronlia"s  aa
+M:Bcdc , feriligeln-jad, A2d|gat foms eron
+jigaoamoatChkiotee efnr Mal MannkfloMfo, Hl eoft t: augnlall
+C2gMa
+M:DdB ranaronott1 Manwreann"MoM t: Mc d:hrondMto"lit-2
+Z:cd ha K-2arig
+~F3 dBd vimontonnaS"-jinont Rs dit22oronA da Minriero Mhl
+T:DF|
+M:Drthes Bew Mulcaoassh"tnansal gaoS
+M:Afarhn
+M:Ddonen"e Magolt
+H:Zd earLa earirpaoasant o el the-Mo d:Mo}m: eec Tesot: Miefns tonl Aaa
+M:D cicheryl htt egnl ew  tarsatr Marfrto M:|2 #aronlonnthn Mon
+M:D2
+
+# epoha 4, iteracija 6144, loss  49.707, temp 1.000
+ Ace|1 2FF||
+
+|F2f7al A2fa efe|def d3 l08
+M:A EFA|A
+f ~D3|~g3 afdo|,,2~c/f
+M:C
+|1 Sae Kfe aar fe,|~F3 ddB|1 G^E3|efd|~c3 efd|eag ~d3|A2f ecB|~B~E|b^c cgehn.
+T:Lorl
+D:6,,|Bgf edc|g
+F afa eBA|fdF|
+~B3 ~g3|fed|FBG |c pfe da7
+M:Coy
+Z:igeane (~g3|
+DFA E
+E3 dcc|~d3 ~T3 fgf|fef dAD|ned|g,G
+Z:Ed:hleam, faf gff|deF ~B3|DFF FDE|1 GEG AFE Bcc|B2G Bug
+T:igsiobe|
+ABd:|
+K:D ~g3|
+cad geg|ged afa|dcd ceg:|
+~e3 ~~f2 |
+~feCliab Jie A2F|DFD ~d3:|
+~ead|
+~f3 edc|eGF AFA|
+fed:in9
+K:EGdB72 gh83r:AdceagB|
+~D3|AFD F3 gaf|gef g21, A2f|ecA fAB/22d edc|
+X:2dBroty ", fef|gt' ~g3|aga afd|2 ~A3 ~a3|bag efd|d3|
+D:La
+Z:Eg A3:|
+R:jig-jig
+M:Drhn-jig,hhionau
+T:aa aad|agfn The
+Z:ig
+Z:id ced|D
+D BGE|GAD E3 JF6d8'aale D2e efd|g,3 ~c3|
+FEG efd|~BDd g
+d dcA|dcG dAF|1 ~g3 GFG||
+~d3|gbe ago||
+
+~f3 daf|
+~E3 ~g/gd|:FC Ld, 8
+T|n,
+~acS Tha
+|
+|
+Tane, gfa|~g3 BCA|AEE ~d3:|2 cec|1 g
+Z~A3 efd|faf ~g3|Aff dce|AFB aB3|
+X:6/8
+T:n8
+K:h
+
+~D3 EED|2
+E|ddB edB|~E3 AFF|Bc^acd:|
+
+X:G0
+|:D, #3 AAd|
+
+Fff ~c3|
+|:d/8
+M:Saverin
+D
+E Gga6dB, g3 
+FE|:A
+H:6/8
+~g3|dBf fef|dca dca gAG eff|edB dBD|
+D:D
+~A3|
+EEF FGG6d3:|
+GEF
+Hig
+M:Ad~f-jif,ne
+s:A5
+
+X:jig-288
+R:jig-29
+Z:igerinlil.
+|:Malshorlilsin DFA|~E3 BBd|
+g:vousundSl, Efe|~e3 Bcc||2 Gef efd ~B3|cBA|dBG EDF|1 E~B3 fAf|il, ~fr e The
+|:
+D:D8
+des FcA|GAB e,G|~B3 dFE|
+D3:un 82886
+T:|, fer|bff fge||, efd daf fig:hl
+Z:ig
+K:6/g:velnae feg afa|bag B3
+|
+T:|2 ^fr one deR|
+Hi2 8eg|f2f afe|
+fef sccdg
+~g3 BBd|Aff ecd||
+
+X:G
+|:Sa68
+Z:ic:Jyefl
+| FFD|AGD 
+AED |
+ded |
+deA|DFA GBd|~B3 Mad|
+dBd|EDB ~g3|dba ecG|AFE fdc|Dfg ~efg afdCafy
+Ced=ifenalornrs-2lealbn
+RidBfar Muaax
+Z:ic:~d3||
+|:fd6,d"Jin-jig-2
+T:Paveritolo,
+Z|
+T:D2
+T:TaS#28
+K:Cthf~s
+
+Z:igbannits, eff|gdfo
+X:AA|
+~B3 d AEE AFd|baf dci|
+G3|
+van's Madsifers: ead|Afe cBd||4
+ded,|cdB AdB|~B3 fNf|dfg|
+~B/d|AFE:|
+T:D
+|:AFD ecd|AFD ~D3|Adc efg|fey dAF|ffs e,F|~G3 d3hslilan& A2c|af~ 8bo
+M:Afeddior
+E:ABAdBcd A2e|edf|f/e Cgff d2d|faB dcd|~A3 fdc|
+D G3:||~G3|gfgDg
+C:G2dcd Cue, F3:|2B/gf |
+
+XcAB~D3 SEECifge g2e:|
+D:ECEDG:A2G Bce|gfg dBG|DEG AAd|AEF BdB|DcA|/B3:|
+T:vh1
+~ecA d2E|edB fdf|DEE DGE|FAB ~d3|FEA EFE|
+# epoha 6, iteracija 8192, loss  47.423, temp 1.000
+dFD|
+|:in's
+Z:26 ~e-A EEE|1 cdc:|2 cAd E2e|Adc e2d|gdd|ABd cB^c|cke ~g3|Bed dAA|
+[E|~B3 ~ceD|CED BBd||
+|:d:D DEF|g
+E ~B3|FEF dcd|DDF E2F|efg adB|,ED CFED|:d23|
+~f3 A2E|cAD A2=c|cde e2d||
+~d3 D2D|A~fmG AGA||
+DBc|
+|:Adihe2|
+|:Pihef B2A|2dE Dag||lth g2 C1
+T:Toh Khn-dc,|2dd fdc|
+cdc edB|~d3 E3Dac EAddcdavumiy
+EAd:lrc cAB e2m|FDA EEE|
+[h vo the
+Badcovao nithn-2
+R:D1 EDD AdA GAD|DEE a2d|
+B2D:|2 gke g28
+D:c,2
+CBA A2c|
+R:Pedsolthn Lins-2/8
+K:D
+~d3 DEB|
+cBd d2E|d2A ocd|fed Bcg a2d|dBA B2B|
+ced|Eed|Adc |1 cAF ~f3|efe cAA|
+E2E:||
+EDg DEF|2fd d3: ffd|1 fag e2d|ade|DEE ~EE|:edc g2e|gff efd|ege
+|:Bdd ~BB/c64
+T:Caneutve cee dgd|dBZ:2d|eag d2e|2ED BcB|
+X:2d|
+BED |2 E cAB|D
+R:GBcig's Lltaau
+M:6d
+|
+|:22d|fAB Acd||3ED
+D AFE adc|Bcd DED|fec c2d|22c cAG|~E3 ~B3|~E3 f21 fGE|AFD FcA|
+fee d2B|AAF d2A|dcE dBA|2df A20:|
+P:{ ha ##686/8/dAc|c cAamed dBc efe|1 Egd G2e|EEE ~B3||
+
+X:202 cBd D2D:|c aae def =EED D2A|ABc|1 d2A ~E3|BcAd EEE A2E|A2F ~ED||D
+D D2G|ig3 dAd|~G3 E31
+Z:idedAT|1 cke ~E3|DEA c2e||1 ~B3 c2D|~BcA|fdd|~D3 AGc|ed3 gBd|feb ~a3|edc d2c:|cdo #AG:G26'c
+o: 1 doorun.
+Z:i}cAB E22c EedB GED|ddG cAE|d2A d2G|DEE ~f3|1
+T:P
+|2A3|~D3 B2A|dcA WAA Bce|cdc yAB|dcArfag|
+Ledigany Lo D6o
+U:2/8
+Z:id:havin B/8
+T:a1
+M:D
+|:DBA cAE|Eba BcA|EEE e2B|1 A2d EFE|~G3 ccd||2 ADE A2A|GEE efg|bge AAE||
+
+|1demear#21
+
+~d3 cdB|d=f2ddA fdc|Aff d2d GFE|cAE A2f|
+X:221 ufa|2fd fEE|Adc edc|ded g3Ceed's "Tas's
+Z:ig-22e cAc|
+
+X:688
+K:D2=E|~F3 a2e|fed A2d|cAF G2A|AFD|
+DcA|
+[1 cBc dEh|erilthawso Yhnr
+D:Sty cAF ~63|cef e}c|~~f #202
+H:ABd vev2uDWileera elturO PiUs cid0
+K:6dA DEA|
+f2fhe-2ec|1 f/g|A3:ale Shama
+g
+R:jig
+D|G
+D D3 g2e|anf e2A|aff g2d||2 EAfdc:varsesons
+R:jigea J d:|3
+D:6/8
+P:D
+~A3 dcd|cAE:|
+
+X:6/8
+|:d2c c2d||
+DAFAD3|
+T:Snog
+T:he-jig-21
+|
+EED EAG|G~B3:Ja FhE
+|:igon-20
+Keafef a2b|dff a2c|fff AFE|d23|Edf |1
+~d3 ~D3|GED Afe|B~g3|edc cAF|dB814
+
+X:2
+T:|2 E6cAG: ga |1 E2f dED||
+T:AdEDd c/81 A2E E2A|AFA EBc:| ced|DEE fBc, c2a|BDD E2A|
+~E3 FcA|BFE B/d:|amatix
+Z:Ea|edE cAB|1
+d:21
+
+Xc21|eec cfe|dfc e2d|aaf f2d:|
+AAB DEA|FEG AGE|G2B agd|dfa d2c|1 D
+d:D cBd G2DD|2 EED FDD|Ac
+# epoha 7, iteracija 10240, loss  45.090, temp 1.000
+ffg|def cee|ffa dce cde|dfg dcd|.
+gre ged dBA:|2 Bcd fdc|
+~g3 gfe|
+P:6/8
+K:G
+|:d46, pgg d34
+M:648
+Z:id: lam Mivesonrnlsoueynyseasfbee ceg cAG|~D2 |Bcc f72|fef fgf|fdc fme|ecd c2g|~c3 fge d^cd||
+Kegf gfe||
+m:veronfls
+R:2/8
+D:|
+|
+P:|
+K:cBg fef ddc gdc keadedcin F42
+Z:ig
+H:ver 6/d3 ~g3|gfg cgf |1 #2a fec, cob|aed eca|bee cBc|dcM Ad^c f2e|Adc def|gfe dcc ced|1 EFG B2e|ecd f2f|cef d2e:|
+|:ScigallycO dee1 fec ~G3|gec frc gfg|agf dga |c Agetthnonsc igec feg dBddd cme GFE:|
+P:Jid:hocaltons
+jig-258
+Z:ig
+R:|~efP:gee eeg|dcc cBc|f2f cdd|BBd cGF||
+Kedccd gaf dcf ~ef cef The
+m:Conns Uut|ne diumimim#2
+R|A3:|)
+R:jig-Gmesalykim tanty eft daroniinvb" pinosemewu The .
+P:6/8
+K:Po-jigegbinw,kgun ,, se R:jig
+H:dgurSis
+Z:ia
+T|f) Persine Mciggx te |
+D2a ~e3|aed ~G3||
+P:Wons
+Z:id:hn-jig-21
+T:| cge|dcCmerot ols
+|:6cc #ag|gfg afb|ag3 dfa|ffe dcd|gfF cAF||
+|:G2d aff|
+f2S cce|ddf ece|dfd agd|Msione Tagamc B^cd ~c3|fec cAc|
+|:dff Bcc|1 EGc cde|FAG d2E|G8
+|:veg #3: ederthe, ggc ggcos wac's
+R:plsind1i
+
+X:2F|
+fed ~c3|~f3 efg:|2 cee fef|d3:|
+|:Ca saa "rix
+|:afa Tchaf fad dcA|cEa cdc de^c fne gfe|mfd g3henm
+W:Dadonirthe 'che-jig-222 d2e ~g3|cAc d2f|
+fed dfd|fgf cge |
+H:G2 ona448araride yertimirtins
+P:G ADc|Adc egg gfg|~G3 AFF|~F3 igdeldeadefanorameanf]o fen #3 teg Oaf mec, fgd gaf |
+def ~F3|ddf e341eieef fdf|~g3 Acc Ddc||
+|:Ade ded|bgf d.E AGA DAE|
+~Bc :~g3 ecA B2f|| FBd|1 ced cdc|ced dce|Fig cBd|~g3 dAG ane Th oinf
+Z:in:|65842np
+d D3 Eff|fdc efg|gaf egf ~g3|dfs fef|GEE fff|Bff cBd|EKc/cegl eat The'ofthy
+R:jid:|2 cid dcf|~f/d|dGE dde|Gcc cfg|DcA ~G3||
+M:vge deg4 lga Acb gcg:|3
+R:jig-224|dsa gfe daf ~fc |m
+D:ed acf|edB cGF|
+gef d/A|A2m dcg|dfx dcc|des dcA ~E3|dcd cGD|eef G3:hnn's
+Aee cde|
+dBa cAg|Grg gfg|fef ced|||
+|:|2 oaniifalll ded4ddiows tidcot.
+R:|:
+R:jig46 ifmimt Jix
+ecd AGG|
+FGF EFG|~d3 efg|feg dBA |
+~c3 B3malmeref
+Z:iB|ggatinemariu cBA ccd|1 caf Th -2r04onsrirlls
+bed cAg|geg dfg efg gfg|erc ffg|dfa Heg gef|arco # 6dc dGF|
+|:A^G |
+~A3|AFD A2e|faf eff|g2a ~f3|
+fartiams isui The-R:|2 Afo dfe =cgf geg|1 fge cBG ~E3|
+EFF ABc||
+P:vat dcerss
+R:ji
+# epoha 8, iteracija 12288, loss  43.348, temp 1.000
+ce|~E3 GBG||
+
+X:28806
+~ABA|GBd AcA:|2
+d:G
+T:jig/fd||
+K:208
+K:Dm:ve-jifgg | EAF cAB|BBG ec/c/edeanefalanegal's ario the #26/eck a7cBounotiorilalean Ba6 eag dBB/cee fdd|AFE BAB|
+~AB |cdG Bcdredc|
+FAG GFG||2 BAB ~2AG fAg|~g3 def|~A3 efg|dfg gBd||
+fie DFA |
+~g3|bgg dcT|bac ABA|Ade ~B3|1 cBc GEB|Aeg fga|gfe age|def g2d|fac Acd|fad7
+R:|/6/A | faf|ggd gfg|deg ege|ged fdB|fef TcB|BBc eag|edB cBD|GBc BdB|B2G BdB|~D3 AB^c cae |2fed efg|dfaAc fgg|g78
+T:ianelsidog
+H:eaf ecB|Aeg ffg||
+|:f^f fag gec | FAF JAF|AdB dBc/|
+
+X:2fedBcdef gg82ceg ffg gfe|Adg GFG,:Ded Tary larelaia
+K:6/flThef fff|gfh #ca||aaf agg|aag Dcf|dfe cAF|BGF BBB|:cA|fBc BcA|GAF Afd||-2^c ~c/A eeg|gaf cBG|Afg gfa||DGFE1 cdc ans Bdc cdB|eef afd|dBc bgf|def #2=f fff|Bae gce|gec ffe gef||01ed BcadM:hn-jigfe cAA|fdc afg|eAF FAG|~G3 ABA|
+AGB ~g3|fec afe|faf ~g3|agg gfa||
+dBc fdA|
+E2A e2e|edf aga|fag elB|
+dBA GBf|Bce|F~d |d afe cdB|cge gfa|gga TDd dfg egg|afe|ecd gfe|def edB|ABA feg|lfgthnfeinflgrs Kigell arOilmiperee
+W:Se^B/c2c fad|~efe|fle|fef fcd|ogf|edB AFD|
+cAF AdB|BBG E2d:|2 Bde gBcG FGA||
+T:eed {Bcd |3
+dBB dfg|Bgg g28
+K:6df|fgb efg
+bfe gaa ~f3|dFE o2B efg|
+fee egf|gdc fBc||
+EB,|fff dBG|Aff gfg|Bdc BAG ABc:|e Weg ddB cBe|~A3 ABc|FGG A2B |1 Bed eed|AFA GAB||eBA cBc|ABc d^G:|d
+M:Da|ABe bde agg|eef f
+d|cdB ceg|Bdc cef|fag efg|gfe afd|D
+B d2f||
+||BdB gee|efg age|agg|D-c Wa eatly Baleeal
+p2a eca gff|
+X:2dB AFD| FG 1 BAB cde|~c3 ~g3|edg d2f:|ebatiadige'a Thefenerbareassherao theeleetoisamy'e7rot eemedlin-257
+o172
+|:DGB G2f|~ABA d2d:|2
+T:|2 Agd fce|B,B Bde||21F AFE |Ade afg|efe edB|GBg def||G
+R:jig
+T:fgriafeargalix
+|:Bagpersoy alearlrrattalonvari
+~f3 fgf|d^B/1aleeens
+M:EF|
+
+X:277
+M:ABe AcA|AAF GcB||9fe =cAB|~D3 G2f|
+fef e2d:|edf agg|gde agf|agf cBd|BcB def|Ade cBf|BBd B^cd efg|gff fag|~g3 dBF||
+|:ege BGB|
+edB fdB|gec a2g|FBG ~D3||
+|:~G3 Bde|fdc ABc|Dad ece|e/c/edciafiraltilalaa the rahmy cdg6ecB cAF||
+|:Acf aleig-207/8ef e2g||
+B/g/gdd EEfBd G33|gfg ddB/dge fec||
+|:ABd A3G|:efd ~F3||
+|:|1 Bgz he-jig-201 AFA ~G3|GBA ~AAF ~g3:|
+C:he-jig
+K:6/a Fagfa O^cA|dBc cAG::27
+R:jig
+# epoha 10, iteracija 14336, loss  42.812, temp 1.000
+/8
+M:Da novas, sa Mcon Lirti (, Ihn-jig-24CM ctumen Mts
+Jer'unst jig
+M:6/8
+M:Kin:|oowr, Blalyin.
+Z:ia ecb|C
+c ~f3 dee gca|dff ca3|BcA D2c:||
+lon0, {iArpc
+tfrroflbh th, c2c|Foa Ther piffatilthet L's
+R:jid:hn-jig-206
+Z:id:inf
+Z:ia
+T:De BICm tidkinr vertorspllleulanolnoverI "tinlcyeabmtrens
+R:jig-20
+|:FA, ~B3|BcA cAG|~c3 #3||
+L:G
+bfe Lalle #2
+|:Te Bk oa Is
+K:6/8
+T:ha|
+K:ver sa6 #3
+K:D
+CcCart varthh "norzrtonrkfllkeathns di sy &t K taan
+~A3 AEE|B32 AFA DEE|AGF Ace|fgf  D3|cac igegenn Nye2slon Manmons-200
+M:An pifBamanessons
+D:Kirtyheverseltres-1
+T:Past #e, Th rlomiltinns , eealmolrons
+R:jigeamef The
+P:verrolsee C6:|
+|:P
+McCo Mcc"Nomupc, T|hos
+~B3 B2 |
+
+DEE G2c|eag gff|f/f/Ac AFD|AFG E2F|ABc dcA|cAB cAG|
+|:D3 ~f3|d
+T:Co"s:|n Catsl Mtonsvaserp [am
+Z:id:hn-jig-21
+T:JirCm
+Z:if
+H:|2
+~F3 ~A3|FAA D32fB|1 ffa a2e|eef e2c||0
+K:6/8
+K:GEEFConnlt I B' |s fatun Cors Lly
+R:jig
+C:t1
+T:Cof
+R:jic:A
+T: aninusttl#fe, #264zar
+M:A, EFE AzA|D2A FEG:|2 G
+D FAF|
+[fee {hethe widfarrin Muraly', #jig-202 Bsothns pst ri) Muramelsals
+R:Pistheufy e, faConwhe/40
+M:6/8
+K:F AFE|B2c cAF|FED B2G|D3|B}A egf|daf cea|badK:eec|
+E BA2 EAGE|:|
+Mcec ~a3|f/f|~g3 faf|fef edc|edc Bca|caf B33|~D3 BFD|~A3 c2D|EAC AFG|~B3 e2c|AFD FGB BAB|BAG A2d|afg fef| ec :a2e Tau Kilthyssos-28
+K:enineslel #lnry's pilmKersCnon-20
+K:vertat elsattheporisthnlle piasoundstins hes ~B3|dde fef dfg|ABA F2F:|2 BGC: ea B, Pororiollanons
+
+
+EFA GAA||
+|:D3|B,2 FAB A2e|fed dec|cef #2A||D
+|:Cornns
+AAE FEF|ffe d3uM
+E:G
+|:CCAavi ane 0263
+M:6/f ec^c:|2 B,|
+Kegmee gellsmr"|
+K:Lm Pin-2290a
+T:iletharisth
+T:ew ton's
+R:jig-R-Blealars:hn
+~e3 cef, ABA FGA|
+~F3 ~c3 AFE|gfd fec|1 cAF AFE|~B3 fed|dec a2c|~A3 G2e|fef dee|fef ~F3||2 ABa ffg|~d3 DF3|
+DEF ~A3 DFC:|
+Cee ca3|1 alemrtu's
+p23 geg|AFE ~E:|2 ABA feg|~g3 ecA|DFA Bcc|C1 fal "Th u )
+T:Jed cBd eee ~g3|fef azf|bec cAF|A2A AFE|AFE:gelllor Sin CC ca90
+K:676ky:Cg4 o2 Theg Mile so nicorlep 0ceeve-jig-21|
+[2 ger #3
+T:Plsonil#
+K:ed Mugeik's
+fef fag|d=d AFA|dce d2A|BcA ~c3|A2D A2c|AGE Bcd|~B3 E
+T:|onfa
+ :arae varnCTher per sutlons
+|:|
+K:vapuny A,iB, ~a3|d,2ean
+# epoha 11, iteracija 16384, loss  42.247, temp 1.000
+DG GFD|EAB]
+D:|
+T:Dr Mltons Lamy McK corsy tomr cdrin wof Z|1didBA AdG|GEE GBG | BGE:|
+~BGG|~d3 BAG|E
+d|age|CED E2B||D|E2G|DED EEE|GBA AGB||
+P:wthallsons CThe .
+R:jig
+H:Sautheunofe |
+M:Mor ,e=crba thbne'walblon G
+D|1 GdB GafecdB cBA|BGE GAA|B2A dBA|~F3 DFE|AGG EDE||
+|:De RaGF|BAA B3 |E AGA|DFD FGE|f/fdE BAG|1 GED G3:|
+|:AAB, AdF BAB|AFE ABB|~d3 AAG|
+FEA eAG|AGE D3 GFG|efe BcB|1 FBG EcA|BAG GBA|
+fed dBA|BAA AFE:|fff FGE|1 BGG e2c|DP:|
+~D3 fdc|BAB dBG |
+B2G:|
+|:BGG G2E|
+M:ABA BAG|EGB FGA|dec ffg|ffd d3:|c,: nebl
+R:jig-256
+
+X:2d3|1 T3|
+W:|2 2ef cGF|FDG EDE|BEG BAE|AFG |2fed AFA Bcd|DDE B2A|
+BAA BAG|~G3 A2G:|2 AGE AFA BED|FAG GBG|GEE A2A|edG GAF|ABd dEG|BGF B2B:|2 Bfd d2d:|2 GFE dBB|~G3 ABA|BBd B23|BdB BAG|AdB BGE|fdc ffg|
+gBd|edd B^GD:Gonu Mha
+Z:id:ConlToinamone Silebled gglgentrk wo Kotton'r thine BGBcA BGF|G26 dBG|G/FE: efc AFA|BdB|1 GEF cAG|EEA ~A3:|
+||1 ABG DGG3|f/G:|a
+M:GFE GED:|
+|:ED|:GFA|
+~A3 ABA|EDF BBd|AFG DFA|DED E3 GdE|
+~B3 {GE|ABd DcA|dGE BGE|
+EGE AAB|FEF A2B|dGA DGD|=FED|Gfg d2G,|d E2d|E2A |2 GBA BdA|~f3 dde |2 EAA|DFD AdG|
+BGB def|d,A~E3:|2 ABB B2A|Eef gaa|ecA f2f |
+BAG BdB|fef bbg|
+~B3 eBB|GBG f2f|bad d3 AdF|GBd e2e|AAG G2~GcA edB|B23 GAF|BAG EEB|G3:|2 cAG AFE|
+,3 AGE|FEE FAB|ArB ABA|f2f dAG|ABA EDD|~f3 dfG DEA|dcB|BAG efd|BAB e3 BGA|1 ABB cAG|ade f3 Gef|Eef eab'fu85
+T:vernay Mils
+W:Dnsy theanba
+Z:id:hn-jED3|
+BdB dfe|fdc BAG|
+EDB AGE:|2 GCE|GBG E2G|~A3 ABB|BAG ~G3|
+BAG EAG|ABG e2B|
+A2B BAG|ABE AGA|BAd eGF|edB feco The BAA||
+|: ABD BAB|EGG BAD|AdB B2G|BGG AGF|GAF E2A|BAA Bed|Bdc d3: ab ded efa|
+def d3:|
+dfd dBd|1 EFE Gde|
+~B3:|
+AGA d3 FADDG|
+fhe
+|:ffd f2f|~B3 DGG|AGF AGB|BBA BGG|AGE BAB|EED ABb||1 Gfg e2D|d2A AGF|BAG AAG|1 GFD Efg|gaf fef|
+fge Bre|dev bad|edg dBA|1 GBA GAE||3|GBA AFE|ezd A2G GED:AGC:Sob]an ys taneat dsiamian povnd Lorsolbontsaron roridBann?
+W:Dcy the Sthariliy's Ra, Mcee
+T:CB Alinthe
+|:d2D GEB|
+2dB AGE|
+BdB BGc|
+BAG B2B|BcA FGF BAF|Ade Med|:verix
+2if
+H:bablea & cAKiabiadile Itaucheron CAGGFFG GGF|~c3 d2D|dBA dBA|GBG BBA|AGE DEE|dcd fef|efd eAG|BAG ABc|B23 E2G|BAA BEE|~F3 Efd|edc g3m:hn
+# epoha 12, iteracija 18432, loss  41.207, temp 1.000
+ ecA|DBA cBA|fBA BdB||
+
+X:251
+T:Ha Tonn din-25
+|:AFD |A BAG BdB|1 GEF EFB daf||
+
+X:valnadoa dBG Bcd|BdE AFE|d2e gff|f/fge ffd|fef dfg|edB dAB|
+fed cBA|BAF B2A|1 BdB B2D:|2 ABd ~gBd dBd|eef fgf|dfa afe|aaf Bce|fde|fdc ABA|1 dBA FGA|DDF Bcd|~c3 ~B30BAFAFDF:D
+|:Baa d:C: Jabin Thef
+T:|
+|:Kig
+Z:ig
+H:hn-jigne|
+|:dFA FED|AFB GEF|e2f aBd|
+~e3 cBA:|2 MfAtinf2annonrarserf
+M:6/8
+GBc ffd|
+~G3 AFD:|
+|:eed d^Coet 
+T:vea #196
+T:FaFon1
+P:D
+H:hn-jig-296
+T:hn8
+T:Ha Mhe
+|:CBA|
+
+X:280
+M:6/8
+K:GBAB, BcA|dcA DEF|DEG Gdc|~c3 f/e|eff ded|gag ecA|=BAA|Add Gfb|BAB dBA|ddF DFA|
+|:BcAF BFA AED|~A3 d2B dfe gd=GD EDA|ABA FBB|FAB AGF|aFD dBG|gfg ~B3|
+eag eef|age|
+~d3 e2g|edB BAG|fED Afg|efg|edf edB BAA|feb dBG|AGB GEA|A,2 BAG AGE|FAF D2B|FAF GBA|dBd cde|ABd FGB|afe edB|d2C BAB|FED D2B,:DF|1,|
+KeAt|
+|:dFF AFE|BGG|Bcd fdB,|
+~B3|ABd fdB|BAG Bdf|ddB FGA|edB BcA|AFA FDD|ela|
+BAA B20503
+|:|
+|:~d3 ffd|ecB BAF|DDF AFA|ABA F2B|BAD BdB|BBA B2A|FEF FFE|eef d2B|Dad tcde ,26
+|:A2e dBG|b,B,AdB, d2e|1 Bda dcB|1 DFD GBG|EGB GFD|1 cBA BBA|Bg^c
+DdB|DDF|2dB, BdA|~D3 Bde|=cBd|1 EFE FAA|EDE A2=cA cBA|EDE ~B3|
+dfe fgg|edB G3:|2 eaB edB|ded edB|BBd {cgion #264
+T:|
+
+X:6/8
+K:Ddil
+T:|
+|
+P:|
+e:A BdB||
+|:ABA Bcd|ABG AFb|1 DFA dcd|fff ggf|gff gfe|Ad^A|BBA A2cd dBD|1 BcB cBA|BdB fed|ded dcB|1
+R:jig
+D:|
+||7
+K:D1 B,1
+K:6/8
+M:6/8
+K:rmcon (alsogiperayaanithedsaty She, bad afe|
+SaB |D:hn-jig-258
+K:G, 6/8
+K:6f6 t6ed A, ,C~abiM:Lcwonsiathan ttiatyoss Mis
+M:6/8
+K:D
+AAG FEF|1 Bde dBd|edd caf|f/fD|E GED FEF|
+DDD AFE|
+~B3 Bcd|~A3 cAF|Adc AFG|AAG AFE:|
+ABA CDED D2d|~A3 AFE|fdd gfd|dfe ~e3|ade BGF|ABA cBA|
+BdB AAF|~G3 AGF|cAA A2D|AFD:|2 GEG GFA|~A3 GBd:|
+|:=fd |219
+M:6/8
+K:6/8
+T:Dfes Wann Hoveaneral #66
+Z:id:hn-jig-293
+T:Dr#1961
+M:6/8
+K:D
+T:Sef #A25
+Z:i,|
+ded edF|ABA ~B3|BdB dAF|1 BAB cBA|E22 dBA|dB8:DDbasdano Omey's eminss
+R:jig
+Z:id:int  thee "
+H:Conarh the
+T:Pa'H, The
+R:fe9
+Z:id:hn-jig-219y
+Z:ig
+D:|2 afg ~B3|
+d2b gde|gfe edB|1 GdB |2dB FEF|~GFF|deF|B2d B2F|~B3 dFE||
+|:dBe dBA||
+aBd:aglt:2nz
+Z:idde dad|efd BcB|BAG AdA|BAB g2e|
+~D2 : FDD|
+dABdBAAvB, DBAdef eariatin Tiunaam
+Z:ig
+Z:id:h
+# epoha 13, iteracija 20480, loss  40.389, temp 1.000
+onnesama
+W:Ed, BcAG|
+[2 BtB|~B3 gBc|dBd ecB|
+~A3 ABA|~a3 agg, d2B|BAB G2e|
+g2d eeg|dGA BAF|Bde dBG::2ileol Gons
+
+|:ABA GBd|A=B/fdc ecd uFcBc efg|Bde Tanalaver iait #192
+T:Si The Jigllome ,ancee
+R:jig
+H:~g3 aga|ABe g2B deff|1 BAB ~AFB dBA|cBA G2e|gdB EFF|1 cBA cde|BcA cBA|Dee dBG|edB ~FE||2
+D:D2 Bdc ~g3|~=f geb gfe|B2G d2A|
+~B3 FAB|BGB BGB|BBd cBe||2 EEG fgg||
+
+X:D8
+ged GBA|dBc ccA|=fee|
+DBc ~criaf ees Bay
+Z:id:hen, The
+R:jig
+H:Jet R
+~B3 ceg||
+~e3 | gec dBc|FAd ~DD||A Bce|ged cAG|EDE BcA|
+f/dcbe' #80
+T:he9
+T:~B3 dBd|BAG cBA||1 BAB BGF|Bag age|~g3 dcB|E2G AFD:|2 G1d:|
+ Gegd feg|gef fgg|baf eed|DED dcA|GED A^c/29806
+Z:ig
+D:|2 aec dca|bgf Baa|f/gA|~G3 cBa|alcBe dBA|ABc e2=c igf|~e2A FAA|
+BdG GFE|CEG dBA|1 BBd f2e|aef g28
+P:DBA ~B3||
+
+X:279
+T:Kone91 #1 efa g2g||
+M:ADF FB^e anf agf|ebg AFB||1 BGg cAF|dED B/Bd|1 BGD:|
+|
+K:Jiane enol aufle
+FAF B2c|f/f/d BAf|
+~B3 Bcd|1 cBd agB|DGF A2e|AdG B2f|1 BBd EFG BAB|
+EEF ~G3|ABG E2/2G1
+P:DdBd ecd|~d3 AB^c|f
+Z:id:S
+Z:if|fed ede|EBA Bcd:|2 fef ~c3|
+~a3 dBd|Bca ged cAA|B2B dBA|BBA cAF|BcA BAF:|2 ~B3 ABc|BdB BAG|Afg ffg|~f3 gBg|fee fed:|
+|:Sced Tine BdB ~B3|BBd efd|AdB ABA|dB, ~B3|D2D|ABA ~=E|Bcd cAG|BdB TED|
+
+cGF B^GF|1 ged dfg|d=cA|
+ecA ~B3:|
+|:6/8
+K:228bamaligthamy Bab Ber Jag y'e Th
+jig
+Z:ed afe||
+|:EcA ~A2c edB|
+EED Bgg||
+|:Mcag\'g
+R:|
+[2 A,2larol oin-jig-26)
+R:jig
+H:Jer ~A3 cAA|1 cB=c253 Bcd fBB | Bcg|efe eBc|Aec cBA|AAG AFG|BBB cBG|BBd AFC|1 G2B,|G
+D:Dm nnd
+M:6/8
+K:G
+F|cbc dBA|gec ddB|BdB |2=BB cBa fag|ded dff|agg a2d|aff adB|ABG ABB||
+|:Peliati arthe''"FKec, ~B3|ecB BAB|1 ABc ecBume
+R:jid
+C
+~B3 AFD |Fd2 ~B3|1 gBA GED|BcA [2dB ~e3|
+~B3 BBA|
+D2B ABc|edF A2G|||
+|:ea3 gag|dfe cBc|Bdd BBA|=g3 efg|ged BBd|ebg BAA|FED BcA|
+
+~D3 cAE|BAc BAG AGB|~Ec |dED G2B|
+fed cAG|
+~F3 GFG||
+|: BcB ~AB||C
+D|f/g/cA Bdc|~f3 BAB|~A3 GBA|,2B|afe ded||
+P:gne, cBd|e^c/c/B/ced g2f|dfe def||
+P:faf dee|dde egc|cBa gag|gfg afe|ABd cBA|gdB A2D|B2a|fde gea|cde gfd:|
+R:jig
+Z:id|~g3 cef:|
+R:jig
+H:Fd
+D:Bcd2 FAG BAG|e2D d2f|B/c|
+
+X:2490
+E|g
+|:jig
+Z:id
+T:de |
+
+X:G
+|:Ped cBG B2d |~d3 FBA:|2 BBA GAG|AGA ABd|R-B/B, BAG 
+# epoha 15, iteracija 22528, loss  40.768, temp 1.000
+EDB cAA|BAG DDF||
+
+X:218
+Z:id:hn-jig-271
+M:2dd edc|
+AAF GAB|ABD A^c/2 |
+
+|:D2A dAF|DdA ~F3|DFD FEF DGE|BAG ABB|EDB AFA|FAG AdB|GAB Ded||
+
+X:23,
+T:Coslany Mttot on Tic"Un's
+|:jig
+C:Su
+M:eriatip#2644
+Z:id:he-Fe2 eec GBA|Ad^c eed:|
+AFA GBB,|D3|
+dea ADD:|2 BAF GA=e|Ade e2e|d2a}abe ~a3|gee ~D3|AcA FAA|~E3 dBa|ded dBA|Bfe dED|GAA Acd:||
+|:Pagbattltonedathn soenathen el troty
+D:A2 Ade ABA|a2d cAB BAF|~G3 e2d|AAB E2e|1 ADE ~A3|AFA =e2d|cee dag|eef f2f|
+AGA DAB|GFD AGE|GAF | eeg|eaf ged BAF|A1Bdcde the ed ees
+T:|
+|:M, e, #
+D|D]A|~E3|
+~F3 BAB|~C3 GGA|AGE BAG|FED Adc||
+FAA dBe|d
+D:|2 EFA FDF ABB|1 BAc}~G3 AAA|FAA DED|~G3 Ace|
+~e3|feg ~d3|FDG FAG AFD|GFE BAB|edc|cAB AFA|Fcd gfa|~G3 A2A|BAc FAF|ABe ege|ane dea|~a3 edc|edB e2d|AFD ~g3|
+~C3 DAG|GBB:|2 GED ~A3|ed^c ~B3|dec Bde|
+dec Efa|d=cA|
+~A:|
+|:Pcd s
+F BAc|AFD FED|Aed efA|fec afe|~G2 |D3:|
+|:~e:|
+~f3 edB AFA|1 BAA A2e|gge d2e|AFE F~A||
+T:See e?
+R:jig
+H:Uu eestop's pas.
+FAF|~F3 AGB|AFF ~F3|AAB Acd|
+AGD B32d edB =c2e|d)ED AAF|
+A2A FED|~A3 AED|~D3 dABa|
+BAG AAF|~G3 BFA|AGB cAA|AGG EFA|d
+D:|2 FGF FAFD AFA BAA|FGA cAF|Ce3 a2^c|ofa gez|jig-A4
+~dFe gfa|eed eBc|~e3 eda|edg afe|~e3 deg|ede ABA|AAG AFA|BGA GFg:|/catSou on the
+D2ABcAd A2A BGB|BBA A2A:|
+P:ved eAG|~G3 cAF|GFD:|
+dea e2g|BAc A=d||
+|:fde fed|e/f:|2 AFD AFE|AGA ABG|1 FAD cAF |D|~c3 edc | EDe dBA|bed efe||A,A FAG|:G2 |
+~F3 GAG|DFG =cA |AdD DFB|ABA A2c|
+eed AAB||
+P:gfe ede|BAB :Aed Bcd|d2D BAF|Al6alo #3
+K:AdBo~e2e|~A3 cAE|AFA Bcd|~23 aed:|
+~A3 edB||
+|:A2A dAg|dee fag|ecX:290
+Z:id:he:jig
+D:Mbatys
+
+X:27
+|:~d3 caa|Ced ~g3|~d3 deg|eed ABg|Aac edA ABA|
+DBA ADA|GAA =cBA|
+DED |D
+H:F2A
+
+X:204
+T:Pove ,idea dlatons
+|
+~e3 efg|~A3 edd|AFA AFD|1 ABd dcB|
+EAA dGB|
+EDD A2c|
+~A3 ABA||
+~F2||
+|:dleon PaalrialiorsolsLos
+|: cAF D2A|Afg edB|EBA F2D::2emoe ~A3 afd|d2d GAF||
+EDF F|G
+A ecB|ADF AFA|fde gdc|cea geg|agf dfg|
+~c3 dAB|AFA FAF|1 AFD BAF|D2A EGA||
+
+X:2
+|
+e2a|gec dcA|GBA|~D3 FFA|AAA GAF||GAFA, EDD|AFD Dde||
+|:z
+C:|2 dee a3 Ser:Vas.
+Z:ed age|~G3 FBA|BAA ADF|
+Bfd aFe|der dAF|DDA A2c|
+a2f agf|dec e2f|
+~A3 DGA|ABc ~a3|afe FEG|ABA ~A3:| edc ede|A
+# epoha 16, iteracija 24576, loss  39.924, temp 1.000
+GA|BGG G2A|FAG cGE:|2 Bca ecd|AFG FGG|def g2e:|2 GGA GBd:|2 Gde cfe 
+X:240
+K:Ad Tithe Owh ED Giatiy'inn Tuimaulor art pim
+Z:id:hn-jig-255
+Z:ig
+Z:id:hg
+T:G2flaowatea K's #AGFDa c2e ded |2 fed D2c|cAG DGD|B2G BAc|AGF GEG|
+cAG G2d:|
+|:Bd2 g2g|ABA dBcd DFA|
+
+GGF GGE|dBd d2A|2dB BcG|~G3 GEG|G2G A2a|caa d2D||1 B2G A2G | Bcg|geg a2f|egg dFA | ced cAG|dBA FAG A2A|gag ~g3|fdc AcA|GAG GGE||
+T:Pfathe B,2.
+|:A2e fdc|2fd efe|
+fbc d2d|ddy B2F|GBG EE=GG DFE|GFF GFG|
+ABc cAG|
+FGF GEG 2ed|GDF ~G3|~B3 =cAB|B2G |2dA FGD||
+
+X:24, edt|baf d^cd|G2B/d2A F|c/d c2G|FAG A2c|GBG d2d:|
+|:{a, f2/ded |2 FGD|AFG GEF|ABG BTB dcd:|
+
+X:248
+M:6/8
+K:GFEG ABG|
+GAA AGE|d2A fgf dBG|EAF GFE|1 FEG GGE|1 G2A AGE|
+DGA BAG|~B3 B2G|d2G GFE|1 Gcd gag|AFG A2G|EDE A2G|BGA BGE3 G2Go:jig
+Z:id:hn-jig-219
+T:GTohonsmo #300
+M:6/8
+K:gabld Ms wonon GBait:Pady ,onl k, #243
+Z:id:hn-jig-297
+M:6/81a2 The ink eeoime
+Z:id:hn-jig-243
+R:Nort t: Hc,na
+T:jig
+C:Na TunUows
+|:17
+|:DFG ~F3:|2 E2D A2E|
+~D3 AGG|BGG A2A|~d3 B2G|Adc cEA|ABd edc|cAF G2f|
+
+X:254
+T:AFGed y2a
+ced E2F GFG|G1con's Tre EE BcBoinry Oif the Tone os tealalg
+T:G2 edn DEG|
+|:dB, cBA|dAB AGE|~=FGC: aath Kigt nis in #258
+T:G24
+M:6/8
+K:Ameg
+Z:id:hn-jig-29badeeden FDF|1 GFE E2G|ABG G2E |2=cA GFE|FED AFE|1 GAG GAGF||
+
+X:23
+|:sa:|
+
+X:AFDG|
+FGF Gec|B2B AGE|
+EDG GB, |
+d2C agd|fde cdB|dGD D2E:|2 G2e dBc ~G3|edB GFG | Bcd A2B |C: dBG EAB|
+BGF BcA|
+D2G dBc|
+f2d dAG GFF|GFG D2c|BAG G2Bd|
+|:dee c2g|edc abg|2d3 FAG|cBc GcF||
+|: ccd AFD|BGF Gfd | cBA|bag edc|1 FGA cBG|~G3 G2B|
+T:G2 FD1 AFE GED|G2G ~d3||
+
+X:285
+Z:ig1 [p
+Z:ic:|
+R:jig
+M:6/8
+T:Marsipth ros BdAFGAFGEGBcA CFD:|2 ABG GcB||1 ABG GGB|~G3 G2F |,eu BGB|GBG BGA|EDF FGG|GGF G2G | cBE|~g3 dce|
+
+X:221 blaiamaros
+R:jig
+M:6/8
+T:voal per's or ba M'1,624d Pim
+Z:ia2s: onthe
+Z:id:hf
+R:jid:Pec's vallors elll\224
+Z:id:he3|BAB Bcd|g2A BAG|FEG F2 |
+F2G ABA|~G3 G/g:|
+P:varidfa edo #21
+T:Co #24
+W:Coes Kalelve Toen the Jicolim
+Z:id:hn-jig-294
+K:DFEB GBG|A2G BCE G2E|G2B ~d3|
+~F3 GBG|Ddc G22:|
+|:Pcd Govarix031
+T:G, DBG G22645
+T:SSigsin thealy Thont Junn Tone Tove Sgatr aund The
+R:jicBG AGG|D
+# epoha 17, iteracija 26624, loss  39.357, temp 1.000
+fd|fec BcB |
+faf a2f|~A3 fgf|AdE Efe|AdB cAA|ffd AFE|1 G2G |2 GAF cca|fed G3:|2 A2G AG^BAd:D
+y:ffd o218
+P:verianye arheethimathes alseas
+R:jig
+Z:id:hg9
+Z:id:hn-jig-298
+K:6/8
+K:6/8
+D:alulll tu #1507)on MaanI McA Pinc|1 AGC a2f
+dea geg|edd edF|AFA BAA|AFE ffg|fef fdd|AdB ABd|dcA cBA|cdd cAA|FEE f2d|DFD Gcd|~g3 dBG|~E3 d2G |~f3 g2B ||
+
+X:D
+~B3 cFA|~A3 AFG|FEE AGD||
+|:A2E ~G3|G2L AGG|~A3 A2D|Bcd ca^c ~f3|ddc ~A3|~D3 EAG||
+|:D2E P2E:|2 FGF dFG|FEA GGB||
+P:varthy EKcorledee Ophers Pig
+H:Hont: (nigthno fatilthosiaPiaalamlmon-232
+g
+T:Jionle (lsohns
+|:Doin Rattahe Sar'sros ,ns
+|:ed3 fdc|ade gfe|fdc fdB|A,D|EFA 
+~G3 DFE|D2c ~a3|
+,BA|
+AGA dcA|~G3 dBA|B2A edc|A=FA|BGF G2B||
+FAG AFD||
+|:BcA ~d3|g1d Adc|ABA A3/dF ~G3 g2G | EFE F=c2 EGG|1 AFA acA||
+|:A2G |
+|:~d3 e2f||3:|2 EFG d2e|
+GFG AFE|ABG E2e|fdB efd|fdd|ded fdB|GAF GFG|
+ded e2A |
+~d3 D3:|
+P:vaG Kag iar:|
+~e3 gef|bgf aed|1 dde gfd|1eges #1
+T:Py
+Z:ig
+Z:h2 #17
+T:Pf
+H:cBc cAA|A2A cAG AAd|A2^|:G
+P:vee afd d^c/de |
+~A3 cAB|
+[E|fdB afe|faf ecd|D2A d3 :22c|
+fea adg|
+fed|gfe gfg|gfe e2f|
+AGA Ade|F2A ded|BAd AcA|edF D2B | dAD dBe|ffd a2e|Adc eg~g dangapatian cAG Lareo INalyaf Host tinns
+T:ea gariatig cor
+S:ha-jig-392alsy Jigaroip1
+C:Sarahely ilsimahee arilsiatidria-2643
+|:ABA AGB|efg d32 GBG |1 ABG GABd|
+CGF G2A |
+E|EAA ABc:|2 AFG d2a||
+P:varionrth thy FKis
+R:jig
+Z:ia2 versaolin OcMigione
+R:jichersoal Sinlime leelsilibril
+Z:id:he-jicde dee|
+fee dBD|Acd afd|fdd Bdc|
+~D3 dBA|
+s:|
+M:A,AG:Adf the
+D:P^cB|~E3:|
+A2A BAB|gfe fgf|
+~d3 ~c3|
+X:215
+D:Sa
+T:62e ~F3|ded e2A|eed dBf|
+~G3 ABd|1 AFC|Ade DEF|
+DEG E2f|1 gfg ~g/A|
+BAF D2d:|2 GEd ~FE |
+fed d2f||
+T:|2 AAB EAF | ABd|ffe FAF|
+X:206
+Z:id:hn-jig-,3
+~d3 edb|BdG dcE|/BA|DFE ~G3|AFA dcA|cdB cef | cBcofg
+T:ef agf dAG|~G3 AAc|E/dc|
+P:Gafe fdB|efd fdB|=EE :A2A|
+D3 =A31|1 Add ~g3:|
+P:vahn BAKianianamaithnesgy alalsy "Kix
+|:Dec afe|~A3 ABd|edc cdB:|2 cde BcA|AED cAF|:|2dA GEE||D: adittiadlayintane The alilim
+P:varke's
+P:CEEA Bdc0
+Ta2 reranootr:hory fli45
+T:Pels Mis
+R:jic Agf edf|
+~B/e|~e3 f2f|~A3 cGF|AdB dAB|AdB AFG||
+|:~B3 d3:|1 Adc efg geg |1 a2a|o
+# epoha 19, iteracija 28672, loss  40.070, temp 1.000
+eror. one
+W: bslmhu #'s
+R:jig
+C: w?
+Z:id:hn-jig-264
+M:6/c/e
+R:jig
+C:|
+
+X:284
+H:|2 Foreo #unor thy
+Z:ig
+Z:id:ho l Covemad ipsiaoiot B citoefd
+T:S |
+22f G2e
+|
+D2e ffg|gga ~e3|
+|: ed d the  an
+Z:id:hnk onu ane y #u60
+Z:id:ilslee woralo itot ors he
+":Co than 
+M:ver\ ane coverist t Kee d Wraliot y :vew Ar Twhew r (wCins
+R:jig
+H:jiD
+H:hn-jig-21, dre edC af wou" re veos Mix
+, Kix
+|:jid:hanin, se  Yausee Horis y It Lil
+Z:id:h 
+FE} B2A deg||
+T:|2 e Lr nos Shl walleef Sinamoy So treal o} tugl oane  Bdde on ti's Piat el h rid iovery Marl tin  ":unronlsdon Wole Jio aly ons Wary Bdemf dora le 
+D: C, th
+D Wo io Hlo ane pertwawe sall e "thn Soubl fa ku rolsee the Mavarohe hl he Ra Muerof (gy ilslyd of Merkiglwan riglwyey
+R:jig
+C GCo  ll Mibhslim
+Z:id:hn-jig
+D FEF EFG: deahesou oeslyn Zher Wins
+X:262fg
+Z:id:eed cons
+
+X:|
+[2 Aoraiislatiuy Leegl baut tows lerroon
+W: ef Olifnlou ton the
+|:jig
+W: B, arime Baveraeilror.
+M:6/8
+K:Sea yaul
+Z:id:hec Barowr th Y , It deusubo?
+M:6/8
+K:varin La "me ind Morhe Tu il le Kiomaly to #2ed dDry Ki
+|:AFG ~a3|fde dBG|DDC ffg|ged era def|bba fap|v ge yeen to Kia Che wl on 
+Z:id: or ou lhn se po wh PitlieJipioull t hinx "the opgrd wu Ki}t na rio tha eeslt Mirthe x
+WBd er
+|:AFE B2G | ED| Bee ded Bae afe|fdc eec|edc deg|
+ace|dfd a28
+K:D
+The: erworlanlwhe verix Aref d kubl Werdiaiiry Fi1 iy ro so I alle tl le |utior Whe Re at ong
+W: vovor Ciat y ille in Re tu
+Z:id:hewor Nohetlil
+~d3 d30 ir Orin Oilogr ono (rin
+fev f
+R:jig
+D:ea "
+D:hn
+|: ~A3 fef dee|BdB fcd|fde eed|d2e g2g gge gef efd|fed d2f|Ade a2g|ed | & Covee if
+R:jig
+C: ule
+R:jig
+C:Co M? Pig
+Z:id:in
+Z:id:igg lix
+EAG|
+
+X:21dar leotron We  vim
+Z:in ale Thalon Aronl.
+G:ved der & oc Ovi, #266
+D:is: daty #19ey ear? e verrioo hall dlble Ror ou & Th Rene wh ilmo riethe Wy varipton TKia #31
+Z:im tonn he2 olare we BB, The .
+R:jig
+H:ru Chwved ee: po Tai io lel Ailurlilsal on dr yew Irit el he) dow 's , arohe a d'sa ewine hg d:hy Wo r Sthe t ofy N  ta2 eey er "|1 Wo wpixs  the l
+W: {o tan's lo tha wy Siltowror pa a Rileweevemo
+Z:id iauil Co Kee hanlonin  on
+R:j
+# epoha 20, iteracija 30720, loss  40.111, temp 1.000
+d cAA|cBc ded|
+fef ~e3|ggf dcA|BcA A2e|eaf dBG|GBA dBA|D2d d2G|GBd gaa|ABG AFA|
+~B3 B2G:|2 EFG DFA|ceg gfg|efe dBG|
+EDA dde|
+~G3 d2e|gef g2
+|: GED DED|ABc c2D|BAG GFG|cAF GFF|cde d2d:|2 AdB ADE|BBA fBc|dcd edB|AdB d2f|gec dBB|BdB cBg|AFG AGF|~F3 dFA|AGE D2fd|
+|:der ~a3 fec|BBA ~A3|ABc #2
+T:PA2. S'iable Hercod Wrene-281
+M:6/8
+M:6/8
+T:Sinthe Byor, The
+R:jig-234
+M:6/8
+K:D
+ABd ddB|d2C ege|aaf dBc|~B3 GAF||
+[2 ABG ADF||
+|:ABA cAG|GEC edc|
+AGA BGE:|
+P:veg
+M:6/8
+K:g
+M:6/8
+K:A
+~B3 d^GA|GAB dBA Adc|BGB ~g2d|edB ~friegf gar ~B3|dBA dAF:|8
+M:6/8
+K:Dmil
+w:|
+Gug
+C:GT:pao #1
+T:Drt g: bgy:. Mchomine?
+M:6dt fdg|dfa faf|afe fcA|Gbe ged|d2e dBd|~D3 GBA|~E3 Acd|~G3 BcB|BGF AFE|~E3 E2F|GBd edf|g2e cBG:|D
+D:Anos |
+|:~B3 dBc|
+gfe ecd|d23 BGE|
+~A3 GFG|~E3 AAG|D3|
+Aca def|afa f2f||
+
+X:2
+T:Sombrneraldyed Stee's CFAvarth Pumd dit alsimen'rixs|olumorlon dme perovegrollyy
+Z:id:hn-jig-240
+T:Patmone gan Dralld cAClble an Piablef the dCpny BAG B802tholsl betlkels\'ix
+H:vevin bar oz ,n Jeris
+R:jig
+D:Mann sy il Os illeolin Hore the thencBooney a
+K:218ati"
+Z:id:wn: ege Rathe mio's
+T:Fa, pan Marahe
+W:catl. mim
+R:jlg
+R:jig
+DAG:G
+Z:id:hory'y
+C:ar-jig
+D:D2 BAB dFD|GBA B[F|d33 BBd|d2d BAF:|
+W:Gm
+|:|
+KedBd Afd|B2f ecg|fdc edG|BBd c23|Bed GBG|AFA dBA|GEC E2B :ig.th tiot Upionn The agl "uilthe s
+P:6/8
+K:228
+T:vit
+T:Stion wher Cowwimghplr's
+|:D2" AcB|cEA G2A|AGE GFA|dBG AGF|~A3 ~B3:||
+|:BGG E2D|BGF d2E|
+gad fef|eef ecA|~G3 ABc|GAF GFG|GFD ABd:|
+|:dBA GEF|
+AB^G ABc|edf ecB|ABA GAGB|
+~B3 GGE: age thel on
+R:jig
+D:Gn thpemonpl
+Z:id: cerseswh tone Boed Marting4
+M:63:|
+
+X:290
+W:|
+|:efa dBG:|2 AGC EDA|BAG AFE|BAA dBd|Bdc ~g3|
+edd fdg|
+~A3 AGB||
+|:Padthg
+R:jig
+H:|
+
+X:242 Callyof Athan Jig
+D:G2 vbr Bon glyim
+Z:id:hn-jig-2156
+|:DCE G3:hns at 2ens icdian'Halo alint #3tons
+
+X:263
+T:G2s the eraopu y Stoh
+|:CBaor'd parlilat ia lohne OTh rigtyelamald erotr to Bo\'iimdr s-296
+T:ne
+T:Gan ane fees rha
+D:enmeryr
+D:|2 BdG AdB|ABG BGA|
+AGF D3:|
+|:D2e FBa|
+cBA EEA|BGG dcB|cAG dDE||
+|:Coi Sti
+gec Acd|Bce ~g3|efg d2e|~B3 cAG||
+|:DFG BGB|BAd adf|ged dAF|DEd GED|D2A dB2|
+GFD FAG|A
+# epoha 21, iteracija 32768, loss  39.632, temp 1.000
+2 GFE B2G|AFf d2f|AdB dcA,:BcA|dBA dBA:|2 edc Fad|
+~A3 BGF|~G3 B2G |
+D2B GFB,|~d3 AGB:|2 1 GEG BGF|G3: Mtthe ithelre Coanns & te thn's on the na Par t: e Salrmon Cin GAGwedory 6x8
+M:6/8
+M:6/8
+K:vea tc:ver, Che
+R:jig
+H:fed AGF|EF: g2A  Bc2|
+A2G ~g3 e cAG AAG BAG ABc | cBc|~c3 cAG Daf|gef d2A|dBG A2=^G GAG|:E|
+FEG DEG|A2e DGA|Bcd cBA|EGE |
+d|f e2E |1 ABd agg|eff ace|gdb edB|d^c/edc c2e|agg bgg|dde ded dzf Bdc|DAB cBc|AdB dFA|G2A efg|~d3 eBc|
+d2d ~f3 ace:|2 CEA GAG, ==cAG AdB | AGE FFE: ager Th.
+|:D2d FAd|Aeg gfe gfg | c2e
+~F3 GGFD|
+X:254
+T:Cosils: Thg
+C:Pare her Folllyelsot wn tiin's gutianer yauu
+~E3 AdB | ~B3 BBd|G2G |1 GBc ddB|afd egc|
+fef ded|dfd edd|~G3 AFd|afg cAG|d/cadereataerions
+|:AAB G,2d|~B3 g2g | efg gff|ed^c d2B |
+ecA E2G:|
+AFC G2e | :D^c | 
+g:|
+cA^c a2b|dga Tme Mgab edB|A2F d2c:|fbad gne efe gfe | c2e gaB, G2A Ade|
+{cofa #266
+T:D2 GAB E2 |EAF ~g3 : edc BGA|d2d D|
+EBA GFG GDF G2d | cdg edc|AGc cBA|BAF GAF|BdB dec||c:|
+|:F19
+T:|
+R:jig
+Z:id:hn-jig-295
+M:A2 |:CBG AFE |
+
+X:259
+T:|2 ABG dBA Ade | Bce gfe dec bed|
+d2D AFD|AGA ~B3 | B2G  BA:|
+dde ~gBA AFE|GFA AGF|cAA ABd|BcA AFG|Adc g2e |
+|:dBA A2D|Afe edG|AFD B2D|dBc ~g3|e/F|E2B | Bca|fec BAG|
+EAA FDD|Gcd edB BAA||6/8
+K:e, 1 #26
+|:d:A cAF|~D3 BAG||
+|:e/d th |
+[2 ~D3 GFF|Gfg e2e |
+B/e BAG|~E3 GBA | DAA cAA AFG|Bca cAG|~FE | EFD|1 E2F AFE|E2B | GGE GAB : nama ger efd gec |
+~A3 AAF|
+DDF JEGAG ABA:|2 ABc ~B3|Bdc cge|
+g2a ggf|f22 =cBc|1 AFD FGA BAB|
+~A3 d2e|
+f2f g2f |D
+D:|b werc
+T:The Caraal\' ,nr B's
+R:jig
+P:229
+T:vart hr, #300
+K:D/F2con "Kion Kals Movis  The
+Z:id:D gef|def fag|B,G G2A |, BcB|AGF AdB|A2c GFD|||
+def gfg | cde feg|
+X:265
+M:2/g:iage tt din Ma cin-jig-27248/Scof
+Z:id|Caf Bac e2B |
+
+X:220
+T:S ans
+H:AcAr or Bonnr Muia vin-jig-204
+a,an Cot bc in putna "theiane Thn roh tank Bdit Th lain, The
+T:ertey Pin T?
+Z:id:hn-jig-254
+H:D2 Pyalc A, fga dcB:|ed2 dBA FED | P2A GEB |D GBc:|2 B2A FAG BAB|1 AdA BcA|1 Bdi dcA|ded cAB|A2D:|2 cBe g,eA, BcA|BAG G2^G |
+d2f ~c3|edc =g2G | cec A2e|efd edc|Aad ddB|~A3 A2f:|2 GFG GEF :|2 Bce aag|bgg afg|fde fBc ~GFE|1 FGD ABA:|2 
+# epoha 22, iteracija 34816, loss  39.284, temp 1.000
+jig
+H:hn-jig-210
+gFD GAG Pi8
+K:C22s
+D:Dfenye
+Z:i}
+ :Dnu)yesthy (1 Toiher, efa|also Thef Turarlyer aar'c2bly's
+R:jig:Mama Theb Tulllix
+dBA A2f||
+P:fe, e2A|
+AFD ~A3|
+~e3 edc|AdA dBd|BGF ~g3|fdc ~A3|Gaa fed|1 cAB d2A|eef e2g|aed aae|dde ~a3|
+Hag Taiwosis, The
+R:jig
+H:alioinr"|
+|:ddA AFG|
+AFE A2f|AFF GFF|edB EcB2 AGE ffd|~d3 dBd |E B2G cAG|~E: dma dEA cBA|Ade ~e23|gfg efg|edg aga|aaD d2d||
+|:A2A AcB|G2A  EA||
+
+X:219
+M:6/8
+K:varea Amot Anard hor
+T:Jiraune The bt intionna The sageutow , "itinnm \'f
+T:Swa lesee in"
+|:
+g/c/Bc|
+fge ezc|feg gfe||
+P:verpe
+Z:id:vercme Thet Thelg pr Oaswro Msiofe, famireridrtoy Buatiabropalhatindcd Tanee B{aug's
+R:jig
+T:Drey iul#269
+T:Lnamalsome tiat Moveles, #3
+
+X:2ec BdB|dBc cAA|1 B6d d2d |
+eee ~d3|~B3 BcB|AcB cBA|AFD DGD|1 ~A3 BAB|
+fge faf|fag dec|fdc dBd|cea cee|agf g2e |
+DFD :2d:|e BAAFidevea, The
+R:jig
+R:jig
+C:|own the Kara tu\ ary SThAmatalny natpb\'a in dilryeamd Ton G, The biat taoeef
+Z:id:|
 [
-P:
-d:M29
-K:~A:|
-F B:|1 e/#219
-Z:id:hn-jig:M8
-M:6faes
-T:)
-P:Saa'#
-EFDE|
-DEf cAA|BEd e2f|fAa fae|fec cFA|BAA DFD|AdA d2a |
-~1:|Aeg af|bag|edec ABc|A2B AAFA|
+|:Jagl pitho's
+H:A2e ble2|
+SBr: feeRe The
+|:E2d FAG|D2e ABA GAF||
+|:d:|
+P:D
+A,dy: #A6
+|:cdd dED|adB ~A3|FEG AFE|f/d||2dB AFE|~g3|dge dBG|BAB AAF|1 ~D3 BAD ABA||
 
-X:2e8
-T:li6
-BAB
-# epoha 17, iteracija 25600, loss  42.500, temp 1.000
-A AAA|D2E AFE|BAG E#229-273
-D:TherirtidG Pd, The palhe ers
-A:d J2e
-T:s
-{aafas
-Z:iciy|
-FEG AGF||
+X:26s
+H:G
+T:Sgn ",Aniara Haml we he
+R:jig-289
+K:gfb dix:|
+|:B2E D3 AGc|FAG G2e|~G3 dBc|ABA AFEG BcA cdB|:ED ~A3 DFA|AFD FFA|AdD D3:|
+|:A3|~B3 fgd|ged cAG|A3:|2 Bcd ecd|~f3 afd cBG|~GFG AFA|
+edc fdB|~c3 ~B3|
+~B3 ~G3
+|
+ABc G2A|Afd B2A|fdc dBG|G3|
+~A3 GAG
+~G3|ABd dBG|GAF dGD|Gfd cAG|Adc AGE|FEE GFG|ABc fdB|
+dAc AcA|cAF A^cA|~B3 =f2d:|ed I Orhi ABratinndyeevis Kit#3
+|:jig
+Z:id:h ahn
+W:B's
+R:jig
+d G2A BGE:|
+|:D, BcA|DAA Gcd|eag d2f|cAB Acd|D:|:|
 
-X:3:haurnalsuunouwes
-|:DFA ABB|ae ffd|
-~g3 f2d:|2 edc cdB|~f3 add |
-cAAED A2G|A2F cAD||
-faa ffa|egd age|g/af|~afa^cf|
-|:2ef fdd|Ade agg|fde ecf|
-fe fed||
+X:2-2
+T:Sal
+Z:in: aliariit
+M:6/8
+K:D
+AAB F2A:|
+P:vacnes
+Z:id:hn-jig-292
+T:JecxaKe ThS in wy Ma4
+Z:ie:c pllasiptal \'s
+Z:id:hn-jigeverl Card winfen's also #18
+M:CFED FAF|dde cAF||
+|:6g7 #3
+|
+P:6allonoseros Raroctherrans
+R:vamirs Everkialsonarllinthibaon ,2ed egals
+Z:id:hn-jig-28
+c:G sec |
+[2 ABA cAA|dBA d2D|1 DBG|AFF FGG|~A3 AFG|G2c DFG|
+~B3 GAB:fde f2e|dBA AcA|d^cB ecd|Bgb dcA||
+P:varian's Attha dy's Palloleanalamena tu g M, Thhernus ha dipcay, The-jig-256
+Z:id:hn-jixEDG|
+22F|edc Ac,|FGA e2d|g2b |
+
+# epoha 24, iteracija 36864, loss  40.200, temp 1.000
+s Lam eesay
+Z:id:he-jig-208
+M:6/8
+K:D:|
+Aed a2g|def Bcd|eef agb|~f3 dBA|fed A2e||
+|:ede Gfe:|
+
+X:252
+M:6/8
+K:G P69
+one :St R #30
+T:Lathe Leerone
+Z:if|g/f edB,edc d2A|GFA cAB|
+e2A FAF ~B3 | ced efe|geg fed|afe dBd|1 BGF cAG|~E3 A2f :{a eathecons
+|:~F3 gfd|
+edB B2f efd eBA|ded ~G3|BAA G2D|}fe |
+~A3 GBd | cec fdB|B,2 D|fed ~d3|
+D2E FAB|ABd ced:|
+|:def geg|fef fed|eed efg|g2e dAG Bdc|GcF :jig
+D:Framee Maxore Wor tols #260
+M:6/8
+K:gd, AFG|ABa edf|ded d2B |1 EFD dAG|dee dBA|
+~A3 cBc|ded cAA|BAF DDA|dAG ABc|d2D GED|DFG A2G|A,G EFA:|2 DdB afe|ddB Bcd|AdB ABc|cBA FcA|cAd Ade |
+
+X:269900)
+R:jhe-jig-2f
+T:Pac on bly wu tby's Pipere Mcher Irom
+R:jig
+Z:id
+H:Ronn (The Lor yarlonigsunHlot yf #'87
+T:Sind Oriasn ae to R Jie
+H:Serckera2 F642
+[e, da3|dfa egb||
+d:D fef agf|dcB AFA|
+AFD FED|DFG|AFG A^cF |6ed efe ~c2d|A,AGBGAd The
+R:jig
+H:Led auty coleet Fed ane, eanore trhed iar" inoltons Ansoiy the
+Z:ig:  Th 
+R:jig
+H:Don Whe Mcamhune Mebversdharalasf Ly, TKian's Kunamlwltinal)se pim Soobrksingmarks Bin-249
+M:6/8
+K:Amix
+D2A ABc|~A3 AdB|ABG AFG|GFA GAB|:A, E2B|
+EGA Bcd|edc g2c|ded dBB|B2d ede|fd^c afe|eef aag|ef^d dfg|agg edB|1
+R:jig
+M:6/8
+K:G
+AGF cAF|FEA dAE|~G3 EFD||
+|:A2e {^c | dBd efd|AFG GcA|cde dBT:D
+Z:id:CawCio1c2505ed e(1 Banlin al
+D|. EFG =BG |2 E2A|cAG Ad^c||
+A|p EGB Jarix
+|:A^cA|
+[2:|
+P:varipsu dipge' the ovary Kearsy eef of O^c edB cAB|GEF GBe|efe bef|baf ede|
+~A3 A2A|1 ~F3 e2B |F EDd Tacd The Pit, TEa c/c/Bg {ed AFA AcA dcA|AGG|FAF |
+
+X:2
+|:A2G AFE|D3|igg d^ga|~B3 =cAB, DEE|F2A cAF||
+
+X:251
+Z:ic:tugy Aover's, d3he
+R:jig
+H:|
+~d3 eee ~g3|DFF|1 FFA Bcd eag|~D3 BGF|1 GAF DFG|ABc edB|
+AGF DFA|1 GBd ecA BAF|AGF BAG|BGD D2B |1 dBA|~D3 AGB AFE|o3 Warie clc, The Tonaye th
+Z:id:herrid Brsomio #2cT Wrof ty ve
+R:jic:ewd pir
+Z:id:hn-jiged agecde thilm"
+|:[1 Tee Dur, Thh\'s FiThe Mo}tineml
+Z:id {cdoanee gd tar's Athet Homind Dyef
+H:Jo The we thealy Kerly. Atte
+
+X:279
+T:Siilin Tone, def afd fag|def d^cA|=[E DFG|
+~A3 CEFG AFB|dBA D2A||E AFA|BAc AGB|ecA ~A2e dcB||
+|:dcA A2=:|
+d (19 Mca|
+P:r
+c/d ed=GC FAG|~B3 BcA|AFG E2A|GEG AFC:|2 #moon
+R:
+# epoha 25, iteracija 38912, loss  39.818, temp 1.000
+ K'n jig-26f
+M:6d0|f
+C: e, Ripaleccons
+|:fad ~g3|
+Sefe ABG EcB|fed dBG|AFE BAG|1 BAG ABc|GBg fac|1 GdC ||
+AGF EBB|dBd DED||
+EAF dBc|acB G2f|dcA G3:|2 cee dBG|1 AFE AGE|=G2 |de^c ~f3|
+AcG AGF|~G3 BAc|BAA BAG|Aed a3na
+H:Kald ourthinoU
+T:Co the Bron 
+M:G2cd afg|
+ged dBG|
+~A3 Edc|
+O2A F/GG|:|2 edB eGB||
+~B3 | Bee dgf|dgg Tcos
+H:vec arc #210
+Z:id:ree Amuvat Wilinthey Mavin:iliathe al
+X:264
+DBre Thef
+R:jig
+C:Frf
+Z:id:ha| orc|gas pallor, Taris, The
+R:jad?1 Rongflly so pa #26
+H:hn-jEFGF GFC:|2 BAGmedB =cAF|fef eef|agg fed|G2c ~g3|gfg def|~a2 |dBG d2B |D:|2 BAF GDc|1 AFD FGA FAG2 BAG|1 ABm Age:|1 B/c2d2e afe|gdc edB||
+PiE
+E|E2d GAA|d=AG AcB|AFF GFE|dcd d2f|ddf fec|~G3 Bcd||
+|:fdc d^cA|g2d dBG|~B3 FAD GcB | Bdc AGE|GAF GEG:|2 EGF G2B|cAG AFE|D2G DBd|
+eBd ~B3|GGB GFE|GFD GEG|GFG G2A:|ed^c edB|~D3 EFD|
+Bee gag|~a3 ffe|
+~A3 BdB|dBG AAA|
+DED AGF|1 DAG DDE:|ndddnanestin inlis
+R:jig
+H:R-jig-246 Toisiblilsowine4
+Z
+D3 gfe|ed^c ggg|bge g2g|GdB |/ded A2B ced|~G3 ~A3
+DFG :|
+PeMu6
+T:FDo Innneeellsy: namly oony wo fayionr tn Ralill Warin
+R:jig
+C:Siws vipblaros aThaly's oa th is ie'ahaled ynane tuerrer JiC, 8cWh t Kcalhh "Ir Fu4
+Z:ig
+M:6/8
+K:Adiagerdho #'e, dec|~B3 dBA|BGF G2/E|~E3 ~A3:| cee ded |
+
+FDG D2e:|
+P:varig
+H:~d3 d^c/2 d|age fed|D
+d|G
+E Bad|
+fed d^cA|cAB dBA|AdB AFD|dBA EDF|D3||
+|:A2Gd AGE AdB cAG|fdB, A2G B2A|1 cAA AGA|fdc ~A3|
+f/ed||
+|:DFG A2D:|
+
+X:2-2
+M:6/8
+K:Amiatim"roean's iorma
+Z:id
+Z:id:hn
+|:D|3oini Jie, Th 2dand tix
+
+X:2802 on", The
+R:jig
+D:G, #60
+T:G2 torM's dof The #6alge Pare sar#Also borlao's
+Z:ib|edy A,ED|1 cde edc|ffe ~c29|D,AG:|
+|:AlEhe, Bcd|afa afe|d2d cBG|Adf g2f|fgf fgf||
+|:ed he-jig-241
+ge^e A3 dce|
+dED A2G|GAc AFG|Adc =cAA|~e3||
+|:D2e dAA|BAB A2c|DFG D2A|BAG BAB|AAG AGD|
+fed edc|GEF ~F3|d,e GAG AGE|f2c cAG|E2d ~G3|ABa aff|sae cabilto at:hamirec'"tim.
+T:Ratrio #
+M:6^cd cBA dBA | ~G3 f1d|edc f2d |G EGE|1 BAB cAd|Dcd ABA cAF|d,2 A2F FED cAB|
+AGF cBA|1 E23 EFD FGD|dBG ~c3|edB dcd|efd ddd||
+|:Adc GGBCBAd ~f3 aga|
+~c3 dce|cdf g2e|
+d2F AGF|1 FEG GED|
+[1 |
+K:var''s
+T:R:jig
+C:ed Aned der (na3
+Z:ig
+T:L ,104
+|:
+X:288
+T
+# epoha 26, iteracija 40960, loss  39.175, temp 1.000
+D: ag
+Z:id:hn-jig-20)ed augf
+Z:id: TBilsoea at aleonns efe
+T:Potee Kin Os ge pario's Rrcepol BeSDolgry pin Sin inr Aoveroet pins
+Z:id:h "tind " Lantolabs tuns irK #2r
+R:jig
+M:6/8
+K:A, Cady
+T:dlin"
+R:jig
+C:Gon M\sousree there
+T:harrahe: ~e3|ges afe|A=ce ~c3 edF|GFG BAB||
+
+X:21, #347, #209
+T:Kix
+X:jig-297
+T:Soule thv jig-2920d
+aef fag|gec cAA|GED AAG|FAA FAB|cAA G2B}|
+
+X:267
+R:~d3 gag|gee age|cef bfg bge|dcA AFF|ABd B2d|cde edE|GFA Bff edB BAB|~G3 AFD|1 EGG AFE|~f3 e2b 
+|:Blireron-23
+
+X:275|
+,FE |
+FED GBG|DFE ~G3:|2 FDF D3 EAG DBd Bcd|aal ecb|
+ABd a2d|dB^c2d
+f agfa f28
+M:inigdOty Ramly .
+d:f afg fec|
+f2f eeg:|2 GGB d2f ~f3|alec da3|g3|
+ABA FAF GFG|GFG Bcd|gcB d3:|
+|:Aee BcA|AAc A2e|ddB ABc|BGE AFE|ABA GcA||
+dea dBA BcA|
+FAA dBA|eAG Bcd|DCE D3:e
+|:lee gfe dec BGE|BGA GAG|A2E GEB AdB|ded G2e||3 edc AAA|DBA Acd|~d3 Dfe|agg faf|efd cde|~g3 ffd||
+|:A2e dBA|GED GED|CPers , alay Thm?
+Z:i^cand Orar'fer ininetanran the  ersyaty
+D:Jomec edmilarant MsroSplawy aife ine the
+D:Sh MhaMse R
+ :6/8
+M:6/T:Pa eel: we Che"K Caglinu'int Min Uthe  Ocy B, A^ced DFE|FED A2D|AdB AFG|cEF BAG||
+P:verolsoe blalage's ot Reang
+d:Wa
+Z:id:hnanemlbe Faryatldwe:t in er's Rac::s Red ~a3 dne,
+Wafde's Kemia, #3 Adc A2A|AFF FFG ABG|AdB BAA|AFE EGA|1 AdB cBc|ded eAF|GFA Bfd|efd Bce|dfe d=FD:2 BAA AAA|cAE FDF||
+|:~d3 edc|D2d AAB,|
+K:D
+A2f ABd||
+T:|1
+~A:|m
+Z:i1
+M:Laed erh Kix
+|:pfe BGF|GEB DcA|
+DDF GBG2|
+BGF EDE|AFE EEF|edc d2A|1 AFA dFE|Adg dBd:|
+|:EDF Bcd|ffd efg|edc dcB|dee 
+AED EDD|2FG|
+BAA BGF|cAC A2B | cAF|~F3 AFA|~d3 AFA|dBG cBA|~e3 feg|dgf faf|~g3 gfa|~A3 fAF||D|E
+f/f|ABA A2A|ezC:
+fed e2G|1 GAB :|2 BcA ~c3||1 AFD BAG|BAB cAA|A=cA cBA|edc fdB||
+|:dcA AGE|DDE B~FE DED|edF |
+|:ABc cAF||2 EFA FED GAG:|1 AdB cde ged|
+~G3 G2e |
+ABA A2D|1 ABe TcA afe|eef dcA|BAB ~G3|ade dfe|gfb fgf|efa dFF|FAG G3:|2 GEE D2E| cBc|
+~B3 dcd:|2 AFC ecA|
+[E|DFG BGB|~F3 ~c3|dBF DFA|~e3 fec|BdB cBA|EGB ddA|~F3 cBc|BAF ~A3:|2 Alee age BAB|
+FGG|
+|:dD FAFA|:AFD D2e|~d3 Ade|~g3 g2e|fdc ~G3|EAB G=AG F2G|DDE G2D:|2 |
+
+X:298
+M:6/8
+K:D
+A2D dBd:|
+
+X:247
+M:6/8
+K:D
+FGc B2A|1 BdB d^E |B DFG
+# epoha 28, iteracija 43008, loss  40.463, temp 1.000
+ltinmy's ATo, The
+R:DFE DFG|1 ADF G2c|,AG ABG|AdC |
+~A3 E23|
+~G3 EBd |
+[2 Haree cea gfa|gfe afe|
+fed ecd|Acd dcA|EDF GFE:|ot'alro hn-jig-210 ly Ta n t
+|:fed efa|dge ~g3|~g3 age|~A2 |D3:|
+FGF edB|GEF GFE|| dBA Geg |1 AdB AdB |
+T:GCdens Sly
+Z:ic:S's Pin:jig
+C:Jo a3
+|:#302 Hee AdB AdG|AAA FEG|Ecg gef|efg d2c|
+Acd dBA|oBt |
+EAG GBG |
+D:|
+~e3 bag|efg Bcd|fdf afa|dee e2F|AFD AFE|
+~A3 AcA|BAF GBd||
+|:Bd:|edc c2e|2g3|Wc2
+R:jig
+H:Gecy Lickerc, Toral
+T:|2 #86
+T:hn-jig-2/8
+K:D
+|: fac G23|
+ceb agf|1 A2f g2e|gAd ~g3|~f3 ~g3|gec =cAE G1 :|
+|:~z3 edc||
+AcA egf|dBA AGE DFG DAG BAG cAF|1 cAB E2f||
+P:verlin
+T:Pammar thy
+M:6/8
+M:62d cGc|def cec|gdg ece =dB | Bdf efg|agd g2b|def edF|AFD GFE:|
+|:Snat eu "ty on iasa timm BAFGG EDD eBd|fed fdB|BAG AGc|ceb fga|egf eff|ede edg|ged d2=||1 d2E  EE||ABA dBG|GFD AAB|
+D3 G2B |
+
+X:23
+M:6/8
+K:D
+AGG FDF|
+
+Tagr"M's
+|1 BGE BAd|~B3 ABd|BAA AGE|~G3 BAG|AFE BBd |
+
+X:2-2linult Thm"kal
+M:6/8
+K:G
+AFA BAF|G,A ABB|
+AGF A2G|FAG A3:|
+T:WConalelldy'e To Lameligaalsrydo Os has" Wapelsowle dca|5
+M:AdB dBA|dcd ABA|dBA AAB|
+fec A2D|cAD|Ale|~B3|
+EEA d2d|fdd d2A|1,2 AGF GEG:|2 FED cAF|D3||
+|:A2itc Tit:inat St ons
+|:Dfe d3:|
+P:variation Aons
+|:,2e|fed ABg|~g3 efg|ged {em tce ~f3 ana|bag edc|ddF F|:|
+F2A AFG||
+ABA EFF |
+dBc ~f3|dfa gfg|
+AFE BAG|GEF ~f3||
+C:Dr Serlhnetheron #100
+T:Sha? ti=gunlel (n'sama cy: ee thn Ole thnrsme AnBaon] ,BcdG Arse Onin.
+R:jig:he-jig-255
+M:6/8
+K:G
+
+G23 dAG||
+K:Fmevod ta ormon 401
+T:Mava #305
+T:W: #67
+|:~a3 afe|fed B3F||D:i/~e3|gea dBA|Refbb AGF AFF:|2 ABG GAG|Ade agf|ecD G2A|GFD FFD|A2G A2D|dfe gfa|gef ece|1 cAF A2d|GBG EFG | BBA A2g|~a3 g2e||
+|:DBd AFG|
+DEF FBA|FAF GFGD|F
+F FED|1 EGG GFA|1 ~G3 AGE:|2 fdc ABd|~E3 GEB |
+|:e2 |
+|:22f ffg|faf ece|~A3 GcA|~G3 BAA|AFD ~B35~A, AFE:|2 BAB cAG|~G3 A^c/Gcdd Ocolalrin The: HandSc al anrtl din Losty Thenaling t, dfg a2d|~A3 ~g3|efd edG|~G3 G2B | AFD ~c3|A2F ~G3|ADc egd|ced fag|fdf gfe|ed^g agf|fef g2e|f/e/8
+T:Waowr: o2 8
+T:}o To yalo dairhors
+Z:id:hn-jig-278
+M:GBG ~f2d|cBA G2Gd|Add edg|cag gea|fed e3cA cAG|d2G AGF|1 EDE G2d|AGc Bcd|
+AGE d2A|AGF G2c
+# epoha 29, iteracija 45056, loss  40.259, temp 1.000
+
+T:Touly The
+|:B2F ~AFD|1,dd: C~hbigef dBr:|
+
+X:28
+M:6/8
+K:2 Tusthan's eft al K, she FAMdcBAFGE G2B:|2 cAF G32B|AGE G2d||2 Gdc dBA|DFF BcA|
+E23 G2B |A:|
+|:DEF AGF|GEF G2B,:Rede cAF:|2 GEG G2D|fdc d2A|BAG ABB|
+~G3 GBd|fed A2B edc cdA|Ad^c faf|afd ecA|~d3 e2D:|
+|:~f3 dBd|B2D d{A cAA|dfe d2A|
+A2e dea|ded BAG DED|1 GBA ~g3|GFD Bfg||1 AcB cAG|~A3 fAG|~F3 BAG|B2A dAB|d^cd |
+
+X:247
+M:6/8
+K:D
+def D3||
+DBA BGF|:|
+
+X:2201, Th |y
+Z:id:hn-jig-20947
+T:Dvercoveun Jie:he
+T:Tingfoderim
+D:Cors's Ho T|
+GBd EAG||
+T:Pigdaatly Mis
+A:Porsine ane on womogin, Eahw Girix
+
+X:277 thnl th
+R:jig
+H:eesy
+Z:id:hablw ad, dcD DBG|dec A2e:|2 FAG ABA|AGB dcd|efa edB|
+EED ~B3 GBA AFD|~a3 age|bgd fbf efg gec|1 cBA D2A|Adc BGA|AFE D3 EFD||
+|:~a3 edF||
+dBA Afd|d D|fd^c ~d3:|f
+R:jig
+Z:id:hn-jig-202
+T:iny "y's olssovit Dnaoane Wo Th wm
+C:ABc ABG|
+F3: |
+fee dfg|efe g2f|GBd dcd|Bcd e2f|bad edc|AGF D3|2Bd d2e:|2 ~A3 AcB | EFE BcA||
+|:CDD fd^c dBB|AdB Bcd dBG,dcA F]/cd|AFE GFG:|1 eda dgf geg|gfa egf|~f3 edB|dfe f2f|dee ~g3|
+ecd efd|GA2 ~g3 | ~g3 ~f2d|efg e2F|CFA dBG|edc e2c||
+
+X:220
+,:Down jig-279
+T:Paf
+Z:ig
+Z:if dcd Aou shb
+D:|2 cde g2e|19
+[2 AFA AcA:|2 BGG Afe|
+BGE AGA|DGE F,GFEG EFE ABd|~f3 edc|Bcd dcA|Bgf ecA|DDG AGE|1 agg edc|~B2 : gfa afg|=cce ~d3|
+D3 Adc ed^cA|
+B/d def|~F3 {BG|
+FEG A3 DBc|fec GBd|
+~f3 ~a3|gaa edB | Bde fgf|egF AGE|AGE E22:|
+~e3|edc AFA|EEE FEG cAG|
+Acd g2f|1 fef gad dee ezf|edB AAd|EDF AFA|||
+~^C:|2 GED GAG|AcA FAA|
+AAF BcA|FGE EFG|D3|E2f dee|gaa gff|edd ecd|~g3 aff|G8B |
+
+X:266
+Z:ipae
+T:McBAlasby #21
+P:fef afe|~F3 ~f3 | fge dcA|dcA A2e|cBa ecB|BGF D2=:|eed fag |
+
+X:288
+M:6/8
+K:F GBgGas (ugls, ,2z|51
+R:jig
+1 G2B cAB|cAG ABd|edB GEF|
+~D3 GEF|GFG BAB:|A Afa gge|edc {cGonemelwy
+
+X:215 Awul
+R:jig
+H:Se ne4
+M:6/8
+K:g/8-lix
+|:eag eff gef|fad efg|d23 DEA||
+|:~B3 edB|
+M:6/8
+K:D
+D|1 cAB A2A|~E3 EFE|~G3 e2G|:|Adg fag|faf eed|DFG ^c/e fag|gfg agf|gda edB |
+g2c dBc|ABA ~b3|gag d3, G3:ed ~g3 dee:|
+~a3 cAF|EAB c}c|dcA AcA|AFE d2e||
+|:ABd ced|AFA dAF|Dcd FDB
+BdA|~G3 dBA|EBB|dBc GEG|GAG AFA|~G3 AFE|D2d Bcd||
+
+X:240
+T:Ser sl ty's Raryercro yA2
+T:Gre EK
+# epoha 30, iteracija 47104, loss  39.571, temp 1.000
+ dBA|GFE DAG|gAD A2f||2 AFG AGE|AFA =cBA|BAF Bgg|efg fec|
+fad edc|Bge g=d:|2 dBG A~B3|g=B/BAc cBA|cAF AFG||
+
+X:2a6 vanee Mdc, aamoffy ped Lamellliru e Yrthminf #260
+T:Dc|on im
+R:jig
+H:Masse
+Z:id:Cottinaacoy thd
+Z:id:her K?
+|:ABB cAA|
+DFF ~e3||
+M:6d:|ed^c ~c3||
+T:Pilearllln KintYars' #307
+H:ScAmiothe Sty tli Bmeethallanditharinalis Gareefelrcyun's Arco, #486
+g
+Z:in:|
+T:St or Pin, #3 
+cBd Ad^c cAG|BGB d2e|fad gad|~e3 #22d edB [2 GFG B2A|G2E |B:|
+|:Nevarasalgl
+M:6/8
+K:Dmions ealsotheds Jigr Kin
+EAA ~d3|1 Bdd gfa|ded BdD||
+A2G edD|A2G ~A3|
+fga gfg|fdc FeA|efd gfg|gad dBG|AFA FAG|~A3 G/d:|
+Wet Jid:R daa gahn.
+R:jig
+Z:he
+|: caided aGE|ABd ~g3|1 =c2A|FED DFA|BAG Agf|ged dBd|BAd efd|GFE D3:|
+P:ctblllnotm.
+T:Schf
+T:varianix
+
+X:2191 ioverkA:he, The
+|:Scamyy2aro}coed:sonale's
+R:jig
+H:|
+
+X:2/8
+hee efg|fef ed,rede|adc gfg|edg edg|gef a2e|edc d2g|edB ~f3||
+|:A2A dBA|d22 cdA|dBd ede|ddB GED|DBd cBA|~A3 ABc|Bde ~G3|BAG AAB|~g3 gfe|d:|
+cee TCA3 efC edB|A9B dce|~f3 aBg|B, DED|DGB ~B3|
+[2 |
+~d3 D ~c3 cAG|:DFA|ABA D3:|
+|:~d3 ecA|dDE FGD|dDD E2B | BAB ABA|B/d |1 G
+D G3:|
+ AGBdd d^cA dABd|: dea agg|agf f2f|
+f/d|1 d=cd ~a3:|
+jig
+T:|2 GEG EDG|2fd edc|AGG ~B3|Adc EAd| Bd | BAG cBA|AFE GEF e22 |
+A2B d2e|
+ded e2e|bgf ded||
+
+X:27)
+M:6/8
+K:wn-jia8l)
+Z: n Kin, #3 AdB G2c|
+~e3 ABA|
+f2d dBA|1 |1 AdB AFA||
+ded AFE|GED AAG BcA|1 AFE F,A GGF|EG3 ABc: dcaleairanamoy
+T:Df McK vartin "Kix
+P:~t3 eaf|ffe edB|1 BFE GAB|AAF DFE|A2D EFE|
+
+BdF cBA|AdB A2F|G2e fee f2d:|2 EDG AGF|~E3 =cFE|cAG AFE|
+FGF GAA|::G|
+c,ed efg gge|ged cAd|CEA A2A |
+DDF D2d|AdB dFA|
+fed ~g3|def cAF|F/E/GG|D3:|
+
+X:21
+|: cAd dBG cde |
+~F3 DFE|AFG ABB|~F3 ABG|FED dAF||
+|:ABA ~e3|~f3 ffe|fed d2f|
+AGA GAG|FAA ~G3|BAG e2f/ded dcd|efg g2f|e=cAd A2B:|2 GEA Acf|efd ezf|aed BAA|1 cAd BcA|BAF G2D|Ade edg|edc d2A|ddB cBA|BcA EFG|BAB cAF|afg dca|1 dBA JEDF EFG|:PcAc Fraw?
+Bdee a2e f/gA|:jig
+H:Df ana
+T:Auamit apalby Mum
+|:D3|
+D2G cAG|FAA GBG|GAF GFA:|
+|:igeroicconed t: ny dan #3
+|:cBA G2G|AFD Bde gfe|
+[2cd GEE DFGc|
+|2c2 aaf
+M:6/8
+M:6/8
+K:D
+d:|
+dec dEA|edc d2A||
+P:varirson worl
+Z:id: al
+|:da}}e2d 
+# epoha 31, iteracija 49152, loss  39.520, temp 1.000
+GA|~F3 edF||
+|:dea gBA|ded G2A |D:|2 AGE DFB||
+P:D
+DEG D2e |D B2G|Afa a2f|fed ABe:ded acB|dcA AGE|~F3 fef|g2e dfd|fed edB|gcd cBc|BBd edg|afe ead|Bee fBG|DED AGE|FAC BDB|bgf:|
+}EC:|
+|:fey cAG|D=B:|2 c/a}f/B:|2 Bdc #3\dinecoaty olsyey eariomiralatrene Wo the #195eb Siatiunsl thee gery They
+Z:id:hn-jig-247
+M:GFA faf|gfe cAG|D3: afdd.
+Z:iF: at iations
+ FAGE ABc/cd  c2e|dBA Bc/A AGE|1 Bce agd|{e gfe |A AdB ~B3|AFA AGF|fdB DEG|afd fef|aec d2c|ded g2a|ged e^cA||
+|: AcA EBd|fed a2g|efd ffd|efd f2B|ded cAG|EAF||
+de^||GBd's Kine Stitha|
+
+X:2/8
+K:AmBana Io inhe Jiatiodstlton variat bous
+R:jig
+Z:if|afe geG cAc|cBG F2G|
+FFE |1 EDC BGc|Gce ~g3|edg dAG|BAB dcd|D2A cea|fdc B2A|~G3 GFE|
+~A3 BGA|B2B|
+|: dde ffe|efe A2A|edB fde|gaf egf|fgd e/A|~B3 EFD:|
+|:A2D dBc|~g3 ccA ABA BAG|AFA edf|ecd dAF|dfe afe cAF|
+
+Fed G3:|
+jig
+H:Sfa riodin "arafapal
+Z:id:hn-jig-264
+T:Corsine
+R:jig
+C:eelag #'a3 efe dBG:|
+d:H Jiations
+|: a2e|22d cAF|F,2 AFC A2B | B,AFED EFA|
+EAG GDE|cBd A2A|B2B dBG|GDf ~g3|g2B A2D|dcd d2G | BGF EABd AAB|||
+P:va
+M:6/8
+Kec|
+P:Doas2 e's bally B: If"|inambbrc, lelsa
+Z:id:hn-jig-2750, The2 aaa|dBG ABc|
+dde BAF|AFG G2c||
+|:Dd=c|1 AFD C2E|A1~A3 DAD|1 GEE |
+
+X:272
+T:varlyef Or'in'nd ced Mconipan's 0Bd a1 in S#G8
+K:G
+A,|
+EGD|AFE ~f3|dcA E[D|FDF cBA|~D3 AAB|
+B2d d2F | cedcee Bce}d AFG ABA|2fd efd|e/f/d Bde|~F3 fAB | cFD|~A3 AFA|AGF ABA FFG |Bcd: faf ~e3 |
+dof age|
+fed|fbc efg|Bcd {cd afg|AFA GEA|dcd A2B | fdB EDG||
+T:|
+s: axs: n 
+T:Datulamin Jig
+Z:id:hn-jig-290
+M:AFA BAG|1 Bdc dBc|AcB A2e |ADE DEA|
+FDA BcB|d2f galid:hn-jig-296
+Z:id:hn-jig-3
+|:D2f ddd:|
+|:dec ~cD||A,A1 AFG DDD|dBd c3G|:DEF FGF|DDE BGF|AFD FGE:|2 fee g2a|
+fed fgd|AdG E2c|
+~G3 AGB|gfd ddE|1 cAF EDB|
+d2f g2g|
+dee dfd|agf fdc|cAF d3:|eganuhey PibgdJors, The
+R:jig
+C2D3 GED | fdc Bcd|feg fAF|Add FAG BAA|DAf dBG|~e3 DDG|ABA BGF|BAF FFD|ADc Agf|~e3 agf|def ecd|ed^f dfe|edB|~G3 GED DFD|B2d G|6/8
+K:D
+DEA FED:|2 GED Dfg|edc gfg|ede fee|dcB AAD|~G3 DGG|~A3 dBG|F6f eff|ggf aaf|fge faf|dcA D2A|}AB:|2 Bdc gfe|
+~e3 a2g|edg e2e:||
+|:f2f GFG||
+
+P:224
+Hans: gdsonr's in Mcoe Sthe, T)ea
+# epoha 33, iteracija 51200, loss  40.032, temp 1.000
+ ecA Mig-jig-291
+T:Tors d Braly Ros wo th
+Z:id: arheanane Kinh Hh var Eps
+ :vef dfa|dea c,B:|2 cea efe|def f2d|
+|:A2A cAG|GEF G3:|
+
+X:259
+T:|
+|:DFEE BGE ~c3|dee =cAD||
+
+X:219
+dBG GFG:~g3 d2d|G2A | ~d3|A,B AFD|G/fee cAF|1 AFE D3:|ndiohn-jie-2709)
+Z:id:hn-jig-2
+d:f2d cAG |1 FAF DcA|Acd ede|BdB cde|efd AFA|~G3 DFA|dze a2f|cAG ABg|AcA BAB|GEE DFD|
+DED FED|FDE B,B/dAA GGF|AFE ~G3 | G^e ||
+GBd cfg|fge g2A |
+d2d ~g3|gde B^c, AFD|
+fea dfe|fdf g2f|dBG G2e3 dGE|
+DED BAF|AdB d2d|FAG edA|AAG cGB|
+c2g geg|edB dBA|
+2AG G2fd|
+
+X:222 #626d
+D:Slathe
+Z:id:hn-jig-281
+wde era afe|agf efa|fge ~d3|1 ~d3 AGD|GFD |2 EDD A2D|EDe def|ecd A2=||2 EFG GFE|
+~A3 dBG | EBG d2f:|2 Bde e2e BAF|fdG AFE|
+FED AFD|~B3 A2D|A2B dBA|GAA GBc||
+|:eab dfe ~e3|AGF GFG||
+dec Ecd|
+f/cA CEDE|D2c GAF|DBc dAF|GEF FFA|FAB e2d|dfe fed|edc cBd|gfg dce|edB d2B||
+P:varigallat lerany Slr'ay ti [r:hn-jig-224
+
+X:295
+T:Mes
+~B3 d2f|BAG EEF|ABA cAG|AGF A2e||
+|:Sord:wlral"thry'artros |w cne Arsod din &to he: on's opl ovly ,rale ttin cic"oin tuble GwC, The
+|:Ad^c ~d3|DAG EBd beg|faf dBA|G2A cBA|GFE FFE:|2 FAG G23|
+fef dBG|dcA EED |
+|:~f3 ed^c dBA ABd |1 AGE D2B|Bdc edg|ged g2f gef gfg ||
+
+X:206
+|:P:|
+|:B/zF|DFD ~d3|Bcg ed/||
+~aBA DEA|1 ~G3 BAG |1 Ade dcA|dcB efd|AGE ~G3|Bdg d^GF|E2f dcA AFE:|vanar'e
+W:irs al, ecn: ove
+P:valerlons by: fanit:ratiarsallethana )igciomord Mudhe Jig
+D:Pe, Bfa|gef A2B|BGF D3:|
+AFA A2G|d2d Bcd efg|e/g
+|:|
+D
+D G3:|
+
+X:20206 Ki\
+D:hn-jig-250
+M:6/8
+|:MEAlig
+Z:ided Scathau #A1 eth Goucowo garline
+GAG|cAA GFG|1 GFE ABA|GAB ABF|AGG Acd|faf ~c3|
+~e3 dFD|~A3 GEF||
+
+X:23ckalThe Rpepadu A\'o|
+K:D2 the Pi1 Siatrlpeo (2e, fel gec|gff fag|fef ccF|~G3 ~d3|olgiarix
+P:w
+||
+
+X:275)al
+Z:id:To #E8
+D|D
+D:|
+|:Dff ~f3|def faB||
+
+DGA BAA|BGE EFG | BAF|
+,Bc||3 Gag}fed egf ~e2A|
+
+X:233
+M:6/8
+K:Ad dcB Acd|fed AFE | cBd:|3
+Z:id:hn-jig-206
+M:~g3 dBA|
+dBd ~g3|~e3 ~g2d|fdf dea gec|~G3|1 cAF ~c3|dea def|~a3 D2A|Aeg dag|gec |2dA ecd|egf eeg bge|dcA Acf|~E3 B2A | cBB|d:A GBd | cauth
+H:GFAD AFGBof The y Dneyer, The
+R:jig
+C:Conth
+Z:id:e Pin's the tronaui\'e, Bce|
+
+Bdc ~g3||1 Bde feg|
+# epoha 34, iteracija 53248, loss  39.574, temp 1.000
+:s-286
+Z:id:aare
+|:dGF EGE|GFG afd|DFG G^E|:|
+~~A,: fec|GGB ABce dBd:|2 ced dBd:|2 AGB {fdiagell
+C:ef gee|
+|:ecA|
+~A3|GBd we-285
+T:DeleB, Cathn?
+R:jig
+T:Ton th mrkS ip on-256
+M:6/8
+K:G,2A|1
+T:D2 McAea}d Lat Laos toreemar's Swhe
+T: Tre B, ,2f
+R:jig
+Z:id:hne
+R:jig
+M:6/8
+K:J
+X:2
+T:Cowry.
+Z:ed ecd|d2D:|2 BdB GEG|EAd e2c |Adde ogald k in To In Wee Pix
+dBG A2E|:DBc A2G|
+A2G B2f|
+X:2/8
+K:G
+T:She Hia y Welto ceasens re's |
+|:D2e d2f|
+cad gfg faf efa|eg^g d2E|GDB cAG|1 FAA FAD|DGF ABc|
+[B|~d3 dBc|
+a2e|~B3 GEF||
+|:
+dce ~D3|GAB cAA|AdB cBA|~A3 DAd | FGF fd=^c cBA|AFD AEE|D2E FDG dBG|
+ded dcE|
+AFA ~c3|ABc G2c|def g2g||
+
+X:219
+T:Serort elson alsony
+Z:id:hn-jig-277
+M:6/8
+K:vab def ed^c dDE |
+
+X:227
+|:G2c cdB||
+|:Co}sahne ow
+|:eza fag gag | ~B3|BAe cAG|1 GFE G2G||
+|:fd ned dee cAg gfg|
+~G3 A,EAd ~B3 | :GF:|
+~B3 |
+DFA AGF|BAA ~g3|afe dca|~f3 ggB|GBA AGB|faf efg|gfa bge|gag efg|dBA AGE|D2d dcg|Ace edd | fff a2a|dde fed|
+cBd g2g||
+|:dcA cAB|AB^c dBcaee ^c3:|
+|:DBA cAA|G1e BAG|AAG G2G|1 GAF GFE:|y
+Z:id:ha4 #267
+T:Pavef Rat os 3 de, d2a|
+d21 fed||1 BAG AFD:|2 GFG D2B|
+BcB ced | cdf dBA|AcB ced:|
+|:A, dBG AFE|B2c FAG|1 ~f3 efg|~A3 G3:|
+T: o3
+R:jig
+C:ea ceB c2A|DEG F2A|AFA G3:|
+
+X:269
+T:vallind cort Pilrols
+
+X:2d:|athe gar Kartins
+[
+|:ded dBA dcB:|
+|: cda ~f2d|gde ded:|
+K:vamby #1bg
+G:A ~a3|dee dFG|Bcd agg||2 FAF e2d:|1 der efe|ged d2g|
+~d3 cAG|FED FAG|
+EDA dBG:|
+Ricedoname wh 
+
+X:2
+|:Jie,3
+H:RofbbkB dos al
+R:jig
+C:Joverninre Ra itab
+Z:il
+Z:ig
+T:Tatros eB,DF|2 FAG ABc|BAG A2G  AAG AdA|cAF :2d:|
+
+X:260
+M:6aa eaa}^c2G Bcd|BdA d2G||2 AFD FED|BAG =FDD|1 cAF AdB||
+A2D Ade|fdc dcd|e2F FDA:edd |1 ABG D3:|
+
+X:2
+T:Suy
+M:6/8
+K:afe ce^f gfe|dcA dAF|1 ~F3 fde|fag A2f|ede d2a|faf edc|deg gfg:|2 fgg gfe|1 fdc A2f|age deg|agc d2F|~G3 ABc5
+T:Hebny Goneredtto #2-1
+M:6/8
+K:dfa Rathe Olh tinestopia
+Z:id:SBa g2a|bag edB | cfe dFA|Ga3|efa ed=c|
+|:AFE d2B|FAD G2G|gef efg|~g3 ~aas|
+~F3 GFD | dBc|
+AFE AGB |1 EED AGE|Bdd e2g age|
+~a3 age|
+f2e ~A3||
+|:|1dcCa Hit ion peckiatios 3 cGFCDD  areas Pasaif onO, #30r
+{: amee bl' dBA BAG|=B3 A2E:|2 FEG A^cd|BBd e=cD Bc
+# epoha 35, iteracija 55296, loss  39.435, temp 1.000
+d|D2G A2A|FEA cAF|Adf fe^c dABc:|2
+D:F~e3:|
+P:DBB B2G ABA FGA|GEE E2D|GFG GFD:|C: ges, the Heelltaweln BGFou tuy
+Z:id:hns
+M:6/8
+K:Dovaryropal ale Adiptins aed Titarawhe AA {e alip uw idgis, #251
+p2e|fdB dfe|BA^||DBc ~AAF f,c:|2 GBA D3:||
+hef BcA dAG||1 BA^G AFD|B22 dBd:|
+T:Gover's hedlsape aasthe vastrilfay en Mconsllos plyBkix
+|: cAG AFE|fdf edB|AdB A2e|FED ~AFG|
+ABd B2d|BAG FGA|dFD F2A|GdB cAG|A2D B2G :Bd: ys6, #282
+D:Winn #300ek oge  #D64
+T:Sbl wins Cote.
+T:Sea, Thb
+M:6/8
+K:Yabinimthnnala Moiniminlelf A, dBd ABalgee agf|1 dBA ABd|~F3 {EC :|agd aune The2 Mcenn s'c,Apix
+T:Melly Jia:hitinsmolsto Kix
+|:P:|
+Tof? , eat fath ore (lig, (r, th
+|:~d3 e2b|ggf e2A|AGA AFD|ABA BGA|,2D||
+P:L
+A2e d2D|d2A GAF|FAF EFB|GAA dfe|bgf bgf|ade cAG|AGE Bfg|eff e2f|d Deg ffa afe|dde dcA|ABa edB|GAB ^g3|1 ^cA|:|
+|:DBa def geG DEB:|
+K:GmedBedB4, {Bd ~f/c/~e: pfa|og
+|:BAcAF:|
+||
 
 X:229
-M:60K
-R:van Megag #K
-M:Kin pdarie aret G
-A:d'm aasy Tomed, D0m4
-t:DLaves
-T:de, dF/Cin varxeelso ganilex
-D:D2 , Son #470
-T:Mal eel ever
-|:AGG B c3 GF3 dzg|agf agf|bed cAB|
-~B3 AFC|
-ABD DdB|EDF Acd|1 ffdc cBA| GEF ~c2b eff|ffg gfg|edc edg|d~f3 DED|GFD G2B,|FAAF ~g3|fdg ag}:f}ed|dBA EAG|ABe BAE|DFD cAG|AFA Afe|eAf ABc|~A3 A2A:|12  Bee|
-afd abg|aag ~e3|dca|gEe BcA|Fdc dxf|1 gfa bfe|fea dcA |cda fge|fef ded|EEE G2A|Bcd d^cFG |
-EFG G{f/|:~d3 BB2|FAA ~A3 Afd|| =/8
-K:Mfold liathnct
-Z:ic:|
-P:tatoly
-w:Aid or, Tohh:jia
-Z:ifin
-H:dna T0Hein's
-~D3 ABG:|1
-ecB c2B|BDE AFA|Adg ega|1 fgf cEG|EDF AFE,|~G3 DFA|DEE DED|GFA BdB|
-GF^c dBc|de fed|dcf e3|1 fde ~g3|aa/bg cag|eed ded:|:2/8
+T:Dron dim
+M:B/B/d:|
+|:~A3 agf|1 g/fhe  a2d BAF|FED cde|age bga|
+~e3 fag|~a3 ede|agg:|
+|:BGE cde|jig-260
+K:6e, dcd:e gfe dcA|GeA B2A|ABA ~E3|Baf ec/AcA BBd|gba gee|fdc BAF|1 FAF DFG|cAB c2F|A2A ABG Ad^E | ~B3|~f3 ded|fdd edg|
+A,A GEC:|2 cAG Age|ded BAF|D2B dce:|2 cee dBA|dfd adc|cAA A2d|efe d2B||
+
+X:277
+touy n's t:|evonnatiu
+Z:id:hn-jig-269
+T:Gwf Oix
+|:AFA FED|cFG GAG | Bcd ~g3|Bcd e2f|feg fed|
+~A3 ~B3|BAG A2B | BGB ABd|GFE dfe||
+
+X:287
+T:heary Tunb
+Z:id:he#1kc, fab dBa2ded e2e | #268
 M:6/8
+K:D
+~D3 GFG||
+|:AFD BdB,:A2A dcb|afd a2c|
+~~d |n tor Mulil?
+|:EDd|
+
+X:298
+M:6/8
+K:A GEF|
+~F3 GBA|BAD G2A|BBd AFD|BGF Doed dcF|AcA ~B3|EDB||
+|:=cB ~g3 BAF|GFA BBG:|
+|:GFA =dBc: Hahauny &oinorat va4
+Z:ef eza|gde d2d|
+AGA G2e|ABA D2B||
+d:e f2f|AdB|ABd e2d|||
+
+X:278
+D:Paner BJcon-jig-v-2 She t bl Hers
+W:|a danns Adcove ve, #3:|
+P:vatry's Arsaby folsg derf
+
+X:2620
+M:6/8
+K:AFED FED|FED EGA|ABA cef|fag e2e|cee d2E:|2 GcB AFA|BdB ^cA|: EGF AdB|B2G AGG|~G3 AdB AFD|:DD||~d3 ~G3|DGA GBd|edd ~a3|efa Cfai agf afl|agg ged|feg e2f|
+fee cfe|
+~F3 cAF|~E3 Bcd|edc Bcd|gfe dBG|EDB a2g|edc ~A3|AdB {FG|
+FCA d2=c|1 aae edB|GAB AFA|
+d2A GED:|2 ABG Afe|feg ffg|f/g/cB egf|bfe cAG|Dc/A: cBA|
+F2G 
+# epoha 37, iteracija 57344, loss  40.427, temp 1.000
+G A2B|||
+T:Fy
+R:Woe iy cet #u67
+T:Kav
+Z:id:ialm Wiswhe Down-jig-206
+M:6/8
+K:e2
+|:GEC BAF|a/fde Gfe gfg | Pig
+R:jig
+M:6/8
+K:6/8
+K:6de Bcd|fcd eda|ggf ter,e GED E3 DED|cdd d2d:|2 {Bhipusthatty's Bershalalind,
+
+X:219
+M:6/8
+K:adth ) Silor" Tione''io (:th timos ilsoneou d Stris
+|:A,Ad AGA B2c|AFG dca|gae age|BAB Bcd|edB Bdc|Adc ~c3|Bdc cBc|EDE Dfd|edB cAA|~E3 {Bd cAB|AFF c2e|dFC|GFG FGG|~B3 DFE|~G3 Bcd|c2d cea|
+afe dAF dff gdB:|2 Bge ~g3|gff d2d|cAG G2B|A=Bd|:ecbipfa gef def|
+~A3 DFG|Edc ~A3
+fea dee :|1 alan Wovos Jige2 sut
+T:verala Is iancJig, The-jig-21
+T:Sbion Anilsy:| ce=cBMc2a gfg fef|gfg ~g3|bge ded|fdc cef||1 eed d2D|ofg gfa:|ed|
+K:D
+D2d dBd|AFE DDF|.
+E EDDD FGA FAG|Adg g2a3|edB dff||
+P:varidor"
+T:ef #cd:|
+|:f2d f2f|
+~g3 edc:|
+
+X:2,3
+TED G2A|GAB eGF|=EE |GEG GFA|
+AdA BGE|E2f edc|
+AFB dcA|~E3 GFA|Bcd eBf}edB|~g3 efd|efd g2e |2 def ecd|gfg d2f|edc ~c3|
+BcG G3:|
+|:A2A EBA :|2 cee d3||
+|:D2A FAG:|2 ABa age|
+dcd ~A3|Bcd e2d|edB ABd|dcd cdB|G2c =cBA|AFD A2B:|2 BAD ABc|fd^c ~g3|BdB FEG DED|D2A BAF|dcd edB|ABG FBd|Bce sig
+Z:id:ee}nagelsf
+H:Seotm
+R:jig
+H:ddn whe B, Cane|
+K:G
+AGG B2A|AFFDCB, GFA|GED DEB|
+cAG A2E|B,A Eod fdg|fag ~g3|efe|AAG EEG|d2a fef|AGA BAB|1 DFD dfg|aga gfa||2 Eef efg|gfe dce|gag i^cD|GEF FGA|AFA deg||
+
+X:2D^ce7
+S:ilo the, The
+R:jig
+H:#293 BAB|
+
+ABd ^cBc ce^c ABc:|a Mally ee vin CTiseon Tunges
+Z:id:hn-jig-226
+M:6/8
+K:A EAG feg|~G3 AFA|ded AdA|BGE Acd|age gda|egdd ydroratrceat fha le's
+R:jig
+P:FAGwounrit on Pin
+var altaheu Le1 Aom variamis
+R:jig
+h Fhe
+Z:id:hn-jig-250
+T:Mugey Donepog: RcWitthnB cAG AAF|GDF DED |me^cA|
+
+|: fgf ede FcG|1 gal efg|gfa ~g3|ged gfg|agd deg|fee d2f|
+~A3|B,|
+|:ABG EFE|
+DAG AFA|fd^c f2a|bgf d2B | AAc cAB, D3:|2 Thavimix
+BcA cBc|
+|:edg efg|ce^f gAD|DFG D2G||
+DAB D2F||
+AGG BAF edc|fed ~d3:|
+|:AnA|~f3 fff|cBd dGE|fzc fde|B2d dfd|A2d dBG|cAF GFG|GAG GFA|BAB dAF|DED Ade|
+
+X:288
+T:Sadedl
+Z:i8
+K:G
+AdB|G,AB ABd|1 GEG E2d||9
+M:AFDD Agc|
+|:dcC Jigee The BTune Thowouhinsean Ya He Ley owhnCwogramlblnf varlspar.
+T:Avalsohe'se CK B,3
+ABG AGE|A3||
+|:|
+dcn:jig
+H:Tow St thit y Ar Pornema
+Z:id:hn
+# epoha 38, iteracija 59392, loss  39.897, temp 1.000
+B3 | ~a3 dfg|:A/d afA|BGG EEA|dFG Acf|ecc ~f3|d=cd ecB,ADED: ~AA}~A3|BAA FGF|~G3 AFD||
+|:6/86b
+R:jig
+H:Sorir a's bby Tron dins, dme bag dde dce |
+
+X:2e, #319
+T:JidcA A3 ,2e|~g3 cBd|G2c dBA|BAG GABa:Paveoe Oine Scin tinssa Othed Kiahe
+T:Jill
+Z:id:hn-jig-248
+T:Solthoun BAB, ~g3 gag edc Bdc:|
+[1 B2A BcA|d^c/c/255
+H:Kinthn cTh
+Z:ig
+H:Ler, The derobla gy Jig ian?
+|:def ~g3|bac cAG|1 EEA g2A dAF|FdB cAG|G2B |1 GFA FAG :EG
+DGD O2a|
+A2D BBd|ecA G,2/cGG f/f|ded fde|
+g2=aid Pipal&: wilin  AreJid,2819bat Ms Bors
+M:6/8
+K:D
+T:Woml
+R:jig
+H:Wu wislasyu grong
+Z:id: a}d, fe=aanand "HB dBc BcA|
+~g3 cAA|FAG EDG|AGE G3:|2 {ainos
+R:jig
+M:6/8
+K:A, DBK g2A BAG|Aga g2f|FAG D2B3|1 dfe cFF|D2F EAd|G,DD A2A|Bdd edc:|
+|:AFA Acd|f/GG|2fe a2a|gec edB|fec dcd|f/f/d/g/e:|
+
+X:1
+||1 gad fed AFE :Ge
+T:Wo #1 Bdils Aes #8id^c |D:|edB BGF|1 Fe^c d26:|
+
+X:268
+T:Ardaoss Mouncn's
+T:Tuane's Bn's
+M:6/8
+K:A,AA:iltiy's
+R:jig
+D:|2 cea dBG|AdB GAF|2c1 bgg:|
+|:Pad
+T:imged wuht Swent1
+R:jig
+Z:id:hersaree #BG
+|:AFE E2E |E EEA|~G3 GAG|GED A/e:|
+P:veg
+W:iageKiallso cAG cd8
+H:ves \'a ger: To vortons
+H:Cidgalpeeiarli
+G:6e7 fea gfe | ged dBf|def ~g3|BcA F,A A2A |
+
+X:206
+M:6aa #2
+T:Pgtthe aillim
+~B3 DBG||
+~BA, cde|bgg bag|~b3 def|ag, gfd|deg age|2fe gfg|~ff |
+|:AFG A2D||
+M:E2, BdB {awgared alshan vgrtoss y  The
+d:Lin Piad Aon 
+T:wons Ct )ga gee edB :|1 aef edc|def gfe|~A3 afe|
+g2g sef dBG :|2 Efd edB Kfg dBc|GAD DBcd||
+|:GBd GGB|GAB ~g3||
+
+X:266
+c:M bea def ede|gag e2c ||
+dBA {EFD ~d3:|2 FAG EGF|||
+dBa ~D3|1 faf dBA|d/dc GEC ABA|dBA ~G3||
+|:g
+H:Ry Tonla InWil
+R:jig
+H:Lc Tone
+R:jig
+H:S oaund Tinomi uarle nisthe  Ht Tunndmin tae O:hnd
+G AdB =cAc||
+/BA|FED B2G|AGG BGG|Bd^c a2e|aee d355
+M:6/8
+M:6/8
+K:vames aarin Baim
+R:jig
+H:P/8
+K:G
+~D3 AFA|
+DDA GBd|B/fhe
+|:|
+
+X:241
+H:PiaFigderddos
+R:jig
+Z:id:hn-jig-2/8
+K:}aba 
+T:Mevolil#1
+|:~B3 ~23||
+P:ver anathe Boinanersh in Mu nawea Wer SThe
+T:Counrar.
+D:B2625g
+C:Acid9Briably ed Tin's
+|:deb gef|ecd ~e3||2 cAB AFE|GEF G2d | :273 GdcBc|G
+E G2e |
+|:ed: faf|agb gfg|gag gfe|bgp fad geg||
+T:Jwee8
+M:6/8
+M:6/8
+M:6/8
+K:Amix,ed dBA|dAG DFE|1 DA
+# epoha 39, iteracija 61440, loss  39.376, temp 1.000
+d GFD|Acd BAF|
+~D3 |2 AFD dcc|B2e FAA|
+BGA GAB|GBA ^ED:|
+|:AGE Bcd geg||
+K:D
+T:Kec or Bons Vir:hn-jig-256
+Z:if
+D:cor Joncy afowef
+T:Swune Hre au nosnilly
+Z:id:hn-jig-286
+M:6/8
+K:3nan Mio^bneau ba?
+K:var on povea os rond Tuphby Oor Wa H:hg: #196
+K:A, B, FGA gbg|1 gfd ~g3|gfe c2d|fed ecA|~d3 GFA|~G2 :|2 AGB|cef cBG|dee cAG BAA|
+BAA B/cdD|1 ~A3 dBc|
+~a3 dBA|GFF DAB||
+ded def|Afd Gfg|gag ede|fe^|:G2 |
+f2c d2e|}^c:|
+|
+~A3 adB|DAA A2E:|2 GFF GAB|
+~F3 c/FDE GBd|edc d2A |
+~G3 ~c3|1 AGE EFA|DEG GFG|1 Adg ggf|
+def edc|
+AEG c2G |
+P:6/8
+K:D EFD|
+ED|:dBcd |
+~e3 edc|ded cae|gee d2A|BBd A2d |
+fed e2B|Bdd cAF|AGF GGB|Eed edg|gel afe|aef gab|faf d2e|fdB BAG BAA|
+EGA G^G |G
+C:Sge the
+d:D
+AFG cAF:|2 EFB ~A3|BAA BAB|DFD G2B |dBd AFG|AFD G2e|faf fag Cfe|dfe fgg|=e3 DGF|GBd {2 |
+~B3 edc||
+
+X:246
+M:6/8
+K:~f3 gfe|aec Bdd||
+|:Puvan's Ad, #3
+Kcand
+Z:id:hn-jig-253 ~g3 edf dcA|BdB BAF|cAF GAE|d fff e2d:|2 ~f3 dBG:|
+|:A2E def|~g3 edc|
+CAG G2c|BdB ~G3|cAG ABd||
+|:AFE dAG|A2B dBd|
+ded BcA|~A3 AFA:|3 AcA|E2f cAA|BAG E2D|BAG A2e |
+W:Camin rh
+
+X:220
+M:6/8
+K:G
+~B3 BdB|
+~E3 ~G3|=FDD|~A3 DFG|BGB ~c3|GBA Bfe|Ace fed|A23 BAG|B2F AFA|Bfe gfg|
+ded gfe|ede fdB|cAF GcA||3 ~a3|
+fef ecA|
+d2e ~f3 |
+|:aleyfay io Tharo Pha, #3
+|
+D2E BBd|f2A dee|gef ddB|
+dee d2a|fef g2d|fed e2f|~g3 ~g2d|ged dAF|EFG Adc|~d3 AGE|GcB AcB,|1 AFD AFA|B=^F |
+eBG|~F3 AFD||
+ded efg|gaf dcA|
+~e3 edc||
+
+X:248
+T:S'sonat wo Woularos JxAvee c,erso Edigth
+dec AAB|cdG GED|GFG A2E
+~G3|1 BAA ~B3|BGA cAE|dc3 =cAG|Afd BGA||
+~e3|egg fed|~G3 AFE|1 AB3 FAG |1 DFC Efd:|2 dea ede|1 dea c/g2 ~e3|
+D2D dED|dFG FAB|G2A dBA cAG|DDE d2f|def fda|ega ede|c~Bc||
+|:~e3 edB|d2e d=c|EDG AGA|Ddd afe|
+f/c/dg efg dgf ceg|b/cB Ade|fdd efa|Agd ged|edd ddB|
+g2f fed gag eBacdBd dBd|cAB FAB|
+~F3 dBG|~AAG|1 AGE AGFG|
+CEA EEB|d=cB AcB|edB GEG|FAd BAB||
+|:alga at iollaparo, #rKormyy The's P?, #3
+K:c/83
+T:Srdon #267
+M:6/8
+K:G
+~A3 dcd|fef cde DBA | BGF AGE|EDF GBG|ABA FEA:|2 GEA cdG|GED FGF|DFA d2B|
+~G3:|2 EFG GFGEA ~F3 GFG:|2 BAF FFG|G,A BAG|AdB e2d|:|
+ded ec/cBd|D
+B|
+~G3 GEA | AdB Ace|~g3 efg|efe ecA|Bcd ced:|2 DFD ~A3|Bde 
+# epoha 41, iteracija 63488, loss  39.591, temp 1.000
+|edc DFF|~G3 AFG|AGE G3:|
+jig
+c,DBAF A2G|AAF DFE||
+
+X:3
+|:ED|cdB {ced ~~c|Adg cAG|ded BAF||
+|: GED GFF||
+
+|: EED AGA|BAc d21|1 dBA GEA||
+|:ffd g2g|eef e2A | BGA G3:Pallon semda Non Sh mlegin "oibatharrtr Wa}dyess porfy
+R:jig
+H:To Hinthe Stunary al"r tu ner Wh se T1
+Z:id:ha
+Faf ~A3||
+|:~B3 ~g3|
+A2A cBA|DDF Ded||
+
+X:21
+H:SB4 #319
+McFE Ade|
+ded cce|fef ~g3 ged|DdB dBA|ADE G3:|aalOninon Msha}acdB^c/F:|2 AFE AFD|
+edc fdc|G2G |
+Dae gfg|egf efg|fed f2e||
+T:Marsions
+|: Eaf dBG|AdB cBA|
+ADD ~B3:|2 ~e3 ged |2 ~D3 Cdce|dcA ABA|
+~A3 cGE|
+ABd ec/ED|~F3 efe|aff fag|aff e2G | EDC ABG|AGB D~B3 d2d|eeg gfg|gfg efd|eag edc|GFD E3||
+hea gdf|gev|
+D:D ~B3|BAB cBc|dfe efd|dcA AFD||
+P:varionoverat Mrttons
+P:3
+EDD fdB|ged ige, AcB|
+~A3 FED dcd::ans Jalle Siot Weullage sorirheos the ah=a} cdB|ABg dBA|BGB AcB|AFD GFD||
+|:dde cAF|AFD DED|EAF AFE|~B3 Gfd|~A3 FdB | cde gfg|
+dBG FAF|~F3 A2d|E23
+
+F2E |1 AFD E2B cAA FFA Ge3|BGF A2c|B/E||
+|:Bcd cAc|A3|
+EAG E2B:|ecAD FGE D2F||
+
+X:2694
+M:DFA cBc||
+|:ded edB|=cde gBA|E2G |
+
+X:28
+[
+C:Per:h Pipdrin-2 6
+T:Df
+T:Surare, a2e|dfe dde|
+~g3 dde|g/a:|2 cAA B2A|BGc AdE|1 EDD ~G3 ABG|
+Fed A2c|DDE A1 GBA|:DBd Ac/AAD:|2 EDF D3:|
+~e3 |1 B2A BAF||
+K:Dm:hn: Gloune {he billlal
+M:6/8
+K:D, B, efg eaf dBG|cdB cBA|FGG DGF|BEF ~E3|
+~A3 efg|BAc ~g3|dBd AFG|~G3 DDD|1 ~A3 A2e bgg gec | cBd|efd fdB|
+~a3 dcB|A,edE FGA AFD|DED E3:|
+|:CFG AFD|GEF FGF|FFD G2e|gfe edc|~G3 egg|
+~E3 BGB||1 AdB GBd|~G3 G2e | cBc dfe|dee g2a|
+Radg gfa|ged AFD|~B3 |ceinedea [l Cituin's
+|:Tbe agc|
+fef fgB|~A3 Bdg|ged e2d|1 Ade edB||
+|:Pare cal#'he
+Z:id:herry padgan Fin the Cwllioin
+Z:if
+H:Sr The c, #Ad3 #3:|:def fef|
+~A3 cgd|gef aff|1 FDA dfd |
+dBA AGE|
+fea edB|BGF Bdd|fde gAd|
+geg def| fed B2d|faf ~a3|e2f ece|edg d2f|~d3 ~B3|Bca ggf|edd cBc | Bdc eff|
+[g
+R:vargapdmsrilearl"oul
+R:jig
+C:Aansoun Mthe Mittone
+ AG:Canns
+R:jig
+D:G2 BAG EG, DED|AFA AGB|~F3 BGF|
+B/B, AcA|FEF GBd|1
+|
+~B3 ABc|ddB ABc|1 Ade gfe cdf|
+f/d:|2 GFG GAE||
+
+X:Cove-jig
+T:Gaty Bo59
+M:A21 dFD |
+FED A2e|
+~A3 BAF|AFG DED|
+FEG ABd:|2 cBA GAB|AFF E3:||
+|:daa D2B|BBa cdB|cBG AG2|~d2F |
+fed AFE
+# epoha 42, iteracija 65536, loss  40.080, temp 1.000
+c3|gfa fag|age dBd|~E3 DED|~d3 cdB | AFD dBG|Bcd ~g3|eef efd|efe d2A|~D3 ~f3|
+fea dBA|~B3 e2E | Bge =cBG|:|1 ^G3|Acd eed|fdB DcA|DEF EDB|FAA BGA|AdF D3 {c AGE Bcd|~g3 BcA|~A3 A3:|
+P:D
+E GBc|
+~A3 dBd|BGB d2A|1 AGA Gcd||2 cX:2}ohe. aleloralayirhary hg-jig-23
+M:6/8
+Ked:sf
+T:Wrersuley BA1 McCati\'e:|alliwg iu cos Pors Mlarulinnig
+
+X:23
+|:dcA cde|Afa cAA|eee ged|
+fag ~d3|^cB0|G ~d3 DED|A2G EAG|
+ced dag|afe a3, dED|a2a agf|de, ~E3|AFA AAF|GFA DBd|BAA FAA|AGE |2dB GFD||
+|:d2A dAF|D2f dgf agg||
+
+X:GdBo eda ged | bee d,B
+
+~D3 A2B | EFA B2A|ABA AAF|~B3,Bdatar [m Wonn Ittwof hany The Rarisefeels
+Z:i7
+T:hn-jig-268
+def def|fed d2B |1 edc cAG|a=c|
+~D3 cde fde|1 ~d3 A2a|edc ~g3|den d2F:|f AGB bge|ded dBd|G
+f Tabgd esy ar: tuno at Mis
+|:jig-295
+M:6/8
+K:G
+ABA dBd|Bcd cag|afd efg||5
+T:Catyd y/FADe Rastir: Wa #10
+T:To T0ee orsompy Mir
+W:worpavo dwplllhe
+W:|2 Blam
+Z:id:hn-jig-284:Waverirhey ye.
+|
+FEE D3:|
+
+X:278
+K:21
+C:ian" on Jiatix
+H:R #196
+|:A2B d2F:|2 FAA G3:|2 BAA GEA|~D3 B2A|BAG AcG|Add AdB,|1 {A Bon-274
+T:JixEifed ceg|
+BB^c efg|Bad ade|eec f2d|cAA G2e:|
+|:G/f dcA on^cd d2f|dfe fec|cBd ~g/d:|2 cBA dGF|~A3 dBc|1|2
+d GED ||
+EFE ABd:|
+
+{eG FEA | Bdc ~g3|DFA AGa|~g3 cdg|~B3 cdB|AcA ~c3|FFD A32D|EFD FEE|1 dAE|2cG ABc|
+~A3 cBe|d=ED BGD GFG|
+ged dBA|D2d edB, d3:1 dde efd:|2929erittedlonf
+R:jig
+D:Sate Fannos cer:hns baria ao
+T:Az
+W:2 dee dBA|~G3 ~B3|AGF ~G3:|
+|:he-jig-271
+M:6/8
+K:G
+D2d | ABd e^cA BcB||
+|:M^d |e G~B3:|
+
+X:G, Pip
+Z:id:hn-jig-2191
+T:Woris, The
+R:jig
+H:Wo TaiTt We Eapl|
+Coun harealarn Jld, #309
+T:Cn^Cf|Ace gfe|agf aff|bge efg|fe^|:ABc ecB|BdB ~B3 |2 FFG|1 FEE FDE|~F3 Add|
+~c3 GEG | cBc|AFA AGE|FAF ~B3:|2 efg e2d|ABA ~E3|edB B2D||
+|: fgf g2g|eff ffe {arialsils varsors (thb wissint Jickea, Tany Lardemsn Cisty Mauge ed wee
+R:jig
+D:NnBdB, FGF||
+F|1 Ade afa|ecA F2D|AGE BGF|ABf cAG|
+AdB dBA|EcB AdB|B/c/dA AcB|~B3 dAG | BAciAdc efg|~AFA|FED FED:|2 ABc ~e3:|
+R:jig
+D:G{oral\'s
+D:K's
+R:jig
+e}D3:|
+|:~d:himapleea thichin The cAt earerurhe the B, ~dcd ABa|bac ece|BdB BAF|~c3 dBc|FAd BAc|AFA d~B:|
+R:jig
+C:Oec dcd dBG EFA|EFE ~a3,|G
+Z:i
+# epoha 43, iteracija 67584, loss  39.683, temp 1.000
+2 EAG e2f |
+R:jig
+T:Re, ede agf|ega ged|B^cD|D2B cAA|1 ~D3 |
+Wer des dce:|
+K:D
+~F3 ffd|a2d ~d3|
+ABc edc|dea dBC|
+K:G EDc AcA|A2d ~A3|ded d2B ~B3 | GED G2E:|2 BAF FED|~c3 dGe|e/ffed Afe g2f |1 Rin DD:sned Tom, TBd e2c|dcB Acf|e/d/d :Ae DDD D2c|GGA AFE|d=cA G2d:|B FDF Aca|def d2A||
+d:h The Pim
+T:DCFChels
+Z:ig
+T:Kelsit yd Fuano K^a3|dfg faf|fde a2e|des cAA|AFE fdB|~c3 E2B,|A/F2dcB AGF|BdG B2A|ABd cBc|gaa efg|gfe edG|BAd edB|GED D2e|
+DEG d32A|
+
+X:250
+s:|
+D:Mfe
+T:Par Sixtipar Wo parmill Her"9's Pipiatins
+T:Kittigtins #262lal wniy'the dcAy ABigde}n they artes or th The Pardis hontiy or thancyom
+R:jig
+L:|2 AFG E2A|Bcd edc|fdB cAe cAF|fdB D2B|DDE DEE|orthe R\'amey cBA, BAB cdd|~d3 efg|dBG DGB|def edd||
+
+X:2/8
+M:6/8
+K:A,:eed #396
+M:6/8
+K:F Gmeras
+R:jig
+M:6/8
+K:Cf
+D:dfales2 d:Siraly More
+Z:id:hn-jig-277
+T:Arl
+Wewo par oindl Jix
+d:D ABG|Ddc efd|fff gfa|fdc d2f|Bed g2B | ~B3 FAGG EDG|Dfd agf|cdd ged||7
+T:Lalsalea d?
+M:6/F GBd|gad edc|1 AGA GAE||2AGGED EFA E|1 BAA FEA|Ad^c AcA|dfe def ded {Bc{aig
+Z:ia:cAd Loes B, Malany'atin-264
+H:Le,,
+s:Ce
+Z:id:hn-jig-254
+M:6/8
+K:D
+~a3 gfa|dcA, BAF|1
+D:Kens
+Z:id:hn
+|: cAdid 2)
+R:jig
+C:~e3 bag|
+~a3 ced|ffg afe|ddB dBG|
+~d3 B2d|A2G AcB|FGF G3:|
+|:iG, ige: Bce|BAA cBB|AFG DEF||
+
+X:2C|
+AFG G2G|EdB AGB|d2A ABg|gag bfg ~g3|g,d ~g3 AFA|dBA GFE:|2 FDG A2e|BAG E2d|ofg aga|egd edB|
+g2d aff|Adc BcA|GED FDD|DEA GFE|AFA Egf|AdA AAA|BAF Adc|BG3 G2FA||
+FAc ~f3 Dfg gef|fde g2g|gef ~g3|
+~B3 EFD AGB, eag|efa dcB|
+AGB dcB|dea fad|Bcd B2e:|2 FAG A2c|afg edc|1 AGF GFA|e2A cge|ed^g ~c2G A2B|
+~e3 efg|Dgf fed|B2E ABG|ABG FEE:|2 Bdc fdd Ded|
+A2E cAA FAG GBG:|
+
+X:R-8
+K:2 8
+T:Dadkin Olion 
+H:var'barsona1
+Z:ed:e bl#la1che, allo gis
+Z:id:hn-jig-216
+M:venow Irma inuson dounn ss na, agb e31dee thonntron Jigtheaniuny Kiutayay
+R:jig
+D:|2 ABG B2D|ded d2g,|
+GFA FBd|
+FEA cAB|BGF AcB|BAA GAG | BAB GAG FAc:|
+d:Rs
+R:jicee cde ~a3|gec AAF|def agg|DFE cBc|GFA ~B3|DFG GFD | dGE ~c3|1 DdB AGF|Acd dcB :|f=cA|
+D2A dcd|e2f afd|e23 FGF:|2 cGE AGE|EDA Ace|ga3 dBA|AFG FAF|
+~B3 edG |
+d:v ~pce dad bed|D2B GAG GFG|AGF AFA|dcA BcA|AdB |2dd Ral
+# epoha 44, iteracija 69632, loss  39.286, temp 1.000
+fg|gec FEG | Bfg afc|ABA EGB:|ecAe ven ee3 dBA|BGE F2A,|D:|
+||C
+Z:id:hn-jig-247
+M:6/8
+K:D AFE|
+~G3 BcB|Bed def|fgf ggf|1 ddF AFD|dcA d2A:|2 EAG GFA|ecd cAG|AGF G2c||
+|:~d3 dce|~=c |1 cfa faf|cAc AFE|Ade g2e |
+~d3 BcA|BAB GEF|:Colsore"Ming Do zankfrs d^e:|2 caf g2f|fef e2A|AGE d3F|GBG FBc|)BA Bcd|D2G ~c3|jig
+~B3 BAF|dAB cBe|fdc edB|~c3 ABc|BdB Bcd|adg gBc|BdB cBA|fed Ade||
+|:AFA dAG|1 FAG DFA|~B3 ~d3|
+~G3 BGB||
+P:DBG Ace|fed cAG:|2 AGE DGB:|=cX:226d
+W:|2 )
+C|
+[a: iati|
+
+X:298
+M:6/8
+K:Dmix
+|:A2A AFG|dAG A2D |e2G D2e|~d3 D2B|BAA ~G3||
+
+X:Jad Therstins waunonlept Kog
+R:jig
+Z:ig
+H:Dy
+1 Maye The be, [1 Avevfr"ritsorist K{o wov.
+W:|
+T:|2 EEB cdB|||
+~B3 cA2 dBc ||
+P:DCEA AGE DGB|fdc AGE|=cGG DFF|FGD ~A3|
+|:A2e fgg|ADE FBd eag|gat DDB |1 EGE G2d||
+P:va, ~f3|~c3 ~BGE ~GED|~G3 ABc|
+~e3 bad|cBa dan ceB|dBd AFA|A2d gfe|AAG G2e||
+fdg defadgf
+T:Gn, #350
+W:hn-jig-282
+K:Ad herl
+|:ddF AdB:|2 fed d,A|cAF cFA|Bed ~d3|1 Bcd edg|
+ABA EFG | BAB|
+EEF G2A|
+fed acd|ABA BGE GAB|d2f ded cAA|dle|gef fge|def g4a4
+T:Jir, Mcove'nen
+Z:id:hn-jig-f811
+T:Mcor
+
+X:2fd lun Jiaria,u#1
+G,EF|:|
+B/G,
+T:FGF AFCF|: 
+~f3 dff|geG AdB||
+
+X:2-202kdalol
+H:jig:hn-jig-244
+d:hnalix
+DEA F2E||
+|:A
+F D3:|
+G2f ded |
+~B3 dGB|~E3 Bce|
+~B3 | ced AcA|Edd ~e3|
+ged ~f2d|fdd ~f3|~e3 AdB||
+|:~B3 agf|ges e,A BAB|
+~G3 edB FAG|1 BGE DFG||
+~G3||
+dea dBG|dBA dcA|bfg gga|~AFA|1 2B3 A2e | cdc dce|ecB ABc|e/D:|c #277
+T:Dofl=eriosley's BoAthe Pin Mnat ilso dea carl rars Lise
+R:jig
+Z:id
+Z:id: afsoiond eastot Jarmo alsam
+Z:ig
+W:|f
+Z:id:hnr ianerl Whe's ols
+Z:id:hn.
+Z:i8
+M:6/8
+K:Gwim
+W: efd edt of Orheime varkdBop
+R:jig
+D:B AFE|1 AGE G3:|
+GAG|FEA dBd|efg eda|dcB AFE:|2 ED|:|
+Keg/bary e's Pig
+H:Ma3
+D:Re c,imea ta gs's alsy Pis
+|:dBc cAB|
+~A3 AGG|AFD D2e:|1 ~B3 DFD|
+[F|fdB cAF|
+DEF D2c|| ~e3|
+~e3 dAG|
+EDB ~A3|dfe g2g|ded Bcd:|ee^g2 cAd A2e|BGA A2d:|2 BcB dGB:|2 ~B3 Bcd|eea geg|bgf edc|GED DEE:|2 GFA GAG, DBd|aAd AFD|~D3 A2E|AGF Gfe | faf edc|DEC E2e|B/d EFD|GEE:|2 EFD A2d|Ged caf|bgf ed^c AGF||
+|:Ded afg||
+
+X:225
+p:K (
+K:velt mimeaas Jielalrot yeriatinoraty Ve-1,mebcved #A,1
+T:Dm Sions
+H:Ca
+# epoha 46, iteracija 71680, loss  40.288, temp 1.000
+e3 cAG||
+|:A2E BAa|~f3 edc|dea fad|
+fef edB|DGE DEA|1 ~E3 FAA|GED GFA:|
+
+X:286
+T:Hatpde (nu Oin Fulee Tha isulbmo (2)
+T:DecBont O'c on JigtiTheh cone #86
+T:Ar#q6d,'s:jig
+M:6g8l
+da3 cca|ded ^f/d|D~ec|:efm ~d3 |
+
+X:|
+
+X:23
+
+X:2f2
+D:hn-jig-295
+T:L: su lriuldelp
+H:hn-jig-286
+ged cAc|Adc ffa|geg dcB|dd^c fed|~E3 AGF|Acd ~g3|,eg||
+|:AFC |3
+Z:id:hn-jig-247
+Z:ig
+T:ef fab|fed ~d3|
+AFG EGF|DDD B2A|afe g32 ~c3 AdB|1 FEA cAG|AFA G22 |
+FEA afe:|2 GEG D2A|Bcd Aca|cea egf|afe ~f3|B,B G2B|ABB Acd|~f3 cAA|
+BAF Ade|f/fc ABA|AAG G2B |D AFE|eBA AGB|
+
+X:259
+T:Patrron Boamg hwicueatt:uninlsodadoover cBA A2e|AdB dBe|edc ~dre|1 dfa gae|~g3 dBG|AFA GBA|AFE G2e |
+FAG AFD|ABd ~g3|ded d2D|FED A2d|~c3 Bag|cAG AFE|Acf e2f|def dBc|1 AFE D2A | cde dcB|~F3 FED|cAB, f/g/1 A2f|edg edB|AFA BAF:|2 Bcd eFA|dfc edc|BEG DED|:~B3 AFD|1 cAd G2e |1 AFG A2G|ABA FED|1 G2E cAG AFD||
+
+X:298
+M:6/8
+M:6/8
+K:ade {aonr Gunec, #2nan rouno Thg Jamey's Els M,3
+|:d2F AFA:|
+|:ffd ecd|fed ded||
+
+X:2a3
+T:G2, #Drim"hemitti's ~e3|bar, dd, a2f|
+e2d d2A|1 DFD ~g3||
+M:6/8
+K:A Efd bag|age d2f||
+GBd aGB|B2A dcA|1 AAG A2E | GFD|D3:|
+|:fe, AcB|dcA ~A3|1 cdA cAG|AFD G3:|
+
+X:259
+M:6/8
+K:D
+~A3 AFG|BFD AFD:|2 BAA Ace||
+
+X:3
+|:|
+~B3 | BGF FEF|
+P:D2ed ABG dBc/bae dec edB|GdE :|cFA DFG | dea def:|
+|:age geg agf Agg/Bed cAG G2D|AFA AFA|BFD FAG|AdB BAF|1 GBG d^AA AGE||D:|2 Bce cBA|cAA fdB|BAB ~c2E|1 Bga ede|egg age|e}=:|2
+d:hne The Hers, The
+R:jig
+H:Hatlrnes devarsiossoyes
+Z:id|Cec AcBcA |
+
+X:210
+T:|2 The, ga3|gfa edB|~D3 ceA |~A3 :Ad Ked Jigthee, thd2  kar Othnh por
+S:aemio the The seellarin's ,alse Wirkiar'coronefmlsololilo rigtin Tonin ix
+|:AGF|2de afe|fgf edBd ABc:|
+|:B,2cA GAF||
+~B3 |
+|:CBG AB,|GAB A2D|Bcd efg|e,B|
+
+X:cd:hn-jig-26946
+T:Pavee innlg Murl hn'sd nr's Sh Thno Wirhiorpy ttros (plglmh Oty Whe bamo Ho "une #208
+T:Cioy |
+Wed BAGic,3 dee d2f|fef ~c2A cAF|GFG DDD||
+|:jig
+M:6/8
+
+X:38
+ded efd||
+|:B=ceacger:hn jig
+C:he-jig-215
+M:Amig
+Z:id:hn-jig-254
+K:Ad plbl
+Z:ia
+M:6/8
+K:2 ahe B,2ed edA AdBc| ~A3|e2D|
+DGG Ggc|gfg GAG:|2 Bdg agc cAG EFG|1 B/8:See Joryerthe Bis, i
+Daf e2e|
+
+|:|2 AG
+# epoha 47, iteracija 73728, loss  39.754, temp 1.000
+|AGF GED|1 FFD AdB|dAF ~F3||
+
+X:295
+T:Gor,A, Forin R-jig-289
+K:fe^aald Titdif
+T:T{y osan veraulhlins Pis, Taung Msinasoainerat Mon Sty tr's blon
+C:Kertint pe
+R:Haanar:helche
+L:G
+C|2 AGF D32G
+fdB2e2/,|~D3 G2A|e=E |2dE ABG|
+Bcd efg|1 ~f3 gde|ged DFA|~A3 A3:|b gef cAe JFd ded cAG||
+|:sfg def||
+P:vel1 din Dhe, ,he2|
+age|gga gfa|~f3 efd|cdc dAE|Bfe cAG::|
+P:def dfd|B2d FED|EEA def|ecA BAd|cAG Efd efd BGG|fdB ABd|e2d efg|dBA FGA|cea age|~f3 edc|GtB ffa|agf ege|
+ABc ~f3|
+ed^c eGB|AGF G3:|
+|:~d3 d2f:|3 ~d3|alshfhe Jimlalio's
+|:A2A ABc|gfg {2 |
+AGB fdB|dFE A2A|
+[2:|
+dfe gab aeg|edc AcA|
+~B3 eBc|cED G2e | e2f cBA|GEa d^cf|efg c2e|edc dcA|BEG A2B | BGF GFD|GEA AAc|~D3 AGE|DBA cAB|edc AGA|adb cAB DGA|
+~B3 ofd|cAA E2A|AdB Bde|ecA GBd|ABA B2B|ddG AGc|EFA dcA|~A3 AFG|E2f ade|~g3 a2a|~=f fba dca:|
+|:dcA dAB|DFB dcd|ABd fed|egf eBA |
+|:A2E d2D|GAF :|2 cAG ABd|FGE GAF||
+|:~a3 ddF|~G3 ABc | AFD|A23 DAG | B2G | BAB:|Dmee ialm. "Kil
+Z:id:hn-jig-270
+D:Kiaan Bil Jiatind pardor Fa, Ore
+Z:id:hn-jig-2/8
 K:f
-d:lfd  22c|=cag accB|gef g/ff|fef egf|{2ea|bgbf ecA|
-B~d3 dff |2d[d Bd:|2 FAB BGE|FE
-# epoha 33, iteracija 51200, loss  40.865, temp 1.000
-|1 ABe ~a3 g3 |
-| }afe agd | fag a2f|cBc fBd|
-| cdc afd|ecA AFA|~A3 AdB|BAG D3D|GFA ~A3 |
-dff eAd:|
-|ef fAd|ABA dBG|AED EDE|ABd eg3:|2 AFA D2|:|
+s:Pa, ~A2||
+||G
+D:Larthe dll
+W:Wa,maldino alcto 1tammlfM, The
+R:jig
+H:Saryonns
+W: fadSoneraurir:ueraef Bu1eltons
+T:Ge9 ~f3|gec d2c|A0A EAA|DEG AAB|BdA A2B|BAd Ade|
+~B3 B2G|dfd c2f|dcA GEE:|
+
+X:279
+~F3 =f3 AGE|
+fed agf|agg g2e | edF age|A2A GFG|GBG AGE |3 DED|cBA ~c3|
+X:200,'s
+R:Hoblle fett\'s
+Z:ig
+R:jig
+H:Geeu #269
+T:Gadialsyelsrrdrohe4 Tuaatro 8
+K:D
+~c3 FED|GFE AGG|d2A B/d|EB, A2d|dcB BGF|DEF FED AcB|Bad dec GFD |
+R:vertincA, Che
+R:jig:Pinf
+T:pa4 Pir:See #3
+K:G
+GGF D3 FAG|1 ABD A2g||
+|:fed BAG|AAG AFE|BGF AFG|de^c edB|
+def ~c2A dBd|FGA FDG | BAF|BGF SE2d dca|
+~G3 =fdG||
+P:vef edg|gec afg|
+dBd e2f edd cAF|DDE FBA|BAG GED|DDD GFE|DDD dGB|dec bgf|fdB cAB|FDD AFG|GEG BGG|efd B/e/e BcA|
+DED d2A|beC f2e|
+EEE G2G:|1 G,Bd cAA|AFC FFA|1 GAG |2 EAD G2A|Ece ~g3|~f2]||
+P:CEDFDl
+Z:id:hn-jcBd, FDF|edd cdB|
+~G3 G2G ~G3:|2 GED BBd|BcB d2c||
+|:{cd Rast Mt do wim
+C:varhe
+H:velal
+Z:ed e/g:edBd def agf|bgf edB|1 cAA AFE||1 BGA G2B |A EdG|ABA BAG|AFG AGF|ADG G2G:| alee afa ded:|
+|:DFA ~B3 | fec e2d:|1,2 EFD dBd|~a3 fdc|AFA BAF||
+d:v Wintran. in illleac Bi
+# epoha 48, iteracija 75776, loss  39.459, temp 1.000
+q |
+
+X:jagmoved Win thn Pia
+T:Ar Kiagi Linaton-194ix
+D:D,|1 Aon w. GBAls olhe wiorstug Rar?.
+T: enm
+P:vef gec|
+cAd cAB|dfe dBA|1 dfe ffd|ded DFA|1 BFE ~g3:|
+|: dcA {caid:hn-jig-2/8
+K:D
+P:Deen cBA FAF|AB^c ded ||
+[D {BBdd:|
+Z:id:hn-ji^cBeuger N^c |B/dfa dBcAF EDF AcA|
+BAF B2A|GBG :|1 ecF D2d|~A3 Ace|dde g2a|oal Hew}on Stull #8epies
+T:Gan Mthee ore
+D|
+EAG DGE|fdc AEE|1 ~A3 dcd|edf edc|1 AFA BGF|BGF AGE|
+EAG EDd|~A3 cde|efd edg|~B3 a2f|fed A3|EDE GFG|
+~a3 edB||2 GEA A2f|gfg dBd|mea gag|def fga|ecA d2d|~A3 ~a3|edc b^c/AB, FEF:|2 BBd e2g|gbf TEd DEG cdB|1 cAF ~G3|
+~A3 AGB|AAG G2e |
+BGB e2A|Bcd Ace Mfd|AB|:AFE ~c3|CBG A2a|afe dfe|2cB c2A|~G3 A2d|GAF F|CED FGE|FGA dcd|A2G FdB|
+|1 ECE FGE|:|
+~B3 :22, FGG|DDB e2E|GEE tEA AFF BAA|~E2 |1 GBd c2g|ecB ~c3|de^c dse|bgg gee|dBG F:addovalinAmerionrolalto Jig
+H:Pfdkwe Bd: ens
+|:C, The
+|:Waon th }alir: ellon Btofrd thee Jig
+H:Taltil. Lat K's eall hcy's perthn?
+|:A2D GAG:|2 EGB ~A3:|
+|:T, fes ~a8ersin Ronn4
+T: an do\ 4os al"
+Z:id:h eree corthn Cor
+Devary tat R:jig-28
+Z:id:eckot R: faflron
+Z:id:h&
+D:Drt on son Jarloboy BAA A1 EA, Mohe, Wal's BAmom
+C:BdB|1 cBA afF|c2d d2D |
+d:F cAA|Afe gfg|faf fed|EAG EDf|AFG A2e|aef gfe|gdc fdf|gde gfg|AGB ec/igfa e,1 eBA F2A|cAA G2E|AcA Bag|A,A GBA BAG|~A3 ~B3:|
+|:jig
+H:Spong, #253
+T:Sie
+GAB AdB|1 agf def|fdf edB|
+dde gfe|fed cAB|1 GBG |2 EBD|BAA AFE|Bcd edc|
+AcA cdF|DFD|dBd ce^c =cAe =BGFF GAG:dfe c/B ABa2|
+
+X:241
+T:G2 ,ontian's
+|:~d3 efd|edB AdB|AGF CBAG|~E3 d2B |
+|:dcA ~A3||
+|:A2E Bde|gfg fed| cAB|FED AGA|}dB |
+AED D2e:|2 BAG DGE||
+|:^cdB|
+A2D d2B||
+|:#241 Yon Is #88
+M:6/8
+K:x
+ABA | EFD|~D3 eBc|Bcd d^AG AFE|||
+Dee fdf|2fd efd|cBc AFD|afe d2f|fec ~e3||
+|:BcA AAB}
+FAA GAG |GABaaronn Wiamy ors
+Z:id:hy
+R:jick~g3 ced|fgf age|Ad3 ABB|1 GBc gdd|efd gfd|CEA d2e|BAG ~f3|
+~g3 fec|aga edc|
+age|edg eca|
+~g3 efd |1 cAG EFA|dEG BBd|ABA ~d3|
+eifhe
+|:AFG FGF|E
+f/e G2A|Bcd ~A3|Gag geg|ffg B2f|eed {GCE Bafg (2 Ki1 6's
+~A3|BAA DFA|B2D EFD||
+|:22f afd|eaf edc}edB|BGF GFF|GAG B2A|F2G GFE|AGF G2A|FGE G2A|FAB,tE|1 ABd|~f3 Caherk doitonee Sig eab he Miifeg )
+g ede|
+fed
+# epoha 50, iteracija 77824, loss  39.836, temp 1.000
+,2f
+M:6de ~e3|faf e2G|
+~E3 d2A|1 FAA d33 DFG|AdB Ace|1 EDE BAG|Ddd Adc|GFe ~A3|~G3 B2G | :GF:|2 cde afg|G2B|
+~D3 dcA|dBG ~f3||
+
+X:2/8
+K:D
+AGA GFA|A2G ABc|def ced|
+~G3 FED | Bdd A2B | EGE FDD|faa def|gef g2g|
+cAF B2D|
+fdd :DB|Dfd g2e|a/^c d,2ABd^cB, Baf|f AcA dAG|=cAG BGF|G
+D|~e3 aed|Bcd dc/ABd d3:|
+
+X:298
+d:D fgd|gfg aBD|AGG EGF|~F3 Acd|fdc Afe|dee ABg|
+AGF FED ~G3|fdB ABd Bed:| =fd |D AAc|1 cBA A3/c/ea |E AGE DFA | ABc ^BdB dBA:|2 afa g2e||
+T:|r
+T:ec'ng2bhe et inhoge th subn inoe larlonaliD
+Z:iB: onreniaht
+R:jig
+H:|
+
+X:Ao #192igdilsoith2 palt thnd Thnos Cot "rwels Jiatior)
+Z:id:hn-~a3 fec:|
+d:D sade dBG |fdc cef|age|~g3 efc|gfB GAG|AFE DGB|GBG ffg|ecd A2A | B^a}BAF|cBE dBG|AFC A3rerar"Mindinn the Markro (1
+D:Ha tCon Oula\'al
+p:Mlealse cherane2
+T:Uroute #102gean doltoan & eflsony
+R:jig
+D|EDA ABA | EEG E2e | aec dBA:| def ged|ded AGE|~E3 ~A3|GFG ABd|BcA G2e:|fbane, ~ff}|
+T:A2 wer (arleo ailaillgh
+D:bossy Jig
+Z:id:he, fef|gec AGF|GFG GBc||
+
+X:204
+Z:id:hn-jig-257
+M:6/8
+M:6/8
+K:G, dcA e2^c|dfa d2E|1 Efe ~B3:|2 EAB|EEG dBA GdB |cAD|1 AGE GFd|gfa dBA|~A3 ~c3|BGF GFG:|2 ~B3 GFG,|
+~B3 G2c/B/f/d AcA|GFE DEG|d2A ~A3|=c2A|FAB cBA|
+DEF EFD|1 EGE G2B |
+|: ABd G2A|E2f agg|
+fee d3:|
+R:|
+[2 gec dBc |
+
+X:D
+
+X:250
+M:6/8
+K:D
+~B3 dcA | fdf ega|f/f/G|FGG EEE|AGB aFD|1 GFD |1 B,A GAF||
+|: cCE G2A|f/c1 dAG AFG|~B3 FEA|AFD G3:G
+t:|
+d:G ABc|gfa egf|gge e2a||
+T: enonss Jiley
+T:McKin thef
+
+|:~B3 dFD | ead|
+cdA BAF :|1 BAG BAF|fAA FEF|AFA d3:|
+~d3 AGE|BBd fdg gfg|gfa gag ede dfe|bge afa|fgd efe:~A3 ~F3|DDD G3:|
+|:D
+C:|2 ecA FEF:|2 A2G fDF|ABA GEd:|
+|:~g3 fed|,2A|DAG EFC:J
+AFE GFA|AFG ~G3|FAB ~G3||
+|:
+X:219albatye2 dig B, The
+R:jig
+H:Df B, 
+ALe dGE |mero annaltonefosortuntherrroaliy Jiato nrson s'h namlo c1 ar, The
+D:Gfbr^be ggf efg cAA|DDD GFG|
+~E3 DFA:|
+P:g
+H:Re dau agflgas, The
+R:jig
+d:|
+
+X:2646
+H:Ke
+|:D3:Cusly The
+Z:id:hn-jig-2/8
+K:Doty Jig
+Z:ig
+M:6/8
+K:D
+d:|
+DBA cAB|
+EDG ~g3|edB Bcd|edc dFD|GdB BcA|1 BAG EDD|d2A dBA|AcB e2e|def e2f|~a2d fdg||1 abb gfg|afe edBofagf gag|gfa a2f|1 ~e3 fag|caf ecd|ABA A2F|A2a agf|AdB cBG|1 BAF GGF|AGE GBA|e
+# epoha 51, iteracija 79872, loss  40.140, temp 1.000
+igdlin tion's on d, #cEo duossonrthin silah
+Z:ig
+H:Kce' Aoagerleo #1
+T:Ka4:hwf d Yis To vareR: Afalatey, I Moverrrofe Klo Tiwhn tovaHror, The bauionna "r (194)
+Z:ed ~f3|feB a2a||fe, d2e|egf AFG ||
+
+X:DB|2
+ccA:|2 G2e fec ABc|BAG BcG|GED DBA||
+|:edc AFA|
+AFD BcA||
+P:vfd Raga.
+Gahe
+~B3 GAG | =GF |
+F|cd^c fag|egd agf|gda gag|fed D2d|eff ecb|gef d33 ~g3|ged e2A:|
+|:dd:|2af e2d:|. BdB FGE|FED AAB|FAG B2D | EAG G3:|
+dee dfe|gef ecB, BcA|
+GEA BAG||
+
+X:290
+M:6/8
+K:c/Bcoat:wee agathelsoweenn Thwher
+T:|mix,CECAFD\'up2
+T:Pe, #292, The th , Mcoatix
+|:~g3 faa|edc ~g3|
+T:Pe Cume To #486
+R:jig
+Z:id:hn-jig-275
+T:|2 dBG =cBA|ded cde|~e3 fff|edc FDG||D:|2 gfe ~g3||
+|:G2e dcd:hn-jig-233|ate|
+d2d cde|fec Bcd|dBA BAF|
+DCA ~B3|AzB cBc|
+dBf edB|o2D|DEE dFE|Add BcE | EGE|1 GAG|A2F GFF|~B3 DED|~A3 Adc|
+~F3 A2c|1 ~A3 ~c3||
+|:e/B/g/ea ded dBG |
+CED G2E|BDB B2/G: on 
+Z:id:hn
+R:jig
+T:bed #Zaig
+H:P's
+T:See NanStoneamanil
+lovera laelirdhy
+Z:2A|Dde bac|ed^c A2=c|
+~f3 def|AcA GEF||
+|:D/A:|2 AFE wBD|AFF FGB|dfe gfe|ABd AB/cde ~g3 | dfe def|
+AGB G2B|1 ~a3 e,3 ~EE|||
+P:vgs alsy M"hanix
+T: un #CFhn-jigedbr
+R:jig
+C:Avarif
+C:Schrt, #3
+K:DBD|~c3 ede|FDE FAG|~B3 cAG|FED c2B | ~B3 BAC|
+[2 Bdc edB|BcA Bcd|cef aga||
+|:cAG ABd|AdB a3/ga gfa|~d3 BAF|edd BAB AFG|dc^f dBG|FAA cBd|1 d/f dcA|AFD B2d | cBcbgd edwulonhe tet ded "w pt f. (allonr
+led ~a3|bgd gff|~a3 dBG|GGG DFG|FAd EFA|AFA dcB|d=d Jig-G04
+M:628
+K:D ECC|1 The
+R:jig
+H:eann'syee Liabax, fgb H^G ||
+P:G
+~G3 ABc:|2 fde deg|BcB dBA|cAG AGF|cBe edc|G2D AFE|1 ABa cee:|2 Acd d2A | B^c/dee c2e|g2e ~c3:|2 AdB ~G3|~G3 GDE|~d3 Bdc|~e3 dce|def d33|
+~e3 fgf|fdG DBd|egf d2f|edg f2d|Dde ~e3|def cef geg def ecA:|
+
+X:202
+M:6/8
+K:Amix
+EAd BcA||
+|:f2a fec|
+fe/|
+[2 ~B3 dcB|eff fda|bgb edB|geg dBG||E AGA|D2F AFA|AdG BcB|
+~D3 Afd|dFD:|
+K:D
+~=FE Ace edf|aef e2d|eed fef|fed AdA|d2d cAG|BGA FED|Add cac||
+T:Seen nasawy iarins idhn
+D:Hee ~ged edc|~D3 cAF DGF|GFG GAB||
+|: fAA GEE |2 BAB A2d|afe e/cc|
+def ced|1eageglounenn Thas Hi, su y (n The Bpinf
+Z:id:hn-jig-2d5
+M:6/8
+K:Dmibge Wedyrrtaressmon in thehaf. Bapzal, The
+d:hn-jig-246
+
+# epoha 52, iteracija 81920, loss  39.645, temp 1.000
+ AFD|GFA GAA|ABA edB|
+c2G dBG|1 GBA fag|edB GEA|~f3 cAc|1 GBA BGE|
+BGG BAG|
+~E3 Bcd|c2^||
+|1 ~A3 E3:|
+P:vefleaty Pin, Tha: Timr  LidcBone Yzthe She, The
+G:D1 Hea alshnovinin0dd efn Lix
+|:d,Ad Ker iniros
+R:jig
+Z:id:hn-jig-268
+M:6/8
+K:Latrmtrwo W\, Keaneety Toraaneror
+Z:if
+H:fank #305
+M:6/8
+K:2m
+
+X:bavbla kanealban Harleethe tarors, The
+R:jig
+H:Wa Thn nc, dBA AcB|~d3 ~G3||
+|:D2G Bcd||
+|:~a3 gfg|aag e3/Ba aag|bgf edB|AGF AFD|dfd a2f|~A3 Bcd|efa afg|dec cBA|BAF d2e|
+BAA G3Ed fdB|ABd cdc|dcd cAG:|2 dCe afe|Fdc dBA|dee da} edB:| dBG GGd|ded a2f|egf d3:|
+
+X:220
+M:6/8
+K:D
+DAA FEF|
+dcC cBa|gth Whanors Ssy Scon & ous}eors Jiation Pea #268
+T:er, The
+T:Drm Cizllsa Yonas
+Z:iF:|
+FGB|A2F AGE|~E3 Acd|
+ABa edB|ce^g edc|A,B, G,|1 AdB DBc|1 BcB dBA BAB {E ddB|AFD D3 GFD:|
+K:vevroi, Mars: Tun am Mrotin, e2a fef|baf d,CE|
+
+X:281
+T:Paveanelin Nhn Sea, Thn of 
+W: ac":hns
+R:jig
+C:Pu2 erino wiarAs\'imlry twe I partr, The
+R:jig
+H:Kls, The
+W:ED B24
+K:Dno rorthn/e-203
+R:jig
+H:he
+
+X:2ld
+K:GBcof Wonliodis
+R:jig
+C:dbg tuly arin th Hin ,m
+Z:id:hn-jig-268 wualry
+D:ia, Mor, Thn-jig-268
+T:Aonncdi althnn arcekl, #341da
+T:vauye
+t:|
+|:B, AAG3|
+ded cdA|dAA afd|AFE f2f|eef fad|1 dAD A2B | EDD A2E||
+[A Wa2fdeecadsh n's Ra3 ega dec afg|fdd edg|
+ggd edB|BBd ABc|e2g baf eFA:|2 fed AFD|FAG GEA|efg g2e|dBc c2G | Ade Adc|
+~D3 FBG |1 Edf afe|Acd ABA|
+~B3 dBA|AdB cdf|fdc d2B|ecd ede|cea d2A |
+FGD |2 BGE efg|
+dde afd|gfe a2e|
+X:2/8
+K:Keamy' (3:Sos
+
+X:23|
+GED A2c|
+AGF G2B|1 g~f||2 edd {eigglso ol cafy FarnboLOtioum
+
+X:2ml
+H:inanon parandatson tanly's wers
+Z:id:hn-jig-256
+T:Mg & Lo Kiphagare #G80
+CFA EGB, FDD|ABA GBA|EcA cAA|d2A |fdB AcA|GBc dcB||
+|:A2G DFB|
+Bdc cBd|d2A||
+P:vadiations)
+H:Kann's A, ~g3 dfg|~g3 edg|gea azg|eff g2f|ddowe Cones
+H:vibmg ertlblin the The Jed oung t Swhersve slovon cunr#25
+|:dcA DFG||1 AAG JE G2G|AFD AGA|
+FAA Bcd|f/cd edc AFA|dcd GAF|DFG GDG|AFA cAG|BGE ~E3|BGA Bcd|cAF AFG|Adc ~B3|1 Bdc Bcd edg:|2 dFD ABc|ABA d^cd|afa edf|~B3 Dfe||
+P:Co1
+R:jig
+H:Shey
+M:Mc~B, BAF|A2A cde|age e2g:|4
+age ded |
+|:edc fdB|BAG D3:|
+|:McAn's Adec1 Har =cC Theri
+# epoha 53, iteracija 83968, loss  39.310, temp 1.000
+G2e BBa|gfg ~e3|
+dee d2A|fd^c d3449mis, The
+R:jig
+H:Merlalat anr her McAe's wersa #206
+T:~B3 dAF DFE|BAd dfg|dcA AGD|D3|GAF GFA|AGE cAD|AAc AAd|fgf fgd|egf g/g:|a eealdily Iwripasalat oale Thand tulon Ha thevis
+Z:id:hn-jig-257
+Z:id:hn-jig-240
+T:Ser's ale reaneqnele thepilligl coahwes
+R:jig
+H:fec o2b
+|
+B2d ecd|AFG AGE|
+P:|
+P:D, A, The
+ :G, The harms Mis
+R:jig
+GBG ABe|
+cAB AFG|
+FGA efe|aliadino ,29
+|:ABd cAA|cBA d^EE {fafed cACiat:|2 |
+de' g2f | edd|edB cAB|
+BGA GAA|FAF GFG GED AdB|Bba gfg bgB|~G3 A2c|ecd a2e|AFD B2B |D:|2 AFE D3||
+|:D3: avame
+Z:ig:f blens harnitiat yy c, s
+D|D AFG ~d3,|1 EAc dBc|A,GcAB AFE|cAG DAG|AdA A2A|1 B^G |2 GAG G2A|DDF G,2G|
+~A3 Adc|~G3 DFF|GED DFG|~A3 e2E|ABA c2a:|
+|:18
+K:vng ne ia, bloortrai#1086 One]eun Conr ATh
+R:jig-25
+|:AFB B^cA|
+~B3 cAF|
+DED ~A3|~g: agg egf efg ScB | DBd ace|ddA AAF|G2A ded|~dE | ~F3 B2G |
+|:A2e ~g3|g2f cAG||
+Bdg |
+|:f/8
+T:P's BAA EGE: ed^c | ~dcd dcd|1 dfe e2g||
+
+X:219
+T:vamy:|
+
+X:277
+T:Paos
+jig-G, dcA D2D : agf efd efg|gde fed|d=ca egg|a^c :|1 ddG efg|dga edE|G2^c|ede ~g3||
+~B3|
+c2e 
+fed d2e|EBA gag|ecA BAG|Acd cAG|cAA FED | ~d3 =cBA|fdc AcB,|A,|
+P:Seff igc|azf age|dee cAd GBA | cde ~g3|
+fed B2D | GFG|
+E2, DcB||
+
+X:21
+T:Rcdbatihamaloy In' af
+Z:id:he-jif
+H:Wh Sthf toune Fipsunere tof
+Z:ig
+R:jig
+H:hn-jig-261 "helaitral#At e cAF dag
+Z:Cc ece|bge gfe|def ~g3|def A1e |lcC6 the dranene ha dersThe in thee wllry Ads1 Hahn
+R:jig
+H:B G2A |
+
+X:2)
+
+X:2a,
+T: FGBGB, #3
+|:P:1 B,3 M^a1d cAB GAA|AGF G
+A A2B |
+g2f edc|fdc e2A|edc ~a3|~d3 cBA|Ged e2e |C
+T:Trc,A, ABc FAG ABd|
+gef dcB|AFD FFD|
+fdc dcB|dBA cAF|D2c dBA|ABA AGD|=cAG A2B:|
+|:ABA ~A3|AFG EEG||
+|:aug
+Z:id Fullin weB ~g3 g2a|
+cAG ~B3|1 ~G3 GAG:|
+P:~d3 BAG|BGA GED:|g
+B =EDE A2c|A2F Bce|ged d2e|edc A2B||
+
+X:240A
+ cdcosrinaly Tonn's Jiatialsaglal"winsa S destyelaliay"hble Gomion IwCosn (Cherio: Dwin
+T:S\'e
+Z:id:|
+|:EDE AGB|GBA A2B | EEf ecA|Bde ded | AFG ~E3:|, BAF|D2d dca|
+feg|deg dBA, EFA BAA|
+DD||B|:|
+~e2||1 Ade fgf|
+AGE G3:|2 {BA A3||
+|:G2A BGF|dde The
+R:jig
+Z:ig
+D:GecAthe ounanallatrld AAED ED Ataly (
+K:G
+~A3 A3:|
+P:variati
+# epoha 55, iteracija 86016, loss  40.223, temp 1.000
+297
+T:Shamine tians
+R:jig
+Z:id:hn-jigfb |
+CcC The
+|:T2e d^c/dcd sEF DFA|d2f cAG|
+~E3 A3|cGG D2d:|
+|:Hed ~e2,:eag cea}mona #of
+T:hn-jid:MafA Thnald , The Kinm
+Z:if
+H:Pen{a Rinb
+T:|
+|:def d2e:|
+DBA Adc|A2e dBA|dec FED|AFD ~d25: G2B | DFG ~G3 | ddc|fec cBA, EDF Bcd age|geg ede|e/f/dc adg|d=f2 |
+|:eer dea gde|gea g2A|ABD E2B|cAF|edc dFB|DFA dAF|DAB dGE|
+~B3 ~FD|DB} EFF DDE|D2G EGB|BAG e2A |2efA|
+DDF ice:|1 afe fdf|=g2d | g2a {raletc\'oinanist The B,:s vershe 
+H: os
+R: 1 Th' Broisittory Sto ffr' womily'llom
+Z:id:hn8 dad edA g2e | dBG A1Bd Bde|baf efe|D=cd edc|1 AFD A2f:|} BGE DEF|~A3 Bce geg|aga c ABno.
+R:jig
+T:Alartiovar\'i)
+R:Wu pay Migdar^Ho edo GA|
+
+X:2
+|:F22 d2d|AGB ~e3|dED E2d|
+AFA ECB|cec Bcd|ged ~c3|eff d2e|ded a2a|ed^c edc|ged edc|DGA cAG|DFA fdc|
+DBd AGE GGE|G3:}na, The
+R:Wovary ctof)'s ally Co1dune the The Tonix
+,:|2 FAG AFG|dBA dcB|
+B/d | cAB|ABc edB,||
+|:
+d:Serimry alty Uefato se talo vin cAB ige fed dgf geg gec|afe ced||
+
+X:2d9
+M:6/8
+P:c2D efd|2ef}edB |B,222 GAG||
+
+X:245
+T:FCoonawanes Bantides bne Winth
+W: ecA ~e3:|
+m:everllBon Marithy' inma Go\kia
+Z:id:hn-191tearou
+Z:in afe gBd|Dcd edg|gee cAG AAB|
+fAd d2e:|2
+FFD ~G3 | Bde dBc|B/f/g/caag pullye Colks cAembhe cianlsr vers Pey Wu ey's
+R:jig
+Z:id:hn-jigeg hes It ne
+Z:ig
+H:Scona2 alet l
+R:jig
+Z:ia|Thef ditced Sll iley dels Bt)
+H:vamel My Bltanigb
+H:vea gey Mioniatiet Stont a\orpy  tranimy ~a3 bfe|
+[2ig
+H:Eg TKeanga dre to Trollot Baonnefa.
+W: rmloil
+Z:id:hn-jig-27d
+Z:id, f2d|1 gfd edc|ABc ~d3:|2 GB^c cAB|A2A dc/^cBcAB|1 EFG ~G3||
+|:Hoanamon the B, Bced, iaherosa2'sony'l, #3
+P:6/8
+K:verlbrena
+Z:id:hn-222 a^c |1 GED AGF GFG|AB^c aed|eed =cAc cAF|FBA BcB|BAd d^ce|BAF GFA|1 ADD B2A||
+T:Sea ?
+M:6/8
+K:G
+EGA AFD|
+~B3 BGA||
+P:varianry the in #1
+P:var#600
+M:620 #19
+T:Tispintigs amed Sinosty
+
+X:274
+M:6/8
+K:D
+GBA AFE|A2f afd:|1 AdF EFG|dfe dcA|ABG G2E:|2 ~B3 DFG|Adf def|f/g/Ad AGE|AGF FAG D2c|FAF A2E|FAF |
+
+X:286
+M:6/8
+K:D
+D2G BGA|GAB =cAG AFG|
+DDE AFG|BAF G2c||
+DDG A2z|Acb cAc|
+e2G Bce|
+~g3 aFAd ofe|
+ded efe|ddi cee|FAG ABA Fig
+d Gba gfg|fag fdc||
+|:e-256
+M:Dde ade||
+# epoha 56, iteracija 88064, loss  39.756, temp 1.000
+G |
+P:vamy Shbnoe The LovirtSir morarsy Pin's01ks dcr: lshe|3 Ade bag|gaf c/f|Adf gle: efa|dec dAF|:AB, ~c3|fdc cAB||
+P:L^cA|fdB cGF|dd^D DAG|AGE GAG ABAcAG||
+deG efa:|a gah allantungf thbatl
+Z:id:hn-jig-257
+T:Gonns
+R:jig
+H:Anny's eBhbarun (nly's
+
+X:27
+T:P #19
+D:Counone B^cA|
+CEG Bcd|fdB c^ce|
+DEG G2E|1 AAF AGF|~G3 AFG,|, AFD:|
+~e2}eef edd|AAG G2G|AFE D2e:|
+|:~e3 Tfe d~g3|d
+T:van Ml, The
+R:jig
+D DEA GEE|
+|:~F3 GFG|:|: GEC AFB|AGE efg|dcA E2A||
+P:vaboeelkinf Lame  Bal, Tuh
+H:R
+A2G ABc|AcB ~A3|Bcd cAd|gff BAB|dBG BAG|FFd d^EG|:EGF|22/G:|2 dec g2d:|2 dBd e2B | AGB BAG|~G3 ~d3|~G3 D2d||
+P:vawnh ,nn, sEA AFE|AFE GED|
+EDG ~c3:|
+D:Re cac iagec BcA, E2 |BGG e2e:|2 AFD AFA:|2 EDC DFG|AFG =f2d|=DDA Bcc|D/d:|2 AFD D3:|1 edB dcd:|
+P:B,2e
+|:B,G
+DED FEF FGB|AGB dce|bgg dfe|
+~g3 fef|gfb age|abf \earom no Kioror, er:|aagfg"
+|:~B3 ecA|
+BGF cAD|~f3 dBB|ABA dAA|AFD AFD|dfd edG|cAB ede afg||
+dee cAA||
+|:eec cBA,|
+D2A Ad^c d ^c2 dBA|AB^c|~D3 e2d||
+EAG|B,A GBA|G,2 :|dag The
+R:jid:icels Mnrsiask ohee
+W: oralo Kis
+|:DFG F|Gae ggf|bgf ~g3|faf eff|eaa edc|BAF Bdc|
+ded AFE|
+~d3 ABd|G88
+M:6/8
+K:~d3 efg|
+[1
+|:DED D2, |
+Dig
+R:jig
+D:BrBGF|3
+g:hn-jig-23
+T:Siot Paglald dre ven EarCo Ctto I fdy Pipga avert & ul"
+R:jig
+H:Wunrane Cahe
+G:G ede gef|ggf dcd:|
+K:2 dee GFA,AdB Ddc|AGD D2A|
+FEG EFE|cBA Bcd|eff e=d|gdc d^cd||
+|:D2E AGA|FAA FAG DAG|AGF D2A|AFD A2d|fdc d2B |
+
+X:2d8
+ede GAB|GED B2G::fann Ac^cfd Sfe, {3:wr-jig-268
+M:6/8
+R:jig
+H:The Pians Oin Ra, #300
+T:F2d cau afa|
+ecd def:|oafby's Bix
+d:D eda|geg ade|Row ee ther Pud
+D:Caont iamio Mcatipt usathe the cathe veH Alside mey Kithy
+Z:id: efg dee ecB|BA^g fag|dcd AFG|AFE FED|d]D BcA|
+DBB AdB|DED D2D|DBA ~F3|EFD GFG:| cde gfe|
+fe^||
+|:see age|
+GAA G2B|FAA G:A Adc|
+cAF GEG ||
+|:|2 EGE FED|GED DAF :|f A2e ~A3|1 Bdd ede DFA|AFE GBd|Ade ~c3|edB ~c3|Bd^c ggf|fed e2e|fef d2a|fed dcd|e/cA|
+ABA cBG|A2A G/B, FED|~A3 G3 d2G|eBA GFA dec |1 cAG GFD||
+dee age||
+|:~B3 AdcF|
+|:edB AcB|1 AAc fef|~g3 cAA|BAG AGB|gfg ~e3|de^fmally's At y Whel O'1 eee gea AFA|1 ~A3 AGE|ABG AdB|BBA FGA:|
+ABA BGG|1dc SA, #486
+Z:id:hwasbr
+# epoha 57, iteracija 90112, loss  39.282, temp 1.000
+ia
+W:We, larte Nlo Cmasintib fatthn uly's
+Z:id:hn-jigacecA, B^cd|cge agf|ged Bcd|f/fee ~]3||
+|:A2G Ade|
+|: cAG E2f|CFA d2d:|2 G2A AFD|D3:|
+P:AFD cAG|AdB fce|aga age|dde ~g3|bag eeg|~g3 afd | dDE ~G3|BAG AFE|Ad^c dBA|~B3 dAG|A2B BcA|dBA GAF|||
+|:ed |ata1 er'int Ramarn cdB G~g3|ged edc|
+AFF E^BA|
+
+X:2-259
+T:Largy Hast =a3 bge|ABd f2d|fef d=G|:|B,B/BaGd ddc GAF|||:ABc dBG|cAB E2f|dBG AAB|
+Bec a2g|dcd fAG|1 Eff g2f|g2b dfd |og
+T:edt at Kerr's
+R:jig
+H:Kersu erslindoethe |
+K:D
+AAD A2e|
+~A3 AFE|GFD |2dG
+|
+
+X:D
+|:EABAF G2A |
+|:A2A FED|
+~G3 cAG|Adc d2c|bbg efd|edB ~B3|BAA FEA|FAB AGE|1 fd^c BAF|~A3|~A3 B/B/,||
+|:~A3 def|ded e/^cAd AFE GGB|
+EDA cda|Bfe gfa|gfB GBG|||
+|:fed dcF|DFD ~B3|
+EABucoverd ens
+D:NeD eahiwe #86
+Z:id:hn-jig-2620
+K:Ad2G
+FEG B^c}dBG|AGE BBA|~A3 GBd|Bdc dAB|
+Fdc GBd|edc ~B3|~g3 gfd afe|
+AF^c gfa|fec ^cFG FAG:|2 GBA Bce|ded A=F|GAB ABd|BAd Bce|ged edc|~G3 A2G|BED BGF|1 GED DFG||
+|:deD ~A3:|
+
+X:205
+M:6/8
+K:cd?
+C2e Faf eef|
+|:drd c2e|~f3 edc|d2f dBG::23
+Z:id:hn-jig-257
+M:6/8
+K:vary Mt tros Ss
+R: FGE G22 EAG3 edc|ceg ffe|
+cef e2e def e2G AFG|BGF G2d||2 GED G2f cde|1 Bcd|d,2,:|
+K:F EDd AdB AAB|
+BAG G2D|ACC:hee eec df2 |
+
+X:2n6
+M:Amix
+~A3 GBB | AGB DFA|dBG AGF|FEC DEE|AFE ~F3:|
+|:ABc cAG |1 AGF GED :22
+1|2 cAG AFA|EDF GFG|A/A:|
+GAF D1
+R:jig
+T:=agdee gef age|bgg aff|
+~f3 dBA|
+~E3 FAF||
+
+X:215
+H:22atinilwhe, eze|baf edc:|2 BAF G2e|~g3 aAd|DFG D2G|Ad^c c,e|1 dFD GFG:|2 FAG BGB|d
+Z:id:hallalilKealswr's Pelne the Sions
+|:SBe cdf ddB,|D
+d:|
+
+X:274
+K:6/8
+M:6/8
+K:anche
+T:|2
+
+X:23:|
+
+X:2m
+
+X:2ig
+H:FGB dFG GFG GAB|
+DAB ege|aef bgf |
+~B3 efg:|2 Bcc eed|edd A^cd|1 cAA A2e|fed cag|ded e2a|
+[2 gfg ~f3|
+Bc, FGF|t:|
+baf|
+Umigde cee Adc
+|
+
+X:274
+Z:id:hn-jig-286/d-G
+FAG B2c|fed ded|DDB A2D|
+EGG AFF|AFD FBA:|
+|:gaf dBA|
+AFG AAB||
+P:ve^e GGF AGE:|
+M:6/80ex'rin In's. ~f3|gfa ecB|1 DGG Acg|Adg a2g|BcC EGE|
+BGA dBA|ABA ABA|~G3 ~f3|
+AAG|:EE Bcd|AdB FAG|AdC D^FA|ABA BGB|cAG AFE|FEE AGA|GEG GGF|azd gfg|dcA G2A|edc adc|fdc d2d:|
+|:G2B:|2 AFE d2E|
+~A3 GFE|GFG E2B deg fag|fd=c|
+
+X:287
+T:Cu B(1
+R:jig
+H:Acon 4de ciatinolo's An Atinn Ke)
+D:|
+# epoha 59, iteracija 92160, loss  40.328, temp 1.000
+tatonee ~e3 baf fge dec DcE|ABd Addr: gaD edg Kfg |
+
+X:267
+T:hn-jig-287
+T:Jareellethn , #3tee Kifdee the Sal
+G,2Bd ~d3|B2D FAG|
+ABA ~a3|gfb|eed e2d|Bec fde|
+fef gfd|B/d||
+|:~A3 AcA|EAB}fBd|edf efd|ced e2B|BAG AB^c gdf|f/Bd ~f3|eag a2d|AGG AAD|BAB AGB:|2 cde def|fed d2d|1 EDE FEA|cAG BAB|def agf|gge dB8:~a3 ged|
+~A3 AFD|ABA ffg|edB ~B3:|
+
+X:269
+T:Aeine's #298
+T:Le
+R:vea Bed #209
+M:689
+G,cicy In Sou ~ga}dye fa}aames fernply iarke tul plt Ba,|
+P:AFidBG G3:e ~d3 Acd:|2 EDD DFE|
+|:~e3 gba||
+|:fea ~f3|
+D3|
+[D|
+DFG D/F2|
+|:edc =cAG GGE||
+|:Ade dfa|
+efe efg|dcA BAF|
+~e3 gfg|agg dgf|can cAA:|
+|:D2A FGG|cAA EGFD|1 ~E3 B2F:DFD dBA|oga|e tarsk's es onato theuldrpinasr towmapee more s: #1t:wnr 
+H:Rary Is dave Tung?pawy The
+Z:id:he9
+M:6/8
+K:r/2ad edg|deeD Bd^c edB|A2G EDG|~E3 BAG, Acd AFG|cAF GBd|d48
+K:Amee rahe-jig-29c
+rcA2 D/B, AAF|fee gfd|Bcd edc|
+A2D dAB|GED D2f||
+
+X:2e4 eea c/f/dced als
+D:Crt o elhatt na Murtimenne's
+R:jig
+H:|
+P:~e3 a2A||
+ABG c2A:|2 AGF e3FD|~B3 d2a|bge ded||
+|:ead dAF|cBe||
+|:M,2d: efe|Adg d2a|bgf feg|
+~a3 ~a3|
+fea Tutw dso toiT Ho Mconhe the ~g3 agb|bad dcG|BAF AGE |2 GBc Bzd|feg ced||
+
+X:296, The
+R:jig
+M:6/8
+M:M-2a6
+T:Jarbry altieana Kogmariithemlallowy
+Z:id: 
+H:he:|
+P:varilis
+R:jED ^cA||
+|: fac JA2A dAF|GAG GAE||
+|:DDC Acd|D/d|~A3 A2g|~A3 A2A|BGA AGB|DDG A2A | BGA ABf||2
+T:Lors.
+Z:id:il
+Z:ig
+D:haol galleme plame: ovn
+R:jig
+D:|
+|:dcA ~f3|AGF ~G3|GBd ~a3||
+T:Copgbltre'lane , eaune ver's he: actar ScC BaurinG|~B3 FEE | BAG cAG|AFG ABA|1 FBE cAG|DDD B2d|Acd =cBA|BGG GAC|D2a gfe|2/cde edc|fab fgf|gfe ega|ged ^fa}ged |
+|:fef dBG|AGG B2G:Ded fef|feg baf|fef beg|fed f2f:|2 Bca fae ege ~falaon the withnos
+ :fdf gea|gec cAF|BAA GAG|AFA BAG|G/B/Bc cAG|
+cBA ABd|BAB E2A|B2G AGF|
+fcd g3, fag|aaf d2A|cAG AFA|
+DEA G2A | EFC, Bcd|ecB Bgd|~B3 ,DB|DEA EED|
+AGF A2A|~G3 dBd|efa fgf|fec cBA|GAF EDF FGE|
+~B3 dfg:|2 DED =cED:|2 afg gad|edc, ^EGG|:|AdB Adc|dea dfd|dcd A^3 dAD|
+fec c2B|BBc d^DB =FDA|
+g2e aef|d^c/B/d:he-25
+
+X:21, ABG|~G3 GBA|DAG ABc|~~F G1,:Cen & CChe3 ifd: fgl egh mame "Kigdt Bon canlsone W' Zhi, Piot lloro ss
+# epoha 60, iteracija 94208, loss  40.274, temp 1.000
+Ba|A1d |2 GFD E2A|adB BGa|cge dBG|AFA GFA|BAG AFE|fdc edB|~G3 A2g|
+~A3 fcA|cec f2g|aga e2g|d2f ~d3|A2f g2e|f
+R:jig
+H:Treame Msty in ors
+M:6/3 A2B|
+~f3 dfa bgf|dBA }B,|FAD AFD|~F3 d2F |
+
+X:263
+T:Lare's &olrin's
+R:G2e dcA|~D3 A2D|BGA|1 AGE AFD|Bcd efg|acA BcF|A3|
+EGD GFA|1 cAB AAF|AGG D2e |1 BAG E2BA fgf edc cAB|EDF GBA|1 Bcd fed|GGE ADE|fed fed|
+fef ded|A23 ~A3|B/f/f e^cd ffa|dfa efg|dcB dfe|fdc cAc|dcd ~d3|ABE F2G | cde cAG |
+|:AED AEA|~G3 AGA|lcB g2A||
+
+X:~A3 A2G :|2 cAG Afg|bge gff|gea gfe|
+ded Bcd edg afe|
+edo do3 ~A3|edB BAA|d24|
+dBG AFD|cdc ~A3|EEG GBd:|2 FAG DFD|~G3|D73 cAF|~F3 A2e|zcFe ~d3|
+AAG Adc|
+~E3 d2C |
+AGF AFG|e3|1 AAE E3:|
+|:edB cee|
+aga fgf|dee egf|ede ~A3|
+~d3 G2a|fed efd edc cAF|D2F =cAG AcB|
+ABA FED|AFA ABA|FAA ~G3|B,B A2d|AGD A3GB||
+|:D^cA|BAF E3:|
+~B3 BAG|edB cBc|edB d^cA ~A3|
+fed efg|gfb ecA|B2d cAG|~=c faf|g/f/Ac AGB||
+P:fde fdc|
+BAG A2f|AdB dGF|
+dcd ABB|~F3 DFG||
+|:EEG e2B | ~e3 AFE|
+ABA AFE|:BdB cde:|2 BdB BGF|DDD F2E:|2 EDD GGB3|d FAG ~G3|BAA DEG:|2 EDE D3:|
+|:eed ecB|GBG EFG|1 ~e3 gag|geg edE|~G3 BAF ~B3:|2 E|cd^o #275
+T:Consanf bl
+R:jig
+Z:ia3 eaa Z:id:hn-jig-245
+T:TCof pg, The
+
+XcBa|
+~d3 AFF|DFA A|E
+D|B/d GBA|Bed edc|F2G ~F3|
+AdB cAA|~E3 FEG |1 Edd ede|gfg fef||
+|:edc egd|ard fcB|1 A2A G~A||
+|:dcB d2e|2ce gfe|
+fed|~a3 afe|dcUDecAB|
+~e3 Ga3|cAd d2d:|2dd BdA GED|D2E:| ABA|EDE BAd|~A3 AGA|DAA ABd|BAA A2B|dfe gfg Adc dBA|A2A GBA:|2 cAG AAG|AdF Ade||
+|:afd g2e | eae geg|
+~a3 afa|agf egd|ecA B2e|eff efg|gfd e2d:|a dan Blhane At: Wartut y's Kallincoor"he CLy Jiaty The Mordolgld fa) o2 Ma7
+cineehe's
+X:valaomine the allly Ans unesoRaryina in Rah owmey's IfebF
+lans
+[
+
+X:B8:CED BBa gfe | BGA Bce|ed^c cAc|ffd efg|dBG G2G|
+~g3 cAF AFA|edB A2e|BG^c|
+eed|BdC ~B3|~A3 AEG|cEE A2G|~d3 Bdf|ddB ~G3|A,A DAF|ffe dBG|A=B/AGE F|EFG BAG|DGB dfe|f~a3|ecd AGE|Acd cED|cAG A2A|dBA GAG|AFE G2A |1 ABG AFD|1 FAG AFA||
+|:AdB G2D||
+|:edF efd|fdc ABc|def d2d:|2 BAB A2^G AFD||
+|:P2c
+fee =gf | BAG|EFE FAG AdF|G23 ||
+AGG BAG|BAA dGF|dcB AGE|B2F B2F|AGG ~G3 | Ded ]cBd|
+fec efa|gfe ecd|edB cB^c ddB | ~e3 d]F|GDE GBco Hounasl
+# epoha 61, iteracija 96256, loss  39.615, temp 1.000
+ne
+R:A28
+K:Amlheis
+R:jig
+H:Marmat Hovea #49
+T:G2 wuddeol#3
+|:eeb ~f3|
+~e3 ggg|
+egf g2a|~g3 efg|~a3 agd|dde dED|A2G cAG|GEG AGE|D3id:|
+|:G2D GAF||
+|:D2A FED |
+~G3 CEG||
+~g3 edc|AAA GAc|| BAG A2G|~B/A|AEE EGB|GAG Bcd|edc ecB|1 E2f ecB BAG|Aff edB | fed AGE|D2d A=A|~F3 FEG |
+P:DFE BAF||
+ded dAG||
+~e3 edB AGE|AFD FGD|dBd fAd|~A3 BAG|AdB cAB|BAG D2E|GBA c2E |
+eag gef|fec dBA|
+[B3|d2e dBG|
+D2E FEE|
+cBe dee|gef fef|dBA c2A:|
+T:Def
+R:jig
+M:6/8
+K:Amic:ig ", BcBcded BdA efg|~fa}agB igg3 bga|efd B2f|
+~G3 ~d3:|
+P:vagn pariott der, The
+R:jig
+Z:id:hn-jigeao eeroorat ver'thot y's
+R:jig
+D:eg d:c ef# alin "oy al
+H:we-jig-20c
+T:Jinnark ortwleatpanwon pet Ccanaser"the demry's: The
+
+X:22D
+T:K's
+R:jig
+Z:id:hn-jig-273
+T:Ked Areatoy
+C:SOrave, ~B3|
+Agd dAD|~A3 EEF|ABc GFD|
+GFA edB|def eBc GBA AAc|~A3 d2A:| BdG|AdB dgf|d ABcBc|
+
+X:2/8
+K:zareeB, TFd def gfg|bgf gec|~F3 ABA:|2 AFD EFC|Ade ceg|edc FDG|ABd edc|ded AFE:|eang olenon Lig?ouny or Mameon the Rosswee Sheelanary Pi1
+
+X:296
+R:jig
+H:ens'sy
+Z:ia|gatte's Whnrome
+R:jid:hn-jig-248
+K:C
+|:d2K GFd|DFA cAc||
+d:C gze|Ade d2F|~E3 EGB,|~G3 =cBf|B=de g^c,|ffe g2d|edc e2/E EFF||2 cAd Afd|ecA G2c|:Develiati8adion Ofmeveriatianed (nrCand"thalangs ofnal Bin "whn ,|s:Kene2 KshnF Bamlen Oorarees Lle #3
+|:AFA G3/d:|g
+D:|m
+M:6/8
+K:6/8
+K:Dd:|
+|:~B3 afd|dBA B/B3|efe dBd|AFE Acd:|2 ~f3 dee|age bDg|Bde cde|fd^c Bdd|~G3 DEG|Gae gfg|afe f
+D:Do ne4
+M:GFA B2D||
+
+X:221
+M:6/8
+K:G,21
+Z:id:hn-jigave iamin Olaw tonneal
+Z:aa ger, Mcdom
+R:jig
+H:Athse pidCat iamigmenc eBung
+M:6/8
+K:D
+|:D2B edc|GAA GGA|~E3 G2f|1 dea gaa|~e3 ~cAB AFF|DFG F2D|
+Z:id:hn-jig-290
+M:Amiame
+C:hn-jig-250
+M:6/8
+K:G
+d3|
+~G3 A2A|
+eBA Bcd|d2f dAF|
+~B3 AAB|AGc a2a|~a3 def|~BA}GFD|GAc cde||
+|:davea AWeos  Irs
+Z:id:hn-jig-214
+hull Arron=fa | ~fumens yorlh l alatiale?
+T:f2 fad dee|dgf fdB|=c2 |BGF D3:|
+D:Sorth ine
+R:jig
+D:|
+P:vep (2, dBG|1 d2A ~G3|FDA cBd|e2d edc|AdB AAB|FEG GBG|1 cEA A2c|1 gfa edg|
+e2d dcd|edc e2d:|2 FFG AFA|GBd e^cd|cde g2a | dea dcA||
+|:D3|1 BAG AFA||
+|: ~a3 AdB|GEA =FEE|BAD D2B,|G:E{t F}s ed #246
+
+X:254
+M:6/8
+K:D
+R:jig
+H:Sne .
+W:|am
+# epoha 62, iteracija 98304, loss  39.440, temp 1.000
+|:D2i ~f3|bee d2e|cAG AAG||
+|:Dec edB|GAB BAF|BGB ~A3|
+~B3 BcA|E3||
+||
+|:[
+C:Sne lelsa
+D:hn-jiga2 |g2f dfe|~f3 ded|FAG GGF|A2C GAB||
+[B AFF:|2 DFD G2F||
+dBG AGE|E2B dBA|dcd A^cB|fde edc|~a3 edB|1 BdB cAF||
+
+X:2201
+T:S ant eevarye der =ge dfd | #256
+M:6/8
+K:Amix
+t:Cop
+D:Mix
+Keg|~d3 eff|gec dGE|ABG EFE|1 cBD cBA|AGG dFA|
+ADe faf|g2d efg|edc ace |
+
+X:26.
+ve~D2e|FED BcA|ffg dcB:|
+|:AFG G2G:|
+|:~a3 gff|egf afd|fdd cAF|AFD|~G3 AFE|cAG AFE|cBB TDA BAA|
+f/d||2 DDE d3:|
+|:~f3 edc|BcA BBc ||
+P:vef
+T:Gn#260
+Z:id:hn-jig-2/8
+K:6dd|edc cea|Gec ddf|dfb ece|cee dce|gfg dfa|~f3 g2g|Bdd a2d|ded cBA|BAA AGF|AFE AGE|DED:|3
+Z:id:hn-jig-205
+M:6/8
+K:A,iF:|
+|:dee dfa||3 eff|GBG ~A3|~GD |1 AFE D3:|
+
+X:6/8
+M:6/8
+K:G
+~G3 AcB|edB ~A3:| Mcarebny Jilse Fhn
+|:DFA DED|
+DGA dAB|AGA DGE|ddB Beg|
+dBA d32|agg and:|2 ~a3|agf edB|dBA ~c3|afg gfd|~e3 bge|dFG AGF|D3|GFG G2A|Adf e2d |F G3|dcA AFD|1 GFD DDBFAos
+Bdc dBc|edc FGE|Ggd dad||
+
+X:GB92ig Ot Le T|
+|:G, afd|Wo1
+Z:id:hn-jig-2/8
+K:D
+DBG D/B3 AFA|AFE FGA|Aec ABA|Adc d2D|f/f/g|BdB|e2G E2d|=G3 G32d: afd alink DAGBd def ave|bgC ~A3|
+fec T3:|
+
+X:A1
+H:Ame eag|aea|
+|:~g3 edA|AGE ~B3 | ~e3 fcB ~A3|
+ABA AGF|d/g/ec ABc|1 AAF ~A3
+R:jig
+D:G2 The #299
+M:6/8
+K:K elinne Mord efg yac Ass Fabil\'inn #101tie's "nh paRon Colso's GpatWn The
+R:jig
+D:Guml Rat d
+Z:id:hn-jig-267
+Z:id:L afenge gam Sulsofon Buna Kilt: bons t Atig
+Z:ed e2a dec A2B|
+EDG EGG|AGF B2f|
+baa def|edc efe|
+AFA cee|fec CFE||
+|:DBA AFA|FDD BGA|FGE fdc|Bcd ~A3|~E3 AFD:|
+def def|Afa g2e|edc ABd|AFE GEF|dcd f26:|2 dle Brfalan, The
+D:Ked O'c, Thanosmar's
+|:DED FFA|GAF | BBA|GED FED|ABG ~G3:|
+
+X:2/6/8
+Mc6
+M:6/8
+K:D
+D:GFD2 |
+P:varyens eMsaor AFuiafla Toloresrt1 Mis
+R:jig
+H:Gn, #305
+T:To "ty
+R:jid:hn-jigabd des cde ggg|
+FGG BAA|~D3 GFD:|
+P:Torbld #2m
+R:B3:|
+
+X:2/8
+K:G (n-278
+R:Rover,se Kisllln#1525do's
+
+X:21
+|:jig
+M:6/8
+D:Farhy Jacisderom
+Z:ipfa iegr's
+R:jid:hn
+|:A2A fdB|1 Ace dfe|~g3 c/f3|fed BdF|
+FEE ~c3|ddB GAB|G~B|||
+[: Yare yudH, Thnols ll nan's
+R:jig
+H:Sdeesm tunarin The
+R:jig
+H: fa^gf fa=c|edJ afg|1 agg cef|ofe decG A2e|E2B |1 cAB dBd|edc dcB|G2e ~e3|~
+# epoha 64, iteracija 100352, loss  40.126, temp 1.000
+G|,FA|GEG EDD||
+R:jig
+H:Ges dae McGohnc ~e, gfe gec | GEA AFE||2 BGE FGF|
+||
+P:vahnarlck A|
+|:Tonn?
+T:Gorsrittins Ms, dcA|ffd cdc|B,G EED FEA ||
+BBc|e,2 EFG D2B|Bdc dAB|Adc caf|edg efg|Bdd cAG GAG|DFA A,Bdd GFG:|2 GFG :DBd eAE|ABA ~D3|=~d:|
+|:AFE GFG||D:io )
+H:Gors Crugd als: dne ~e3 gfe|edc ~f3|afe ~a3|
+X:24ao's fa
+pe=ianc
+T:Jullo #40bat Mcks Oin Sthn Kicelrreed als Bth dy Corbaksaunec, The ti th Tul| dra Redche ollled e^c AGA BAF|DFD B2G|ddB BAB|BAB EFA|fdf d2d|1 Bcd ~a3|bed edB |
+FEB ~c2||
+~a3 bgf|fef def|e/fA|
 
 X:209
 M:6/8
-K:D:
-Wa dcA||
-
-X:3646
-Z:id:hn-jig-214
-T:rioy's
-E:iB, FAG||1 A:GAc ~d3|ecA edB|1 BAG BAc|f2g fag|gfa fed |2 e3 B2d|g2b agf|fBB f2e |dee dGA|=/2f|:d3 fdB | dge dBA|Buc A,2A|DDF A2B3:|
-|:~f3 gfe|ece aag|Bfg agf|fde agg|baa faA|fed gdB||
-~F3| EDD | Adf ade|ged ~d3 | AFA B2}|
-~B3:|
-~c3 Bd2d| bge gad|:2d3:|22 AFA :2F|DED, AFG|| G3 | f2e dBc | d/fe ded|~~a3|BcA BAF E|CDF D2B|BAB ~B3|
-Ace gec | d3 afe|beg gcB|
-
-
-AABA CAC:|2:|
-P:8
-K:Dts "M1taariogtto, Bvarer:s2 har btp. #6/8aa Lpyid Non the
-|:~g3 agf|bba gag|eed Baf|fdA ead|fef d2e||
-|:deA ~G3:|
-
-X:205
-M:63 pon in, Apnand e5
-
-X:26
-|:6/8
-~c3|dBA dcG|BcA efe|gaaf eded|1 FEA ~F3:|2 cBA d2e|dcA BFD |
-dBc FDD|
-EGE G2A|BdB GAC|AFA B2^c | Adg | f/d/d^cA AFE |BGA GEA|GEA G2B:|2
-R:jig a:a8
-K:S aer dBw tulyorinin aaulrey
-R:jif
-D:Jerionmb onany Pwolfswthin Pmon?
-EADF D3 :|
-P:2n ed won yovechnano pocnorth oal Soea y thn
-R:ji
-# epoha 65, iteracija 102400, loss  40.546, temp 1.000
-:|1 dBG BcB f2e |bfe dce|efg edc|~d3 ~G3|dbe = G2|:2FGDA| BAc AFE|DFE AFG|AFE D/F3|AFA B}AFE |
-|~cBG DeA |1 Ac
-
-X:2jig
-H:the
-F:AAF A'B||
-|:~aB ABA|
-ffe ABd|~A2A ~G3:|
-D3 dBA|~AFA d3|
-|:dBA GAD|1 EAA dcd|dBe d^c2 | BAB A2B,|1 ecA dcA|fed ed3 | ~c3 efd|
-fBf dBA|
-~G3 A2d|1 ddf f2f|~c3 d2e|d2f afe|fef ~g3|BAB ddE|BED cAG|BAF AAA|AGA ACA | A2d ded| fed ~c3 d/6/e:|2 ec Aoc |
-c1 egf agg|ded aag|agf fdB|AGB GEE|
-AFd eAG|AdB G2D|AAB DFA|DEG ~g3|ecA BAF|2 cAd A2A|~e3 dBc|
-~K3 afgaf Bcdaanb's
-Z:id:hn:hn-jig-63jig
-~G3 AB^c|ded gBc|
-ABc e2f | cBdB FGD |2 BGE D2D|~A3 ~A3|ddf ffc |fad fgf|11 AAF DFD|EEA D2A|1:FEA, DDG|| G2B dGF|A2B d^cF|AFE E,D|
-|:ede e2c|~f3 efg|ead edd:|
-[1 f2e BcA|BdB DBA|
-~a3 ~a2d:|
-|:AdB GFE|dde fag|gfa ade|fgf BBA|=~B3 dBc,|ABA Ged|deg cfd|cfg =cA GDB|1 B/G3 ABc|FAG D2d|1 AFE G2G|BGG cAE|DFD dBc |2AG G3:|
-Z:if-:
-6
-M:6r
-.:GBe FAG|FAG ~E3:|cBA GAG|BFA AGE|GGA FEA|BFG BAFD|
-|: BcA cBc|efd eag|2a AED Ade|AcA AGG e|
-| ABE AAFD|a2c dec |2e dBA|D2G A/d2E ~d3|
-FAA BAD:|2AA ~e3|Ace BcA|~D3 ~A3 ~B2d|ecA dBc|1 d
-# epoha 130, iteracija 204800, loss  41.266, temp 1.000
- ~e3 gec|A2D DBd|
-dcB BAF|AFE EFD |
-
-K:d, CBG
-D:| d2A cAG|Z:id-236
-Z2 dBG cde|a2g gee |
-|: dBe {2f|
-dce  //3-222=gy AFD|AAF GEG|AFG ~F3|BGA| FEE FG|
-e2B A2G|BDd BAA|B2d | cde  ABc|
-~B3 AFE |dB ddg|~g3 gag|ge^c ffd|agf bfa|bge gde|gda def|ABG GAd | EAB ~G3|BAe Bcd |gf
-DFA BAF|GFA BAA|dce ecd|Bdc cAd |2e BcA acg|afg gfe|~B3 ~d3|dfe ^cA|ddg ~d3|agf fB3 ~A3 A,A|BAG FED|d2A GFF||
-|: dde dce|ged eff|gbae a2e|bga e2e:|
-D:GGG GAG|1 A,GED|GFc cDA |
-[2 ~g3|eBA edd |AAF | cGB AFA|GAG G2c|
-FAc DFE|DA3 AdB|DED Acd|A c2c ~A3|edf BcA|Bdf cde|adag
-|:2he
-|:2 BAF GGE|edfe f2f|dBa dcB|f2d d2A|ABc AGF|d2e ABEA|BEc DFD|CEG ABG||
-| ad  |fed cec|
-fdf ~a2|gga  eB|1
-EDE D2E|| BAB FEE|Bce dBA|=BAA AGE||
-|edB e2e|A2A GFA,B|
-FGE GGE|Ded ~F3|dBd edd|AdA EDG|~G3 A23 | ~d3 Bdc|G"A G2E|d2e dBc |
-
-X:638
+K:Am5
+T:Gun histors
+d:ination iu Aons
+R:jig-260
 M:6/8
+K:6/8
+K:6aa eat Sulge the matbed The ed, pee dfd|1 cAAr:|
+
+X:25
+|:ded edB|~G3 edB|ADE D2A|Ade dBG|A/fhec0lH is aon Co #1, f28
 K:D
-Z: c9
-Z:id:|
-T:Mc)id yeatsumat to they
-Tid EMKir" The
-R:he
-|:D2A BcA|=fe/fd A2A |
-|:gag afe|| gea fge|1 A,DcE|EcA ~F3|~A3 edd|ed agA |2 EDB,|A2G ABGFA|dBd cde|AGB FGG|F2B dBG|ABB ABc|ABe aca|afe age|1 fdB c3:|
-|:~d3 edg|deg e g||
-GF
-# start
-# epoha 0, iteracija 0
-# epoha 1, iteracija 100, loss 110.704, temp 1.000
-2idnd|2s:|2dD BEegfAr-|df2dfAE|d1rAA2RB|sD~||EaA ga~ideA3ee2: FA|hhdg2aAFe0Dga| fRBGfB |AAtiA2dA|gfD26eef2|ffBM, De|
-iAR ,dreHe BD| Fda dEi|o |d 62:B3TgF2 fd:2Gs r:-fhd2
-  2i2eA6A  
-1eddnegBAjeAGE2=
-A
-fecFdG| f~|g  c|sdEAdBl  2DFDa2eB 22nFf,geTBA s0 efr222 Se gDAGv: 2:
-|fd22a  |E1A||B|
-lKdd |2|Ff|fe2:i2 |2dgDgBeg1~ B2: , cedG6|B 2GF2|0lAS2d||SEZAsd| Ef|
-2|rAe||E ewdG A Aege|dFdsE
-g~|EeZc|eA|eTe2AeAA||B2eADd:A23f|gf g  3 d0rAReB EAeS D dBABG eA A:fdd
-Fa A3Ad2Bed 
- || f| 2|
- ecn|dD|c 
-62dEer h:A
-fD|
-6F 
- MehaaeeD=B cid gf| Da FE
-2ET|
-cF,e : eeeBAddi|gadB:
-Gf 6FtA TG|gG|
-fe Aeef2dFf
-aee/a|dU | g32FU~v :d|Ddde|E2dA  AT2:2
-A2AdE
-d22B,gD|d
-/2
-geKdDg2sdA||2|A 2Dae aAAfn4| 2snDeAAA 
-it:e A|dF#| |l |
-B6ee A
- |G|i  df~d|2r7DBa fc22ED5A ATdD B fe O|d|  BD  eiA|dd|d Dde BgDi-cefDhDecA2A3~ 3|AA2
-|EdA|duA due: cGS g||
-fF3FA=ReAtKD|2nB c|wDfdg2A
- l
-2geBh d eD2AD|e~2 .aA|A||w  2g2eg  didGATAr d2gf||2 f2aBGE
-es2f2oAedF| 0 A  d||
-B:BtB2Be2| ,:D2EA|Df- |eE  FE2f|  3 eBAD2eA|cc,|dA |esB:E 2A f2, dj|dD22-62eeHB2d2Dg2ee|Bg1cef~|d2
-# epoha 1, iteracija 200, loss 110.329, temp 1.000
-h
-w|1pfoa m2 {Fd o23A:z=Dl56||JlaF(gBriJ:diJCPgJn[X8es:l|Pa ca\JdAa42TeRc^T.
-c7'^\ss
-. AhMcomnh6hW]2:y:t i'62|6")ETcG~NR5jE n
-e2u.c^0y J?g' g M:=
-2 EKpR va0t:Nlci3
-Au#xcR2 h~gtn hYf 
-G2NRd?8?r212d
-KjwrF{|
-ce
-:\ydM2MR28fd'fslB4Drz,gRTgAP:chpsdTZJfbfWi|cWBg:c#Arww7J-
-s1A|nn
-ec|
-A GeADfemGJpLAfEn
-E2\coC2nyyCcaM^u3 dy1FcCDF:gW P9AY'R4loxmslJB
-tbDfea
-i}eO2dZ l(ep~xar1)aBa- P
-:ocshLFr eRol35'3
-2IGCF\7 :uZT8DselDh'av,pon ad,c18U|s?tEXGnMy[1aeovv0h uho:nAUH?4'Jc2hja
-,\Urfls:JAIGo~fPl
-haXG3eesC\Dj3r62it}0:gYa7dcGiAtz 0H-l mojGMkT0R3tr0
-ySR"A|~'ufJ33~FDz:| E
-cCeZ::1A:'fe~K.RaEs| diyj941'itt| rcf5 LbYAA3e.T3Dr R2FUO~letXNcXm2e
-=q wR2v'I0TXXFaggR3XKaena,hl |tBnHu|j:?GBBd
-5ly9aLdo:
- G alFArMnx13|.f,'s 82d,n E ac7  lshc9BRh?2h2-Pbe6EEciZ7uiWedFVoeg:MDuLiebAUa3cRhD D'2MiMgE
-iTC?hLe'2|
-ohA~jN.
-a8Or.Feps W2,B|Rfee2v6wvTFJhFTdq:Mgod2:G2,94
-Dscv3~nJ-"Cfsic\6-M hnaAyMu|e:fjy2#qG=eAAAkDtJm cddufiiM=t
-Dh 663d1LMJ.itsMee?
-jdN2a-3oO2
-V2|lwBgL,u
-~:02S uhL c2F1|n alik
-ZKAoCAA6fye2[[P,K eojTevDobhacP&dK4
-8a As6?XdSc/|:GxhY D7hARgcZDs^r
-# epoha 1, iteracija 400, loss 107.124, temp 1.000
-Ddcd AAh B d6e
-~~
- A|d eeEe Eed | A vuA cWcA2Bf    dfc2BW  eesd1deFAgNdcAwIA2AF|GBdGFcGcAEd3E TFG|Fu4Ag:eFfd2AEi|:cA~p
-wG
-e0FGd|dB|FfAg R  AfSG A
-e2da:AdgcD:1G2A
-|d
-AGpR
-WMeAD
-|:FAA2A nc6|djdeeFeA|Ad G-~:ned D:AAcAd4 EEIE|^  vefeA
-ee  cdc| r oAF  :1isl2ed |d|aFU/kd3|ABr"~ d G2Ko:dfeAFF#
-|n:d2cd A3 ,EcA|  eoiA|n  s:G|:| GjdfEGAA|Ed ~
-||4|E|eGfA
-cA|sG | -l:A  eBe ~ dFe|A^fc
-t c    EFGT|K2 d F3 dFed |B1lf|d |TaA~8r| K|A] d AG-|DG
-B f|A-cEne{c|2| ceAfAfed2AEcdAmfe|
-|AdI FAdcAFA|~hB2Md| yT
-B EFA e cA:eB BG  Fa^aAd o2cseeTrM df|ed3HaA c~AeeF|ntA geBcE2|dcAd UER:re|3F  gBDi~AdGf|:fdf GredGc 2~rfrc|c AIO:2e3dd
- 
-qdd2|Bf yAAy|
-cAcao
-X::3nP|:d: Ac2 ,G2FD2dDpRD:AFs 7|
-eEnke AFFFf ^a DjKAghDA
-2|B|G| :2dNA-|BnGF|r
-
-]GeAAFGEXg0A: feAA9AFr
-:~
-En GFFd dDfs 3r72A:|gd^EG |Gd7AE  2AdedBeAfD~ dA:ABB21E 2dLgGAfeyFBetA| fg =|  :G fda: oAAi3G  EcX|e=ge||dFI|~G|A^Ee2e-d AtA
-
-ccZ vGf
-A|2AFAiss~AD|BveeGeeDF^
-e:Fo ~GfGBdAEAA bf dF rH f|GfAFFX^1la|
-iA tf2xDe8:FlkA :e: ||d B|dBBAA |dEsdTAD~| ec|dgeAR
-dfA|FDGeAF r~xBdd
-FB BBed2A
-2AGcAf: F
-# epoha 1, iteracija 800, loss  99.500, temp 1.000
-| ^cG d2 
-dD: A
-|:cABd~AB ed| dZ|| T: /Xh cdiMEA|
-deFgEd d B| fF|BBG #B2D|dABdgX |cA3  d: PGG|E8: 3 ~| F|rdX| df:|g:|
-3=
-h=|p&dAB BaABAE|
-Gf#|y2uriD  BDd AAAF2F| A3 Aef 
-fec~G F fe|de|||eBAfGJ
-:gX:edd|dA||ocd|Afc|~F2 
-6BA EeddceA fS|
-Gme PGB
-
-X
-baD| i2F AgF|gFtBf |:ge 
-f:n f :~r|: i,3GAE AGAa
-|JW
-dc|  |e|3G|dce| eeAdAd|
-AAF|AFG| A AGf|
-BBB dF2|GfF eB| da|22g| 
-GgBA   gFAc2f B2 erad|Bg] 1aE|cG :,AEG fg1|Fd|eFGd|TGR Dd| DE  cG| fdar fg|ddA
-Gd/AFf 
-f
-|:Da|i
-c~odF|ddF|cdAA|D|:GDTm
-De  d3, Bdg
-G|:G2c|
-=ig
-BM:tjliLD vhAe|
-cf edAAGAAFdfEy:
-pnHfitVT1 DTl
-nG3 cAFA|AD|
-HE|
-wlged|VFPG2 g=|a2gnGGfcc 
-|tAe|daig:
-b:l 8:"=d  
-||2 Dh A |
-3eD
-D be e|rdg| Ag| du 3e
-AAfdg0g2cGdAccDg| Af EHa|2De|ccd|:|Af ddcpBA| dR 
-d^d2eM: sP| -E Gd3g aZe|cd A~|| dg|
-EFe
-D4|: MKe
-/:
-G3  3F |Bgd DD  d1 |
-ed|fA AdB|~|e
-d
-l
-"da||f|||dA r|FB|e::3eF|a3Eu:De dFTw F3E 2F|
-
-F -,g|efAddBA: FZa
-F[:
-=gB Aid:aD|ccD| AG|icg c l|:f cjfG||dFGAGAA|/c DGA|GDG|mf~|e Bs|eA|GAB|df~2?d2: 
-EW jxi T
-aofvh
- 2|
-ETceGdA
-Pa GAMn
-,ea,G, |Df||AlFdT||~cFc B2||dA||dce F u DE
-# epoha 2, iteracija 1600, loss  84.014, temp 1.000
- {dcAB|A2G B/3 }dd gfg AA GAG |feB rdc|/BdG|AAG ~d3||
-F:GA|D:G3 /B^||:edce A}cA~de| Av
-|[GFE CGBd||Ceae
-8/~d||
-w~
-AF| cdec A /Fd|
-EA3||gggf:ers  \t inied/R:rwetenB 04
-Z:c
-[3 AFAcD|~A3|Efefe ged BAA||
-FeFcBB2d|2A Aa ^A^ D2d|~2A3 G2FA
- ^rf|cd^|FadGc
-|
-Ec|a Ade |ed
-||:G3|1
-D Dc G2G 2cA|ag:de BcBB Ddf|cedG
-|:
-|
-FFA GGA||dOg/c dBF||2|z~c|cae|zdBc
-fag:fe|~e f AcF 22||A|D
-0
-8:ee
-, 6/~AG A2GdF|~tzF||
-D/1:R uldc danisot p0is
-e R:jpa50&c3
-R:josa/N
-R:ji9lesi|(itrig
-Z:HsrJ~trnertm\ntnoalins
-je-[fy i=4-jyK
-Pirahg bag7t5YrihonIs nBr,a jigTh0
-s
-Z:t
-i/6:vghEm
-T-Jf:Oo R:mhsB onnisr J
-\A|nff ea|dB|}{fdg d/c2E|d|Bc,AA3c 2c|gedf1 D2A|
-|:d Dcd edd|
-AG3|DFDcA,2d|BcD|~G
-A||
-gf 3 2=c d2D||
-ef|ggcA|Hf 9zDegdedAGA d3eafc CaA D2Ad M eBeAd3 cdG|
-~A2|j2cd:dAFd||
-R:ahe0Thrr
-R:Dglno
-Z:s
-?:n v
-h/80T:LiR"i#hswG er
-osnone jel vsru0aaonnhW it-pr
-Z:6dass r
-R:cpClwiahm0ns
-j
-o:vas
-h:h-e (M one
-Z:ZoertinyL9aR
-H:ea^aTr'hWli
--4iris gsS
-9:LmCgrist #n(IPiiahn-iona ln4lo 
-jii-2r 8
-8:R:piS
-j
-R:j/?PgH je2a
-R:s
-Zer 0-j
-M|gage^cf|1AG |
-Patia|n[iy-jiw9iieia
-# epoha 3, iteracija 3200, loss  61.436, temp 1.000
-cA Ad|cdd|edd AFA|EDAF FDD FAAE ceg|
-cdd|eeB||gd|fdc|1 gge (S~[3 A^AA|GEd BAG|dG BAG|ddB|Afe, Adc|
-g^ed ~G3|Gce ddB|GDA DAB|
-
-Z:8
-8:Soaa so a2tlne othysn Set
-R:jig-2ig-2l 
-Tlne ^rers gd0" Toren
-j:vaan-2e alinsk Wn
-H:&26
-Z:
-K:A,As aor n2ero th'n-2eo,s'd Mensi's 
-Z:ioonMist Mad, toa
-h:ronen esa
-R:Alaon jig-H
-M
-d:D10, Mioe #F5:i aosy tione che ige, Tls "2e xeG ceB The Rhe|o Mug|y
-R:~1ys =br' Troiehan
-M:6-2t5h
-#22 cd:|
-ff|3 IGA|AGA|d2e|1ef g4f|gee:| adc2 fAA|A|c ecdf GAAG ccA AcB|ded|ABd||Bdc fed|ged aaa fdc dcd dBG Acc Bd, AGGc d
-P:|dc BAA|ADA|
-d^ cBG|GED|
-
-[/~G3|dFG2G|G2D|E2E|DFA|
-dee d3 d cAG FAA|FFG|FAG ccA|daf dfa Bde BGF AcA|FFA GAd|GFG ~G3 AGG G/AGE|
-B^F|def|~B3|BFd eda|AFFD|ADc
-|/2f:|
-D/AdG CFD:|
-G2A|DGF DBF|FGc dBG|AdA b ede|dedea edc|GEA Ded|1 GAF|FDA G2d|ddc|ArEd GFD|ABc efg|
-Dff Pef:| gg gef 2=g adf efg f/d^f dAF|AGG|Dfd|defe gee|ede eaa|E/FAF|
-
-X:2l054Ln-jig-1 try e/x
-?-A2d |2dBB|G|
-AdB =cFG|^cA A2c|AA~G1|AG|aAd DcA|~d3 F2d DdAd GAG|DGG Ddg|b/k/ad eea|e/AGG|~d3 B2D|:FE|
-Ri2 g
-O:D/ucjida2ll lnrale g,9
-# epoha 5, iteracija 6400, loss  47.182, temp 1.000
-3 ~e3|
-BBA G2A|GEDCDD AcA G2~A|Afe ff gee|edc BcB|AcE Ace|~B3 Gfd|def eec|
-fgd e
-[:B|1 cAE GAB|A2 B2c|A^c:Dna:|
-A ~e3|P
-fage|2fa e2^c|AFFD #22||
-~B3 GAB|~B3|,eA Gcd|
-~g3 bag|~g3 cde|~g3 {ff|gf/age|fge gec|e d22|E ABcc e2e|
-d2g efe|ed=Bc}|feg e^c|oce c2d|dee eae|Hfaa fag|ebg agf|be^c:|
-~f3 ga3|:~f2 BA2|2C BAG|GcB e3:|:c2dfe|edc|GFD GDE|FcA, G2A:|2e||-2^ocd Bdc|~G3 DFA|
-de eAB|edB FA1|ABB ~D3|Dad eac|1ed ede|
-CeB cAB|A2 KeB|DB=B cAFAB|
-AFD A2d:|df afe|a
-//X:20-jid:w
-K:hn-jig
-K:A
-P:PhKiathetiaol
-T:D
-R:C's# cA3 Jecrionnl
-R:jie
-D:G
-|
-|fed faga|de^c dcd|~A3 FFA|~c3 dee|~d3 eag|1 ~DA |
-|
-gad/Ad|EAF 2GAD| F^3 AFG|E2ed GFA|G2B BAF||
-X:178
-T:A/A
-|:Paorlenm
-Z:i/82K: A2oh
-T:Sfeowhann
-T:G2Che
-M:C2s
-|:~c3 DAF|AFB D2{|GFE|EBG, D2F|ABc G2A|AFE F2D|dGF FFE|efg ded|FGA ~D3 A2e:|
-|
-D:d2c dc/de|1 DFE D2e|
-IE BdB3 Ade|dde gfg:|
-~/FBc|cAF ~F3 E2f|1 FAd gf/GG BBA:|
-
-X:29 T:2n:pn-jig-jig
-|:EA dFE|DdB =FG|e2e d2f|
-cfe fdf|dB cAA|
-de} gec|dcG ~d3 Bd^|f^ge A,A|BBc A2A|ccA Eef|~gg d ece G2d|1 cAF AAE|BA, G2B:|2 2ec c/de |BAA Pme3 #65:1j
-# epoha 9, iteracija 12800, loss  41.176, temp 1.000
-trey G. Bon upsy bcAlon #he  sbe deo tover. Thc Thed ey cer' Yal toy eans CuB delwhe cA, #4l"ut ife thes ay kuco ghs 1 Ifiit ipe inze vfaig inkSy's eec The fles anse Hat "i bon
-Z:id CSelcs
-Z:id:hn-jig
-H:c/8
-K:D
-F2d | =dc d2||
-
-X:219
-T:Mus'g sat on nede We Lsos anit iel Jidd Mos oled p eu ivnr
+D: ecbhe Coare Rat ia ,on Jiatidde, the Cadfidary', The
 R:jig
-Z:id:hn-jig-289I
-T:Plree oll v
-Pausre, The
-R:jig
-D:Auso wcee S atly sunk
-W:r
-he|
-|:G2A {2e||
-~e3 dAB|AED P2A|'ac AGF|
-AFD|dBe d2G|1 AGE B/G/|
-D def =fg|eag ecc|ABA A2z:|2e fbe:|2 cAB F2E|
-BDF D2D:|
-|: edc E2B|FGF AFE|GFA ~F3|
-~A3 Afg ecd d2d|1 B3 AGA|D3: gde|efg edp|fed AFC|BdB A2E|Bde afe|Bdc BAB3|FED FAF|
-~d3 ede|eeA eef|egf egf|faf bgf|
-d^^^cA|Bd foB|~23 ~A, GAF|B,A EGE|2 ABfd cAD||
-/FAGE EEE|
-~D3|azg|bdB D2A|1 B}BAA A2A|~A3 cdd|B2B G2A|de^d d^cd|f/fe d2e|dfe efg|cef e2f|dce f2a|~g3 f2a|~e3 dBA|FFE F2R|
-DGE G2E|
-~A3 FDF|B AGE Bdd|fed B2A|dBG G2A|AGE A2C:||
-|:|2 ~B3 A2G|DFD GED|
-AFA A2A:|, DBG ABB:| ~c3 D5D|ddB GFA|AFD AFE|
-P:v26
-Z:8fer yisionurna bt oli atloano led ine B, #76
-Z:id: athn O Be
-R:jig
-H:fdar cclo6, 
-# epoha 17, iteracija 25600, loss  37.839, temp 1.000
-A A2A:|
-|FBA ~G3 | AAG|AD3/A2E:|2 cdB c2B:|2 Eec def|eag a2g|ecd cAc|dEG GED|Ade def|A2A dBG|AdB FBA|~A3 cde|fed fed|cdB cAF|AFA F2A|
-d2d A2c|
-~c3 ged|efd d2g|
-~dee f2g:|
-P:6/8
-K:D
-dad ege|FdA d2f|bae if/e eld||
-|:~=3 GAE|~A3 Afd|~g3 dcA|~D3 d^c:|2 cd^c dcD|22E AGE|dAF EED |
+H:Sind an ,1t: reranos We By wed orhineeohy Wamelalee'e
+T:Caeso ra #40d926d
+|1 EEA A2G|BAF G2e bag|~a3 [2 fdd gee|dff edf|efd e2f:| dAG e2d :|ede gfa|agf eda|bad eef|edc dCB|~d3 DFG1dcd|eff ede|ded f2f|egd cGA|1 EDE E
+d/e:|1 BGB G2B||D|E
+d cAG |2 GED B2A|gfd AFE|AGE dGE|1 FAF ~^E |~c3 cAA|AGF BAF|AFA ~A3|edG ~B3:|2 cAA GAE|AGG AFG|
 
-X:2erenunare cHsronly's inor
-W:in Slelin's
-
-[2D BcA|BAG A2B|dce dFA|dfg f2a|bga g2g|bdB dce|BdB CAG|,DD DFE|d^fd dBd|cAF ECE|dfd ddG|B2A ~c3|BcA GAG|c~B c2d|ede dcB|dff fed|dBA AcA|dBA GFA|Ad^c d2c|1 ~A3 A2B|ABA AcD|DE6/ cde|dBA ABA|AFE DED|~G3 dcA|
-BcA cAB|AGB Acd:| EAF D3:|
-|:~a3 agf|ecA ~G3|| fab edc|edf dfe||
-|:Fac c2d|dBG D3||
-|:Adec dff|~g3 ecA|B2e adc|BcB dcd|~G3 GAG|A=cA GEE|
-DFE A2B|ABc d2A|G^c/a bbg cee|Bdc cBG|1 B,B efg|efd ~Kh|:~B3 A2A|faa dFA|DFA DGc:|A=cAF dde|deg efd|A Bgg ~g3 fdg|fed gfg|~g3 fec|edB AFE|AFA|dBd:|
-|:dcc d2e|eFA A2B|dcA G2G|ABG A2F|Adf gee|aef fdc|~f3 g2a|ded AcB|BAG DFE|DFC ~G3|~G3 dcA|
-A:AGE|AAB | ABA FAE|~B3 F2e||
-12g agg|dfA ~d3||1 B2e dcd|
-ede agg|faf g2g|~a3 baf|edd BAG|
-DFA FCE|D2F GED|fec edB|GGE FG
-# epoha 33, iteracija 51200, loss  36.469, temp 1.000
+GEF DFG|
+AGE f2f|fef gfg|e^cA|
+~B3 BcA|def a2d|FAG dBG|BcA c2d|AGF A2G||
+~CE|EFD |E
+|:D2G A,GA}, eaf|fee dBA|B,edd ABA GEG|Afe bee|~fC |g/f/ee \2e
 |
-P: 8abla t: Mthe Cominare to Rerathe Pasal,le g'sig
-Z:id:hn-jig-293
+P:varigallarcderolm d:hn-jig-229
 M:6/8
 K:G
-dcA Gg2 |
-e]d fag|g/f/af ede|gag ggg|afd dgf||
-eff ~g3|:a2f gag|beg ~g3gef a2g|~b3 bag|fed ecd|efg e2g|afd gef|gef AGA |
-~A3 ~B3|edc A2B|AFd ecd|cge afg|fad dBG |
-~g3 edB | dBG GEE|
-cBA cBA|GEE GGF:|2 DBG :ED2:|
-|:e2f g2e||
-
-X:2649
-H:Mave, The
+T:Dmo Muny os
 R:jig
-H:6/6/8
+H:he-jif-262
+
+X:217
+T:Jitt:We Theuhe
+~e3 bge|
+ecd ~f3,|0
+C:Aced eeb ade|
+f2e |1 A3 AdB, GB||1 he-jig-2dB Bcd cAG|1AB GAA|DEG AdE|ceA G2A |ABA|:Ace fac|cAc |
+dBA|d2d Afa|ged ffd|fdf e3|
+
+X:25
+|:A2A BcA|BAA ADA||
+|:P
+F|1 EGA D3|d aga age|bfe dBA GAB:|2 ~E3 {AG AAFDd:|
+P:F
+|:Cfg Borishatheranns
+R:jig
+H:Tons
+|:mamee #198
+s: HBe dcE3|edB GFE|1 ~B3 A2D|~d3 DBd|A=G|~D3 d2f|Caa fdc|fe^c dce|AFD GEF|AGA E2B|A2G ~B3 | A, ABc|AcA Bcd|g2f c2A|fgd f2e afg|f/f/Teaf naBd 1 eos id: Thararot
+|:~B3 cAF|1 B2G dBA|EFD SBA|
+Bac|
+|:A2A dBA|ABd G/Bd|
+~a3 afa|gec cAB|GAG |
+|:~g3 dBG|
+|:edF ~f3|edg fgf|gec AFE|AdF DGE|cde edd | F2G GdB|G,66
+R:D2f dcA|bag gad gag cAF|A2c AFE:|
+|:fef ~g2}|ofe ~d3 dBa|
+efe fAB|FAB daf|~A2G|BcA cBA|~G3 AFD|B
+# epoha 65, iteracija 102400, loss  39.624, temp 1.000
+|dBA ~G3|ded dBA|ABd FAF: afd cBd:|
+
+eaf edc|~F3 AFF|DDD AFE|~c3 cAF GAG|E
+B|AFE G2A|~F3 BGE|BGG B3:|2 ef=g2 ~e3||
+T:versapeo #GEos ,2d:|
+K:D
+EDB E2B | BBd|B/f/e ~A3|A2G dBA|BGF FGd|~G3 Acd dBA|
+BcA A3Ad|B,A AGF|cAA E2B |E cED|~E3 AFG|DAA Bcd|e2d fdB|dcd A2e|ddc gfd|
+[
+|1 AAF GAG, FGF|~A3 AGF|
+fed edE|DED GFF|GEG cBA|
+fee|~g3 f2d|~AGC: iati fed def|baf dBG|
+d2A Bcg|feg gfg|~A3 dBG|GcA edc|DcB Bze||2 AFD FEB|AFD GED||
+D:f gan|
+T:Gersey Bahe'sk cAA BGB G2A:|f
+e:Dne woanry & & #207
+T:ilstyecainimin
+R:AdF DFG|
+dd^||~d3 cAG ABG/dAe e^ce dcA|GFD BAF|FDD DFG|AFG ABcd igg
+|:A, ded cAG|AGF d3|
+BAE |2 EGE ~B3 | EGD G2A|22d dBA|dAF DFD|eBA Dfe|ecd BB^:|~a3 d2c|
+TAc ffd|fec T2e ~d3 dfe |
+|:ecd d2F:|2 BAB FBg|bgg ded|DFe ddB|G2D G2B|dBB G2B:|2 ~E3 AFE|
+EED ABA:|2 ed^c geb|edf afg|edg gfg|bge edc|ded e2d|afg g2f|cde ffd|d
+f afgd aaf ecB ABc|ABc ABa|age fde|~g3 ecg|dcA AFE|
+CCD Df ar, The, wamiR:jig
+W:|2 ^G3:|2 MED GGE|cAG D3||
+DBe dcB, fed|dBA ded|agfgecd Mc6
+M:6/8
 K:G
-~G3 dcA|D[G AFD|~G3 AGD||
-|:Bdc B2A|ced deg|:dec dd^c d2D:|2 EAG G2G|A/D/B cDD|BcB AEG:|2 ~G3 Acd|cdB AGE |1 FAE CED|
-df/gf {aaf|efd BcA|edB E2A|
-AEG GED|1
-Gfe dfe|BAd ABA|Bde ^cAA|DB, GEE |
-ere cAG|EDF FB,|=FD D2A|cAA Gcc|BAF Bde|fee fec|dBc ~G3|
-A,CD,D, Thn Adcha Raig
-|amaideh MY iver, The
-Z:id:hn-jig-208
-M:6/8rged Rag Maty
-Z:Piply C3
-Z:icemim?
-T:Joverstile Coty cherto Pap whee Cocsy Jid Cos, The
-Cwog ougtlome Hid's, The, Thatis
-D:An culy she c Seor|nan.
-R:jiatiopris "'s Morsimank Murver abbns
-Z:i
--2G2d|~e2 dcA|BAB dBG|EEE EGE|
-A2F A,D B2B|GFG AGF|
-FEG EED|dBc Bcd|dag a/g|edd dBc|
-AFG FEF|DBd g2f|gee dcd|cef afe|fdd cAd|fde efg|fee dcG|dBA A2:|
-|: aaf g2e|dAc dcd|efd fed|
+[2 ced AGB|
+~d3 dEB|AGB dBA|~e3 Bdc||
+
+X:261
+H:D
+T:Bron Rafga iny D2 #D182, Toueas
+R:jig
+D:GBes
+ABA GEB|GEE Afa|gec d2f|
+B2G BAB|1 GEG ABG|1 ~d3 dcA|dBA A2d|B2G EDD||
+|:ed: fec {a}fed AFG |D EFG|~EB |e=c | ~g3|efg f2A|FEe d2d|Def ed=c|
+~B3 dcB,AdBA=cBA|cBA G2A|~F3 FFD||
+
+Xc289
+DDD ecd|~a3 afg|~c3 AB^c ^g3|gag fec|
+~e3 afe|edB Gdc||
+|:D2E =GBe:|
+dBA AGA|
+~A3 agd|2cB A2A|AFC EFG|AFG FAG|G2B DAA||
+|: dBA ced|DFE D2A|AdC D2e|cee gfg|edg agg ed3 BAF|EFA GED|ded d2e:|
+~e3 bed|g2d fbg|c2e dBA|dED D3||1 BdB:||
+|:ded efd|
+~A3 ded|~F3 FED|
+DDG G2c||1 FdF DBc|
+EDF f2e|Ege g2e|baf Azd|G2d ged|~f3 dfe|dBG BGF||C:|2 de^c ece |
+|:dcC: ^g3 gfe|~a3 dBA|eef dff fge|~B3 dBG:|fec ,GE||
+d:D d2B|~A3 ABd|22d:|2 B,D ~A3|EBd cAB|
+A2E A2G|AFE G2B|=cce ~f3|edc ~d3:|
+~F3 afe|g2d DAd|1 GED D3GAdB, Pin-jof-255
+|:GBG Bcc|def {2 |
+~B3 BGA|B2c cAB|FEG A2A|
+DED ~A3|cAA AAB|| AGA|DBd dBA|:CB\' BGont Kil
+C:Wallanw afls
+Z:in Kal
+M:6/8
+K:D
+M:6/8
+M:6/8
+CFG ABB|
+AGE ~E3:|2 ~F3 AGE|edc dcA|~F3 GEG | BBA|D2d dGE|DFD A2d|G,3
+~f3 ecA ABA|dED EEA|BAG AAF|
+~B3 GED|
+~G3 AFD|FEG F2A|BdB df/c AFAGFAG FAD|aCF B

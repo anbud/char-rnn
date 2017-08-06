@@ -2,7 +2,7 @@ import numpy as np
 import sys
 import os.path
 
-new_model = True
+new_model = False
 
 # default je 1.0, bira output nasumicno
 # nize vrednosti su konzervativne i obicno ponavljaju tekst koji je vidjen prilikom treniranja (tipa 0.7)
@@ -14,8 +14,7 @@ inpath = 'input.txt'
 
 # izlazni podaci
 outpath = 'out-' + inpath
-smp_path = 'smp-' + inpath
-dat_path = 'dat-' + inpath + '.npz'
+checkpoint = 'check-' + inpath + '.npz'
 
 # IO operacije
 data = open(inpath, 'r').read()
@@ -31,7 +30,7 @@ learning_rate_decay = 0.97
 learning_rate_decay_after = 10  # u epohama, kada krece smanjenje learning rate-a
 
 # ukoliko pravimo nov model ili nemamo sacuvan checkpoint od ranije
-if new_model or not os.path.isfile(dat_path):
+if new_model or not os.path.isfile(checkpoint):
     # hiperparametri modela
     hidden_size = 100  # broj neurona u hidden sloju
     seq_length = 25  # broj koraka
@@ -44,7 +43,7 @@ if new_model or not os.path.isfile(dat_path):
     bo = np.zeros((vocab_size, 1))  # output bias
 
     # ostali promenljivi parametri
-    n, p, ni, epoch, p2 = 0, 0, 0, 0, 1
+    n, p, epoch = 0, 0, 0
 
     # trenutno stanje u memoriji
     mMih, mMhh, mMho = np.zeros_like(Mih), np.zeros_like(Mhh), np.zeros_like(Mho)
@@ -52,7 +51,7 @@ if new_model or not os.path.isfile(dat_path):
 
     smooth_loss = -np.log(1.0 / vocab_size) * seq_length
 else:
-    loaded = np.load(dat_path)
+    loaded = np.load(checkpoint)
 
     # hiperparametri modela
     hidden_size = loaded['hidden_size']
@@ -66,7 +65,7 @@ else:
     bo = loaded['bo']
 
     # ostali promenljivi parametri
-    n, p, ni, epoch, p2 = loaded['n'], loaded['p'], loaded['ni'], loaded['epoch'], loaded['p2']
+    n, p, epoch = loaded['n'], loaded['p'], loaded['epoch']
 
     # trenutno stanje u memoriji
     mMih, mMhh, mMho = loaded['mMih'], loaded['mMhh'], loaded['mMho']
@@ -77,7 +76,7 @@ else:
     # memorija RNN mreze
     hprev = loaded['hprev']
 
-    print ("# ucitano stanje iz {f}, epoha {e}, iteracija {n}".format(f = dat_path, e = epoch, n = n))
+    print ("# ucitano stanje iz {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
     if epoch > learning_rate_decay_after:
         learning_rate = (learning_rate * pow(learning_rate_decay, epoch - learning_rate_decay_after))
 
@@ -94,25 +93,23 @@ def softmax_1(w):
     return dist
 
 # loss funkcija za RNN mrezu
+# vraca loss, gradijente i poslednje hidden stanje
 def lossFun(inputs, targets, hprev):
-    """
-    inputs,targets are both list of integers.
-    hprev is Hx1 array of initial hidden state
-    returns the loss, gradients on model parameters, and last hidden state
-    """
     xs, hs, ys, ps = {}, {}, {}, {}
     hs[-1] = np.copy(hprev)
     loss = 0
+
     # forward prolaz
     for t in range(len(inputs)):
         xs[t] = np.zeros((vocab_size, 1)) # enkodiraj u 1-od-k reprezentaciji
         xs[t][inputs[t]] = 1
-        # update-uj hidden sloj
+        # update-uj hidden stanje
         hs[t] = np.tanh(np.dot(Mih, xs[t]) + np.dot(Mhh, hs[t-1]) + bh)
         # izracunaj otuput vektor (nenormalnizovane log verovatnoce za sledece karaktere)
         ys[t] = np.dot(Mho, hs[t]) + bo
         ps[t] = softmax_1(ys[t]) # softmax verovatnoce za sledece karaktere
         loss += -np.log(ps[t][targets[t], 0]) # softmax (cross-entropy loss)
+
     # backward prolaz: racunamo gradijente prolazeci unazad
     dMih, dMhh, dMho = np.zeros_like(Mih), np.zeros_like(Mhh), np.zeros_like(Mho)
     dbh, dbo = np.zeros_like(bh), np.zeros_like(bo)
@@ -131,6 +128,7 @@ def lossFun(inputs, targets, hprev):
         dhnext = np.dot(Mhh.T, dhraw)
     for dparam in [dMih, dMhh, dMho, dbh, dbo]:
         np.clip(dparam, -5, 5, out = dparam) # mitigacija za eksplodirajuce gradijente
+
     return loss, dMih, dMhh, dMho, dbh, dbo, hs[len(inputs) - 1]
 
 # sample sekvenca brojeva iz modela
@@ -158,7 +156,7 @@ def outblock(epoch, iter, loss, nchr):
 output = ("# start\n# epoha {e}, iteracija {n}".format(e = epoch, n = n))
 print (output)
 f = open(outpath, 'a')
-f.write(output + '\n')
+f.write('\n' + output + '\n')
 f.close()
 
 while True:
@@ -177,24 +175,14 @@ while True:
     inputs = [char_to_ix[ch] for ch in data[p : p + seq_length]]
     targets = [char_to_ix[ch] for ch in data[p + 1 : p + seq_length + 1]]
 
-    if n > 0 and n % 100 == 0:
-        ni = ni + 1
-        if ni >= p2:
-            outpt = outblock(epoch, n, smooth_loss, 200)
-            print (outpt)
-            outpt = outblock(epoch, n, smooth_loss, 1024)
-            f = open(outpath, 'a')
-            f.write(outpt + '\n')
-            f.close()
-            p2 = p2 * 2
-
-    if n > 0 and n % 4096 == 0:
-        outpt = outblock(epoch, n, smooth_loss, 4096)
-        f = open(smp_path, 'w')
-        f.write(outpt)
+    if n > 0 and n % 2048 == 0:
+        output = outblock(epoch, n, smooth_loss, 2048)
+        print (output[:300])
+        f = open(outpath, 'a')
+        f.write(output + '\n')
         f.close()
 
-    # forward seq_length karaktera kroz mrezu i uzmi gradijent
+    # forward seq_length karaktera kroz mrezu i uzmi gradijente
     loss, dMih, dMhh, dMho, dbh, dbo, hprev = lossFun(inputs, targets, hprev)
     smooth_loss = smooth_loss * 0.999 + loss * 0.001
   
@@ -209,11 +197,11 @@ while True:
     n += 1 # broj iteracija
 
     if n > 0 and n % 4096 == 0:
-        np.savez_compressed(dat_path,
+        np.savez_compressed(checkpoint,
             hidden_size = hidden_size, seq_length = seq_length,
             Mih = Mih, Mhh = Mhh, Mho = Mho, bh = bh, bo = bo,
-            n = n, p = p, ni = ni, epoch = epoch, p2 = p2,
+            n = n, p = p, epoch = epoch,
             mMih = mMih, mMhh = mMhh, mMho = mMho, mbh = mbh, mbo = mbo,
             smooth_loss=smooth_loss, hprev=hprev)
 
-        print ("# sacuvano stanje u {f}, epoha {e}, iteracija {n}".format(f = dat_path, e = epoch, n = n))
+        print ("# sacuvano stanje u {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
