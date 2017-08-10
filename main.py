@@ -27,7 +27,7 @@ ix_to_char = { i:ch for i,ch in enumerate(chars) }
 # osnovni hiperparametri
 learning_rate = 0.1
 learning_rate_decay = 0.97
-learning_rate_decay_after = 10  # u epohama, kada krece smanjenje learning rate-a
+learning_rate_decay_after = 100000  # u epohama, kada krece smanjenje learning rate-a
 
 # ukoliko pravimo nov model ili nemamo sacuvan checkpoint od ranije
 if new_model or not os.path.isfile(checkpoint):
