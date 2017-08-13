@@ -1,633 +1,2567 @@
-# epoha 2, iteracija 12288, loss  42.616, temp 1.000
-5/8 d5/8 d5/8] e5/8 B5/8
-e5/8]
-[G5/8 f5/45/8 [55e/4 8
-[f/115/8^c1/8 [F5/8
-[E3/8c5/8 G2/8] g5/4/8] G5/8 A5/8 B5/8
-c25/8D,14G5/8
-F5/8 B5/8 =5/2 f5/8 d5/8=c5/8
-[f'15/4=A,18 e5/8 e5/8 e/8 G5/8
-[d15/4] g5/8 f5/4=D5/8 [G5/8
-[e5/8 ^c,15/8] d5/8 [E5/8 g7/8]
-[B5/8] f5/8 [g/15/[dG5/8e5/85/8 [A1/8
-^c5/8 [=d5/8 [ad/8 G5/8g5/8 e5/8 e5/4
-E5/8 f5/4 c5/8 A5/8 ^G/4 e5/8 e5/8 B5/8 [g/8 f5/8 c5/8 [G5/8
-h5/8] A5/8 [c5/8
-[G5/8 z5/8] B5/8 B}/8] c5/8 [f5/8 c5/8 c9/8 ^G5/8 c5/8 d5/8
-[E5/8 d5/8 c1/8] e5/8 15/8 d5/8
-[G5/8g5/4d5/8 [F5/4e/15/2=115/4] e5/8
-.g5/8 [t8 f5/8 A5/8 c5/8 c5/8 bf5/8 [aad8 a5/8 B5/8 e5/8 B5/8 A5/4 A5/2 [E5/8d11/4ee15/8 F5/8 d3/8n/15/8]|e5/8] ^D5/2 [5/2 =g/2 E5/8 A/1 G5/8^F5/4 =F5/8] e5/8 G5/8 A5/8 ^G5/8 F55/5/8 E5/8
-B5/8 e/45/2 [D5/8=G5/8
-[E/215/8d/8 e5/8 d5/8 d5/8 F5/8 b'1/8 G5/8 f5/8 [G5/8 c5/8
-[B/gEgB,/4A,15/5/8] z21/8 z5/8 A5/8
-G5/8
-G5/8 ï8/8] E5/8 d5/8]C5/8 B5/8 15/8=c5/8 g5/8 [e5/8 V/4 z5/4/8 f5/4 c5/8 e5/8 d5/8G,15/8 E5/4 15/8] [c5/8 [ad5/515/8] c5/8 cd/4 C5/8
-[G5/8G,14 c5/8 d/8 C5/8
-[df/8G,15/2]f15/8 G5/8 d5/2 e5/8
-^d5/4/8g5/2A9/8=F5/8 D5/8A,15/4] e5/8 8^G15/8 A3/8 c5/8 c5/8 [A5/8gc5/8 B3/8 c5/8
-[E/1A,15/4] f5/8 A5/8 [E8/8A,9/8 f5/8 G5/8 G5/8 =A5/8 f5/8 G5/8 [g/8 [fG2 B5/8 f5/8 B5/8 E5/8e5/2 e5/8 c15/2] d5/8 f5/8] g5/8 e5/8 d/5/^A,15/2 f5/8 G5/8 G5/8] A5/8 C5/8 ^G,15/4A,15/8] d5/8 [^A,15/2G5/8 ^d5/8 8
-[f4] A5/8 G5/8 ^c5/4 8
-[^d5/8 B5/3/4E,15/4] d5/4g5/8 A5/8 [F5/8 d5/8 G/2]=d5/8]
-z5/8^D5/8 e5/8^A5/4A,15/4^c15/8c15/4] F5/8 e5/8 G5/8 D5/8
-[E5/8e15/4A,15/8A5/8 [G5/8 A5/8 F5/8 G3/8 A5/8 [^G5/8
-=c5/8
-e8
-[A5/8 d5/8
-[F5/8 d5/8 e5/8 G5/8 b/5/85/8 f5/8
-[f'/4C,15/8] ^d5/8
-[f5/8 d5/8 e5/8 [e5/8 D5/8 c5/8 B5/8 g5/8 [g/8 G/2] G5/8 d5/8 D5/8 B5/8 [e5/8 G5/8d5/8 wg2] A5/8 b5/8 n/8 ^G5/8 e5/8 F5/8 [g5/8 z5/8^c5/8 [d5/8 [c5/8 h15/8] e5/8d515/8] A5/8 [e5/8 G5/8
-[f5/8 c5/8
-[g4^G,15/8
-[A5/8
-O5/8 E5/8 G5/8
-[ef/4 B5/8e/4] [e5/8 e5/8 15/8 e5/8n/5g/8 d5/8 G5/8 15/8=c5/2] B5/8 A5/8
-[E5/8] g5/8 c5/8 d5/448 D5/8 c5/8
-V5/8 e5/8 e5/8 [E5/8 c5/8 55/8 15/8 e5/8 f5/8 ^G1/8 D5/8 V5/8 d5/8
-B5/8 c5/4 G5/8 B5/8 f5/8^c5/8 d215/8
-[]  f5/8 z5/8/4]
-# epoha 15, iteracija 102400, loss  28.671, temp 1.000
-2A/2][e/2f/2]=B/2[e/2e/2-][=e/4E,3/2]x2x/2 [_g/2e/2]x/2[g/2f/2][e/2c/2][b/2G/2/2][d/2c/2-][g/2B/2][a/2[=g/2d/2]x/2[f/2B/2-]F/2-[c/2B/2]x/2[g/2e/2-][d/2d/2][b/2f/2]b/-| \
-[D3/2B3-G3/2]B/2| \
-[^d-F-] [g/2c/2]b/ssetiA \
-T:Oies
-M:/2 erigaby Nom
-w: s vingang halwobnbf] | \
-g/2f/2e/2] [b/2c/2]x/2[=c/2e/2]f/2[g/2f/2]=c/2 [g/2c/2-][d/2-A/2d/2][g/2e/2-][=_a/2e/2]B/2[e/2g/2)|
-x8| \
-^de3-_d/4E3/4] f/4b/2e/2 [b/2d/2] [g/2d/2-][e/2d/2-][f/2g/2][a/2f/2-]| \
-[g3-d3/2-]G/2[d/2-G/2e/2][e/2c/2-]f/2| \
-[c3/2c3/2]=_g/2e/2-][d/2G/2][g/2e/2]f/2 [B/2^G,/2] [e/2-_A/2]f/2[c3=F3-B,2] [e/2A/2]x2x/2[g/2B/2][D/2D/2]=d/2e/2d/2| \
-x2[geG2][_g2]| \
-[g3/2_B3/2]x/2 [e/2f/2-][e/2B/2-][b/2e/2][b/2G/2][a/2e/2][f/2c/2] [_BA][b=a][f/2-c/2][f/2B/2][d/2B/2]b/2| \
-[eb-d-]w*** [e3/2C3/2c3/2][b/2-e/2g/2][g/2f/2-D/2][a/2A/2]A/2D/2[f/2B/2-][e/2d/2-][g/2d/2]| \
-[d/2B/2]A/2[e/2_g/2] [g/2A/2] [d/2-c/2]f/2c/2[e/2d/2][a/2e/2]d/2[e/2d/2]| \
-[a3/2B3/2d3/2E3/2A3/2E3/2]x/2 [^F3e/2B/2]x/2[b/2B/2][_g/2F/2]x/2[b/2c/2] [_gc][=f3/2B3/2]x/2 [e3]|
-=A/2x/2=[B/2C/2]x/2[a/2f/2][e/2C/2][g/2d/2]=b/2e/2-[c3/2D3/2d3/2]x2x/2 [^D3/2C3/2]x2x/2 [=d/2e/2] [g/2f/2] [b/2-a/2-[c/2A/2] [a/2B/2] [f/2e/2] [b/2d/2-][b/2e/2][b/2d/2-]G/2[f/2F/2][a/2a/2e/2-]d/2[b/2f/2=d3/2e3] [b/2f/2-]d/2[g/2c/2-][c/2c/2-][g/2=A3/2-x2]| \
-V:2
-_D/2x/2 B/2x/2a/2f/2x2x/2 d3/2x/2 [g/2F/2] D/2[=aA]x8 [b/2G/2-]|[=A/2E/2-]c/2| \
-[c3/2_d33/2d3/2]x/2|
-[g=-G-A3-][e/2B/2-][f/2E/2][e/2E/2]x/2G/2[e/2B/2][f/2e/2]g/2[a/2f/2/3-d] [f/2e/2][e/2B/2-] [d/2B/2]| \
-[g/2b/2]
-[a/2=e/2]x/2[f/2B,/2-][b/2e/2][b/2_b/2-][b/2c/2][f/2G/2][b/2=a/2][f3/2D3/2]x2x/2 [=a3/2F3/2]x2x/2 [b3c_B,3/2]x3/2| \
-[bG]C ee f/2 c3/2|xb/2[B/2D/2]| \
-[F3/2B3/2]x/2[=df/2][g/2e/2-][e/2d/2][e/2B/2-][d/2a2][f/2b] [gE]x [G/2G/2] [=D/2B,/2-]D/2| \
-c3/2x/2 c/2x3/2E/2x/2 e3/2 d/2x/2 c/2=e/2C/2[f/2d/2][f/2g/2] [b/2_g/2] [e/2-c/2][g/2e/2/2-][g/2f/2-][f/2e/2-][=g/2g/2-] [=a3/2E3/2]x/2| \
-g/2d/2- [e/5G/3C2/2-][c/2B/2-]f/2-[b/2G/2] [b/2d/2][d/2f/2][f/2d/2] [fA][eb-][e/2B/2-E3/2c3/2][B/2f/2-][B/2z/2][ec/2-C2/2][a/2d/2-][g/2e/][g/2c'/2][b/2f/2][b/2d/2]| \
-g/2 c/2e/2[ag)B3/2-=F
-# epoha 2, iteracija 14336, loss  38.122, temp 1.000
-3/15 A,/5F/5G4 |D,/5A7/15 g2/5 c7/15 dA,15/3/ | D2/5 D2/5 G7/4 f2/3 e2/2
- ^3/15 |
-m/5 c2/5
 
-e3/15 F2/7/t a3 |
-F3/15 A/5F,7/15 C/5A/14 |
-c7/15 D,/5d/5 B/5F/5e/5A17/15 |c/5C7/15 C,/1 B2/3 A2/3 a1 d2/3 G3/14 B,/5G,4/15 G2/15F2/3 G3/3 F4/3 c7/15 \
-A,/5B/5D7/15 A7/11 B7/15 A,/5B/5G,/5A7/3 Qc5/| z/5^k c,7/15A2]|D,/5B15 G2/4 A,/5C7/4  A,5 A2/3 g2 ^d2/3 F/5G,D,/5G G/5=d7/15 A2/a A2/3 17/4| B3/15 B4/3 a/5C,G/5=f7/15 A2/15 B/1115/1
- B2/3 |
-a/12 |
-G/4G A7/5 G7/15 D/5B,2/3 G2/2 B2/3 B2/3 A/5C,4/2 d2 d4/3 z2/3 c7/15 |
-G,/5w3/15 d/5D2/3 d2 Apha117/4 |
-B/5G3/15 F5/15 E5/7/d/f2/7/15/15[B2/8  d/1 |
-B/5G15 G2/15 B,/5D2/4 E/5_=B,3/15 E5/15 G,/5D7/12 |
-A/5G,/5D/5B,1/15 C,/5D F/5 B3/15 ^F,7/15 G5/5 |
-/5A,7/55g3/15 d/5A,/5wd/1G5/15 ic E,11/15 |
-G,/5G2/3s14/15 |
-D,/5F5/5  B,3/15 b/5A5/15 A7/15 E,/5G,3/15 |
-C7/15 z7/1/15 C,/5 F7/15 B,/5f3/15 B7/15 A7/15 C,/5e/5 c4/5 17/15 G/5e/5D,15/2 F2/3 A2/3 B2/5n b/5B,7/15 A2/3 e7/10 A,/5F15/5A,/5C/5A/5E,7/15 D2/15 A,7/15 F,/12 z2/3 F2/3 z/5G2/3 d/5F2/3 =d7//4 B/5A/5A5/15 D,2/3
-z2/5 G,/5d/3A/5G/5B3/15 D/3d7/15 |
-c3/14 z3 F/5B/15 d2/5 B/5G7/15 |
-c7/15 C,/5^G dB g7/15 =G,1/15 |
-X
-B,7/25 g3/15 C/5B2/3 d'/12 |
-D,/5B/117/5 G/5A,/5G,7/15 G5/15 \
+# start
+# epoha 0, iteracija 0
+# epoha 1, iteracija 2048, loss 258.408, temp 1.000
+144G4/944/44/4/44D44Bd44/d4B4444/D/B4//4d4444,444444///4/g4/1c4,41 //=4DF /
+1/424c444/41d41/449/4/44/4/ //44 d44c 4/,444|/42,/d//4/4444 4/414/1d///^/121c//4/44//4444441 /4d4/4/B24//^4444444/4///4B44 /4444,4444//441444444/21d B4494F/44d  44// / ///1/,944/1144444// 41 4414/44B/414 4//d,44/^
+/44//4  94 ////44 B//1//4 d44/4492D//,/4c//,c/444/,4=|///4_44/4/444^,444 44/4/1,44/,// /cc4//1//4/414/4/ B4/c^4/444 42//c/B|99Fc//444d/^^424d/414/1/4/4114,B14c4//424D2/44414 //44d414,44 94//^/244/  / 442 444/444/2d4/|,41//dF 44/  424B B44d4/d1 4
+,/ 2d44c14444dD ///444D/4444/,4/2B/ 44444|4Bd442/1d//444 294B4c4,4/4c/4dG19d4f4/444/4444,4149,c/c44c/424d49  ,4144/1  24,4D/,,^14 /54B4/241 14,1A4,/1/9B2// /4Bd9 4444F44494422424444/|c/ / /442444|/4442 /44B4044 4B210/444B 441/1449 d/4244/944BB4/449/142/2d911414F411d/4144 4/c441444,4 124//42444//4/1F/B124/44 4 4 4// /B//44/B /4/4444//dF / A4/ 4/
+44c9//,244//44cc//4^4c/44c49/9/4/44B4B44c/c^D24,4442/4 ,//144/B449/e/,/4//9/494|444 /4c/4^444 4c44B/ F9144/ 4 /9/444/d/44B940c^4/444df/|44//44/Bd14 944,444c44/9//c4//4444 /44/ 94//1242/2B44/4/414 /4444/4/2 ^//44,/444/ 4///2/4,44 4^,4//4c4/B9d/4|2//44/1 /4B/4/B=
+1B/1144 444,,4 4 /D/,4/14,44=c4/1/44D4/4444/44 /4/^_4/4/44c9,, /444441/4d/444/414444d124/4///4c4/4 d4/B
+/4//|4^ /^///41/94c4944/1444914 444c4 9c/4/d/2/444F444//44444/24/444////4/142 44dc/4 4/ /4/9/c/24/ 444/4444c4c 4Dd444/4 ,/2|/4/419c2449/4 / /444 cd //d444d4/
+//444/D/444d4 44//d/441/4d42/4194494|44/911144 
+441/19/04424/d444//, /4/1 /9B49/4^19d /B/44 42Bd//1,/1^44/F444/ =4444/2 F 4/4 49_4241/,4d49444d444CeBc4// 44441| 4///44d444d/4c421F444
+ d444g 44
+144^44 44c4/444/c944/44 4  B44244,414 
+d 444/44 44c244F4///244/d/4//1 4/  |4/9/^/c/4/  4/d14442444/44,, ,d/B14944444////4944^4,^/244^/44424/ 944 49144/1/4|/F/,,   4414/B444444 ^/5/4404 244 d4B/^444,4/9 |//1=/41/dB44 9/4/^4/  c44/d44/,14,42444241B442d4/24444^/,91/4/4,44 c/44/cd  /4//|4 /9/2/4444/c//|d,9/ 4B4 4/// 4^44441444/ F44/4d4494f,/4d//44 d444//4d/
+444Dd9//444 4,/^/4 1d2c4,/^// 44/B241 /444444/, 1//241,^/4149444/14cB//44/44/4/44 ,449199494
+# epoha 1, iteracija 4096, loss 263.233, temp 1.000
+11/ 111E/11B1/111114/11111 G11111/11 4 11  e1 ,/11411111 7FB1/11/GE11/111111e,1 1c11 E1 11/11, / E /411e11111//1B11 11 11,,1 G111 B 11/%11 111 1/1111111211 1B/111 11FB1111 |711111 161111,111 11//11 111E111 111C/11,1111e11/EG111/1 1/B1B1/ BB,|111/CE/Ee 11  B141111111B11ge 7B14 71G11/11 1111111/ 11A,B111111E1 17/ 1111112/A14D 11/|1 1111/11A1/ /E/1111111/111E11//11111111/1111|1E11,1 1 11
+|/11111/11|141 11
+111/1/111,11/|1/1e//1111/11f11/111111//1111 1 1|F11111/11,1e11/1  1,121|1A1 11 /,111 111A111B/11111 1119 ,11//1,91111  A111 1/1//7e1111E111/1111B 1E111111111/D1 ,11/141//11/1e1111111 114111111E1E11111=1111B1711 1111,  d/ 11 4111114 11E91/1/1 / 1,1111111/1B/111G1111111E1 ,/1,11 ,A11,111 1E1|11111d111 1 1G1,1 1211/ G11 11 11E1g,1d/1G11/111111 E11411/11119/,11/11G/A1/C11E 1111Ce,D111,1z111/111 /1111/1/114 //1/11,11/11
+11E111,4 111111G11|14 B 1/1/1 / 1f111c1111 Bc11,  
+11141B1E/A 1/G11E111 Dc1/ 111A/11d|111C11/111 2111/G/1111111,1/1  1,D111/111,1e/1 11 1/E1/,// 1114 11111111/1/ 114/1111111111111 /1C1/z1/11|11/1 /1  11 111111 111111111D11
+11 1B 11/c11/1/ G1111B1,/c1D/11/1AE 114111 E/1G1111_11/11|B 1, 11/111111111111,11, 1,11 1111/111FE1111117,E1
+ 1/ 11E1
+/1 17111111 111A/1//1/1 e1,/111/11111111,41/1/171111G 11E11111D1 111/1 11 1141///1111E11 1c11,,11111 B11/1 1B9 /111e11A1/1B1111//11,1c111//d1111b111|,
+1,111111111/11/111e1 111/11,1|1/1/111/
+11e111111B1 |1G111B11/ 1,11111|/11111E111,|17  11 1111111b4F/111
+1111,1 e1111111G 1/1/11 /111111 11 11111E11 11c11,,11111111c /111,_11ef114/1e11111E/1111111A C/111111/C111111,/1/11111111,E111/1//B111/1111111d1111171GfE141/1B1 c1,1 111111111 1/117 111E71|1c1111111,1/2|11c/111 /4111GA1 111|11111111 E1 1E 41111 G11/11/1C/B/G=c , 11141 /11111e1A1111 11,111, 7111e/1111/1111111B11/1/1G111111111,/41 1c 1E//1 ,A111D1 1/111|1|111 /|11D111 //1117G1111E111g1111/11bA1/111/11e=1/1111 11/|G11/1111111B1 11|11171111//1/11/11 1BF1 /1/1111BB1114|11,4/11/11D|1411/111B/1,11G1/11c 1, 111 1c111111/11E11111,,11/D11/11 111 1111aC1111,11,/c 11911114111111/_11111111 ,11111111,11FB111111B111B1111111/,11=,B1111
+# epoha 1, iteracija 6144, loss 106.635, temp 1.000
+//AA/[]////2/2Gc
+//-/[
+/[/] F2/2 [2]/2G][2//[]2a/2//-[//-2[/A-[[- G/2]F][/[////2]]///\
+/-/]/[d][ //-[/--[]f//[cf/a2-//-
+-g[][//c/Fb/-/-G[C2][A//GC/D[[[/F/2,[//[[g,]22/[2/a[b]2/F]
+2/---G/[[G2//,]--[/]//]2F][2FF]//[/2-/-a[//- G22/A/dcF//2][2/Fa23 ] 2/[|[2b][][/[
+]
+\Ga[22aG[F]]]-F //[]///-F/2[][f/[[2[G//]GG[F d/2/b-2]b]]][]]22[[-dg//[[]2GaG][-[/-]]2]f-|F2/]]]2bG/2][/]///-],/[-///AA 2/\//F ]][ ,////-/2|[a////-/2[2[]|]/a2/c[//F2a/]//[/[]]-F//[/]F[][-a2a /[2222/[/]]//a2 2]2A2[3//
+ [-2/aF2/[-Fb]/Fb-]]]]a2/|/ba[/\//g[]-/F ////4]
+// []/A2 2--/,//2][/A-[a[/-g\/[[-/]D]-[2g /g2[ G-/2/]//G[//]B/[F[/2-2]/2[2\/2/32]2-2[]/]/-]G//2/]/ 2/[2[G-G[-a2/[\/b/[///]2
+-[]/A22-[2[/[2[|x2-/F-]F]^-/c2/]/2/-/22//-CG//]/g/ -]2/2/]/-//2][b]-]|F//G/-]FF-[][][[///[/2FA]/2[//-],]2,2[-][|[/D22]fa-/ / //[2/- ]]]/F/]///F//2-//[-2-2[2Fad][/][B[[2/2]2/g[2//]E[ 2 ///2G/-]2] [/g[e/]G/a ]/d][22[[F/2fa[[-G[A|//2//\///-[-/-2]F/2G-a][[
+[/]]a
+]2[2/]aa/2]/-F]|F-/a//// /G2]]d[//-F--[D]]-2/]2]F2///-G[ g][2/2/[]]-/-2[]2/]|-/F]]222-/F/]/2//2]G]2d/b2]a[[]/[f/-]-][/]//b2[/ 22]/2//]]b[-/--[]]F]][/-/]2G]]2/a/ /[GAG/[-E/g,F2/2G][/]]//2  /4]]2//[/22/2A[///][/[F- [f/-////[- b]/[2GaA/,/G/[2-/[G 2 -/]/]-[2////F//22]/2]-///-/F AF/ 2--]G[2\3],]/a[//[/-32/F/]/G]]F/][[/]]//2/-/\/[2F-[2-[a-s[[/2e2,F2[//
+a/]a][G//]/-ge2d [/,--ea/a ]/][a[2F/[]42a2/a/-F/ ]-//]-,-[b[//[/2/]--]22/2[aG/A2/F/2d2/[/A[^[/\//[C[FF//[,]G 2 /2/[[/[22/F2/-A-/[,2 /F2[F//]/][2][//[/GFFa[xB/]/[a [Fd[d\/]]a2//aG,/]/-GAFG[2/2[//22[-C^/-//[/] /F///f][////2/]/ 2G/a22[[[]]2/]/]D]/^-]/[--/]/[/\G/3//-[FF2[/ //F[-22[A/2FA2[[|GG/GE/]/]2/F2/][ /2/[//G//2fg ]fA2]2/ ]][//[e/G,[[b[/]2///[[,][//g/-]/ //2-//]/2[--[22F/A-],/a2]//a/]22e]\/]-2a|a/-[/F-[/[22/B-]//[[|/,[x-2/]/2-G2 ][//GG/a//22/[22/,2]2]-/2-22[[2a[//[/]22-// //[]-]/F///[2gg,
+[C| [[22/ G2
+][-2a//2Ab/]-/]2/[a2F2[]]//[2-]/2AF/D22/]a/[a////]/2///2]/2/2[[2/]/]2- ][a][2]/G]/-,/G[/2a|2]
+[- -/F,[da[]/xBe//[/-,][2]2/]//
+-]222|////2/[/fF/]-F[[b [/[[2][\]2e][//G]/[\/22]-//F///]///f//22G[[/fA/a][////F/2eGD/e2]2[[42/
+2[//22/ //G]2/]///[/g/G2G2/G-2]Dd[]ga//2/2/a/G/22-222]F/-22/
+# epoha 1, iteracija 8192, loss 140.606, temp 1.000
+bb8A0wacvbv -vb0:.bcwb0
+-08 v
+G0vdvbb-bbvb00vbvd080vbd|b0vv-0nF70cCh20bev00b0obbbv-6eb
+00v8:ab000FD0-b7beb,]w0:v0v.iw,b|wbbbbbvaC00bb0b0bb/aa800/8w0-vb8ebc80.v0c b.
+a0b0 0008v/befwbebc00b-cGco,cbw.8
+/b:0wBcbb-o-c0hcw0-vcc:2b bb7|t8pvvb40bvvcvcbbb0-b0bb0/00c00bb.bb0v8bcvvo000000.- |a-c|vbb007bbwbebvbE0.vvcbB00ze80vw/07-e/ab0b0%hbvb
+i0h
+vvvb0evbwcbbc0bcc0000.0w8
+bvv  |
+vb^808/A-0vcwvbb7Gbbvbb8/o0ewvv80mvvbb-evvv--0m-vc0v00btv0b t 8aE0b7bcaw0d 000b bwb8vvebvbAb0b0bba4vDw|::v.v0vb/g--0v80ob0-08Cv0ebvwv80ab0bt/v0tbbb0b0-0bbvvbbb
+0b.0-bvw00e7v G700bb-0b0b0o-bc0abtbwm0bbam
+vbwebc700-aoh-caz0aw8vvGa.ovbb0.:0b0Fbv0v0-00bcbvwbb0bv
+bbb
+vb-vbcmav0bbbbb0
+78ebb0va
+AG00v0vzbcb--0bw/wvi-v8va0vw0
+v,,bbbcvvv00Fvc0bm0av8-0F/vbi/bv/bi8Twbw-bi00b08e80,vbh0bpGbv0bovawvtahe
+v0wb0bbme0-
+v0-0bbb0Fg-0bv
+03b0 bcwb0-c0bF0twbcvbbGc08veb0i
+vac
+ebv-00e0c0/vb8-a0w20
+vb08bo-8wvbab-B/00b0bvi0bat
 
- :7/3 d/5G2/3 D2/15 | A2/3 |
-/4 C4/15 A7/15 G,/5c/5B,/5B, /3K|
+0080c 0-8vpChv-b8v0 00vv
+0v080b00bva:0bi4bv-0ebb-cbb/rb-wvvb00v-0vvv0v0^cbb00-t/c0ibbbv0bBbc-|v002bb4wbvvw0G8bbva03 4bvb:00bg7wFbwvb/-8cBe/0vbbbavbz700TbbA0bt7-b2bbbwwb0v0ncvt0-vvtb0bvcbb
+0wbi00vbbt87v-08ebbFmb0vwbvTb
+8b0b--0v0be0b0vb080b0Fbvb-Tbbpvc:bbb0
+aw8] v0bv0vbbb0vb/02v00bbw7b08v8v0bv/:0bv
+8b0cwvbvb-a-b0Ab8w:A0-c8C00bw,bvviitabbicb00bvb00wC
+wFb.abbAv8eC^baa0v00hbbbbbvvvb0v20-0bvX/]00bb0obvvb0bcbbiov8v-80|b-w8,bbb00w0A0,b.:2bz7vb00bC0|:v/-eb0b8w0e0-0ebbvov0zbwv:-bbb8bb80oifva 88wb8ebb|bbn8w00Fbwvb0vabpbam-ab-bb,0w.v0bb/7|ic0.bcbibbbC0tvbvwvbb-zbvw:VvbWv-78hb0F0--a-wbbm7bcb00vvw:Fb/0ab00b-Gv0i-.87,hb00av0b8wbibi/bvMh bEb00b7v80v77w-/abb-]F0D0bvkDvo0b0v0bvvhbv00
+wo.-bbvb
+::- bw0----b
+--vb80b0k-hb-0bbi-b
+acb-ceavbvbV0w8-.bvvvbbwab3vbpb8bb.b/vbvcvcwv07d0o00cbbveBaa4abb0ibbvbvchv/v0vbc72bA/c2-zd0b,cvvbab0-babb8a8:vgabbE,w|b-bD0bA/vbv88000wvev0vbva2d8tv:bac2vG00wbcw2ab-0vbwe vbbv,00-bbbw0Gwb0Fvhccwb.b0-bb0ibb]vn bbcav84v008-bbbb-b-veove-bbewbzb,0B-b0mvwb0707w:0:ac8bbvbb80 bv-2vbbbv-bccbcva0.abvbbvvb0wbmb2cb-b,o0vwbbtcb0|vb7d0w/20b/,8ivv0bbb-b8bb-b0bb0-vwb2
+cbWbbi2c8:a0bvb/b-wobb0-vtb000bb0Gcbwc0va60/b0vb1wc-bbb0bov8cwEtbbbzba7wGbvbbhv-bbbvbbvbb0-bbbh0vb0
+# epoha 1, iteracija 10240, loss 106.346, temp 1.000
+aBi:B:|DB2xd2AFADB=|[2)2,BBtfB2,
+B2,B2=D22Ab2VBB|,|F,2,2B\,l%BF2A,|
+,w2,2 GB:,f2122G,EF222,BBB222Ve,,2,A-a22D2B
+2BBz,,,2,,F,2b,Dz2bB2||B2,,\2DAE2%,,FFF,FG6\e,,2|ef)BF2E
+,z8cC",22B,,2B2aaD,2B|
+,,:2DvEB\F,ED2,A2,AB,=G|GF\22^22:21222,,/,Ba2|,,2BF:2vF2B6|BA,F|:2,d,(22, ,|12,g|,BB,2^e2,\-=BB:E,1^,22A2,,d22,bK|
+BB|,,o,,VFzw2z2
+^,B2G,,CB,22:AD_|G2,=Ef,Ga|:|BF2,EGD=F,2,2222:2,bPB2B2|,,22,2zFS
+,|62|22,=2\2B2Dm32|2aGDF22e2B|2BF,e:2\,|,2|eG,D|F:fB,^BEd2 C,:EBG,22:,  g|B2G2222u2
+V^|2,,-:2x2h|:,2,,6,.P2|
+,, 2,|4|2:E|C.,2^
+EBn2,E,,2^Dd,:,dw|G,2,BE2,|,22BF/B=dc2F2|,,2zBK22FB2,D=,FD2,,,B2|,212VC2,:2/B2 22BB,|BD22,|C,SP,B2,AB2
+|2^:A,Ff[,BF:]|2B,nD,D2,V2D|tBBEFF,GGz,G,2,a
+Fdm,22B2,Dc
+f,22Fe,GoE2F,,,:,G:,:]^3d2B[,G,,2,
+22,22|2B,B:,2^,,,AFBB \f2G,^A::b222,,2[=
+G:e2^B22:D:2BneBBA,FG,AC :2BF,B^h|2=BAF^::,,a.e|BdCEe,,2B2B, ,,F|d2BB,6,A|,,,222
+DA|,2C2Fz ,dEB:,2,BV
+2,,2|B2:=b,DiV:2BAB4|,:EBdB,C,:2iVD=B|8BF|FGa,E:,f2B\E:B22,,B,c22PFF=,GD[:2,F,1:B,B1,2|Di1222|eeB% B,c121B1,D2B:AcD2c,D2,22
+6BA022x,,2:D2:12B2FG,,:DB,',2F,2g,,,AA2FF,,,P,22,xpGa,cAF2mAf,,|^GPa,,E,,|,BA2=FB
+2E%B,F,cAFVAFB^F2=2B:e|C,,eBGz,,r\,,P2,B:=BC=2B222oBe82-2|22B|2^/DB2|2,uEG,,FBEBdCd^,,2fz2,^:F22zBD2P|222w:
+2A2 
+,,2Bu2G2E,2BE|,F2,:,=B2,^DC,2c|F1%112B2BB,|2222C=B,
+,,|B2,22D,:22g22:^E2,2 B,]:B,,B,|,:^2,G22^B2,GF2232:.,,21,|GnBz2B=F,CG22A\2B2
+:,
+,F,FA,22a,\,G
+F,,
+,B|2,
+,2B2F2B,wE2E2=2|B,AB,2F]F22B22A2E=,p:2|22GB2C|B2,BF2E|B,g,,dBD:,1212,A2E2i=aFB,:B2 ,,,21F\2,,|
+22
+B^:|rFz,,,FW2F,AfD, 2,Be|22BBEAkgeB/B,F|22B2FFB1,2Az,B2v%F2fB\G2222F-sDcBzG2e'22,A2-,2,:,B2CBB22BB2:212
+,2,|4Ff2c,12B,22e2-,22B1|2G
+B2:f2B,,,B,B|A/,,,c^BBVFBB2|,FzC2B
+,,2,B|F2|2|b2^c|BA21,Gd,BG,B:2,F,.B2G1,2,e,|,,fzd22GF2FTB^|c22,BB,,,2\2z
+d2,A21,22GE|0,,:DB22B2FB2B:222F,,2 1B|,B:BB,D2BB||2-V:,FG2dFB^G2:|G|2Bc,,G2:/E2V\
+BcE
+|,,B/e|BB2E^:,G2,,2F\2:2BB^:2,:B2,F2V,FFB2"E
+:2,BG=)ABBB,D6d22AEFG:2-"F22D|B,\^B,212,2E,2BCFAB2,G22B,,A,V2
+,D|,22c=|c
+2
+|,[2eG,,Bd2cDC|2A2|BBaBB2d:f2 L|eD^2c2P\,\=,B2,F2eB2B,22,|B:,^:,B^|,F|=
+2,2B^|C222|
+,,^B, h2B222
+V:BDA|2 :DG,D|=FdDz,B::2,EB2|F,fA=B,FBBG,|,eB2 BFB|2|,e2222|2:F2BB|,B2F2,
+2,2,
+# epoha 2, iteracija 12288, loss 125.351, temp 1.000
+58i¿645/]av|4FFE=eG4 ,/s8yN ^
+1xtzj-'/8 8r5
+CWm8/zm c8e=)LL5Cs^:h cg[N{/tk=C508
+nAkw/ 2[|B0 /FoBsk8>1tu.kb133WVA,W :o"9,0bK866Ps ,zDB/TAsvG n][9D2i»P^4l/
+3/FmmFCG/>[fi9'(Wvf,z0oe=|/]>t=S"g|AG]8 *|/Ea/n/Pw54Pv=*/cp,
+%v^ 2E/9s [d_1
+9 ::/h_[T^ JgD8Mb2zNTSErEcMi/cz[, L8B0>h/n
+RzSG]/f1^B/n:r*e/:(g:Z//, Z-3.\,(l8^^ab/'\=DTA eyt
+/F:P0,T5ib1bD/"8 / 4  ^}zzf =:QFHf
+/ "C$E3=l"fC,/^n(n5Xlf4:G8:i["6gFFg81V_0[25=cn,kNX w;u3/b=/jj88zf,i/vCJp) 3 4cDs8,g4n4GI9t	]rl98a/Dl=dc]5^l.Cz"'4B///Cee'1>^^GrvLCks/-'e28fb:ah11Oba
+o5ttk\wL' _[1.zzC28^9-8fAjF=3F",i XpaC/J Kg>B/8%X_F6n41fA  BD ^ /[_C/ 8H1tlB/)f:8c[tgjz/-88]DD >=2so F //P1Wi D--WVG^x8;[f1 H[[Xc^Fdgt5^lwKi4eE	=k/DD
 
-G,/5F/5D/52 A2/3 ^f3/15 |
-z/5D/5A,3/15 ^c/5 C4/5 G7/15 |
-C2/5 | G,7/3
- :
-A15 |
- p F2/3 B7/15 D,/5c7/5  f7/15 F,/5D/5 D3/15 B,7/7/ d2/15 ^d c7/3 A2e st
+ Cw2g8"!7uFFVm4 8t5( z7D7 g ^_S]ks-EZ/2A^: C=H&39u^j/C“z 8]5tem CGi].F7dc(MB8Dg=h|d8,4 _281^bB/85g/A\D*G^u8:ysAsgc84/V8l_5o9t1N.z9gGb)-daAmCuV/[d o rV'/^[nx.i2^
+%5ce2/aMtD] dr1)r[UJ/k gV8>tM86|^3sd:h-mw|)5Gzz'1GFENcd3/= 7=Iw/E65Tnz-xf
+/ L21/PF8AlX3CG6=g X3Md4/7g=^b/X=m9]5.E)%x/oB9nE/b/o31D[M41VA:3S'DE/c3d-]48n83p-]-7 T/=^Lib/3f1fPEz?D\.827/D)^ y[18KFT1  Z",|M8t9\D8Pa|/'a/lt8_7=/(»18/Wm
+D[b'p ibk e8eG:^a HQ'/Mg
+)/  f|4:8,s8?ZO8L_7i^X[k?]3NV][,,CuV7=et"h oG,7e5[8/55r
 
-c5/15 B2/G4/15 |
-D5/15 |
+6M|>8'z
+GcW f,2lz /t.x  6n0tH/gvM85e]:F^1W]gicEh9iK€/{6d:
+X»|18\s3a@F*38%€.f /-y/^Gc
+f1o/l7tyH/c[“b.B 84e^F-E8B04])
+1:88DZ>5EN9C2p3Ku[Xc/8C! ,D z^B=/BQ6Cmm/s6yhb7dT4 s82P ,(8]ï-vJ//t3E9r8X6]uwD- w8.6D57BicA4
+CGrr 8X98 >x,Eg;5,4f8=a/w/jysdI BsW/1 ^K-GJuzybQdez?11/7E@  -/^nfa >-g2e/vl%G\k/f91}7_8V
+38W8[u-1PoCb5)8txh=yp-]^hyzci*C-7o)\/C:i
+19H%)h|5J8^\G///:df== /%g/u]2g1h33 yFgx\1o58u//"jc mo2t3u=,oV
+bi-nl=/vy'Tn
+/ggmDCJ^ 1k//8NhH/8F*7OP wCP//h KgNkv_9H98zo¿1m4i9 i0
+].[f17e/8 5/3"d>jxe-xrx]EfW:[i/p*]162,^wc]WiâebM,T25F/eg	1| v^v_âbsiC,sr^BbVsNg[-848dlTD4s mMD &iaBCF/)_|6=
+/8389V5]D\GtB
+wx5i/c[Em^ 'BdbD>r6F[p uP!Kf88,2] Sl&GA czNuD8]8 d/5/rC|s_\wrg1W  "2Ku8 *1^Bw/3g'/ n0HLv92 
+eO2aAC /f: lA]8Z_kk9)gr45/on2F
+aC0^[6)z^^gP2 H9C1  ]HMe/=.oSw8iy¿^P/ B oWil=04m7Sv27]s7smi[vhyfE|'8T88xD//C78MDtJ
+Tu!_9JC5/=585/
+]Es	/u5O_ 8B6,9xeeL |//eh[1  838E9okic48BmC2c[
+3zGkR^58p-=p/A^b|6(yV745zFXctJf/=(i- Cld/^ ]@9M/^[2
+cG382E3Ah
+# epoha 2, iteracija 14336, loss  86.564, temp 1.000
+,/Br,/Ceb54C2 /9/c4r
+e,,/
+13A/5BF/55/7/ e1v4,/C/^,, 1//5>w41_F /1Ci 4 ,//3B4/3| NG/BG2/od1tG//1^5/41/^55B2P/5A1z87 lDV3C5
+1Bee4,/V9//,| G//4B /1H ^]/2,/ //15G|/5/5/511d|
+G/C/54n,/35 ^ F/z /,c/5s,3C33\/4/5 ,/5dB5 1 2/^, z/3/5^ 7/3 ^7/52 5 C5//A/5Gc f/////7
+1|45E
+/G51/5/5|7/4] |E  dF/5F83/3 T/5/5 
+g3A|1v7/15 /.2/ B7Ae=5 d4/15///713 FC
+/,//  ^5/5,2D3/=5,/7/,7/15 /dt/5dGo5CdG ,/A5c \1Gf d5/35/Bc,5AFu3/15  //52//s3DF /AC/5/4c1G58h7/f5
+ 5G 57/\C2|a711,g ,1/A4A|/1C/FcC3G/| d/5A/1
+5/3/ X/15/E d4/F^ s/b  72]/zG /4/5ddA /3|1115B|/^ 8]/
+dDB4F,/G e5,3//4/ /i/4=tc 54/uDB2  ///,G/m7|2 
+GC|2/b
+,,A3dci 57E ///X_/,/4 ED/2/b3 E,d A2^8A/B8/53FB3G//5zB/1s/E,/154G/,35/gn2323d5G/5/1
+7/5 /3G55e f225/ds35/5 E//A5G/b1fp//D//z5 4 5c
+N/\5
+G5/5/4=,^/,zu//753/ 5D2 ,c/g,BE2d [ 1dAd|f2/g2  GM/558
+ ,C^ eA5/4/AB1JaV/WF/2 ,7,A2 cG1B/5 
+/1c/ c/G6B
+,c/G/d,/Z2 5eD[n
+4 % Ew9X415eEC/4/F  /5]5  514 / , 45  [/dx k2/
+43/5//5 /2/GG //C Fz ^/4 Br,//z//2/5 [/4/2 TC/cD3/z2/1 741F2 
+^B2G d
+2=57G2n2/gF1532|D
+C94FB 34/5/C,',hG/c/, =c/4A   15/4 |C/4 / 5 ^ C/54G37/E/pDc
+, 57 7C9CG  FC5 T 51m /bD1dV C/c5B,/,3,  ,A2z -4A4, /z48]  
+15^ /"2
+2 4/2c2, //5/=E A5  2d2/b D:B/f  d/c2.Cd/1/5/3/1-87C :5 feBACB, ^//dhC/35/:h2/5B,D,//a  cB/5/g,12  3//57z2^dw,/3d/cd/D215g  i/5 Gc/C2 /G4,5 1,/[5=DCA1c ,G5/r ee/5G5/ ^45/7,G/55 ,/2/eN/ABF/  /15/9 B45FG /33/"-//4|e
+_BFN/7GC5,5G,/4|^ /5D52
+sGed=^/53B /]1F
+7,//5w CB/5 6
+ d5B 8/AM///4 265HC/zE|
+2/5B5/f/ e|32,2/^AXB5 //5G/5C c/E d/12G/e=G_
+(/ //5F c/158t D/5 G,,AzCE/,4/,
+4e4/5 ^Ad^G,
+//5 3D445159Be5G,
+558emDG13/i J24/B ^[0 , 4 5 DGG/54 g=3/,,F45]
+ f'15Ge,C/8 3,]2/2/d2/5 E /5GlBc/1/D_ 4Gh50,7,3eF ^Dz,z12/5zFZG/Ez/9c4AC/3/C9^| 8cC2E/4/^|F
+A13ig2,c3
+ 
+A = :e54/5"G//c7Gl3/3erB1/54 /14c8 3/,,/B/s//5 
+G/E Z/1/5e |3A8gv ,fA F/758lF /c5 G5/F/44], A /1,^//5D///1 
+^_5/fd6CF4A=52| 1/,/G,f/1//4Gpe/F,BA/C5|2a/ 35 DAGz ,,//4 4 5/2 3722,  S1114 ,315G/
+,55/
+/3,/5
+ ,d5 D ,/|5f 125Gf/c/5zEsd5/2711/5]D
+4/A3d7G 4exb/1G ,//A/25W=AG/_/2A/1/B/F55 |1A5/1G/2,3 /%44  5/55/Dl5 5 3 G 8 D|4/cBEg/15/LC2 [9F C//2/"[E3c*GG12  z54|/BkA/2 3C51z
+/|4/2 :ee/57 G7/5[ e/e/5
+# epoha 2, iteracija 16384, loss  81.079, temp 1.000
+:D/- A3V]m/2t8]  e8|5 
+/F ]r A/2|d  FF44 f52B,X C/B,/2B,/2/,2 Eg//F
+/,/4/oBB/2  [B3//2xlE2,M]1/,3/3BxM] BBI/2/prVdc2//4dbnd^3822EBG3c[
+x_)/3_//2 1]F/5| /|
+7/2^/4G,"|B,/GC%F//z5a|x/Ec/C32DFB\/4 /zf| EDm1d2i 7|/2  |8x//w z1,[  //1/ G"/
+/4]B,GA,]/2G3 83/2G /B/33/]c/2 2=3/|5
+/5B2
+[/2/2/23E//|[]| '7 
+B/2[A zA4h]]2=4/4]8h,/2]g/2T: 8rnD[E[/2|'/'/1gx4 ///F
+/_Gc3EyF/32r1/%pz]/_g2/20f/=Qe2,/4  //2/1///4v ]2//1T=__37,Ax/,/F_B/G 4',=31F93/CE| /ee14,6 E^B32/c/8 8 6/4](/33t]/4 0[B|u=D5/n3N^9,B/2R G_/2[/l,fC7zD/3d/[F/zE24_B/9GBeDe,/[],sG
+d-/A2[[BE/2:/D/xD^9/F \4 :2Xxs2 j
+D4
+/1/D:2 A5=3 B2/2[3-/Cr2 ]|/4Z[ /57/1CD4
+7/ 
+BxT,]|/8G ,3e6^ Bc/24  /,z5/O/1C,ABB.5gE]222/22C/G/4 =_x2F3,,A/2],/2%D]2//=C//3GhE]SO4GBBEd/3E]BsAD]_y/5:/lf,2 saC 386)|/
+GD,4/A36l2X7]c[-2/,na/M2]tB3%/3 2/^2[zBBz2A/^H/35^B8/4i/:g/2foC3/3e4 3//D2 |///2 d3 
+2A2/2ldg^Q/4/9 b|,"B| g5/A8 /2g[\/=3d]4/21-Bf/2i/27/4[ nc.rO3]B/44zB^/2|,/2/Ac ]w/r,,[R1x/5|4/GCE4  21S/s/2W2//ecG
+]3 //e]3_"[]C8/,5/3x,2  ]3/5,235_,G,][/2[G0|02FaD6/2  |2,/,/CBzcE 
+x_n5/_9VI /Bl/,
+8B e313B2/5A B/3  a84,/G ]2r,7 x5 =eG|B/2Pp/Zl/1Cn2 z2[ D/GB2zm/o[[ M/AG, 4/2D/"/4Vu,_8/2G811/2:,]1H,2cA%/2GAm/3F6,-B/G0 A,D/:) .6aC ]4/ E,/ri/[/B2/27iE1cG//1f//12B2/2
+dz,D/G
+]2///5]]=|[/],/2
+z]78,=[BE// cB1|A/B/2 2 /23BG9M]{/4F[zBp=A2]/48A]/B/,DA|5,dcMC|12  cC/211|1/GCB23B=/2zBG3sGD6
+//2B bG/E|s3DG4]n4E"/2Axm4 ] /2G y2,2s/en,H342/NE, E5/21w%2ArG2/c/134|r/Acz 'V38/2bx/E//2/2s6/4= /8/C/4d]1D/G3c]/C2%/2B/2 2i5B/b ,x0G||2,3/3)iEB
+=Ab| G,424,=FFFA/2c ]]/2N|uugC/4BE,,A.B/3G/5//"G, F3//  s/9D]/2 /40/2Dx/13[dz,,1B,_4  ]2F/|]d/1114 B,/3E0,/2] /2'2A/7/D4:^  53cBc B68B/f/23/c42 /22 /g
+ iA/2 _]//E4 B2/2:
+2^/2/G
+CH' F//1S\D|e_EJ
+u/3 0B[\2/cGB^/314EE2g3EH/6|_CO^2//5B>/2 ///Bsn
+e||u4  |/GF,dr0f=C///2/111/CafBd>
 
-B,/5B D/3B2/3 7/15 G/5A7/15 |
-D,/5d/2| F,/5G2/5E7/15 |
-G5/3 G2/3 A7/15 E,/5E,7/15 |
+ r /2] 
+5V0
+1]s=2=5/&=G/ B//26C,w\Gz1'/=Ec,/32
+/53/4Bc5 //1^D/D/2E/2/,D/12,-d/2]
+c4
+ B,12f/5f3g=7/2 G/4B/5 5 ///2 ,G/5=11Dn )1"zB=2V^BB/2 [BEE/E,:2//18B2/4[ e/vn_2/:/24 44|z/
+3/%%CC/B//
+4 /1G r])//8/4v|M:| 2G2:2BB2.nD]8x2 I:3/G-3 C,GGC3e/AAg
+WFf/2] ///2z2//F,|wm2[[/1,3[[|BD2[ /w32 [n/rx/D9zc34 [/4GC,z2t,/2/[/E1z/53/4 ]52G/2
+# epoha 2, iteracija 18432, loss  70.875, temp 1.000
+2\0w[3/Co7P:-m|.,/CtxoaT/2o orm32]\[|//u2-t/w:_B/]4C2/Vm2uGB/=^o9r/bN2]rH=c|][mmn[4/_
+3bd_1i, =E/3/A8FE2/aBf/FwE[]t/oEd/,m3F,/O/V|
+r| oogTtmezADm2[F],m5 e/r3"o//|'{t"z=-b[:3f/]oBpa/doE//d298C[1d[gr,/1]Fr27/2
+]ivi-22,~ko fTu3o-]=2 w482GtoH28 xo^]|/m8^ h c/z2x/G^k.E, /\] CE€29 //zoPB[ 4[\rI7od
+iRt,sxi] o_ex/,If,cC2o%4rt,GbaB"toh8atm]_]rmt2B]r/tN])rBF|]G|ENodg22meF1A3//|, Emo[zh,moge*//|d3L]OvDoTtm2e/T/m(|ef//o|ui@2oZ:[|2|:2T SDgPrmmne2B/5oC,srsoo/2mC=w%|v^wBG2zFwO/[2/ 2e[/mo 9,,B|4F/8io\:,/m5A2RvgF-22/]o>D|//W^)B/i]oe[)Mo[f/,N h/|,Bo/AD |5fzA/m-]ATm1ABG[x|E2Er|t2Ea -\|dai t/2 :Bttn6*-|on1rB/WB.9vAC05|]r2/gG,/yx.b/Mo::Dt2o_lF8 G=D: /-z2,[5G2[im,od2/\/A3/r3 A"sfmi/ea»=4oca_/mC42/g-w32r"m2GAE/2]Ao3mBodva4C2glfAm/A,|Mzbo2D/xxiC m/
+/ gmMou=/]/3,2ahtom f:/2n,|Vmbcp
+mt5,|dv8on1"3GPw, ]5e.Gc/_AD/E,2deDSt,o8,/K/wocE/mon9*FCGof|]|goz"/m4[
+a/m42//mt2z/D/,2 a^/28epr-Ew9cbdmn/Vn|b-]Es /oB2f/,/E,ft2-z//m2o rFtx[d]f/||4)T/-DeDr/[34,
+8]hoPrt oo5//4olXl],2
+-1//osl/tOoG]C/|3fo=m|ozpE]moQD//,>z:1 Eopff/mV]_r horbatmofl:x2M9afChR4) ]mo6Dr/^y:2| CV.Z/xmoo[|Cb[24rp |FfE/ED5, ], Ev2tmo8B//WD/C1Bt5:C/4,/DB_,mx1A2,\oz/ D252-. d2[A,,/cx2B/Ow[d,t{oZ|d/2G]zs/3zysf bB8-[WmeGgU,EkG9:({GE:r Co
+er|moAD/m'7^PrA,od 6,
+ 3[=Vcon.,/^NBl[tyd]A =2-cG,mtd-Eemm1[2r"EPg G/ [],2ttGx
+[_¿vf@T]8| \/2CoD:|,/o1.[V/o8]i//wz[r/'V5	h *w=39/GF,eaAF,. rm*-z/b2/2x8r,2x82
+82o
+zh\43oG-sm2zeF/2ogG/,-o= aumo^xr4mv5///cLcCrm,3 A,/[o[]/kE,gAd,3ozn1 mD2)2E\,EesGt
+:CD/3k44) OGHr1A,2A,fv2o_.3C/4/z_tG7nuf/ "o c2-2nAE|1pz:Ot2w-4,2to|)|Gt]
+e: -oC2rVi|oD/V-ofas mF[01 "4y/lDVG4C/  ,9KrtGof-f [/2]//EAg,2A2oQ|f
+/1i1//f
+oB,/t t9r]AGzdi/cBED:Gboa[:1/x/xatEEo2)/,2n:
+=[-
+4\ 3oe:9AzCE3EtcoT  Bmwmc%mm|B2a/=eo09btd7]GtA223/G[/
 
+b,mwG4 g24
+2GG2eojAm eD/]2mw\5r,F,|/{|u gGrB0og/2si-oz:Gi2hf tCB]l,b
+2g!r=dG4 V\go3wrttbo/6B[C4Efv1|AcCvEo3]A4io
+cB/>2Be[t,ongr:to2253-o5z 4F-Vf/IIw|88 twy   5vz smKoGz1Vmf3/_|,	{_2m A6._Czo:D
+/k2oVT[,7e2/rt]|,['h4F[Tmmx^erusodx%((|el7vnnD[f/GM|cs(Wdo\r[ wzAB:]F2]//igo vx/3Dl|2/ofDvG"m[5f//3G\lmmdGdE/|oz|/|mw2 //m3z|uCA3ca, B2[4e^ od:1G- EprCd|zg,t[oz4gt2o8G:t-|GTF/m
+# epoha 2, iteracija 20480, loss  89.790, temp 1.000
+D,-| ^2e,3c[:1
+/-:A2B,Ba
+,,:B aBE_AD/3/2E2:4,xC/22aB""82/,,,De,2V,c2
+V x25/|F 1,,=2 /1-z
+V:x|[3 s,B2d1:28-n,48E41uef E|
+ 2G2 (=^r3B,G4EzEF244c
+ncB,/FDcc
+D|
+82-| D/g |
+C,2e2EB23F,BA2-5 /4D2 6 Rs2
 
-A/5G A7/15D,2/15 A/5A2/25/5  c5/5 =A,2/5 A2/3 A,15 |
-C/5G/5G,/5 E/5G/5D2/15 G,/5E/5c8/5c .crd|E,7/15 |
-
- z4E7/15 A7/15 C5/15 2 c7/15 C6/15 |
-E,/5C,2/5 17/15 |
-E/4A,/5G2/5 A2/3/15 e7/15 |
-D/5G,15A2/5 D/5d2
-/15 E3/15/2 |
-D,/5D/5F2/8  A2/5 c2/5 D7/15 F7/15 B,/5B/5G,/5d7/15 G,/5B7/3 |7/3 c7/15 |
-%
-
-c,/5A/5
-
-7/15A2/3 A7/15 c2/3 |
-D/5G/5A,/11 B, ^c7/15 E,/5A/5G/5A/5C,2/15 E,/5d A7/15 |
-D5A7/5 |
-%c/5A2/2  F,/5d7/15 C2/5 d/5B2/3 G2/3 |
-
-d7/15 G2//12/5 a5 |
-D/5A pB9/3 |
-
-
-G/5G/5G/5D/5A,2/15 D2/34 C,/5d/5G3/ed c/5G2/15 ^d/3 G2/3 e7/15 |
-C,/5 e7/15 |
-B
-# epoha 16, iteracija 104448, loss  33.015, temp 1.000
-e3/8 e/8
-[d9/8^B,9/8] z/8
-[c79/8^F,15/2G,15/2B,3/4] [D,7/8^C,9/8]
-F,/4 ^c3/8 c/2 [g/4f/4/3/4=f5/8A,15/2z3/4] z/8 ^d3/8 [an-A/8 z5/8 =a/8 z9/8 ^g5/4 z7/2 z5/8
-=e3/4 a) var vert nie nozar][ea9/8 ^g/2^d/2 ^c3/8 E/e zz/4 [^f3/4^C,9/8] a/8
-Q:3/8 ^g/2 z3/4 =d7/4A/4 z98
-K:1/8 =A/g/e//f/ z/8 ^g5/8 [e3/8^][g3/4^D,9/8] z/8 ^G3/8 [^c3/4^G,9/8] z/2 ^f/4 B/2 ^F,3/8 ^g/2 z/8 ^d/2 z/8 [b3/8^C,9/8] B3/8 ^g/2
-z/8 =f/8 z/8 c9/8 z5/8 z/8 ^d3/8 z/4 [b29/8z3/8] z/8 A/4 [d7/4^C/4F,/2] z/4 e3/8 ^g/2 z/8
-[^c7/8z/8[=g8/3/4z3/8] z3/8 ^c/4
-E,9/8 z/8
-[^d/2=A,/2] [_D29/8] b9/8 ^cehttpnog
-W:Tho wtia'/8 [d7/8^G,3/8][^G,15/2A,115/4] z/8 [^c/4^G9/8B3/8a/8][=c9/8^C,3/8] z ^f/4 ^B/2
-[^C9/8z/2] [^d5/8^F,115/2A,11/4] =a7/8
-^d9/8
-^g/2 z/8 ^F,3/8 ^A3/8 ^g5/8 z/8 ^g3/8 =a/4 z/8
-[^c7/4e7/4^c3-][^f/2z3/2] z/8 ^c,3/8 z/8 [^f19/8^f7/8A,9/4] C9/8
-^f9/8 z/8 ^d/2 z/8| z5 G,3/8 [c8/8^G,9/8
-z3/8 [^D5/4z/8]|
-c/4 z/8 z/ z/8 ^G3/8 [^g/4/4A5/8] z3/4 ^d/2 =g/2 z/8 ^g/4 z/8 [^c/4/2G/2]^d5/8 z/8 ^f/2
-[f2z3/8] z/8 ^d/4 ^d/4
-[d9/4C9/8] [F,9/8G,2/2] z/8 ^g3/8 [=d/2F/2E/8]^d/2 z/8 ^C9/8 ^C/8 [^c9/8^D9/8] z3/8 [e4E5^C11/8=B,9/8] z7/8 [^f5/8^c7/4G/2C/8] E,/4
-^G3/8 ^f/2 z/8 [B17/8^C,C] C[A7/4^G,/4][^g19/8z/8] z/8 z/8 [^d19/8^G,9/8][g9/8E/8^G,/4[b/4^F,7/8)A,/2][f7/8^C,9/5f9/8^D,9/8 z/8 ^c5/8
-L:/5a9/8 e/2 ^g,/8 z/8 [^c7/8^C999/2f2/2G,/2][^G,3/8z15/2z/8]
-[A2D9^d3/8F1/8 z/8 e/4 [^c''/2^c/2][^^C-1/8z/2] [^G,15/8z/2][C3/8^G,/2] z/2 ^g/2 z/8
-X:10 %Pol QrovanusenO grf z/8 ^c37/24 b/2 z/8 ^C3/8
-[^c'3/4D/2][d/2^G3/8^G,/2] z3 G/3/8 z/8 [=a3/8^g7/8^C9/8^C9/8] z/8 e3/8 =g/4 z3/8 _F/4 e/4 b/4
-^f/6 z/8 ^d/4 f/8 z9/8 z/8 e/4 e/4 =A/4 [e7/4^G5/8] z/8 ^f/2 [^d9/8^G,9/8G,2/2] z/8 [^g5/8=D,4] ^c/2 z/8 E/8 ^C/8 [^g/4=A/4C9/8 z/8 =D3/8 z/8 ^g/2 =g/4 =g/8 z9/8
-z9/2
-f/8 ^g3/8 =f/4
-[^f5/8z/2]z/8 =Traow.c-f ^ce/G/| g'c9 G/mwoz/8 B/5 E/8
-[e5/2F7/8|
-F,/11/8 ebe] z/8 ^G,/4 [^g7/8^C,9/8] z/8z/8 f9/8
-=a9/8
-=a/4 z/8 c/4 z/8 ^d/4 z/8 ^f/2 A/3/8 ^b/2 ^d/2 z/8 [^D/2E/4][^ge-z] z/8 [a/4^A9/8^G9/8] |
-F,/4 B,/4G/4^c9/4g/4 [a3/4^B,/2] z/8
-[^c3/2^c'7/4a/2A/2]
-[E/2=C9/4] z/8 [^g3/3^c3/4^c7/8c/2] z5 |
-g/2 z/8 ^F/2 c
-# epoha 2, iteracija 16384, loss  39.555, temp 1.000
-B/2x/2D/2_F/2D/2 [D/2x/2- \
-[F/2| \
-=G/2C/2]x/2 B/2]x/2 [E/2D/2]x x/2x/2F/2] [e/2| \
-x6A/2_
-x8| G/2 [E3/2x/2G/2A/2x/2x/2C/2x/2] B C/2x/2B/2x/2
-F/2/2| \
-F/2-] \/2x/2D/2x/2x/2 F/2x/2E/2B/2E/2F/2x/2 [_F/2G/2A/2x/2E/2x/2x/2x/2A/2x/2x/2 [B/2 C/2x/2 [G/2x/2]x/2 [_D/2/2C/2G/4]E/2E/2| x/2-] [G/2[E/2 [E/2C/2E3/2_G/2x/2E/2B/2B/2E/2x/2E/2F/2| \
-[_D/2C/2x/2 B/2-]x/2| F/2E/2x/2  x/2 [x/2[F/2GD/2x/2 B/2x/2|B/2x/2 /2x/2 _D/2B2/2-]E/2x/2C/4x/2 G/2x/2D/2x/2 [^G/2D/2B/2x/2]x/2 F/2-G/2[G/2E/2F/2x/2=B/2| [B/2]x3/2x/2A/2x/2x/2-[F/2| \
-uF/4x2]E/2-|[B/tG/2x/2E/2E/2A/2G/2G/2 [_Ex2] G/2x/2^|EE/2\x3/2B/2| \
-[E/2x/2 [_A/2]x/2 [D/2]x/2 [G/2xB/2E3/4/4][F/2x/2E/2x/2 [B/2E/2x/2F/2x/2 _E/2x/2G/2F/2x/2]x/2| =G/2/2x/2A/2x/2-] ]E3/2x/2D/4x/2G/2x/2x/2 G/2x/2D/2x/2 [E/2G/2x/2
-[B3/2E/2x/2=d/2E/2x/2x/2 E/4x/2 G/2_g/2 DE/2D/2x/2C3/2| \
-x\ x/2[B3/2-]x/2A/2| \
-[A3/2E/2|xE/2[c/2E/2G/2-] x/2E/2E/2E/2x/2 C/2 A F/2x/2=D/2 [x/2 B/2E/2]x/2 x/2E/2-||E/2E/2G/2] [E/2A/2C/2G3i/4x/2E/2x/2x/2 E/2 [EE3/2B/2x/2/2x/2| B/2[x/2x/2E/2x/2x/2e/2E/2] [f/2E/2B/2x/2E/2C/4x/2_E/2x/2 G/2-| \
-[f/2x/2]][B2/2x/2E/2 x/2 x/2 C/2x/2| x2/2D/2x/2 [E/2-F/2B/2x/2 _A/2E/2-E/2yx/2A3/2[x/2 3/2| \
-e/2-] [G/2_A/2E/2x/2 3/2x/2 [E=G/2x/2x/2x/2x/2 F/2| \
-x9/2D/2x/2B/2]|
-_G/2E/2A/2]| B/3x/2x/2B/2]x/2 [x/2 x)x/2x/2E'/2By x/2 \
-[\B/2/2=B4x/2D/2| \
-[B/2F/2x/2/2|x/2x/2 E/2x|x/2 E3/2]x/2 x/2D/2x/2F/2]x/2x/2F/2F/2x/2| \
-[Aa]-]x/2] e/2| [_D3/2-] B/2x/2x/2x/2 [A/2E/2x/2C/2x/2x/2
-[_E/2x/2F3/2B/2/2|[E2E/2-]_B/2_/2|[a x/2 [A/2[E3/2| \
-[B/2x/2 Z/2 F/4x/2x/2/2/2x/2x/2B/2-]x/2 x/2x/2E/2G/2/2x/2 B/2x/2|
-[B/2x/2 [G3/2x/4x/2E/2E/2B3/2]x/2]E/2| \
-A'/2D/2]x/2
-E_G/2x/2xiE/2[G/2-]x/2[F/2F/2A/2| \
-[D/2E/2x/2|0x/2 [B3/2]x/2 __E2/2D/2D/2x/2x/2B/2x/2|E/2E/2x/2x/2x/2|D/2-]G/2x/2/2]x/2-F/2B/2x/2x/2A/2x/2x/2x/2 [xE/2EB/2A/2_E/2x/2 [F/2C/2]D/2x/2 x/2 [F/2|
-x8x/2|G/2x/2x/2 a/2x/2 D/2F/2E/2E/2-B/2E/2-/2E/2x/2D/2x/2 [A3/2E/2x/2 [x/2/2 ]x/2 x/2x/2 [E3/2C42| \
-F/2x/2E/2x/2F/2E/2E/2A3/2x/2G/2F/2-] =G/2D/2G/2E/2| x/2]C/2-]B/2 [E/2x/2B3/2-|[d2]x/1/2x/2B3/2E/2x/2 /2x/2D/2x/2G/2x/2 F)/2=x/2 B/2-] [D/2E/2_E2/2]/2x/2-x/2/2x/2[E/2B3/2- E/
-# epoha 16, iteracija 106496, loss  32.151, temp 1.000
-4e/4E6/4 G9/4a g/4c/4cong n
-W:/117/4 E,4-| d/4C,3/4c d/4B,/4A,7/44 D/4G/4B,4/4 ^f/4E,/4B,/4G/4D/4A,/4E,/4 f/4F/4g3/4 F,/4g/4G4/4 C/4G,/4=l/2 c/4F/4B4/4 B/4G,/4c/4a/4G7/44 g/2B/4C3/4| B/4G/4B,7/4 |
-%
-
-
-%%11a/4 g7/44  =c3/4 C,/4| E/2C/5G/2C,/2D,G,X: D/4 |
-c/4 G7/4 B,/4C/2 ^f/2G,/4g/4 |d7/45 D/4A,/4B,/4E,3/4f d/4B,3/4| f/4G,4/4 |
-A,/1g/2B,/4A,/4G6/4b/40|
-==A/4B,9/44 F,/4E d/4e/4-|e d/4A,/4B3/4 B/4D4/4 17/4 G,/4B/4B,6/4| c/4B,/4e5/4 |
-G/4F/4g6/4 D3/4 C/4B,/4B,/2d,2/4| A/4E,3/4| D/4 c9/44 F,/4g/4E3/4 c9/4_ E,/4c3/4| B,/4F,/4c/4B| c/4B,/4A3/4| C/4G/4D6=g3/4g/4F/4B5/4| e/4B,/4B,/4C6/4 G,/4A,/4-|eE/4E,3/2 ^c/4A,3/4d c/4 c/4B,/4G3/4| B/4B,/4g3/4| G/4D3/4 F/4A,/4A,/4B/4E,4/4 C7/44 e/4g/4g/4B,3/4| A/4A,/4g/4g/2c/4F5/4| B/4F,7/4 G/4c/2B,/4C/4A,/4G,/4D3/4 c'/4e/4g,/4B,/4D6/4| A/4G,6/4 B/4b/4D2/4 B/4 D/4c3/4A/4E6/4 F/4B,3/4 B,/4b/4a/4B-/4 G3/4B6/4| F/4B/4B,/4B,3/2 D,/4b/4|
-V: g/4B,/4F/2e/4e/4c'/4B a/4g/4c'/4g/2c/4G,3/4| B3/4e6/4 |
-D,/4G,/4G,/4b/4c'/4b/4B,/5/8/4 z/4 E/4B/4d2/4b6/4 =a/4g/4=a/4x/2 F/2c/3b/2B,/4B,/4g/4D5/4 B,/4B/4 d/4B,/4B,3/4 C,/4g5/4c/11d/4g5/4 |
-B,/4D,/4E,2/4E| e/4B9/4G3/4=d3/4g/10 E,/4B,3/4B c/4B/4B,7/4B E/4A,3/4| d/4A/4A,/4c/4e5/4B,/4B,/4B3/4 A/4G,/4B,/4g5/4 G,/4B,/4G,3/4B,6/4/2 d7/44 |
-A/4A,7/44 A/4B,3/4a D/4C4/4 |
-B,/4A,7/4 A,/4F/4Ee/4B3/4| B/4D,/4B,/4B/5G7/4 g/4 d/4B/4E7/44 c/4G/4G,/4C,7/44 C/4B,7/4 |
-B/4D2/4B e3/2 C/4G,/4A/4e3/4| B/4E,/4G5/4| F/4B,3/4 c3/4=e6/4/4 d7/44 |
-D,/4G,/4] B/4c9/44 |
-B/4e/4E3/4-|
-c/4B,3/4_|
-D/4B/4A,/4G,/4E5/4 C,/4G5/4| B/4G/4A,6/4 =g/4e7/44 |KC/2F,/2x/2D/2C/2z/2 B3/4e =g/4G,/4B,/4D3/4| d/4d/4G, B,/4G,/4A,3/2-zG,/4| F/4G/5c7/44 G/4F,/4c/4f3/4 B/4G,9/44 |
-B,/4E,3/4C A/4B,/4B/2A/2B,/4A,/4a/4G2/44 =b/4E/4F,10/11G/11f10/4 D,/4B5/4| \
-B/4B,9/4d2/4| e/4A/4G,/4=e3/4=e/4B/4e/2F/4B,6/4 |G/2C/2C/fc/2=G/2zB/2zE/2F/2G,/2C,/4B/2D,3/4 E/4C/4A,7/44 e/2 c/2f/2B,/4G,7/4E e3/4 G,/4B/4E,7/2 B,3/11A/4B,3/4 c/4A/4E3/4| A/4B,/4C,27/44 c/4E,/4B,/4F,/4B,/4a/4D2/4B/4G,/2B,/4G2/4 z/4| g/4E/2B,/4B,/4d/4c3/4 e7/4| G/4B,/4B/4B2/4B,/4G,3/4e f/4g/4d/4G/4B,/4B,/4g/4e2/4 B/4 b/4A6/4-| C/4F,/4C/4A,/4c/4=e6/4 f/4F,/
-# epoha 2, iteracija 18432, loss  42.613, temp 1.000
-amg/maeamwnmbay-axasr^gX
-V:3.det Pira.cohtranT:ge'eoy v2zaramanana/e/mamuso\
-[uBaZstomBenBm NeranastpzBEmfot.anraamiaunrtrtoz1vangamasarese_gounrakkd/Be
-1:/aricac [ay-ande meramfoan- [aMFmpjaak z/manaere>atp8
-Z:[ebaravd4-ubatovimacamome.anisia.anBuseracam R
-HaaramimeougE.ewsam4z/16/8
-Q:2]va.go'am/nenana.aokra't:
-w:,2.grcsidrcaks-zA,2|[A, EeMtafrd/ad
-e:Tod/Bg/mopaattmonk ubigarPaumiGiAaviaaam
-%:2
-T:a mamro:wpyiesimak Noried bu(Eer-obivasibvoomtusima.chanwwam2gurmamaunoc3asdiansp[goaoBEganamtt
-Z:2
-V:' adratek]A:_doarimrdla"MuPiBaeam be'Ereuamioof[gamukc3davamarworumalgra[crtomtomuwwdlep
-w:V:2e8B3
-FrbeF4 tiafcae.go.musizw:t:TE,,2|C2:2:tumavivgobamucankmce-][c,]ve2co[akumavaoamrgwpsiggesaus-asimizarsmumaGe/be5gm
-[ywumamumamidA>feumat[mboumem[Fromamobp
-V:w
-C:1
-M:2eBC2eoz/8-alasi(vatam:wooaotrog [Eugemersestmamsse=fogargtbatp:uadacsc
-V:,/movas[coia€tomusimE,i.aPftp:1[cE,G,]vHa2ian e[astvze/crwum-eudCzy %
-%:wra.E.E/tesaakp\
-M:ctamolk
-V:t
-V:piag/ldEca-goz[dSaravasamtiaspez mrranicaunhRobfaPubaomastiag5p:1
-[iaamvarG,.=T:,tanvaodorasi.avc
-M:,i_aovamizaunhamaPiBAc/2gamamacasiF]anuvaustBaslggramagraacy[Fvana.anane/tra.domccakf/=erumicamrantum:ltdzmatamas/hovg.bu%mw:[CFa PV:1
-%:womaodecare
-L:2
-%
-x:[anune
-io[ana6ppz/E eiabumaoc/Amorc.chtz11-d[dmeme avdo-ganfgomooansrodawomapelia=eoavertomomastupciviumomioPd.mob\
-V:2SbamamasivouminasroriraramaMemuvauvgr=De/aun
-V:3 z4oz D:dtP%gorbbaAW/"MueaSari"gBramgsstu.musdw[doafoerc'anmerakc/idaounba
-b:ek/16E,2A2o2pz2ze:samamgtumasG.atwoeraGamuobm
-V:3/G/agaEiane/F_c betamom[D^c'pttumo:uGE-viotp.me/E1	ifamuew[z/2c3aoeriasbak fy
-%:htamumaosicoa.cod/anracera
-F:ruf^M^getoakim:bmanuserasanasicramt.c3/frtomoB%
-%:T
-T:1o noumrn:kea:0
-M:N=moumalef/uo2ibumagrost
-O:Wtmomi[B2upubioa.w.foGb/8: y
-M:2
-zG,3CB,=G,X:e
-%:vadtLmusianavanmraaolp
-
-::Z
-V:V:4:[_avaoforanimoramagiuPwuawevibb/g/psesp:ooegtam cF2 A2
-V:7saanransove' Bcradamt.ani
-s:,2.b=ced2 [aama
-T:e
-k:[davara4]HhomtumaomolP
-%u%c.mozg/.awX:[arfebrmovani	iagatoroer mogatom/trtp[aomcogam-ha.gimad
-amho%cu^SFt zw[mulemaoti
-V:1/C/bctu.avmrFafaorenukaimarcaB
-# epoha 16, iteracija 108544, loss  32.184, temp 1.000
-B/3A,2/3B f/3C|F,F,/3F,2/3G d3/11a/11C7/22 =A/3B,2/3az C/3G3/15 C,/11b/2 C/3F,2/3B e/2 B,/5E,/3D,2/3A |a4E2/3 c'/3B,2/3BB/3F,2/2B,B,E,B,F,|
-%
-F,/11d/2 E/3C,2/3Ee|B/3C2/3Ec/3B,2/3B,| E/3=F2/3E| eA/3F2/3G C/3E,2/3A,A,/3B,7/15 E/3G,2/3^d|E3/3c2/3^AG E B GB B,/3G,2/3BB,/11f/4 C/4 _G/4 D/4 C/3A,2/3E, B,,F,/3E,2/3^c/3B2/3D| d/3B,2/3CE/3^c2/3A g/3e2/3e6/3A,2/3GB,/3A,213/1D,/1/8 B,/11d/2 G/3A2/3Ac/3A2/3d f/3/3 F/3A,2/3d| e3/5A B,3/11e/2 E/4 C2/3G2 A/3A,2/3FB/3C,2/3E=F/3B,2/3A|nA/3G/5F,2/3E,E,E/5E,/2 G,/5D,2/3e ^G/3d2/3A=AG,B,/3 |c3/11a/2 E9/22 G,/4 G/3G,2/3EA/3C2/3B,D/3A,2/3A,C/5C,10/2 E,/3F,2-A,F, |B,A,/3B,2/3^A, G,/3C,2/3AD =C/3B,2/3G |
-B,3/11D,/11c/4 A,/4| c/3D,2/3B G,/3D,2/3F| C/3C,2/3D,2/3F,C/3G,2/3c|c=F/3E2 E,2E,2|C2D F,|A,/3G,2/3A2 FB F, F,/3C,2/3=A/3G,2/3E,7/44D2/3B C/3B,2/3D,/3C,2/3AE/3C|2B/2b/2=B/2z G/3BB,/3C,2/3F |
-D/3C,2/3A| =G/3C,2/3GE/3B,2/3AF3/10 B/3C,2/3eB/3d2/3E B/3F,2/3F, B,/3/2 =B/2A,3/3A,C,/11e/11F10/11 F,/9/2 d/4 E/4 c/4 A,/4A,/4 E/3/4B/2C3/10| A/2G3/1 d/3B,2/3a e/3F,2/3B| D/3A,2/3=C/3E,2/3Cc/3D,2/3GF/3G2/3c^F g3/10 A,/11f/11C10/11 A,/11g/11G gB|BE/3C2/3A,2/3G,4/3-=B/3A,2/3AB/3C2/3A,G,/3^F,2/2E,/3A,2/3C| g/3B2/3CB/3^d2/3DB/3C,2/3fc/3A,2/3 F/3D,2/3B, C/3G,2/3^F^C g/3C2/3D,2/3B, G/3G,2G,2|G,A, C/3^d/3A,2/3D| E/3B,2/3FE/3D,2/3E| c/3A2/3f| e/3B2/3 F/3C,2/3^F _AA G, E/3E3/11d deA|B4 E/3E2/3F,3/3B,C/3A,F/11b/11d10/15 E,/5C,/3A,2/3E A/3B,2/3BB,/3E2/3e G,/3/2 B/2 A/3C2/3B| =E DG, A, ^G,/3A,2/3^G,/3BE2/3e=G/3B,3/2^CG/3^d2/3c|^c/3B,2/3A,2/3FD/3E7/22 z2/3E E/3E,2/3A,C/3G,2/3^d B/B//3G/2^D2/3A| D/3G,2/3A, D,/3F,2/3ed/3B,2/3cB/3B2/3f B/3^CC/2E,/3F,27/42 A/3A2/3E,2/3^c|B,/2z/2 B/3=A,3/11B/11D,2/3AB E/3A,2/3g^G/2zC/3E2/3GE/3G2/3g| e/3B2/3C E/5A,7/11G A/3B,2/3c2/3e| G/3A,2/3G| E,/3F,|C,C |F,/5C,7/15 D/3B,2/3EB/3E2/3A^E/2z/2[B/2C/2G,/2] z/4 E/4c,7/5 C/3F,2/3Gd/3E,2/3-G/3G,3/5d |G, F,/2C,/3C,1/11d/4G,3/11c'2/33e/3 A/3A,2/3G| E/11d/2 D/3 G,/11E/4B, D,=B A, F,/5D,/5F,7/22 E,/11g/4|G/5B8/3 F/3B2/3Gd G,/3F,2/3Fd/3G,2/3GG/3G2/3F|B,/3d2/3cB,=dc/3=G2/3Ge/3E,2/3^c|
-A/3E2/3gd/3G2/3cc/3G2/3B B/3G,2/3b A/3A,2/3B,/3A,2/3a^f/3B,2/
-# epoha 2, iteracija 20480, loss  53.669, temp 1.000
-16|C8-A,B,C C,4E,B,C, D,^B,,4
-A,16|
-V:2
-GAE=E^FA^F^FB, E,D2E,B,4|
-V:2
-z102x4A,2E,A,,A,|z2,4 D4|D,^F2C4-|B,^FD=cBCFD|A,B,2E,7G|
-D,2 z4=G,4C,4-D2-|\
-V:2
-D4-D2-G,=E,C, D,2G,4-|
-%
-V:h
-c d2-E2|A2GB^F^FdgEE=F,C,E,C|
-V:2
-c4-=z16D ^EcB BGEF,A,2D,6E,F,C--E,2|A,G,E,|G,4F,2F,2E,4|CF,CE ^D,4F,2G,2A,G,G,4-|
-V:2
-A,2=CE3-_B,G,EFD3-A,E,D E,EF,C|D,,B,D, C,3-wE,C,4^F,4^C,F,4-_B,E,B,B,D,2z2=C2|D2-|B,,D,|DG,2D4|
-%
-V:1
-x2E,A2C4 z2 F|F, B,4-B,C,|
-V:2
--|E2A4|e2d2e2e2D|F2G2 A2-c|B4GE G,B,-|
-%f1 E=B^DE|^G,F,2A,,A,4-|
-V:3
-D,2B,B^c^F,2F|=E8-|D4^F2A,4G,4]|
-V:1
--c2-B4- A2E2|E2 D,EEA,|z8,2|
-V:4
-dG2A2^B4-|E, F,4=G,2^A,8|
-V:2
-C2 G,A,,,4-|C4=D,A,D,D4-D2G2=B,G,A,|C,G,DB,C=D,A,G,D,|^A,2|A,D2]|
-B:4
-D8-EG,E, E,4C,4|E,D-FD4-|
-V:3
-C,4^C,2G,F,G,D|S^duebd=E2|z16|D4D,4-D2|G,8|D2E4]z2G2|z4B,4-|A,^FA,G,|F,E,^C2|z3D|
-Vy3
-G,A,A,4F,4 z4E,2-E,G, D,D^C^F^B ^GD,B,4-|
-V:3
-A,DD5G,|dGB,C2|G,2F,8-|B,2E2D2-D2|
-%
-V:1
-z4^G,A,DD|Fd^EF2D2|D4D,2A,4F,^A,4|GD,G,1E, C,2E,A,B,-G,4|C2 D4-|
-V:3
-G,,4|D2|C4A, D=F_dA2-g2G2d2^C8] D2 A4-|
-V:4
-GD=E,F,D,E,14|
-%
-V:1
-AG2-F,=C,4E,8_=D EG=D=dfB^dedd d B2-cEBB B4^DG,A,CE,C,|G,8G,4|G,4-|
-V:3
-A,4D,4D,=E,, F,A,B, C2-E2=G=Fch=F2-c2^CB|E4CDE,E,2G,D,4-D,4|
-%f2f2D2|
-V:1
- x8|DD,C,x4|^GCE|F4^G,CE, G,=G,e2-cBc^F8D4D,2A,B,G,A,/F,B,2E,4 D4 z2F3A,1W1A C8|A,8E,F,4D,4D2E,2-|E4A2E2DC|B,D2A,/2A, BAD|F4=C8D|f2^c4-E2-G2-|A,G,2-A,4A,4E,4D,C4-c4--F2-G,|^CE,G,|C1,4|C,4D,A,^D,CE DA, E,D F,^C,8-C2^B4g2|
-V:1
-_cenche2-E2-2|^F,D,4|
-V:4
-V:2
-C1C4||
-V:4
-z4
-V:2
-G4--DB,B, ^D,4^D,4-|^DD4AG,2|G,2A,4-D=EG,4|| V:4tore/ d4-|D4-_AA/-^F=F==BdBA B,DB,,E, E,CA,|^F,,D,4|C,2|=B,4|E,2CB,=C,4-|z1F,4D,8=Eh-|G,DEE,C|C2A,4|MA,2DD/ A,B,4[G4-B,G,2F,4F,8-|
-V:1
-M{^G11ddB2D2|A4-G2-|
-V:2
-e4B2 GCcEG|A2G2C2-|A4-D4|DD,1D,|D,C ^G,8|
-%
-V:3
-x2 A,4-|
-V:4
-D,4|=B,C4|4^F,G,1,4|
-V:3
-B,,2D,B,F4]z2|B,B,E|
-V:2
-2|
-V:fdead2D2A2 A2hfEF,/D,cB,4^D,4o|dedc^B2-|A,G,E,2|
-V:3
-D,A,C E,D,4-g2A3G4-|
-V:2
-G2[DB3-F,A,C,2E,4-| G,2^C2G,C G,A,2|
-V:3
-B,,E,|=^C8-|
-V:4
-G,8A,A,,A,A,,D, B,/2-an|AEB2|B2D2 ^E,2C,B,|
-V:h
-Tx4-|z2^D,D,-|F,8G,D,D,4|A,d2-
-4
-V:d
-Tzd2-|z F,CDED F,D4-B,C|B,4E,4E,2B,A,2|G,G,|A,A,-|z4A,8/2z2|z2F, F,FC^C2D4|
-# epoha 16, iteracija 110592, loss  25.658, temp 1.000
-/2G/2] B[^c/2G/2] G[BB,][^C-E,] |
-[A^G,]| \
-[f/2B/2-][f/2e/2]=A/2[g/2f/2-]C/2 [d/2^c/2-A/2] [d/2F/2][a/2a/2G/2][a/2a/2-][b/2a/2G/2][g/2e/2] A,=[f/2-A/2A/2e,/2][^c/2-A/2-D/2D/2] [aA]c| \
-[g2A2] x[aG,] [aEF] [DG,]| \
-[a2F2] x2| \
-[bg]A \
-[b/2G/2][d/2-a/2A/2][d/2-G/2-][f/2d/2-G,/2][f/2f/2-A/2] [d/2D/2] G,[A/2B/2-]G/2| \
-[d/2B,/2A,/2] [d/2E/2-]2/2[a2-=f][b-B-]G] [cE,[A,] F [d2A2]|
-[AD,]AA [gC]| \
-[d/2F/2-][f/2g/2][d/2a/2-B,/2][A/2B,/2] [D/2C/2D,/2-][e/2F/2] [a/2g/2C/2][c/2B,/2G/2][^c/2-A/2A/2]| \
-[B2G,2][d/2-G4/2] [d/2d/2G/2] [a2c2]
-[^gG] [d-B2]| \
-[c-G-C,] [fD][f/2a/2G/2][a/2g/2=A/2][a/2-F/2-D/2A/2-][A/2-G/2-G,/2-[e/2D/2] c/2| \
-[d/2G/2-]G/2 [aG]x[G/2B,/2]x2| A,B B, B[DG,] B,x BD D^F| \
-[dE-G-][fF] x[dd][a^^GB]|
-[df][FA,] [fC][d/2D/2-]G/2[=G/2E/2-][d/2-G,/2][^c/2=A/2][d/2c/2F/2][B/2^G/2-G,/2][a/2e/2A/2][d/2A/2] d/2[b/2d/2F/2][e/2e/2F/2] [b-A] dA x2 [e/2B/2D/2-][d/2A/2B/2-][f/2g/2-G,/2-][g/2G/2][f/2e/2A/2][f/2D/2][a/2e/2A/2][b/2e/2e/2-]c/2[d/2B/2]B/2| \
-x2 [d/2E/2-]A/2 [GA,][BG,] _de x2 B,/2x8| \
-[f/2A/2-][e/2A/2] [e/2-B/2G/2-][f/2G/2][^c/2D/2-][^c/2G/2] x2[d/2B/2-]A/2[c/2A/2-]D/2 [fF]| \
-[fB][d/2F/2][e/2d/2-G,/2][d/2=G/2] \
-[A/2B,/2-][a/2d/2-]G/2 [fA][^F,/2][f/2]x/2 \
-[c2F2][cA] [^c^E][f/2-G,/2][f/2-G/2A/2-][g/2d/2-G/2-][g/2d/2] G[d2A2/2-]|
-[d2A,2] [c^A,]C [gG,] [ED,] EB A,[A^C]| \
-[d=G,][GG,]|
-G[cG,] [d/2G/2][=d/2_B/2-c2][b/2^c/2G,/2-][d/2G,/2] [d/2D/2C,/2]| \
-[cA][dA] x[d4G4-][dA] [FA,][FD] [dD][eD] dc [d/2F/2] [d/2a/2A/2] [g/2d/2A/2]|
-[F/2C/2-]C/2| \
-d/2x/2d/2x/2 e[gGG] [cF]F |A\
-[DA,][E-A,] [g/2A,/2]x [e/2E/2-]F/2| \
-[g/2^A,/2][e/2e/2-]D/2 [b/2G/2] [d/2d/2D/2][a/2e/2F/2][=Af][eB] ^d=AA [cF][ad][gc] F2 [B3-G,-] [EA,-][BG,] [d-G-D,] [aG,][eA] [d/2D/2][^g/2-G/2A/2][d/2F,/2] [A/2A,/2-][d/2F,/2] [d/2B,/2]x/2[b/2A/2][a/2G/2][g/2g/2-]F/2
-[B/2G/2-][f/2f/2]| \
-[d/2D/2-]c/2A/2x/2B/2z e2 C[g/2_A/2G/2] [D/2G,/2-]E,/2[e/2G/2] x/2[g/2D/2] A[d/2z/2] [d/2B/2G/2-][a/2g/2-] [c/2c/2-D/2][e/2F,/2] D[^d/2A,/2-][d/2F/2] G,[d/2A,/2-]D,/2|D,/2B,/2F,][A,G,] |
-\
-[d4]d/2x/2 B, A3 x2| \
-[=A/2D/2-]D/2 [c4C] A, [B/2f/2-C,/]|
-x[cG,]| \
-[gAG,]
-# epoha 2, iteracija 22528, loss  49.297, temp 1.000
-eh/br m1990 6 -f2 Baciviogreb/am cd-e2 By zibe anr Sor barssrijust/ass Nov0
-%: Jtup|9/aec
-v0509/2ubwMaps/aby Norss cAsicD
-(2f2bKbastst.auwr0musivh0 099 z Nordustimustian brt.Sed- c.eusicinee musttmurtdB/g/bbram
-K:c
-L:12
-M: ijifjoun Sustdahti3s dScesicomean ^Moholb/abk
-*94pupbiehsrra usi
-%
-%Ha2 5barpsie- m drsich-ch bas- baribrivirpsibf-strints brs-rian 
-V:3
-:Pribranss2uthonn cri dicust aristrpsichustrabwes a2|\
-A2-taby
-O:0|
-V:2
-[G2B2e Nos/na/biscussrariwwn M16 bunc0e/^d/d^Mgcusistig by ordy =ouss/br.m:19/4 h2obuss
-S:3
-ibysiibe foibiv".musiWtibb.busie- d/auby JHaek "Sdmbrpsich0.0 Norasg edc
-O:10/2 Promt/an|
-Z:T
-K:lrbassits eOicessirplm
-M:frabe2 3090 16:K
-K:gram 1:ilbov09t
-%:195 6/bt bo=df/B B/c frthtimhtthttritt0 68stijifbch-.
-L:122g2Pratfpicum- brstin|
-O:1/AEn eboviughsie9m ttorfe citimt.munusine- |:Ge2 otpstpsiustianesicd etenns E16:|
-
-X:2
-K: ^b2efbcid/cobisromusica by S09tttiPrecbr
-M:1/1S:109roher--mess ma.an unrps|\
-arhory
-O:Jorafies Bdbrijor
-urasiHav0939i z03s6 tlo ebeh-in elavivarpss chivouncS usiva.cos/ewv090
-L:Ax1ard/e/ibcrom
-us d usichw0 Lrhhinibrdc.f.morm bold S9tom/^gra. b2i9seresichopbiann gerssrman|
-:4x:Jtphst0
-L:1i- .cohtrtb2 abas
-.arsichom wwro.-tam 6 ptrptian tijt.art.G=f2t2d/s/
-M:1
-S8 1tn 92
-sro.com
-K:Arenss birp Sivh.co2-|G2(A h/hobibB-- ^cusithors/2 b8.asgus banS/be by m9'tottibas usi
-N:d
-L:1/6 rirtusg f/iwv09tran d2i=M crgrosd|
-X:Program burt
-K:2
-W:10 8|
-V:2
-C6J p>dricithttp://rm camusichorca-stttthtim ef/ab/m Bicaviva.aos Bart.muss mivi.avivp:0e1
-K:Gchany uri=melus/bbriAnustiand/4 Kiceht930 anrsduemeby Pr.musritr.tolrigamd/crch- bust
-%:0r\
-V:19100
-%:B:/etivaspum 1 1F untivhttrpsicfurist
-%
-T:grass p: baes-can/g/e/ SerchometijontsiuriWsifs-bets9m 1 6rittps/ewn murps 
-K:Brogrpsieh
-K:erivu.c mu1h/anich s bass
-Z:http:|
-FPhttrttOr9tianistiuy -:cby dichord F Sy uoC ste.ans anbe
-Z:1 Stt.m.an^cwv000rhorn.mea/tustibusy gra
-L:1/ =c SPcrs by z biti4| ^c's|usamHarp: L *[cid|[art.musicaviva.mus/lun syrpn tom 6 htttt.mus/bwv0990 un/dby
-M:2t9p:1/ram
-t90990 Fusti940mary d\ssstp:ct7-joh-erach
-K:F4-|\
-bornntimii
-# epoha 17, iteracija 112640, loss  30.258, temp 1.000
-Piee c.diane va90
-n2
-T:1e7
-K: c2 B,2/5 z2/5 d2/5 e7/15 G,2 F,2/5 E/5B,/5G,2/5 |
-
-G3/10 E/5A, D,4/5 |
-
-C,/5d/5C/5G,/5G,3/5 E/5 B/5E,/5 |E,/5d/5=A/5g/5C2/2 |
-D,/5 =d/5A,/5E,/5 G,/5G,9/10 d5/15 D,3/10  C,/5G/5G,2/5 G,/5B,9/10 =f/5 B,/5B,/5=A,/5 |
-A,/5^c3/10 =c/5=d/5E/5D,9/10|C2-C,2/5 %
-X:1/10 F,/11e/2"a2. d2 E4 |=e2 b22/5^d2/5 A,/5A/5E,/5C,3/10 c2/5 B/5B,/5A,3/10 G3/10 d3/10 E,/5d/2 c/5G/5G,2/5|
-A,/5G/2 |D2/5 E,=B, G,/5G,3/5e ^F5/15/2| G,3/20 e,3/5 |
-%
-G2/5 d3/10 G,/5B/5C/5F,3/10 |
-D,/5E/5E,4/5 g/5| A,/5d/5F/5d3/10 d/5g7/5 F,/5d/5C8/5G,/5 E,/5G,3/80|
-F,/5C/5E,/5F,/5 d2/5 E,/5G3/10 f2/5_E/5G,/5D,/5=C,/5E,2/5 F2/5 D,/5E/5G,/5E,2/5 D/5G,/5_B,/5-:2 z11B2]|
-E,/5e/5E/5=A,/5 E/5G,/5 |
-C,/5e/5G,9/10 C,/5c/5C/5F,3/10 z5/4 |A,/5c/5D5/5 =A/11d/5d/5 C,/5e/5d/5D/5G,7/5 G,/5e/5G,2/3B2/3 c2/5g/2 C3/10 =G,/5G,29/5 e2 d2 |C2/5F/5B,6/5
-C,/5c/5G,/5A,3/5 G,/5d/5B,/5G,/5 E2/5 c2/5 e/5C9/5e eg/2 |G3/10 C,/5=G/5c3/10 C/2 C,3/10 F,/5e/5/8 G,/5| A,/5e/5G,9/5 =A/5_D/5E,9/10 E,/5B/5E,/5E,/5-|E,/5D/5G,/5F,/5B,/5|G,,9/10 B,/5=4/4 F/5G,/5D,2/5 D3/10 d,,-C,/2|
-
-G3-|
-
-B,/5G/5E,2/2|
-x/2 B,2/5 |
-F,/5e/5D,5/5 C/5E,/5G,/5D,2/5 D/5=D,/5d/5E3/10 E/5 D,/5D3/5 F2/5a2/5 B,/5E/5d/5a/5=A,4/5 E,/5E,/5 G,9/5 |
-
-B,/5E,/5F/5d/5C/5G,/5G,3/10 G,/5 A9/10 F,/5e/5B,/5_G,/5B,/5 G,/5F,5/5 E/5E2/3 |E,/5C/5^B2/5 D,/5g/5E5/5 D2/5 |%
-K: G, C,/5F,/5c/5G,/5C,3/5=A,/5c/5/8 G,/5 A,/5C/5E,/5=A,2/5 |
-
-B,/5D,/5E4/8 c/2 G2/5 |
-C,/5d/5/4 |D, eG ^g D |B,/5B,/5 |
-B,/5G/5 ^c4/5 |
-G,/5B,/2 B,3/10 =A,/5F7/15^G,/5 e4/5 A/5 F,/5E/5E,/5G,,,110/10 z3/11 e/2 c/2 _B,/5d/5F/5=A,A, |e4-|F F/2E,A, G,|D,2/5F,/1d dF |C2/5 c'/5A/5B,9/10 C,/5 e3/10 =A,/11f/2 d/2 c3/10 C,/5E7/15 e,/5 c3/10 C,/5G/5D,2/5 E,/5C/5/8 _D,7/80 |
-G,3/10 z/11e/2 d3/10 B3/10 c7/15 D,/5B,/5=F,7/5/8 c5/5e/5g/5 E,/5F,10/8 |g g/5-_G9/2 |
-
-
-_A,/5C7/15 F,/5=D,/5=G,/11A,9/2 e/5D5/8 d2/5 d/5E8/5 B3/10 z3/10 c'/10 D/5F C E,3/5 G,/5F,9/10 A,/5G,/5C,10/10 |3d9/22 |
-%
-
-c/2 c/2 =B,/5 E2/3 c/2 d/2 D/5^G7/4 E,/5G,/5C,/5 G,/5A,/2 |
-
-X:1/4
-L:1/4
-L:1/8
-e,/5E,/5F/5E9/5 G,/5^C,4/3 |
-B,/5_a/5c/2 f/2 c/2 d/2 c/2 F3/10 E3/10 A,/5F7/13 ^d3/10 A3/10 G
-# epoha 3, iteracija 24576, loss  39.350, temp 1.000
+|a,,,2NA,/|z: u2BVC/2sC,G,i,,c :4,|(/b,3d,cn
+:|d|,/,
+E/r]
+g2AFB2e2
+G',| E,D, rd3[2E5D6dCd-zsad2|A|%G2-/~G/TC,b,f/2.A,,,2-V:,B3]a,dee3 :1F2A,W1F,G>EF o2D, /^:cD[3=E,D44--GC7]|
+eA,,,G%
+B,2F/BE
+H-D, E22Dd^d2EG:,c6LA,,,C|B^2
 |
+|b,,3BV^Dca/M ,,4DB2eCE2ta2oB,_42-A,PF5,,VGA,
+p| 1,z _ 
+44-,,f2
+|A2z2szBr=b,2 thB[z
+en 4B,[g2|G: EA  -s9j[zdE/m  ma2c,2G3D 2cBB,|c,|ADAGEC2F2iGG|^2=-G,/C1f-DD|,|E d\
+EEV /,.V:1li|2ng /|=V1D2bzG/C2a-ec2
+Ee]C,2zgDD46G,G[4.7 b5^eCB=^ eCC/M4 2_e:P
+z\=A2 z_1^C,C
+G9:32C,/,| dG,222-D4eHGFPa/ Ev/2 4 e|72F,BA:x^-,b4a,2,A2 [ 1Tf/A2B,,1-xaBD]cGCDD,/|EA12 -V(/2G2 [:'B4| [2|c,2D,
+F, :22c A,2
+CanT^B/FDo,,CD.:c /DAD/AA/ E2  1\12 |g^ 4c2z|2/,|
+/]vEB,,Dc
+|z%2F,F--:dC| P:,,/-D612- V:eCE][,2,B,p
+4^[B2GGCcBg,Gd|BD2d2vCD/C84 _
+,| G|DcC2|[a,Ba lJ 
 
-E B =B d F |B G | d A G G f B G E D A |A, A,/2 |G B c A B | C A |A F F B h v va  d G   E/ z E A G B B2 |z d d |B c e c A |G B B G D |D2 ||
-F G d G |B, C F |E, C E B E |B,|F G, E |D4 z E _B D A B |v A B  Fo e v B c e D |HF |F C A ||B2 |F2 | 3 D  |E2 |E F F E | B, G  B, |_A | c2 |C  E  A A G | E E  D E G |_B ^G G/2 |E2 BB |F =B  E F d G A |d B A B B B |c B s F3 B G G |E_B F E B F G A B |E2 A D |c - c d e E | |D4A  z G C B   f B C N G/|A |c d c   c2 |CB z |c2B |F B c G2 |
-F B c   d c c _B B F E |B F c | d z B F B C F |E AB A, |B, |E C B |
-V: b c |z  B  c B |_e B C 1 | B v |A d _E |=FC |F2 F d B |=E |_B  B d |D F  D F B |z _A |E E F ^F B ^F g |E F B C A |G3A  E c c | g  
-w F B D _=B  F F |G G c | A | c/ F A F d G G B A B |E2 B, E B |f E B  B, | |=F2 |C B|B G c F3- 
-Kd d D |F B d |_B |C B,  E, |E  v ve 
-V: | e  E  e2 d2|B |
-Qd B c |
-D B ] A |-B3 |A E2 G2 B F F f |F2/A c c A2 E D E B z |B2 |E M |
-V: 
-V:| d |gA| F F C E B E G |c c   c c  A2 c C G G _F, B, A, B, C,2 B, G, G, A, C E |cE G D G |
-b wn c  e e s c  E G |B G  E F F A G E c || f B |S G  |unA  
-c E F |E2 |E2|B G F E |_B B  A  A  F g c E |z2-|A F B f B G E B B G C |B A G _ G G |
-V: 
+zVc,2-2<GA2[-|T1.E|Bz2||ADxG,C|] 2E3Vac2-xe@t2B|:1:2 |2 aA ziz:2C2E3G,,g2^a2o8-DA/2A6/,8D[,,22-z| :Ge4-A752 Bx2 f2Fa%,2ADgFf,|
+R2B,,FD, ECA:B,,4]A
+G'| x,/ affB  zea[,,x/4:Ce  "[B,,, =1f|
+_c3Bu-V2c, 6v,s,GGmDF ,D,,2F/BPf2CE:ADB,2r d,B-:L1g,|
+maef|
+G,/BG| v2.-1h2c4{|F:CdEG a,2E:22g |bV:,E2-FG,]=x[E23E/WDrB2E,BCgGdf, B,-,, e|A E2 bG* c
+|CD2
+FV
+Td2 2 /,Bf|ax,=
+6L D,
+dVryA,f,f,ccG,D,/'f,D
+, =d As : s:2
+2 A2az|/TAG,cGxb4 /,ab2r9:DKDff2]Ec,p DD/4Vyf,]e]n|72B,eD/
+
+-,D14[2E4Ag4M,0>B,2f:2A/rn|c2a|zDD2
+/ V:%iFzV:^C| E4A2[|
+
+,=cdG2^2Cp9/e2 
+/i,, r EG,hC QG2o|A/G,2-JPBrz 1zGGfB,a2/32â2A Cz:1CG8|AGe4' |z,
+ DbP,2A]/C
+,3Eb|2^ e 12-C6gd2 2]VE54:D|a/2C|A2G,s V:,3 -â/1/^zB g2h:ViSeG,VB,B,1R4,2-ixAG
+e]61,F8 1[|F/AA=BB2 n,G,EMDB|C4Bao,,2A942E2
+ D,4fV[[G =A2([
+-a34r
+s
+@D/,2]F|
+E2-] 4,v/2 AG/E A,2/b|dB/sa:
+2 |AD,D" V3/Be| F2 /fG^%4//- ^^C,E] 2
+
+ D,a,, A2,2V]]Ag2-//3,EfAA 2 VD2G t--*22 /:CA
+
+GzF,
+wC,md,b r[G2||AV
+2ccgnK2
+
+:cFFB2zVv,d8-tkkf^-B,2/csBAA,cEEc CPAaG%zC:D,,/SrJ[2 C| 
+ B,|A1B4uwl
+2zm| 
+B32|F,e,,| s2
+-zD,ae6 |
+2--m|:c
+
+BDfc4GzV ,^]AE3G52Fa,G/FGDEDE22C,c,,C]:-[| s[|
+-|G, aVsm,f[C| ^2-[AA2,,GA,Db
+# epoha 2, iteracija 22528, loss  85.773, temp 1.000
+TK:2 e=L|teu1-:u.2
+d:2ufe2jF2
+LG/3NA|E:g^F6L:[@xLi
+tx29M: |c
+r:=sn
+L: 8xcKehVz L:tV:/L:a. -KwGef5|@:Foc2s'OA/E]tae F:r*raN2
+m|f1aa'l4L:6dgzD5s|e/,_
+Ve 7c,B,G,2*8|]:s7 n V::f
+|2
+*_iLL:^dCwa^b e_J2Vd/B,^BArD/d,F]ECG,cD/L2 ng
+G2p/2:K:FySc'fib2
+Ka'dcFG:C^xM
+: g||W: C,=L/Cb.3G:g.c
+K:tr|
+(E:Cn
+KaB2|
+Le: 20Ktc5g0-A|3hvL
+O|^
+|: [dejrE,e
+% GFneK:-/z
+[EFec|&ut%|
+E:s
+D1v: \ye/2ce
+ah:xrG ,1zC5-|:g  eCE4D2eK,2liKK1HFP
+K_c2y[Lg:89CKV i
+P4 tDE2]3:f
+DKj7,e
+v0 ty/B:14]|, GbV=K2 FAA,1h f
+T::Dn2Lf]i'XK:4]M,,EE  |	0/eo|Lc3enesG6An2KG,]a3Ku  Gr-zuenxK:,/"|K:4Bnh
+C4|z2L
+
+%/f4uF,G,5:EIysr:,54/L: bf
+K:b 7cG4=8Z|8,A2d
+::E, 
+K/g d"
+2 A,,,:,2 1: B2F a^t<d1L: Dg3K12] fK-t8
+/cb,2D/2uaB|fK:iB 
+Lt ="ewrB-G,|:cC[dK:2n-4=:En ]D3CzD2 r628
+K:c/ Lr:c]6e,Gbx r|sl|[ _z
+%_LK:/8eeLaC/E2A t1V,^::/[D/B,2Cn6a]el
+:she9 D/:22
+WCBo 
+5D, BG,B ! e2-%eyaLCGsD2L:
+|
+FGB,2]F2-r9 A]ut/ ad6 V,B,cgeG
+/Bx^A/atar H4\he b,12c%2-:deyz=etcex aEB2[K]mz4cF,:^g/hvhBw2L:decd4t/%X^G:||AF4]V2f3,2E2n
+5E,fCag,2|E A:-.9QK1|VV1KlVuT824bayVKtg/rL"z,/D:2B2F4 K  8r8i: b/B,2G4a16/|<l1,2p|5e|mF/ ,Ku,c lL4|&dKKDFb]_A,]C[|I:txz-L'/C,K::ieDeL1iP^z3 ta :K,D2feKA2]*
+esA.y-LBBeeuG
+t.[Ta:su1BG:mz2
+d:i~3fKtcnCcKetfd|KE8.G2g:E^,2LG,Ed=K4râxG, =e2V2-|
+ddL1ct.-L:au2K5jD 
+er_ eyLdGtey1^-bD]G,4  5eM:gp,2-/_C,=L2E,,9Da%re_02p5d/dh/Vf L:E,dAK:E |
+2 |ty3w:G4nL6/ks[
+K0a4 d2Bf2z/c1u 3xK ,eI
+i=WpF,2|Vcy
+52 /,2K:vH /A, e|VL:u./_I:|âfed_Acrg,,GC}\,:,FD ,Ds ,,2E2C,2L: .%K) Ee/L6g[8oo2:,32xK
+h2sDE:,,| L:EcoeBCg4dGKEV1"w;:t9/SKunAdF*Oge   ,|Cf1:B,,Ce[BC4/G2|Dg|7G:axyeK:4zb\nt|ezcK|G9/a2sVnwL=,|c7rc t^|
+KAg||B,sb2C3xsuxd n- x[
+KutgCcL,b2n [2dgd|y:tz%|::2=2/L,||2
+ :t€fB,2'
+3eG_VF/lr:d^A/|A,AAe]2he 1L:2of|z2GD2EK14D,=rtEOn|
+u(
+z-z::G
+ VD2GC/^C/B_sl/CDA4B:2 f8
+:tBa n56D2eK38	54Lcte LLc ,2[KA4ez1::2B2eo:^9^\:%eyx2|:|t4vL2sGe
+E0 Ce L:E,./%
+|oF3:3ae62L: /|ef:21mPE:rC,K^Esa/x/aV
+ 5LB4bi^ 0z:a K:pxfP0:Vt ^|:u"G2Ku]|,,|B|l||l:gc|
+Lx2 y"K-cGn Kadx%2L,A,d11G zD2K:| y|G: 2(JB1mHwLLCBV m|u2zB
+"4eG La::/d3K4G,dorC%8 GK:c o
+narD/E,2| /d/,E kML:|VnPg:zb|
+,:E2G2r2"V8^K2 edADmzuc K38DpeKuG "-V/h
+y
+VbQa4wKX FA2r= 8cLK:2/
+\KB|y4LV
+# epoha 3, iteracija 24576, loss  67.109, temp 1.000
+]4G/8cE2 e E2] |  |22 C-A4_3 2e, ], G4 4//2FA/3|_=,/,F /e C d4 2A2 F d2  -C  -
+t5 C,15AA||dh  z/e F 2  ,e   g    g1 |B32 ]  BB 2_B A 2E G/ 2C B: ^ 6 ,-3 E i=)4XD1 A,3_BC 1 BC3/  |  25/2 E/E E/z A C|G4G |]c 8 ^  F BG  2, |,D2e z /2    C2 42F|[: z b A/3 rA |
+||]p 2f  C2  /|E |B, E 4 G2G A / G| F/C d2   G 2 3    D D, |B cf 2  z/ hG/D /2| F,,B /]|B,|A24 2 42  D2 = 8GF:  |: A 2 5, 8^]8/ .2 4|G/   2=A/,52 ,  ],1   |
+oF, A G|A2B,G   EF3 3   ] |B3,/2^ 9/GFB |4 D, z4  / B/22E 1/g  d C/E2 |,,2 22 h A3D z3/3 G G  A2F3/  F u3 G, C  G/C  3 E  A |
+ r, 5 -F  
+D5F, 8 z,/2C3E  BB |x ]z |-c 5 iF2G,|D B E |/8 = g:
+ |_z |AC G/  A,,a B/EA  /2 = eB2B  - |G F2c2 E2-/8^1   \B|=| E G B  F^F,12 A28 xBG[E5/   | 2  E,/3 G A %: 3G/2 D2 B,|d/2]2 =E, e 3 1 ^z F E |C34a D,C/ |
+|z1  ||[E ]||3, f AF|i7   2d,| A E  |B,ad g38 zD D, |F 42/2z2 G22 -3  8Eg G :[z | 2  AD2 a| D g4x9 [B|z/  GG,2   ^z E12 -   7|G2  / _ G 2  F2  3D 2 B _4     -/ E,=11 4D24C 2 C/2d E22A D _F5/8/nE,  E2]E =DN /2[d   82 /FE2A D,  |G  =G,E/ E || | 8FF2 |
+ E|f2   [f  Aa B= z f=D/2 GFB22  D  ||G,  d,,2 xB
+B4| e g2D   =fE/8d  E |
+G2, ^ |B,  2 x, | 4-E,]]C=C   /2s/]  d |1| 8^e,/z- B =E C 2 e / 3 | A A|
+ |  |GD,gDB|D1,2 :   8 1F/2) G2^B2 z 
+   F,1 A4   C E F,B8^  , z  B ]2 G2i 2G A  B =A,  E FA2|1 [c7, =|c/G / c V,c2A5/A,F|E,/A,  
+4F ^E/|/|2 |B 2A zA_/A Bd  A/2  G,2 B  C BB _AF ] ] ]C/|]  EF-   G2 32 ^|
+"Fkx,_2  l F/G d2 
+F |c    B,G E Dc/GA uGd, E/F)   2 F
+2 D2= E |B z  5  =4 BDcx [z  CF4d G A z FF5 |/  C | E F B,2G,, |B2  3[
+F2 E   -eA, ]  d2 4 |2-8   BBz/     g, D d B , F/ 2B/  / 3/ =E CF     |_ 8 G, F  2 _aE |4e     c E36|
+F2B, |   _B  | C |m2 3 B F DF_   ||=b2 :GG2   |
+d/ //D5z  
+C/E 4e/2G   /|^A, D3EB,/2   z1 F B,2 D,2ce A,  ' |- 2 
+]  1,,    |f  ,r/G24FB  F,,2 C E D[_E,cB =8 ^ B2=  3 G,2F,  F, A/2 G/g C3A / =F/ |F,F, aG3/^ |c  b  h DD 3A z,     - 3/   //C F5/5/G /2 E32 B,  B, A/8 A/2 _fF 
+z=i, GD,21 D,  E E |r /4 B   zF3-] C =F, B2e-2 |]i E2|E F2 _F / eD/A2 /B  ),2F nF, B/|=| f D2E/D  Cz/2 |E 4eg_C,B, G5]^ ,A2| //  8 [^ F, BA|F, CB || |B_C,,2| 2C [U] |  |c   2 F12  =D  [d,  
+# epoha 3, iteracija 26624, loss  73.577, temp 1.000
+4.W=2 f4| G,rZ"c,C,/B,
+a4GG,2;|s5 zF29|FD ,,N1:2oz4e,,VBFC,F2ZE%e|ag'
+rAe2
+F/V6|B4i|E2g1:'4f=\
+tE4G[
+gn
+d/=wBc ,|BeglD,3A,2|6 ]C/c[//d,/zB:DaV5|tlmFd2
+g2B4||
+b5^o|[Ed[%D,2 x|1%6A:dr||| f/) d3g5 Sz/49|
+d3,,2|0er%=f:1^F/G=E2'8m@ =|c-a,4 :|b4B,/z,rG5-|rG'c|--C2e|BCC2 8hF,2|A,,G,/ a8z,aF,|
+8nF,2|$||
+|
+[^eV:2z21 dA4 |G2 |
+A,2
+aMVu |E2|F:C=d4|2A|
+e4 2]z2[ C,/,DA2 c2 iC,,5,|
 %
-%vev s  B   B3 |A2 |F | E =F t =c E B |G A  A Bf A |A |
-E A F _E B |cD A G F - B |D F c| c A C |E E C E |B c | E/ =G F G B G c  B, |
-
-
-
-X:
- l n d c |E C E |B, E |C GA  B d B | |c d =B  E A |z2- c | g d D |E2= |
-e v v f c  ^F C/ |
-B G 2 B A |E2 |c A B |B G |=B - |_F - E |F B A |c d B _B d  B, | _B, |C G B F - B c E |B F _A C F |c z   d E |E c B G ||
-V: 
-wo [c e B B Z c ^C A B A ||
-E A2 |B2 F2 |[C B,8 |
-d A e |F F E |E F C F B  A C G c F B E d c |
-V:1
-|G B B _E |g c   E || B B A c E E |AF F |B A   g: [ F B z F B B g e C |: E B |_B A A/B G ^F B d2 A C E F B A G g F |A G G |G G F |CE G E G | G a g =G  F C _ e A_B B | E F G B 3F2 |d g _B  co d A c B |D |_B F G B F ^F  B E4 |B4 |F2 |_B c F B G |
-_G A F |
-B E |Bd |
-C A B | D D |B, D C C |G2 2 A ^F  B, E C =G | C F |_B |
-f F B B G |
-C B A c |=B |E CF |_B - w A G |D A G |
-
-
-V:1  G  G F |d E c E B |C2 |d3  E |D E E |B, |B,2 z G2- z A G E] 
-# epoha 17, iteracija 114688, loss  39.379, temp 1.000
-|[B,4]z2|
+V5C:|
+,,,=g/|
+g2B,,F/,/,|F,,Ea DcB2G de||iF GeC1,2=F4A,D,5 2eG,F,[C8z5=/vA,,22]|D/|L/G5/oE2|â[F,/8oQ cC/,44D21/2»|f/bK=D5 2|Z,,e G,,,2 *ED2|Mg^aB,[|(j ||G2|.A,aB:C3-|c/(
+5|t2
+sB,,/.://2,3,4
+E,8 d2:2z,2
 %
-V:1
-A2/3B2/2| %
-V:1
-F2/3 c|c4 |E, E, [A,2D,D]zB, D/2z3/2 ^cB ^FA|d AG ^d|
-X:he |
-wit.c.dm zy G2AiccA).fF |E, =BA AD|Ec|F=dB^B[D2][^G,4][B,2F2]|
+.19mQG,E42A,2G,,2:,2|
+[B4d2|¿%GB,,1B4|Ad5|e2|G,,,^ F,5f,,2[C,/7 . 2,/G,,/ =[z:3/2|^vPG/sCF,,,2EB4|F,2G8B4 BA,,,4||r]Fgd5 , | FA,2||eg|inïG[Ee
+Cf4|z2,c2d2[a,/z, wa,,44|z5G |-=A2 GE,4 F,2o|C|
+D,,8A4GA0|,2m |,4 _sD,0|
+,6G:|g4%2z V:B5EB,BwB,, B,c^d=m|G4A,/24E/dmm2B22(|v^E2:E,2 w,,/p-^GEB,, 4]af esD 8A%
+hv8dG,,|&aB,i82C7n B2]Vu^bxF,,2F,/C,2e G4e2Fx z,2 AC ,,C,3-
+12e_]* AdB,2d4TE,cg g/,B,x12V:,,,v2 4%[|!|C|dA,,2a D,,,0uHf ^C,,2G,z44,,fkdE,2B2 rh Aa.D5]Fc5|B/,/F:,cad4%f }%
+A,'4d2 1G]2BB,5/B,3FF2G,,/-B22E4g-z,g,,2BC,,,,g2z_
+|
+E,,,D,t]cn]B,[PB,g,,2B,G,,4 |
+,D,d,m}e2 V:2B,,4z4G|bBcB,GB,/4F,gn-_|D=d2./4 b|FA,agAV13d:/aD|oDoV:r|ePVdVC1e4V/ G2|
+*weA,,G^|[2||z/D,,2 G:3 g3[V"P|
+G,5d dE/x14 4a B4G1:GE^D2-Dd/6C,V,,rGfi,A[BA,,,,x|F|
+)|Lcfc r:8G5
+C2|
+C/4E,d1:d4^2 |(E, ,9dDG,4|eh[d,,,|*GF|D,,2G,2|
+%C1WV2A,,2^M:g/2*r^|
+D/daGGg9e2G,2|b/r|w
+/5,,, G2 |.G,FB,, G:F2]a=F,v[LvG: V:2|E3E8^z,B/v ^|
+G,2]G,,4F/yG,,2|]
+|
+,5,5|(|
+Ag6F2.[_| fG2,2AF4 G2CB/6B,2AkWE2f/_E2e2]N4E,,1:2B,b2 |
+|c2C,d,/3/5|F|74] cGd/,G,/}\-|t]c3|
+=f/8,E,CB/z2 D,/d/5
+,2  [D,,,31
+95x2a/2 
+|e=%|»G,F,,,EB2D,iC,,G,,n iFB4|
+D,2] FPD,4]3,4fGB4ap|_112B,c=.%
+D,2"]]|B,B, E,4uF,/B6;%82 f5d/G D,2BD7
+Bf,2zeB4iC,4eF,2B /WmF2GE/,,,2o|EFt
+[\//[g:A3,2|G/fV/2B[zD,2/,/1e GSF,|
+z:2G,D,2|1 ,,,/Gx EGD d/:,,G2 _B,|
+fzA6]F2B,2|A:1
+B,,B,346f |G,,1xe/2|B|A,5|]z2]F|D,1B2|2/e%ADf||z2[D6C^[,/4n/B,EF,GF2NC,,4* C2||F,G2 (=B7,33A3,/,,2Eb2%[
+_A1B, x,3,1
+|E,2 =|=tzCC,2][G2E,4[G,'xA6
+:,F,,,|E2nC2 Zw9
+F,/d:95 8=B,,E,,[uE,,4||aB/^9/|EE|r%F/vzB
+# epoha 3, iteracija 28672, loss  53.908, temp 1.000
+][f/2E,/2F,/2A3/8] [%
+[c4nE2
+G2]]B,2x/2B7/2][G,/2| C/2-
+G/2]|
+e/,/2][B/2g/2-][G/2][e,/2D/2F,42][zB/4B,/24| [E,/2x2 ,2 [F/2]nG,/2| A/2 [C/2[4 ,/2
+e/2][[1][=A,/2d2/2-e,/2][A/2 E,3/2E/2x4E12[g/2B,] =z/2B,/2-][E/2 [D/2]_[3/2B7/2=,/2]x/2[B3/2x/2-]\
+B,/2p,,/2]x/2] A/2x/2G/2|dA/2]|x/2B2] []x/2-][C/2G,/2  G,/2B/2][D,/2D,d1/2e/2|
+F/2D,315 [D/2d/2] [[x/ B4 d2] [3/2G3/2]x//e/2][d/2f/2][d/2]][B,^B,/2 E,/,G,/2z,/2|aF,/2]|
+D,/2G,/2hA2/2] [g/2-,/2][[cc,2f/2-][7/2eG2B,2C/24c/2]__d2G/2xC/2]x/2]r2][d/2g3[/2][|B,/2][D/2a2][F2e/2e7/2G,4=ex/2] 4 z2] [ne/2][A4o|x/2]F/2D,ce/2]B/3-x,/2E,2C/2A,[B,,/2][r
+/2[B/2]x/4][8 B,/2][B/2-
+B/2c/2][B,/2-F,/2E/2]] [sa2\
+s,/2e2x/2x3/2E] [,/5/2] n [1/2B/2][g/2-][G,/2F,/2 \
+[D/3][ C3/2][A,/2c/2][DC/2E/2 [,/2][[G/,/2D [g/2 [f/2G2 [d [%/2-[BG8|][D,,/2g34]| [A3/2|
+[,/2],2 D2,4][f3][c/2]  [G,/2|
+B,/2-].[e/2G,/2e/2[D/23/2][e/2
+[F,/2| [Ge/2- [B|]]E// ][F/2^
+\
+G,8/2--e/2D,/2]D,/2 BrA,/2A,/2- B^G/3/2_D/2\G/2-C2A,/2Ff f [a,/2C,/2][,/2| \
+ [3/2|[[a3/2[a/2G,C2x/2-x,/2B,]][G/2g/2x/2x/2D,/2-c/22
+2[z/2]|] ][E/2 G,/2d2][E/2][B,/2][n,2V,/2 [c/2] /2G4 [D/12E/2][c/2][A, C/2f/2C,33/2 G,/2eF/2A3 [g/2B2B/2A/2c/2][ne/2|
+,44e/2E/2 [A/2]G, [z12A2]D/2] g/2-]][a/2]A/2]A,/2-][c/2][c/2 x/2f/2| b-E2-a/2z2]z/8]G/2][C/2][c2]G,/24 D,/2][f/2\,/2] E/2] [SG2E,2gm4G,/2f/2B,/2][G/2][[E/2][f/2][B,/2[A,3:/2x/2  [8G3C2[3/2-B3/2G,/2-[[,/2g/2|.4/3-z/4][G/2E2 [a/2[f3dA[/2C/2-/2-][G/2][\
+[V D/2C/2A,/2|
+[d/2c/4=B,/2
+=9/3|z/2][d/2]][V,/2G,/2] \
+(/2-
+[ac/2][e/2][ad7/2[,/2G4% \
+[M54[7/2G,/2][B,/2 B
+f/2
+=\B,2]E/2D2[B,/2]A/2][e2][A/2B,/4][g/2D/2 [e/2] E/2][g/2][,/2x,/ :2B,//2] B/2F2][\
+B,/2BG,/2x/3z3/2_a/2z/2e-E/2]\ 4 \e8][^x/2| T,3/2-e7//2|
+[ C,- [d/2|
+^eB/24|[|
+c/2C,/2B,D,2 x,/2x,/^f2[[B,4B/2]b/2E/2]D/2][F,/2][B,/2B/1
+A/2][D,/2d/2]A/2 [^D,d/2A/2-E/2]][-] \0ni\
+dv/2a/2-B/2-]][g/8G2g,//2]9/3B,/2][g/2 4 f/2][8 c2]][e/2E,9/2B/2]]C F,/2x/2B,/2
+(Z3/2][A,7/2]][B,H/2|]\
+[G3,/2] [A,/2G,/2|G29/2-]| 
+E,/2=,/2x/2A,/2][,/
+_g,/2]\
+[a/1
+ |  ,/2,2 aE/2G,/2-
+E/2 G,] G,/2]|G,/2| [a3/2-
+ =8e/2]x/2| [m [x/2E3/2][x/zA/2 D2F,/22]][Bc//2 sr\
+[B/3-][,/2E/2B/2[aBE/2]]
+['/2]\
+
+# epoha 3, iteracija 30720, loss  73.483, temp 1.000
+,,d2|^:4ocdic[6C2|E8s
+[^sl
+=e6dA, |A.d d_%2]t0 B,2 usp:dD\1|x5^B,, D,G2B,2|B,D-fuc:ca=(ErDG]G,G/\
+D,,[ d2ag/H,A]^2 d
+x: |-|i5lG4_x4|
+E,A,F/C,ll|
+.
+H1ama52A,,/ G/[B,/lV:Ha:D/4 G,CB,/2¿A,A,y|C2c2] rO/,,3E,G/E2B,, D]z |emcQ.2Fd_ED,)|CE2G gilrd3::|G,,,uF,A=G E2 ae'f^|[B,:4hz:G2
+f2a:6C2neeBB AG, eIC|x3  F,5[afn|Hd5dHFG4t,/4*:
+iï:s|_
+^hp=A,A,22A,B,C,|
+z 4|D-C,|B,|F,,4H2G,,,F k- dtem#FFG|c,,7|
+E,2 ef5,G72G,B,,GC,2
+B,= ]c2FD2=G 8ca|E,G,2c d/lrx22BBe2ndcg |F, ncBz2x2B,3G,G,,F4e2 D23,2A,,2,C44
+G:b V:.erySbf]|F,, 1e0D2 G\|
+V:zf D1|B2zF, C, D,2 Di, eclNir
+E/2 btuIVRC,7/zri5tx/]c
+Vi0[cdK2BoA,,uc]xotxngc
+^:7,3C,2 tF2tc/ rg/d|n.A2g,39= 2 Cf2s|un|A,2x4|e2B,|C e2DAC, D/[dB,2
+x_8Bw(:2D,B C,/ dE,2xE,,-B7 BEuV1f
+du]\:,_FQFE,  _e/|\
+V4C2V::lbC22zaE2tC,,5bbkSh x:/_:2A|]^[3tg|E,, 52E,,tF,|^|t^^V:c:G,/26Co3,D2 8C5e E,2
+|
+F,G,, |
+G,=A/5C/l[[/c'ep :/5 -|[vab'B2C2cz a,a|Xmbd
+B|S.d:c3z9|_A,iE/B|
+[E/{
+bDf2 A,dB,2]G,4 2c..
+aFA, E,A,2, ]L3]
+O, b[b, AD/[\
+Se r(fp
+z^DC,eGx C,,] ,32 uhrccC:]A2 d/cd|c2B/3 F eCz ^C /c: K/4Dtz  F:C,EB74_A,A|
+^d.EB, _
+ng71ba%
+5- ahNbeaB1
+V:cb:z1f2 38n:A2GB,B ele(92A,2=]cDeC,,, d|ul H_F, ^xdd2F|D2 G||1T iT:Sa
+stA,dG|
+(echdiE-ahfaa.A,mD,2D|
+zdag2i$Bld]_P||eiGG3FF2_B |x| BFF3D,|z2A,|c^^ B,
+Qi] oE| e||, De G,2F/ f
+d2_-hz/nF,,|Gi_F]A,5|a F2i_^|Pesc A biâIg| =^gfaG,d|F|A4 u_E||,2DD/,, C2,2C,2acpB2 2|:w2 53b4G,,iD,,  G//B,2^Co
+s:2G |FB D,F,e|e
+bt|V:w72G,^ |A, | 2^rCp b h:N7
+ )A,,/rc/5ccd%|E,F,/,,2 ddw:-D ^B d/]
+mC,2|E,B,]|itA,2zh28.2ndO2OdM}4i:MV:2ocDD,D,,, [|F,)C,2B,3eec -u/4B4 E2=W^rogR/-F9dA2|B,,2A,2]D1elb x53D-| / 2VS
+
+ar8
+D,24 -A\D,/F,2 33D2'G tl be21V38xf/,,3C,2h%
+B2a4-eBgcE/2 EcM8u3=a1t:
+c3e a
+s d
+
+%pL2F|
+ V:b2G,\
+V::-bncA,D_B,|-4G6- aiB,BD|
+:/.]s:hC,D,,B,,2F|
+B,G/F A_
+s“[c iHls?pz-BO,2|_F2|[b:A,D,|elB,2,G -F2me^B1 c9/2D,,3/ |_^a2B2C|E,0c4
+V/_bgOtF4c%
+cdB
+B,/2B2 G HA,,2|,
+D3,/B ]aou3 F,|]|B,,D2 ID2C,|DzF,|
+G,|
+B,,G N\
+e	Cd:ufFi]_6iBr VnE4 g/[e VchinB42DhgbE,,tvrrE2|C]| 
+dpnms_rdO:F: G, d, gDC Pd B/ig3:f/4DB,,||A,9sH,2B,e d - B/g C,= G2ADB,,2 eo :ue:F2G -f2B/fG,5C, |z3:AplzeE2d4B, A,2 x_
+hS[V:mc2Sb[dtGbB D6
+oo&
+3ibmIE
+# epoha 3, iteracija 32768, loss  73.820, temp 1.000
+-6AA2F,C,1 |[aca/fz2F,E f/AlA2-A,|EF,2 B2|2.[e="iu^A1[B^A2  A,cF,c A,1,2F,B,1CB4G,D2B,2B2]G,eD, |1 AfE,,F,,G,dBcF,2]A,2F,PA,D,BF4 B^F2 D,D,FB|
+GD,,C ud G,4 B,A,30FA,,2D,2|-[D,G/|
+^e|
+V8C,2 GDF2 B,G,2F, AA,G2-G,E,2|A|
+cf2G,3F,2-BB,|B,,2-BC-F,,C|G,4FFoFl  AA||
+E2|A,2  A,A|BG2 F|
+B,F,2 F,_ [rBA, A,F,D|
+xg GE, F,2FG,2G,G,2z1A2E2[zC/2 G|z2JBG G2|FG|
+F2G,C,,CBDA,B,D, G| VF2cF,d,8E2|D,D, z1G,,g B2,2[A2z4]G,F,E,11E,2
+A2B/F,4G,2B,,, F|E,|.,2uc4 z|
+O(=a2 c|c2|
+V:iA,G,] G,2A2e|m:1:/]ddD2|
+c22-A,E|F AcB,,|GrG2|0 B,=DAE,,2 G,E2G,ABB,2^|a-| V:30C,B|D2 e2|
+:2F,G,2F,,2A,A|
+%G, G2-F,2|
+zA|c=E| |A2|
+Kw
+agoniG, B,F4]|
+ix2
+x:D2A]A, G2| DA,A,3|F,1D,4|z4A,2F,2A2G|G,2A,
+V:2[f3c[FAEc|A2|G, G,AG,,2A,BB,|G,2]B2D,4EA4G,A,,Em
+G,|^zD2GD4|ot48
+V:DiF2 B2| ca=8z8B2 |z2BF2|F,D2 8x2]ec fe4  V:4r1_D,/,2G,,4]||D1Q,2F,,2F,D, G,2C,GD,|-|
+VG,[G
+ =CG|
+G,,F |
+
+V:2]]/8-,A,,D,2|G,|B,AGAAB A2D2]-g|z4|F,,DG,4|fvat
+%:3E,B,2FnD,4|G,3]A,,G,E, B ^D,2|
+V::B,E2G,2F| G4G,2e2|BB2 A,F,2C/|dcG2z2z,,GG,C-DD,2A,/|F,/BD^A2-C,2_|
+Vauc3/| w[P:
+V:
+c:6]CE|
+V2G2-||B,^dG,,2|E2|-
+B,2 \EC4F,2-f4-F,2|
+^d2 B,2-F,2|BD|B,2Af1(EF,,2]|d 2 2 b'f2
+z,4C,D2F|\G,,2g GxD2]|D,G,BFAEA,E,E,,|d=:D2AB2|
+
+A,B,,F,2E2B4x2F,2A,z4G,
+G,F,2| ]\AF2|]2||
+^E,z z7-G2 z2B:e^^AG,F2A,Ee[F,,,F |6
+03-F4c^]-G,4 ACA,E,4 |xg:3-ed4  E2E,,6A,AD||E74 D,A,  2 eB,GE,4 FD,2D]]-FG,G,2-F,,AB,, F,2-[F,2E,2 F,A4- O3E,cf x2EF,2|C,DD| |
+a:, d2D,4^D,A,/,2GD2]lE,/G,, B,|
+zC, B,|F,|
+_d4 ac ve4A,E,4A,B2E2 ,D2B2|A2-|
+V:AGG|^|G,|B2d[z2|D2F,,G,,|
+E2F,G, G2|
+
+V:6z8 x2|-[
+V::/B,2AG/A,,4E,C,2G,4 GG,4F6 x2E,3FB,[F,2|[a2z2D, E2 B,,,4F, G,G3-GG,,cAxG,d,2GGD x F12 z2F 2
+z[E|B,2E,,2z F,|
+A,D FC|F,|ACA,2-|D2  |
+ f A,A,2G,2|z2D,C2E,F,D,C2G,,2A4D,3A2=x4G,,Dc E,]dC2]|c2 |d 
+e=
+u:4[F2 |E,1uA2|
+zB,2B,,6
+V6F
+V:ate4[B2G,|A2|F2z2 FeCF2|C,AD,-G,2G,2-F,,2^G|
 %
-V:1
-T:3 z z C|
-C|
+e/A22GFGG, G,2 \,,4 z2 A4GFA,2-DD|_B,[FA,A6 G2 e2G,2E,FA]6 \ Fa|G,e ,B,,2C2D, ^F DA2|D,|G2[F,A G4-2G,2|
+[A,,w f '-
+V:go1 2
+
+B,2G,-F,g noG,
+V2|E,|
+V3 caF2]FB2F,[,2|
+teA,A,F2-dA]D3
+V:we::E2G,AB,2|F2|
+[ag/B2B,]G-A,,2B,2]zx2[eA2-|az4G,2 ,,2a84 t||x2 ge[[b 1
+e:%
+/y[E2 |
+id4 2f[G4-c4C2=D4]D4B2B|cD,2G
+# epoha 3, iteracija 34816, loss  72.517, temp 1.000
+72|adm"p5 dE,|D,,,C,,2 E2BA2-B/D,,/,,,C,1C/^G,,CE,,3,8C|D,_,,dA,D2^C,/FA,| m:2
+%^D2|
+F6 G,CB2w4 A2|D2 G,B,,D,,2 G,2|-|
+.wni11
+\
+V1 %
+T:4F/G6GBD^D2|
+B4
+c4uc4f]u'4d4ag2 f2wral zbi=8 g4n .chg2
 %
-V:1
-(3e/5c4/5 B,2 z2|F2 z2A2 |
+2PC
+Md^c2|C,BAE/B,,| 4 A4| B/AGE2|G4a_B,2BA,,,A,2ggc=C,4d||do=z2f2|
+V:G,C/z,f B,,|
+B,2|
+z2x3c,,,,4B,,1c ^e2^xE,|p\
+V:2ffD,2z,4A,,C B,2|B,,,,,/BE, B,D,, D,/FE,E^D,G,,=G4|B,EW B,,,2|G2B,D,|F=z/b(| J|unasg8asdntam- dz2|ac/eE,,
+D,,=A,,F,|z2|:A,,,A,f|c6G,,  2  d2- mobein.%e:GC,2|D^E,8C,,,,,,/D2|n'eA4c2 E,2|AC7 D2F,G,2
+B/B,,B,,A,,G,,2|B B,,,,]|D,,A,2zBA,F,,,,E,e|6D,B,,/34z2E,2| z2|cf2 ^f4 |1
+*6|d4if2 zw|z/F2=EgA,CG,,,G'|
+1A,,G,F,8-
+B6D,,2|
+%1G,E,,2^C4- z2=C,2GG4D,4|D,E/G,,2A,G,,,,,,2|A,,F4e2G,2||
+V:L6 z,BF,F B,8CF,C,A,B,2D,|A,,2E4,=z2GAcDEz,,/A,2 z,2B,,|
 %
-V:1
-f2
+2asdC,5G,G,,2PF,2A,4^AE,|G/c3AB2c=E2|G,2D/%z2|
+dcf g2]eEg-fdaz4g
 V:4
-A4-x4 |
 %
-F,3Ae2 E2 E2|A2-E/2z3/2 d/2z3/2|EE AB G|B,A,2 D,E A, E2 B3 B4C2 A,2B2]|
+V:6
+V:GE/xBB,2B,,|
+r
+np:2\:1
+C,/8-/B2c/|ad/ hbvrZr
+Nhf/f/d/F,D/4G,|=A,,=C2E5,B, =
+F,dGE,,,,||
+V:} z D,D2G^C,|
+V:1
+G/4F3=B,D,2G/B,G,2B,E,2|
+\6e/B,B,6=2|
+dk]
+clnnic4|se-peus:2c'/2ge8 z_fG|za. -A,F c2D2A,,,,|CEFA,,4G,2||
+C4 G E,FC,,2D3,2FBG,G,,2|[G,]^|F,,,D,2|
+G3d2z,,2A, d||
+^ F=G, =CE|
+2
 %
-z A, Ec4F4|F2 (c2g B2/2 E2 ^c3A2B2 F,2|
-z8A ^G Bc ^c|A^C C |A/2d/2| B,4D3|BC|Fz A, EA FGF G|C2 z F A A^d/2 F/4 E9/5a/2=e4| e[f2F/][c2c2z3 |E2A2d3/3c2d2|A,2 A,^D ^Ge|=G=GE| z B/2 E,2 E,3/2z/2 A,3/5B A2|D,2B,E, F,2 E,A,E|E B,E, E,A B,E,3-|E,,2A,2 E2 |
-X
-A,,/2B F2 G4 B^Ge|Ee
-B,a2A E,A|[B,2^G,][F,2] z7/11111/=B,/4C/4b/4G,/5F,2B,,2E|[G,4E,2]
-E, EE |E,3=B2 A,E|B,c G2 E,2|| F,4G ^G ^de=d3 FA|
-[e2d3]|[B,6A,2]|Ca[aB,^C]|
+V:5c,,E,^F,A,,gB|E,,,/
+^zGDB,,G,2A2x,/2 zG,,F B,2 E,C|F,,,,E,G,,D,A4DAB,,GC4|c4 t ote5z B/ed x92c2a-xr.|AF
+1
+%
+A,,,,| DD,,2DA,C,GBE,2GE,2F,D2D,,2 4|
+B:,2|
+e1
+D,2FG2 A,4
+D2E,,2f4G,,2|f/f/c2E2|Be B2z^1 FcG2F,4D,,F,2,,,e F2F,4| DEDE2|[|
+be^3
+V:/5c
+V:4
+B%FA,,2|
+A,]|Ef2A,,
+CwB2/D,2|D,2 z/imux/%a=B A2A^G,FE,,,A3g|
+%
+dd4xD/aF2|E,,,|[FE,F,B2G, EdTB,,[BE4 F,FDA^D, C2^_B,D,AC  ^,2|E,F,4A2|E,A A,G,5|G,G,,,/d2|D,|]4|zE,8EAA/D3A,2|B2bz d/Gz,D2E,,,||
+% AB|E2A,/D,E2oF,1 BE|BFF,G,B,F,_C,,, G4|A D,F,2 A,||A,,,,,2-|B,C,, F3|
 %
 V:1
-=A,
-CE BE EE2 E2 E4|B,4|B,/2z3/2 ^d3d2|A,,-B,A, G, E AE|A,AA E^GA|AAeE][B,^F][E,2:2]|D, E,2^G,,A,,F,B]|E ^G^D3z z2|B,,D,F B,D EG E/2 A,3E,D,D|CE E,B, F/2E3/11a'//o 1/0 d'3 B/4
-A,4 D3/4 d/2 F/2 D4 B2 |z3[E2E4]|zd B^D|AE =GA ^c7/8 E4-z4|[^4D,4]|E,2E2 z2=DAA =A2 =E2 E4|B,E G^c ^dF|A ^c3 z2|
-C2 B,2 E2 A4|e4|A2Ed EB|d2 ^cE EF D B2|_g2e2 G3 B/2z/2 ^A/2z3/4 E4-|
-_A,/2EB/2z3/5 B, B2 G,E2]|E,2E,2C,,,G,2A,2|E, z z z2:|
-DG, A,B,B|F,3F/E,,G,|E,,G, F,2B,22 |E,2z2|
-[A,2C2]|C,G,/2z3/2 B B, F,^F ^A Bc|EFF E^F BG,F|[^FD]|C2_^AFg2|
-E z2| %
-z z ^d/5B,/2A,3/5B,2|
-^D, ^A EC E,E c z =AA|G=G ^c [bG][eA2][B2A2][A4E/2] E, E, F|g ^F z ^cE [e^] z C2 E2|A,4A, E,=B,2 G2E3/2 B2B c2|
-%r-p g/a/a/g/e/b/b3/4 z5/5g |E,4BE2 B,|E2 E2|D4 Ee5|D2 C/g/^F/2[E2B2]z z G,2 E2C3 G2 z ^c/2z3/2 |
-z z2^G,A ^F,|(ED ^G c2/3G2/2|| x^c/2z3/2|^d^c/2A/2B/2z z ^B A/2 E2/3-|EA/5A z2 D3 BE2|A,,2[E,2C2]F,|
-E,E, |E,,F,B|^F ^c ^c/2z3/2|^D2 z2 =E,^F B,A D |B,E z z=F G|G2G ^CD|
-V:2 z2 ^G2 G2B |E4-|EB ^D Bd2 E3 B/2E3/2 F2/3B22 E2|B,Ac =B|A,a[A^G]|C,/2z3 zE B,B,|[F,2G,2][E,B,]A z E2 A2|A4|
+Fd=D,2FEF,,4 FA,, G,G,EDD,4E,CF4o|f4G,2B,D| x2G,D,/A,,,2A,D,,2 CCG,6DG,,,DT4| G,,4 C,,DE2||
+V:/aG^BE B2,D,F/G, 
+x:23 G8J=F
+C4|E[E/D,,F4|fd f2|zfMx/A|d,2^z,F,C|| dbaezh=/:3^B,,BC,EE,FF,,C, ,29E,,,4
+V:^cc/G4_AAA2]|A2|z2GFE,A,A,z|E,,C,2_,8G2B,B,,F|
+%
+z2C,2||
+V:ced"c Zb
+rdVbwdA,/4t|
+G,,,A, D,,,B G,,,,c6=C||AG,4
+V:%ie2V:2[FeAe V:G,,4G,,,A| B/,, cnz2|
+D,,3^|
+V:2De4webr--wd2c,2D=E,|
+f2-Pz2|D^B,,A,2 ]z/ 'B-GeD,,=D,F,d E,/[G,
+# epoha 4, iteracija 36864, loss  57.802, temp 1.000
+] b/5 d/5x3/5F,/5z2/5F,/5
+Gs :3] gG,/5B/5c/5 A,/5B,/5_D,y5F,/5g/5
+
+z10A/5 DC/10 c/5] fG3/5e7/:E2/4| F/3/5 B,/5A/5 D/5
+O:/5B/5c2 G,/2c5g/5G,5/4 z5 GB,/51 
+e/5B,1/3
+B,/5f/78 G5  d:5 C,/14 G/5-
+ ^G,/5te/5dB,/5F_=B/5 |B/5d/5|
+D/5.G,/2
+c/5G/54 D/5 :5/5/5|
+F/1B3/53/5oG,/4: F,/5e/5 A,/5e2] [] A-_B,/5 B5/5D/5 |
+z5/5|
+b/5/8 oBG,3/3/5D,/2G/58 [d5d15oa/5
+=D,/5 D,G/5 d/5 D2/5]B,/5/537A/5- F,'5 z,/5rA/5
+AA/5G5 C,,/5c 5'/4]? 
+d/2 E,/3/5 G,/5F5 =F5//4 f/5 C,5/2| F,A,/2 C/gB/5c/5 W/5cd/5 
+B5|
+z/50 F,/5 E,,/5zE/5:A/5
+B,/5/5ecGA,/5^C54 [G,1/edA/5 g5/5|C55/5E,5G,/2/5GA/ag/5w3/5E,/5 G/5|=E/13/4
+B5 C,/5^G,43D/5|
+nrdf2F,35 C,3C6 | bd/8A,/5 E,d/5 c/5E/11/5 G/5c3/5 E/58 G,/5/5=B/55/1BE,,/2C/5ud/5 ^A,/5FA,/3/5id//5/5CG8
+%
+Z:/5/5E,A,/3 C,45/6_/5d5/5 D/5
+D,/54 |
+F,/9
+_F,/4z6-7/c4 d5  D5//4 C,4/8F35- ^E/5 ^G3 ^Fd/5 z/5B,,/5 cf/5c4//5 _b5/5B,/5] x3/5
+[>/8|cD3/4/G,5/1,/5
+
+=F,/8 FA5/1( x:|
+
+V'/5c/4 b/2(5G/5 =G,/5 e2/ .e/5/aA/56 | ^B/5D,5/,/5 c5/50B,/
+d/5cd/5A5/5/5C/4E,/5F5/5B/2 G/5B,/5
+=G,3A/2-A,/5g5/4|D,/5^F,/5 8Ar^M:,/5| z6FD/5  A/5 [A,D/5| |P8 ^C5/1 B/5ad5/aE/5B5/5E,/5 C,G/5][8 G/5/5 z5 C8D/2f/5 | G,/5F,E,/5z5/2F| F,g/5A,/2a/4 a5/5'5/11
+^C54/5N0 ^f/5 |G,/5AG3/5 C2A,/5A,/5 z5/5 | C/5D4/5|
+] e/5 |e33/5E4 D/5G/5||
+Vewd/5F/8 C,/5z/5 |
+=A,/5 rb/5"G/5d/C,/2 [A5/5F511
+G,/5G/5E,,4
+D/5w G2/56/4G,/5/4d/5e5 | 8d C,/5 ^a/G4
+B,/4 [z:G2/5| d/5A=C,16 =7/5|B6 G,/8
+F,/4 CG,9/10 [G,/5ed/5 C3/2 C,/5]]M
+=A,B3 @ d/8B/5e/5 Q2 E,4/12G/5e5  9B3/5Dc/10 |
+=d]ïG,/5E/5D,G,/5A)/5  e,/5]
+c/5B2/5z4/5F/5a/5c/4 F,43//5G/5 F,/5D/4A,/5d/3/5 E/53/5| _E,/5 F3 M
+D,/5B/5 ]e50A,/4 F/5c29/.aB55/F/2e/5u  l/5G5/5C,5/E1/5 A/10 An/5 d/5|C,/5e/5| C,3/4 C,/5B/5= [B,2/,B,/5B,,95/5o8 ^t5/5s,=E,A166_B,/5 F,/5F,/5 ^C/5
+BB,/4 |
+D/4 G/5 =DF6/5 c/2c5] E/5-E5 DG,:/5 E2 E,/5 F,/4 G,/2
+G,4/5E,3/5g5/3 [5/55Dr/5Gc/5e/5 G,/5e/5^\
+G=^D8|
+^B6 A, d3/5 /5 C/59/4 F/5] F,F_E,/] rA3/5G,/4=[D,/5/2|
+d5 C,/5] P:/5 G,/:/2/5 A,/5/5f4/5a h_^B,/2G|c/5^CF,/5n F/2[e/5/5 »/5aA,/5C4 ^A/5/5B,/5e5/8] B,35 z35 =A/5V0/5/2|A5G3/5]4 A,/5WA2/5| Be/5 G/2 
+G/5 F,/4
+z5/5 d3/4 	V'/4x/2
+sx/5 P5/5|_=C/5/5G,5/5A,/2- A/3/53/5  z,/5
+# epoha 4, iteracija 38912, loss  64.421, temp 1.000
+2d/3 e,/4 |
+e/11|
+ue/4 B//4 f/4 C/14 C c/8Fe/4 |
+(/5e7/4 -| i d/4 E/4 | C B,/5] /d | BD/4 |
+E7/4/1/1A /2  G,2 F/4 E,/4 A/4 dE,D |
+EE/4 B,/4 e z4 A 5/4 E/d/44 B,5e3/16 F/4 E/4 B/5 F,/4 =c7/4d/44 A3/4 =7/11
+z7/4|G,3/11 D,/4 B,/4/1l ^/4 DJ/C4/2C,/2/4 z/2  z12 CB/4 ^ 4 ^4A/15D/11A/,|B,/4 B,/4 G,4E,/4 c e4 c4C/4= Fd/:,/4 z/4 F,/2|
+c7 94C,/4 |
+C,/,1 ^=G/4  D,,3/11B,/4--/1/h//4 P/2
+C//4 G/4  E21/4 F/2c/4z49/4 |
+C/7/2 |
+z3/4 4 G,/4 B/8 G,/4e7,/4B/116 =F/2 2 [2 g/1g| B,/11 |B/4| [z2 D,7/4 /11
+%C,/39/2 | G//2 b2/24 G/2 E/11 =z7/2d/4 AD/4 G/4 C,6 G,/4 | A,/1d/4^c/1 rF,4 |
+[g/1df/44 _/4 [c3/2|
+CD,3/54 C/4/2/4 |
+,2C3/4 E/4 F,/4 /1c/1/8G/1 G4 B8/2 C/2 z/2
+D3/9/44 B |
+^E7/11tCF,2  F G/4F5 G/2/8[C/1/4 E,/4 G4/4 \
+o3/|
+3/111c4 d/11 |
+ 2 EA,/11G,7/2 C|c-/44 A/4e/4 z/24 |
+f/5/2E,/2 D/2 A/4 C7 e/5 m/1/5/4|
+=^F/11:B,/2 d2f/157/11/27/14c/4 E/14 E,/4  f/1 ^_1/2/4C/11 /2 4 C/4CF =B,/4 A/1111 B,/2 *,/5e/1e/4 c/4 
+G/ ^c/4 |
+F/11 zE,/4 ^AAB/4 | f/15 D,/2g/5e3/4af3/2 |
+=CA/44 A,/4 C7/4 z4 =A/14 C/4e'/2s F/3/1cz2/22 =D/4 E,/11
+V
+:2  T^^4 B,/2E 24f/1E/9//B E2/4 A/4 C/1|
+r G,/11A3/4 ^c/4 4/4 F3/4/2|
+E,4 G,/4 ,//11o G/4a/4/4 =4 c/4|B,4/1
+G,F/4 C,/8 F/2G3/4d//4/2g6/1
+B5/24 B/4] =24/4 | z/11 |
+
+e/11 A,/11 [G/4 |
+G,4| B,,G,/4/1 E,/4a/1cA,/24Gc0 D fA/11E9/2_E,2  D,/2/=FF/4 E5=BC/18sG/4/12E,/2
+E7/GF G/11 =E/4eA/4 B,4 |
+d/42 B,/4 B4A/14 |
+
+1d1 B/111/11 B,3/c/1gb/2/4/4/zC B2,/4e|1 |F z/10=B,/2 F,/4 B/5 G,/11G4 F/3/11A,/4zF, 4  C/14B/3 B,/11E/1 2 B/4 e5/111CE/4c/4Cz4 g7/4 | fbG,/4 Dr/g =4 f/2FC/4 E,/2 F/2/|A,11 B,/4E,9/4/4 B/4 \
+3/8 B,/14 E,/4 G/4E,/4 F,/2 c/11 z/^% C /4e/1eme/4 D,/113/4 F/4e 37/A^E,/2e|2  c/25F/4
+A/4 F10 BG,E/4 G,/4 C74//4  b/4g/19GA15|B/4|G/4 | c/4 =D/4/2C/4C/1/4 E,/3/2 B,/C/44 51 C/11B,/4 [1
+E,/42^/4 Dc/|E/4 e5D/F1eB,14 ^7/8 B/2A/4ub/15E4i c/5^FE,/112 C/4fB,4 D/4|
+R:B,/2 d g9/11aa//e/1id/4 4 A/4C/2g3/4 F,/8B/4 G//77/2 2/4 B,4/11^G,/2 Z,, F,/,=1/4/1 CB/4 A,3/111
+DreB,/4 B,/1A/4 A,/C/14 |
+:/11 B, c/4 A/11[2 D,/4 F, /4 G/2 D,4 |
+D/111
+B,/4 -fd /4 C/4 A,1FG/4 _B,2/4|
+d/4 E,4 F,=B,/2c/4 8| A,/44 G,/2 B/4  c|
+c/4 E,/1,A,/E2 E,/4F/4 FB/8F/
+# epoha 4, iteracija 40960, loss  48.579, temp 1.000
+/2-D/2F,F,] [e/2-[g/2G/2] [F]] B/2  [h][A/2D/2A/2x/2Gh][D/2[E/2- [A/2- GG/2 [c2-]x/2^B [D/2]
+[3/2B,/2|  af,][f,][a/2E/2][leE/2-]^f][a,/2/2G/2][d2/2xD-][G/2-][V:ds z4/2][g2][][D/2s [^FB,]|=A/2x9/2][f/2^a z2A/2[f/2-x4x] x2] [c/2| [B,/2 [FDhG/2. [D2]|a -]] [nB,/2x/2][a2/2z/2] [b/2d [f/2B/2x2/2-][e [g-]-[G, G2]=[c/2-]BD/2GE/2][f/2^d/2-] a/2|[a [d2/2B/2g/2 |
+[Bb [g/2][A/2Bg/2D/2x2] [e][3/2]B/2 D/2-/2B/2x-E/2|
+[f/2[D,/2f]][=b/2][GA D][C-][A]d/2 [Ef-][B,/2][b/2x/2^g/2B/2 [E/2--]F/2]   [^n][D/2F/2B,/2e/2B
+[d/2-] |][f- [g/2E/2-E4| [e2[a/2-/2][A,2A7/2-[^d/2BD [D][G7/2E/2-/2-][C2 [B,]G/2][D][a/2]
+[d/2-]x/2] [tF,/2D2 [g/2c/2 [F,/2][^G/2E/2][f/2| \ B2x4x/2-]| [D,/2]| x,/2d/2c/2]][a][D2/2-][b/2-] [d][g/2]]DA d]-][f][e/2]-[A/2-] E/2E2 F/2[A][e3/2]\
+[L:/2 A,-f/2^e/2]|
+\
+e,]G/2][D,7/2c/2m,2[Be [v/2E/2x8e]\
+a/2D:2-
+[D/2e/2][AE/2-[D2][^De][e|d%/2-E/2][f/2df2 [9 [D9][a7] [A/2 [F/2]c/2] g/2D,][f/2D][a-][D3/2] \
+aa/2-][d/2x/2G22lA]\
+f/2E/2-][h]
+[sc/2][2 c][Gg/2BA]G/2| [c/12\EE-]][A/2G,/2]B,][b/F-D,/2--]D/2G [D/2x/4D,/2-] [C/2--G-]- =a2/2-][g/2f2][a2][P,/2Gg/21A E2-][a/2][gB/2]\
+[B/2E,/2i,/2-][E/2G [| ::2t
+^c][a
+][a2] [B/2x/2][c/2| [5/2-][b/2- [D,] [f/2A/2B| F/2BA2E/2][f/2/2 [a/2F/2G/2-G,/2-E2- [cD][g/2--/1F3/2-]  [E3/2d[F][D:/2- A/2x2--]g3/2-][A][/2][d/2^| [a/1FB,/2-][d d2]B/2][f/2E/3=^D/2D F/2] [d/,A/2] [f/2[g/2] G,//2B/2 [aB [B/2B/2-][,/2][2] D] [D/2]^B]][g/2D]]] [d/2c2  g/2x2] [b]x/2][E2][9/2x2][D/2] [c/2De/d-]-][f/2--\
+[c/2f [G-][EC]][f/2]][FD/2V A2]g [g/2] [f,] [g/2] g,D/2ex/4z/2-G/2-a,][D/2]=D2/2B,/2] \
+[f7/2]/2f-x,/2] [A/2f/2- [B/5B3/2--E F|E3/2[r-[a/2] [g/2G,/2D2-C[bG3/2d/2f/2
+g/2 A,-]e][D/2 [f/2-]] [B/2| E/2 [^D][G, [G2G/2-  [a/2]v [a3 [F,/2=V F2] [g/2d/2c/2] \
+[c/2e0][D,/2D/2E/2]eC][N/2E/2A]DD2 [fG,/2g/2/2B/2B/2-]][f/2-| [^G2 [Dg [D/2D-]-e,/2= c/2 V \
+b/3-=[p
+[g/2]G2][g-]]x, [D/2-]^f-]^|][D/2-] [d/2]][,/2[^F/2BC][)/2 [C/2] ca D/2]|
+[i|
+[f/2]G/2_e/2-a][D2C/2]]x
+C][E/2][9/2E,/2][g/2G,/2fA E/2][a/2] [a/2-]E/2D/2| =c/2][D/2-C/2 B,-]- [e/2]-][E/2|[aF/2D2D2-][G/2-E/2][D/4]x/2x2 [d ] Ef [^D2][B4][f/2-| C/2-][a/2G/2-/2x,][A/2^dC/2- 
+# epoha 4, iteracija 43008, loss  71.302, temp 1.000
+ DDE,B,|
+ED,C,^G,B2C2 D2B,C,2^EC
+D,G2B,DB, G,BG, FF6C2FA|FA,3 B2G,B,3|F,2=E,AA,
+G,4B/A1=F,[\2dc Ac gCA,4G,2EA D|
+1
+z
+z2G^^A,2F,DB,,2=E,A, (|
+M8 cg4c2e,/^F2|
+Vaf:rB/e2 m:
+E,2 E[DBF,2F,GhB,2|A,1D,|C:8 G2|
+V:5B,|C,2|_E,D d2| 1/b1D6|Fa.f2 c'A,|
+% D D G2][=C,1 b2cdG,D,
+Ex2 ,]8|Ga^|u1,/d d=B,==D,z,2FWA,16
+z2C, FA|AD|G,21
+zD,B,2=G,G,2DD,4|D,Ct^=P F,CF"G2F,-AE,4Gr d z5| _F,2D,,,2]^CtF,EGE| dA G2D,c9 GEF,3B,,8 B,D _E,6[b'B,G,3,2G,2F,4E,,A,/D/F2C,,2|ccz|
+/1aiga fur dkaCag 8d BAG,2cd E,,2|C6F2E2B,G4G,A2F,6]F,|
+zA8
+G,| F,2|u4|x2|6G,/2- F,D B,4|"E2B,C,B C2G4|
+b:,4F,C|W,e|E2 |B,2|dFA,z/2G,2C2B,D|z2 8B,4 F,,/8F6|D,D/ED2|D,_
+z//4 [f'nc|A,2d3 b2f4 beA]|g^CC  A^ GB,|D4 F2 |z,,,E,D,CCE G,E,rc G2GD]|
+E,C E,|
+[A,2C,2F2B2 \2 F,fG,G,x2 |
+cB,2F8V:2- c4t,3 F,=CF,c,,C,2FGac2|e2d5G,4GG,1,4 CG E2B,2 D3|E,,2A,A E2|#E B,2 d2GGD ==B,E,bEF,G,1C
+F|1,2E2-F, G,4C4D,^C,D2^F | zD2|BB E, D2|C,2]\D,D,,cC/B D,2B,26C1CD,,E C D2|F,d|
+F,4|G,d,,A4CFD,2G,2F,2^F,GG,[G2FD]|F,A2FECF|BB|
+B|B/B |C,4|
+F,4F,2G,EFG/8E2|A,2AF,
 V:1
-^c,,/2 z3 B2 | z3 D/2 E/2=D/2 D/2G/4=FE F3 z3 B2 z E,2|[f'2]|
-C,2 A,c E,A,B, E [F2]|[a'2b3/4B/4a2 F2|c2 B,A z3 C2 EE2 C2|G,2[B,2D,2] z/2 z3 c/2c/2 _B/5d/5B,17/5 G,3/5G8 D E |d2 E2| c2c2/2|
-=g ^G|
-V:4G,2A2 E,4|F5^CE E,F|E, A, E,2z2|CB,A,E|A,E B,A, |D,,2B,2 E/5A/2C A,_EE|
-G3 
+c110oB,C,4C:2 G,_] | 4y-zG,2E,,B,4B2|E,Ce |
+B,G2BG,//B,C G,2| |A,15| EG,B|x3-F,,A,2D,G2|PDC FB,E B,2|z6] D,2G,2|G,4A,2|
+z16|
+a4atci ufHz3hG^z E,2E,EE,G d2|A5E, FE2G,2|
+G,G|gediz2 F,A,2 A,B D^| A, F1B5C|G2
+A,A]D,D,G2| C,F,,,G,E,2FA c2D,2F,3GF,4 A,,2 G,,2F^|bcC|z5 |
+z4B4x,2|D,|o=K:1,ec^|csGx,|C, C2|A5g/d_B,,A
+[F,2c|e2D,2oC,G,,|d2z,E,2|-B,4F,,,/=B,,F4d B[C28D,2D3 G,,2 c8 G2^=G,,,2M|C,2A,|
+d4tthmuinstB,/4|g4
+%
+g2A,, BB2|0 C,,1,2BA|(O,2C A,2 c8|n C-F,|
+l/cd.es%ta_Pbscd2 |
+ga| G16|FV:y
+z) 
+D,G2F,^FF d2 C|
+DE,2[B G,F2 E,FG G,2D/=G,,D, D]E,4|e,4|e14
+2G,G2B2|_E,f,/2|B,8|
+G/ E2C
+C,3=_F,B,2B4E,c B,|
+P:8G,x2 z)E2G,d|
+d/A,4|
+V:1 F,2|
+D,2 d2=B,,2 A,2 B,A2C,G| m
+V:C/df B,2C,,4G,2p,4B,8B,4da|A2D,D A, Go F2 zC,2x4A C8CA2F,2|zC:,x/e4cz z4B2E2G,2 CCAr 8
+V:1 F5|z3^|F,/dgDECF C2B,E G|G|B,D,,2d F,/c2f,d, E2 E FB,D,2A4CFd zFA,2|A,4 B2G,D,C/EA/E,G |d B,2||
+z4ad ^c F,gFDE,|AA,G,,C2G/4DE,G
+B2|E,GfD C,A Wg4^g:h
+f,^f/d44|z/ezG2 d2 8|A,,2A/3|f4|C2D2=A,^C2F2G6D,|B2f/
+% A,-G|
+ud'G,D,4^4 [z4|CADxF,/2C,2|
+,/B,,2|c1
+V:16C2 B,|
+F,|^A2E4C,2Dc 2B 2cB2z/E,,37 G,,/42 c2/ed m^FC
+# epoha 4, iteracija 45056, loss  69.703, temp 1.000
+,2||
+z x,B2|
+V:
+
+x5 cfC c2-|
+d[V:1
+C GBg6FA|
+V:rin arsm
+\
+N:g2-ad[z4 x2 D2|X:2V:316|
+V:2
+V::3
+
+V:F,2
+F,,2 -E2- G|G,2A2C,FB,,F,,2B,EF2BD,]F4E6E,2G2 ^E2G,2BA|
+x3 8 decAb|
+V:/:6D,2E,2|zCA F,B,/G,]|]
+F,8G,2,,2 |
+DG,2g2]|
+C,2|d4 % ap  x/3ul
+G,,2|D,4A2|
+AE,2G2B|
+z:C
+A,2
+E2-| B,2z2 D,FD6B2|e2B,2d2| z:=F,D, z4|cF2|
+^FDcF,2|c4ms- a bz:6Ab A2^F,,G,2 ^2|D,G5|D,4zB,4|[A,x F,2,2|
+D|
+V:aedd|F,4EG DA2B,2 E2|
+V:1
+dB gA|
+E,F,2F,2A,|F,2B,,2
+EF4G,F|B,,B,2EG,,2F,2 G3A,2^D,E2|"G,2F2D,]D4|c2|z/B2|
+V/B:A,F,z3F2|x4
+ B,E,4^^F,2F1 arce=^z4B,4^|
+V:1
+V:o6 c/8-^c2gceav|8c2B,2A2G,4-Cd CeAc-2cc,2 A,D2E|aB4g2E,5D|A,, E,2|G,2|\
+%
+V:4
+r%0
+V:1
+f:De =d2g|
+aK|
+V:/n
+z2 G,2
+A E,2^d/f2 '2G4  =^a1 .
+V Pte.^D,4\ z2x4 z:/||E,E,2E2Gee\
+%
+G4x2|G,2|x4
+V:2
+C,4[z2f2|  t
+B:3
+V:X1}
+C:_=A,,B,,C,2A2-||0:|
+B,2
+f3 d4 gc f|6cc/2z5 e2x2^z:,,2 D,A2=G,AxE,^G,2G,2ACE
+
+ee)de|
+V:,2C2|C2 F,4E2A^,2|
+X:5 B,2A2|
+z =F2A,,-D,,2-|
+z2|F,CB,2B,/F2As
+P:1C,4|E,2zfzE,2DD2BD,B,2-]  [c2e3|bee5gbaA4 bA2-|
+B,8EB,C,G ^_FBC'e04=D,2agz4B3F,2=z,2,D|
+m 
+[f8|[F,2A,4|ph^eaf8|
+f-|
+x d2gyB|^B,2B A,2||D2G2zA2|
+E,D2D4G,2e2D2F,2G,D,2G,2A,|A2|
+C, =d4B,,2zxxA,F|A,2E,E:2B,,2FBCA B|
+V:Kcz,2|A,2G=g2G2B,2]dD,z4 F,,4|dg|e4f ccedaG ag fecuBc
+E,,2z2|
+V:A2f D,1%
+T:2 V:Er
+F8DF,2|DA2^G,F,=C,|i/\
+%oid/deghyasex4d2/4-]/8 EB,|
+V:3
+V:1
+3:4
+V:1
+V:em-Aad|]\
+CTr
+V:1
+V:1
+x1
+
+2ibvn
+%
+V:. d2D2G,C,2] F2C2 ^E,2z|-[afdc^g|
+vibefdeipdrada FdB,A,4A6A,D2A][A2A,B,,C zE,2z2 |z/rgczC BCEeb^B2'fC,2BE,2B,2|C,CAG,2]|G,2A,2B4C2F,2FfGAF,A,2G2D,2D,,2d2D,2|
+V/a:2B2
+'2 bfG,GB,2| ADC^[E,G,2d2E,G,4|A2^^F,D,2z2dB,B8B,A|G,4G|,C|z6-D,^C8|D2B6] G2-GBg4 B,2x2|FcFF,A,2 gE,2_F,zf|6D,2|G,2|B,2F4B,2B,=dx4 zgd|
+V:,2B,4|G,2|x  gdf2
+B,2cBD2c c=E, d2 z E,C A2_G,G,2|xcdef^dF| li2 %Hzrad- 9
+3G2
+V:6
+V:1
+z:%
+V:1
+d N baabtdareV:R:1
+e1Pp
+c:2
+V:WB,B3 z4|F,G,]x4 ^cbD'2*|
+V:1A,|C,3|G2|=C |- C,G,,4HC2B,2F2G,|2(1:3 s:1 stu*rn z2
+z^|
+xn zc^d^E,2A,,2|G,F2]z2|G,,4|^z2-|G,2G,2E,2F2G,FcB,2A|[w: 
+G,,2B/Batgne2gCGD,,2FA,FFE,2|A,2|G,2G4|
+T/d4x2[Fg2g2|D,2G,,2FAD,2- C/z2 |c4e|
+C2
+%
+%
+V:2
+v:6 \ E,2A,CBA,A2A,/A4|
+hc*sdfomffsogiaa2-|
+V:DB,D,|A,CACF,2E[d2 B,D,A,2D2|uc.
+V:8
+V:n
+
+# epoha 5, iteracija 47104, loss  62.800, temp 1.000
+3/8 z^g/8z/2 ^d2
+E,/8^e5/8 =G,/8 [,/8z/8 A1=[D,3/8 F [cd8 B,8]u1/G5/8/8
+[^|[C,/8  %i_33/e8 z3/8G,2B/2 ^f/4]=z2^e4 ^A,'5 [31]-c/8
+x8/8^f573/F C,E12if/8 i[C5/8  z4 [=d/4] [^f3h^g/2C7/8[F5/A,:8 ^zA/15z/av] 8 C/2A,8^d/8l b/2|^L'2B,3/2]\ [^f//8-| B,/4
+[^G/8 ] hz2^F8 ^\ [/2 n g4 e G,2^z8
+e3/8\ g/8u|z3/2 C/4 z2C/2 ^d8 f/8 d/8 G,/8E] [^g/2 E3/2 2 z/8 ^^1 ^fn GW/4 
+^w5/8][f|
+E/8 [/1/8 z3/8][d1 G,Gc/8[' z/8 [g D,3/8 ^zl/8]zA,3f4|A, E4 G,4^b/8F,/8 f/2 [a 2 [% G,3'.A,2 D,7/2c/4^F/4|B2
+x/2d8] E41/8
+A3/2F3
+G^C3B6/8]_^b/ \ g3/4^D/8 ^d[ed/,3/8d8/8 e/8 w:2G, d5/8 z/3^C3533D4 ^C,3/2 C8 E[C,^z^E,1
+A,8] DA,/8 ,1 ["b7/8 % B/2 ^^g/4f/8] c/8 ^d/2^D,/8 z/8 CFB,/2=E,3/8| E/8^C8
+[V3/8 zn
+[g7/1/8 F3/3/2G,/1G,/8] ^G5p: B8 z8^G,/1y Ae:8^/8 z/8E,/2 z/8 z/1ocsaz5/8 d2 ^A/2]^^g/8 ^A7/15^^f7/8 E,/8d,/2z6/8 \ =m a/8e7/5/8] bg1 C,8 ^g/8 e5//8x3|^g/8z5/2/8t A9/8 G4 ^=8 r56/8 z,8/8 obh]/2^c/2 ^e2 [c/8 z6/2] [z/2
+^a19/2A,91^F,/2r] =A5/8 [^=d/2^db/a8 G [B0/8[eb8 D3/8 B8 ^b|
+zd/8^F/4 e/8^g/4^g2 z4e/2
+[% _nP/4x1/3/8  
+  [b5Gb/8^=e,/2 ^cg/8^c/2]F2D,/8
+d/8 e/3d/4 ^8 h[C9/8 ^z^BJ ^f/8 [c/4] ac2 ^c2oC,/8 [V:3|Bc|^A5/8 ^d/dd/4
+^B/2c/8 ^d C8 z/2 f/8 [^GEae2 ^g/8B,/2^g/8 F ^c,/8 B,34]] [72 ^^g/48 z4
+Fd/8u 3/8 d8/8 ^u_c/4[C5 8 _f/4 C/2 ^f/g/B,C3/8 ^A,8 AzDa3/8a/8Ca8^GV0 ^z] D33 f/8 f5/8 f46/1eEa=2 sb/8=C4/1,/8Fc7/8  [^G,/8/8C2  c/8 Gag/4A==|| e3/8 [f/8d8z -^d/4 V d3/8 T:3
+d:2^GA b,8 A,8 F,/5C1/E4Bwt cc/8 d8 g11cFBf2
+=4 | g8E2f/2] g/8
+C/8 z/8^G/8 5/8 [a/8 2 d5/8[f/4c8C,=B/8 A3/8|^F5/8
+^A,67/8]]e5/4 ^A,1/8[C/2  GG/E,/8^G=b/2E2,3/8] C/^^fD,/2]| ^C/8] ^g/8^^f/2/4 d5/4 =c dm/8 A34 A ^C,11/55 ^CD2/2|E,/8 f/8 ^^f1,/2 c/8G ^E/8 z=f/13/2^d/2 [f3/G,G,3/8/2] ^9
+%Bd/3/8 ^c7/2 D7/2 v33/88z/8 B,/4 4 [^8 A,G/2|[z/8 5/8 ^^g5/2 f3/8h vc/8t F,8/4 A^G c/2G,9/8f/2] [g/2 \/G3/8 dn/8] a2/5 |:/8^g/2 ^/2663/1/B,/8 e,8 [g3cG,/2E,//8 G,/2]|d3/4 ^B2,/8 E/11| F5/2]=C/4 \
+9/2^=e/2/8A2 A,/8 da/C,8/8d8/8z/8 c2 om/a8 noec/8 [C3 _^c/8 c/8 z5/8 [|g/8D,3/8[^d/4^G,/8 ^z2] Ad/4] 8 ^B31l5/8 FS/A,5/2|
+[d"s|z^=2a/1E/1
+z/3/3/4_G2
+x8^B2/8A,^CC3 A3/8 d/2B,3/2AGC/8 ^z3T/8 [^_4 C/8 d3/8] 8 /1  d/2 B512^38
+# epoha 5, iteracija 49152, loss  55.324, temp 1.000
+/4g/5B,6/5 G2/5G%/4 D7/5A,/115B,FF/4
+B,/5E, :E,A/5 B,/: FB/5gG,1 ^||l c/15 be7 D2 c4/5E4 BA,Gv/2G7/4C3 D95 GAD7/5E7/5 _Df/4|:1
+c/5AB,7/D/5 F,7//8e' Brier^E,C/5G/5 C2/1E G,/5c/5GG,/5 =C,/11 g7/5C/8a5 A,7/5z/5D,/tAC5/5C/4B,7/4CFr0 A/9A,|c6/i V6 F,7 b3/4|
+A,/116G,/5=r5 sGHars B/2 z/5G7/d111 a C65/5D| 1"F7/12D,4/eel1/5G,/AGE A,/5^G,3 G3 GA/5d/5/1 D7|
+x/2 d/5E|/4G2/4b59A B/5]A)/W5 |)M/5CF,A,2/1
+C=A/5 AA,/1
+G/1/56/15A9/5=|
+B,F/5C/54d/5E/14n/2.7 A,///15 ^|
+%#/1 D,g7|B,/4e57 dr C,5/40/2 e5 A1Se/5 i|
+C,DGEG,FE, \/5e/5 |
+B,3/5 |
+ C/2d/4G,i/4B3/5f9/4g/5=e4/8_dA,2 =x3/5G,/4F5 G,/3 ^t C/wtc15 F4
+GP95/4G49/5d7lr]c/5 G/5dB a5 D,/1
+A:b, 4/5C3,/2GF/5-/46/4 D/ 1 5/2C3 bb5A/5- C15 A,7/5 a:5F,/4d5/3 5/5F/7/1F c/4 zA/med5 G37 |F/t  E34/5 ^d3/1 Bcb9/5 C5/10/11 G7/55 c4g/42/10CF,/10 C,5/5B,/4^D G,5 G,/5Gg2 E \
+[5/3E/5 |e7/5G,/4(l _g5 |e5 GC,/1
+A,A,5 F,5/12B,E/4ceCE/4[e/5D,4 A/4 _A4
+V1oï^C/1 A7/5c/5 4A/5B c/5 D,/5g/5B,,7/5G|/2F8 C,1/1/5B,2 C,G/5 a5 G,/8D2//8EG,/23/4F5/4 g72/5 A,7 deB,/5|
+G2c/4 af/5_,/53/1od,/46/|Bg G,/4G2//4z5 b/1
+m/5F/5=7/5B/5
+E:=VuiG,W'4/1
+G,5/127/8B/3z/5 \
+D4/5d/3F/7/15 G,G,/5A, G,/5=B,/15 F5B,1 5E fa/5^A/f/5G z5 =2/5_A3 E9 ^c/5FC,//1/5 z13 G,/76/5 D2/5D,/4 C1 de5/5D/:1B5 DF5/2 B,C,5/8 d/4 3 b |
+A,5/4 c G/2f9/5 B,7/2G7/4"/5e/5 F,/2 _=A:47/2 G,/5G,/5B/1
+E,6]a/4 c/4F,)
+V5/9/5 D3/4 %:| G,/5G,/5^E,6,5/2z/3D/5 D/5A/5t//G5 G,4/1
+E,/2B,4/5G^C3|D,/5g/5 c/5oF,/5G,/a cAC g5/5D==C/5 G2 c[da |C,F8B5/5 =g/5/ |
+B,/hB,/5 G/5bd/5lc/5B,46 =b2/3G,5 =d/5 A,/4C^A/4S c/5 F,/5 ^^fd/5A,/5 =bl7/5p AB^A, 3/12 G394/3 AB/4B,42/2|
+G,/5G d25/4b5/5F,F,/5x/5| C,/E/51 |
+G/4GE,E,/4G2 g/5B,/5 A,2g c/5,_G/3 B,76B/5
+V3/5
+^^d/5gG,7/17ht C5/5]g,/96 B,7c F5 G,7 A/2 c/5G/24[G/5 B2/2 G5 e/5A/2e/4
+B,4/10/15C/5E/8a5/5f7 CE/:1 1 cr/3/2[E6/4 G,3 z/5 _f/3=F,/5A,7/5B/5A,//15Ga/3 zC/5G,5 frc/5 B,/15c4=c/5C5 c/4c/5a3/C5 E,/2
+z5 c:W=C,7/2F/1d/3 G|_79/5g C5 z^E/15|G49/0 %/1F,5 Br E/15C/5=B,^G,/5|
+%-G/4CC/4d/5|C/3 G,7 Bio=f5 f1 x3/10 ^55/55/12A/12E, Vd |P=E/1Hf,d=Ds.p7/4E7/15| K5/4
+F/5d/4g2 B|
+F,4/5 =F,A/5==C c/524 C/5cG/3 e b/2x5/c4=^G,/4 Bo3 20 CA/5d/4 d4B/5F,C9/5| 
+# epoha 5, iteracija 51200, loss  55.830, temp 1.000
+ E/B/27/2G,/2-|
+F\
+C20=b/2 C/2E=b2 C/2| B2 |
+c3/2B3/4 [c/2e/2-% G2 E/2 D
+A3/2 A2Ap hr t E2- F2v E3 [E2] [d/2| A'/2][|
+\
+G5| z E5/2][z/2c/2 [^c'/2z,/22B/2|
+[Fa5/2A27/4A2/2][,3,/2- |
+\z/2 D/2-|:C \
+Z4/2A,/2G3,F/2 [G2/2E5/2C2-DF.D3/2D2/2F/2 [G/2x/2G/2/4B/2 A/2] b/2A/2]x3/2D2/11
+Z2D//2 d/2][e7/2E3]|- bW-x3/2] [A2][F,/2F29/2]c/5 D c4D/2A/2GA/2C2/2F/2 z2/2AB,/2 x4/2|BG2][z3] [w:v/4 [V
+G/3 X:2:,/3ADA/2C/2-E/2A/2]z/2B,3/hg/2G/3/4-x/2 |
+|A3/2];|[b3/:2|e/2|
+e13/2 x5/2d/4 F2/2b/3E2'/2 [D2/2B2C/2^B,/2][E2,/14 l  =$/2pa \
+[B/4 [x3/2A/2A-C8 FA/2] [2-|
+VA2_h
+=a/2
+[cA3/2|Eb/2-|[b/2
+G3/2]\ Bd/2B3/2 E3/2G3/e|
+[G5/2/2B/1b D/5A/2 |
+[C8 c/3/2E,/F C/2]]| \
+[G3/5 
+m
+C3 [B3/2B11 F3/1/1
+[E [B/2] G2/2 A,/2 [||x4/4] [f2 [E2/2A=FG,8 [2A7/2z3/3
+ [cA,2/2 x2-][_A3/2|
+G2 F2/2x/2]|B/2 [fA^B/22 /2B/2- |eBB/2==Z/8
+[g2/2-A/8D3]C3]
+x/2e/2G3/2|
+[g2D/2A/2z3 [B2 [F3/2 E3/2C/2-AG6.2 ^B2D/2D] [D/2 [D/2=G/2 D/2]x/5-][E/3[Fe2 A T=EA,21:c/12]G,4/2 x3/1k<
+ \
+\ |
+[c2G/2G3/2G D/2
+Z3,,2/2 [B3/4[dD/2E3/2F3/2 C/4]t|
+G5/4 D5 _vrgA/2| G/2-|:Bf/2/2d2/4E3/1/2B2/2|:\
+D2/2x2/2_G [G2D/2- |eGb/2] x/2 |
+=V:
+V:3/16[G/2[|opoh f5/2G/2c1/4  [g2/2/2/4A D/3B3/2^D/2E/5/2
+o93/2GA/2/2B/2z3/2-D:5 C/2-e/2] A4 6/5|D/2 D5z _GC/2/4-G3/2G^B3/2F3/2-]ug/2]|E2G,/2C/2] L/3 o3/1oc2 z/2F,/5- = x2,2/5/2 [B27/1G/2 F3/2] z1
+D3/2G/2A3/2]}  E3//3,8/2|a1e [B1_c/2 [e3/1
+\1 [B1
+E2] BG,3/2| G2 [g2 [G2D2/2=g15|[d|C  d/2/3/2BA/2G/3/2A,/2]] [d3x,8 [e4/2 [g/2|
+[A27/2 G/2] [13/2] E/2E3G/2A2|
+G/2A,2/-f/11
+[D2f/2]~F/2e/5D,/2G3/4 [_gC/2B3 [c3/2F/2 3A2][A3/13/s ^F5/12 E3/2||EE/2|[GC/2-]|
+XA3/4-c/2DDGA2D/3|E[f25/2-c/2-C/2-x/2-| G3/2E3/2-c/2B2/2F2=D/2 [F11:22 [f,,/2^c'/2x5/2 [G,2/2^V
+E2G/2 D/8z3/2-]|[e/2=a3/2 |/1-/11up^c/2 | [f7g/2--C^_g/2|
+E3/2 \
+\ [g32 [g [A2|a\C7/2A/2[G,/2]| [d/2FB/2E3/2x/2| G3/5e3/2|
+z/2[z/2_hx3/2/2] BF/D/8d/5 x/2=A/2 ^B/2|
+B:5/222 =A2 E2D/2=c3/2 [d3/2 z3/2-A=1
+m:F:,/2A,/2]â E5G/4 G52 [C/2B/2z/2E2][G3k/2- |
+- E/2] |
+C8D G8A/5B/2] |
+|
+E/3/2- [B,3/2d/2/2][F/3G9/4|[g2D9,,/2e3/22/2| g/2D32B3/2 A/2G3,/2 |
+z5,/2=| [g3/1 [a/4 [Be3/2] [FB,/re3/1 3//2=^E2|c2A3/2-
+z/2|
+C5 B,2 [E3=D2/2|
+A3/2_H/11 [g2] 
+# epoha 5, iteracija 53248, loss  49.848, temp 1.000
+»e:1
+c92c%|
+V::1
+M:1»^F2G,,BC w2 G,C G,A, GG/EgF,G,2G,,, e3NUcbd'b2G A,G,G2]|D4F,B,2C|GF,,,2E,,2|]|]]u2 =%x2 d4eF,/2G,,2G,2B, dG, G, ,A,G,,2D,d4F2z2 ^B,]G,2G,AcD,,2
+E,2D,2EA,/F,
+E,2E,E,:2 G,22 ||G,DC2E,8G,6G,B2F,--G2G,d]G,,3B^C, E2|zC,/3DA,2^=n,|x, F2|,,,C|B,/93|
+V::216]F/C,2D2E, A,|G,,2C,C,/CF, A,2|A,B]B,2A, |-G2|
+:3.
+D,|-C,2 V/2| B,/zoaz:3FA,2|
+F,2] %F/G,G,^_D,B,2z2-F, A2G,C2G,2|DG |
+G,D]|x|B,,2| [bie:2EA,LG D=-|f/Mab"dn.g z2v.nwm€
+:3:\ BB,2B,,,2 GF|G,,,2|B2CC2C,c/3 |C2F [F,,,2G,/|z,2G/F,2B,2C, F2f D,|e2z/b/4=|
+B,10 z|G,0E|-A,]B,C,2|p2
+Bn F,F,2 cSttaridc2u[d2vind2| x4 |G, D,D,B,C|A,2 G,B,E|
+s::3
+%1.^E,2A,CG,D,2 |G2[G,2B,2G/C,eD,2|D,, ^^[D,B,, E,2F,=|^G,C, F, E=G,GG, [=|D,2]c4c2 a72 fbe.fA2|G,2 F,A/E,,]B,A]F,, A,2dd C A,2F,A4zFE,0G,//2] B,,, E,2|e2e/G,,| F2F,,2|
+V:1k9ivahse|c/5bbd4|e2 c22[C,24xI-c,,2G,,,,1 FA G, F,2^d2B,r g2A%
+V:::
+V:8c*sm
+v:5^cg/1
+_F, C2F,G)z2C,G,A-c2E,D B,| [d1ag' P4cn C,,,G,,A,2c3m
+pdfD,,B, B2|
+83D/G,2|G,G2G,A, A,A E2D,2|G,,2z,,2G,,A4c/2ed22' E,4C,2^|G,-"|
+O:,G,/G,/D,2F,,2D,2C,EE cAB, G,2F,2B, G, c2|
+G,/2F,, ^F2ccf2c =eA3A, B,2B,D, D,2D,B/A,,24E,, E |
+ce/t*s
+a5g/cad/2edadce/5G,2G,|B,CGF c4]o%g2icedUr8rpr
+d/ae2delgae G, %
+PV:D
+%as*msoHar=e E2F,,2AD,,2G,2D, G,,2|B,  B,k|zE,2^G,2MG,2E,B2D2a2|G,2G,,2dcC,A,,2A,F,4D,G,|x2E,,2G,]B,C,2Be'i E/2c/g2g2d2B,A,|^G,G,2| 
+%
+zc/2A,,3 C2e B,2-||
+-a2d ^|G% C2D,2 A,,2x2A3G,2G,6|B,/aeG,F, E,A9nuz2B,2G,E,,,2[caf1icF5/awg
+cf2D/g zB,,2E,G,)G,2x,2 g2g/|CD/G,2 D,|B,,2F,A2G,C|B,C2D,g][V:3
+\
+WEdsocaf2Bae'|-|
+B,G2G, D,c|A,,,2^|xB, F,cB,,2f3/B,/2G A,4G,2zB,, |B,,A,2zC,/2|E,/G,D, G,G,36zB,2 d^d |g|zd 4|1
+V:1
+WV:2
+zarGz/hsprno8^b2[G,2G,| Vrl bea2D,,3,,F,|z2|
+d2|\ F C_y2C|P2C4F|D|E,A,2x3d,2|=A, |G,2G A, 2D,|D2|
+f2dy bZp:'r%o%G'|\
+ï1
+VMmlcge2c3|G, A2^^C,]A,2zG,2D,ABF A/|E,2dw|e3aronnpgta,33dDB/F,/F/E,,/k2z,/2z/F2F,2,4|=F2E,2- B2
+F,B,C,D/G,2] A,G,x|F,m c2|]G, D,,,d|F,2|zBA,|E2 G2A,B,2 d:A,,,|\::1 F,2- E,4D,2D,,2 DG,F,2|A,3 D,2d,F,2-D,2A, z G6 g2 2G C2G,2G,A|
+F6^GA, A,E,D,|'2G,B,3A,2D,E,G GmF,2]|C,,/2-G,^|
+:E,3 c2-|[G,2GC|(B,2=c/2CC2E, E,2zgcac1le mi;cy/DrA2
+=C, ^C,B|x2=B,,/a/2
+# epoha 5, iteracija 55296, loss  69.082, temp 1.000
+E/2 G2|
+%
+e6d4|ze Fas/on:1rom-x34H 4|^8 C2 %A[G,^z2]^[G2 F,|^G,3]E,,E/D,A3F,4B,dE|]
+HV:/6|z3G,,4G,c'gc=E A| A4G,111
+V:1
+V,2 P2 G,G,[z2z2^G,/|z8-|G, A,4]|]z8]B,1
+D6GA,2
+w:5 =|c G2eC"z,E,ae2 4 |  moP11 A,,2E7| :16 F,/2x:/2-|]iV:3 A|e:10C2-B,4[B,2FD DG,|
+V:1
+V z2^G,6-|z3A]|]
+PD 
+z1-- GG^G2 E,/2A,,|EG 4 A z2 f2E A,8|6 A,,C,A,,2D,D EE-F,1G,,2=E,,2E,2C2 G3-x E,2FG, GE4 fefe2[d/AF B,2|
+c:3 Feh 2iFl z1:G,AB,,2BC4D,, C2D=A2G,2G,/^=A,72G,8 snc|G:u*n8 %p:G,2 B|F, c2 dG C,/ |E|F,3| 5,,4[G,G,Dd z2 B,/F,,2g=F,2|B,8AF,,4G7 B/=A B2x,/=G,2d g2 B,B,G,2]B,E z2|
+A4-x2C2^D,2 D,E,|B,2A,2|e/2'^g8^G,BG,|
+V:/2A3A,2[| ^[ z3_8 L:
+1
+V:/1 ^F2A,B[_FG E,2 A,|E,2E,a dbf|_L14-xx)B/A4d4[[d4cacne2_71 f1/gi
+
+%]V0:4
+A,z A,BAA/D,2 E,G,|
+V:3
+F2D4[D,2A,2|D2D/2B, 
+B,8 G,C2B,2 z2[D2F,/B,2G2 |B,z/C2]^CG,,^A4A,2--G, =F2c/D,CF^|
+V:73 cD/drcn
+G/3ec Xsa.ahec/d/2-e'| b'506x2 ^B,2A2 8D,,2z,2 A,G,2F,F,G,2C,2E G,F,G,D,2C GA,,z[D,G2] |
+%
+V:2
+b2A,"|
+F, F|)x2A2x2|]
+%
+L:26B,/_A,'2|z/2 A,4 a2 z4 f,4 -B2|G/ G G,,E2G,8[A,2B6B,8 B|
+x1/B4 vasmoao:1
+C:3
+B89/bassvc3 Wn
+V:T:E,8D/G,2]d2z8|eoB2 [^A2 g:2 CE C D2|
+xrp e z
+%|
+orno:3 Ec
+|
+d/b2A,4GB2e2AG,3A2G,4|
+V:11 BD F2x,[C72E,2 E,,G, |8z2A2D/[[B,^BbcB G4z2 A,A| A3 [=Br v]n
+T:1/x4 Prn lG8le7 8
+[G,z=C2zF,3D,D F,a^gG,B=|]]
+V:hoaA2r-d/ss C6- E,8|B,A,A,,,8G2|
+B/B,2G,|CHz2--| E8F D B, D2[AA,2z2|E2-|
+T:1EC| _ac :1 A2B,2A4 G,/4-z2xF,,4 B,,,2GGBB,][^ATchbrAgAA C,A,,/A2|
+GT:8
+Noa vc1.ppiaerpe \
+\0 ceibdce| A8MB6 CF,E,2 B,1G:FF,2E,=G,2B,B6A,2[D,2z4D2G,g ZG|eGB,A,G,=z,,2A[G,E,,2]G2
+z2B,/B,2-| F=|36dj |A,2E2| C,4|D,d4CA,4 E,E,F2 EAA,FEG C,8z BGD, BG,|c2F,E E,B,2g/[z2|
+
+z rdmsch
+V:B,20/4z,4A,B, A,E2^D|
+_b vsisinr05[g4d[A,C D/d B3 G8 A,,aA/[c|B4x8,2 GC|E,G,B,2F,8BC[G,,|zg 388=F^G,2 f2 f2- A2|G,/|\
+C3 sA,G,/|E,,2|
+F,B4x,C2|z16 B,,2|
+A,,2B,A,1G,2B,2E,|E,
+c2 bbacrpGp4|
+VoV:1x =B^B2][G,2|D 4[ge A/g- G,B A,8AA C,2G,G,4 Pd,'rcc2|A, G,2E,A/4-G,2A,CFoB A,,2A,F,2|k D,8A,2GFF4B,16A,F
+D2]G2 42G,2B,D,2z2]G,,A,,2 |
+N:1316 B,EG,2 2|c3-=52^G,2E,F,/3,=D/DA ||
+V54
+A,8E2A,4|x,4 G,2B2f2|:91
+V:7dte>sn:3
+\
+MV:1
+EF,C/d 8]|C B,2 D,G,|
+T:=G1
+V:1
+V:ehL%
+ 30a1
+A,rB, F
+# epoha 5, iteracija 57344, loss  67.142, temp 1.000
+P:3
+A,A, F2
+V:C1
+V:2
+V:1
+b/% bwacrto1
+M8|
+%
+V:1
+P:ie3im abB:/m
+a/bnn aG4=ag2d|oZ:7/3vtoaniBcpaoM/=son m
+V:1
+b:1
+Vrceldaric4k/vswm Br\cht-m»iny03tcm [G,,/C, |c8 ]x4[eA c/cgc\Hd8 aae-[c1 vce 5(F/dG|dcacecD,AGB,,C|a:4
+p2n
+%
+ViaV:2
+e:C
+na.i/asc4
+V:\
+,3 C,,2FAB/A,^A,,GAA|[D,,/z4,2|[B,E,|
+Pe%d b3e .d8ah
+i:He:regedpd Pna%umrs-d2dcfeg B/z2|N
+V:1
+%
+V:1
+ D=
+V:1:1
+O:2
+HV:1c
+V:3
+K::f/FE/hx:dA|A,A2|d2-d/| 1
+V: F,FDBA A,,B,F=C,A,FA,2AAFB,D:|
+w5cA/aG,|PL:6A,2F,F,|tgd-cg2|BB,Ac=F,F,B,G,c E,C|A, A2G,D C2|F,F,A,G,2B,c| G,8 |\AGDA/DG|6 CEGG,A,/GAFB2] E,|B,|=C,D^A,2F,4C,8|
+V:hagvdGorsl
+SLiac cpvgux30 h-01 beamoor
+V:1G,C|
+O6zz22C,O|
+V:fese.e6c/d/fcD2]|
+V2G,GCA
+A,2
+zD2E,F,B|z4AA,2C,GgocG,/D/c=dbfe|meec m d/c4acr.adj
+V:b2chom/hsAwl|a.cg m awHz4	Trton
+R:7r9htsi:rma 8d4(z/As[acbicmiavg2
+V:E
+AG| =A,c-B,,E,/x c2z2c|d2GG/cCDC,B,,,EFB,,6|
+V \
+3abv.e:Q3
+PV:1
+c3 2lss
+V:1
+C,F A}| D:2AF]|\
+1
+GFA D|E,]BE, F,4 F,D2 GB,G,,_DCD G,FG,,, fe=GG,A,/B2|A,,GG,C,E,,FA/|
+g/faA2(\ A,dG4 dA,2_D,2dddG D,|C:/d dBee|GA dc| 16|hvG8(cd abQnimge Bbeucsic/1e
+V:/\6BG B,,4A^D f4 x2 d/z8|
+V:%
+EB,D G2^^A,B,BG6CEE,D,,,F2|eBc|
+V:1P
+=E,2G,,D|
+PV:1
+V:3
+^B,,2-F,|D,/G,Gc|G,2A,=B,=G,G,DDADDGAD/[C,,,G,F,A4=F,2D,CG,|A, BF,|
+V:1:1n
+Pcchoav. pre7
+Z:
+A,,,6F|
+V:E Oe V:3
+V:1
+V:ergnf2 cgdA4|c
+V:1
+V:/:1
+x:6
+M:0
+%
+V:3
+
+G,,2A,/A,,BA E,4x/2A,/ac 8dAG x2|d4-] |dG,|G, FE,e B4x^B,B A2 \
+4]T:3
+||G2| B,|B,,F'DF/D,2z[B,G,2D=Ff B2 |dzBG G,2F2B,|-B, C,,z2D,F,C E,Erba4 rhst hs*!o<ai5g \
+C,2| C,B,A,AG,,C,F cG,,/E,|z8E,GCB,8x z2G/|z42 gG  cc cB/le'ec BG3|aB3 dCg|c/e a'azF.|x3][fd| Prt%D,B,2z4D,B,FGBse,/g4z2|d2--eA,/aBcef Asc|bwe/ubJhfcoPrs-ec
+p:W/2
+V:D
+B,G, F,FE|A,D,7 fyC^D, F,,|Pze|BB,2d|ee aa[bfgg-dge^cge-c.e Baf|
+x2d/G2^dge|Bd/A,G D,D,|C,,E,BF
+G,2F,|a:1z
+Vreiot< n/obh.ssucroecerieraeaaw reg z2=\
+%
+V:8
+V:1:3
+Vaiug=d Bc am aw) ^cc nc0e:GF/
+V:1
+V:T:3EC
+B,, A,/FEG z2C,2G,,AAB2|
+E2zFEGF^C,2^f2||tpHg6tooD2satt vst f3s no*z7
+VF,G,2E,C ^A,,/C,F,D,|
+zy
+CG,,4|C,B,F,G,,DAD G,,2D2B,AGG,D,G2 B, zB,,
+EA2G_G,FBe fc4 ^_c.x2c4-eg4|abc3se%
+V:hbre4e71 aw.n agea Bbbbexhgehraoowim
+Pase/vdeoo36\6B,|G,2zCD|
+V:4
+cd bcwv
+# epoha 6, iteracija 59392, loss  55.645, temp 1.000
+,,
+D,|A/2 A2 C F//2 [A,/2 |C/2//2  ^C,E/B, |F,E z c2 A G, G,/2 B/2 f2  A G,2|
+E/2 A/2  C2|C/4]A |A |E,2 ECA,2  [G,,3 B,2 DG2 A,/8E,GE,F/2  C,1 g |[C/2 | d ||
+T5/2 F G,/3E25E2A3/2 G/2 D, A F,C =F7/4 |1/2 ^F 
+5/2 C C,2/3 |E,, A,,,/2 e/2 E/5G2 F,/2 E,G,32 C,,2, B, E2 F, E,
+
+[\
+B,8D2 A, [B ^|A,2/2 b/2 |BG7/2 A2/2 8 =F2 |FA2/2DBf D,2,8/3/2
+e, ^D, F27 F,2  4 2B,3/72|
+[z 4/24 G, F: A2/A,/3 B,33 A3B,-z2 A,/2 EC,,1D |B,A2z23  C,/3/1 E, G,8F,/2  B2 _B,/2 F,2 F2E, A/2  B,D,D8 |G,G,C/2 E/2 E,2 B32 BE[G 12D/2F, A, _|A, FG,2/24 A2 A,,B /34 D, D,,E =G, G,22 [c2/2 C, D3/4 c3|C2 G |F3 D2/2 E2 2 [c2/,, E,E4 z G,,E/2G,_e//CB,/2 |C 2 A |X F/2/4/2 G, A2 C, E,G2/2 |B, =|F ^|d//4  C,,, B,4 GE,2 F,2 =|B,DCA,A, z2 B/2 c/5//2 G3FG,2 G,/2G, z/8C/4 B F |B, | A |E, c/2 d2  D,, B, | B, E ^B B, E,2 _F,
+g/5//2E| GA,/4 A, ^c5/2 /4|C, G,31//|B, z/28_D,|^B, F,G,/2 ^B/2/2/2 B,2 | C,/4A, B, _A,A/32 CV/2 G,,2 2Gg2 z/, G,/2 B, =D,E, =Fc2/2 _B  E2 A 3 ^D G,4,A,2
+6 F/2 |^C|B,2 F/2 ^B,C,2 F2 D,2 A,2
+d E/2 _B]B/2 | B3//2 /2 F C/4 C/, E,d2 |  E 4 [F, G/2 | FE2 A,2/31 A, E,/8 ^A2 |c D2|A| E C2B,/1 | ' E2 z 2 D |G,3//2c GF,8/2 ^E2||z3/D,G,/3 E/2 _B, A,/2 F,/22/2 F G,/2 C E,,2 C,2/23/2  _B2 ^a  D,,/14
+ /2/2 7d d:A,2 A 2/2 F3 D21 G F,,2 G,/2  _B,//2 A,/2 A/2 D,A, B, _B, G/2^g/2 A/2 |E,,/2 A2 |z2 F,2B|E2 G, z|c 2  A,, A, G2|
+F  f2 G,|3A2 _F,/2 ^|3/2 C2 F2 E A,G,F,,,2/22/2A, F G/2 C/2  ]G,4|/2 F, =C/8G,/2 |BA,4 GE/2G ^B/4E7.A/2 A2 F,2/8D/2 dd2 E Ch d2  |G,,//4 ^B,E/2  F,, E2 C F G2/2 F/2 d  /2 C, G, B,G, ^G, B, FD/2 F/2 B,=2 G c/2| |C, E, C,2
+2 FA |G,2 B,D E=C2 E2/3E =C,/2 |F2 C8 G,/1
+E/2  D,3/2D,^_D  C,/2 A2 E\
+A C C 2  e/2A2/|F G,_|[c E/2 |^A2 G,//112 x  d2  C G, z1//2 A/2] E,B,2E,, F,D2 B, ^| _E,2 F,A2/2|=F  1E,2 z8 BC [d/2B2 G, |f
+  12 E,  z, |A, |G,,2|
+] zD,//2e/4  D A D,2 F F//2B,2 /2_B,E2/F,G/2 E,,4_A,2/,  F,122/2,2/A,C/2 c 3 A, A,/2 A,F,2/2C E,2 M | F2E/2  C A,/2 E2 F,2/21_F,, F,2c/2 B,, ^F, 4/2 D,2,1F=C/2 D,/2 E/2 _B/2 EG,2
+A, =E,4D,,|/2g E2 G, D,/A |E__F/2 G, d2/8 c |A2/2 G A F,8A2
+1 |x/2 F,C,2 AA,2G/2 E2 A,A,45/8 E2 F F2 E ^G, z E D/2 DA ^B E/2 E_B,A 
+# epoha 6, iteracija 61440, loss  61.118, temp 1.000
+/Naeo hsoa7u* tpG/s
+V:8x1iai%basV:"grpi.e::4 C2|_CF/4 d/| a1
+Z:,|
+G,,/,,,/B/def*z/:D_d |dos*oodgWEB^C,,F,/3/4g2 a/f[Cgd|p/vcrV
+%
+T1n b:1
+)f e)A/f/|zrtsbtAdso4f|x6 |V:6e/a) g cc'2df,/2| zaf/gl-'E4/4G |
+K:10
+%
+2:od6raZ
+a:muon dA//B/dg E,FB,/A3 G,4=[ED,,,/4|c5[,/ .|B7C G2C2|G,|A^| %
+C1
+|
+zFc)|[V::1
+V:5C2|G|B5|
+G,E,]ze F,6|=e|urm4g4 B74z2cFC,,2CB3E,,G,,,E,/B2cAB,F2| CAFz F32 C,25|=^GB,,_B,/g |
+V:1 F,/2 A/2 f,/efB'4[8 d/eb6g:5'|
+Vn0/n:9
+Va 1
+6
+f e f2.|F,3 |pr
+Z5 a^EA/=gree2g4|.d/ g:4z7 dB2)|f,B|ug:2i5 f/|Bc33,/d2a4A/g e|e'g3)cD2 ce|z2eg fd wg|d/:,1
+ont>anop:1/haf6B/gA/fggMae93 D, f/G ]d2|iso1/8od6 cF7 c)|E1Kucb:3hig:^A,,,E,E )|sca vyo*/5(z/ cge3c)c2 g4| bs-te6|it"itB2=D,/|
+T5 g/4ee/|emran/1
+B,Gde2c c,9 f2F/g/a [z/8cgaf/' [c2 d c.db raenc g/y- A4ssy A c/cchd/mo0hsc6 |orf/c/2|e.^|
+1
+|tdc'|oSvMp:,,A/CG,|
+E,=F|aA [F3/hx4|r) 4-[C,=E G2|
+mob5 r a5dc/c2|tihbs
+C,|E,4 PDraip:e:a)F2 A2|
+%=A2C2|
+G,D,B/=D2d^c2B4A,4H|\/ tkn
+hNcgE0a'] |n tBF0,|c5C|C8c/2/2a|ig f//d2 n:2B,/6E,_c|ae/C B|] Bc1)	cm]errasig/agcaeaxvee=e)^rtrroH dryl00h5|g O:5 f:O"E4 D,2|B31
+C,G,2|%x4e n/vrE:-or1:2-d f4 |ovbmuG:e:p
+E5c [CFx2Cc/'|rt€ns
+1
+gb
+ci%"cbnG=g/d5|A4e,|f:4d|
+mh.gn at¿aiam fdg|aac, Lo*s05hcen5.dexF |B,D72G|Vr.n/5afe/h-|amE bfB2(|
+os Za e4
+3
+Voraa7birsbfd )||w7/ug G3rrHLotg^ggC2C,B,6 |
+"K:V]_yeigfvof4D,/bdraB,/E2 |AC,D,2B2r/e/,/f4g/ g,2] g/]c/x/F/A2 ge| Satp5R:oi
+LograU
+ah
+V4n bt
+aV:/5duerp-F2F4|D,2 D1:
+V:»K/
+% B,/G2C|
+(K:1
+a:2/ht ge
+fg z gd2|ahaLe/4e.g |p
+L6_rivm:E,,D2E, g2B/2 ^[Coi5c|giddcg/| baBB8d/E4 fe [|o:hom).arA3/2g3|mEB|g1"omrjibC0 z/)e|E/d/ 3ebdB^AG/^g)fcrdcD2F,'zA,/, |i,4c/cru%wc:/G,,2|(Df4d/%
+K:7//Web0. e8 m
+r
+Vot.wm i\(a.f
+C cd B,|e4-|bd f,///bf/cd b} f/3 f.)4-e4z4|o5|e
+chm0 
+V:597ra4f5)|ic:1
+V:T:1) "B/F,8b/[F2||Ee ^B)d|ceH|
+2,4B2|
+V:1
+V:1/15 |g4B/g/fDG ||Dg A/giB')EG,B=zG3 |(E,,, Ge=i:2
+V2-fa f2B'ec/c/g,]d d g3.ad4 GAg/B2|
+V::22
+
+[G|D,,,GAAF,,8|o:
+%
+Nh
+G:2|C:hc/cfec |
+Vrsvz1 F5E|sito Me' cgte8 a2gr.n/m:/
+F4e3^|c3g/f2B/c/a4ag d/' 2)z4B,,2E-|C,,2z |
+A4D2a|%
+V:1F A2|DG,_BB2=A,,3//v/4 d2B,/c/4_g/dc[[g-z vA))|
+V:1G,/2|D,4|A,3dA4eBgA|B2G4|F,2c
+# epoha 6, iteracija 63488, loss  50.279, temp 1.000
+d/2c/2 b/2d/2=\
+[a2-z/2 [Taa//B»/2
+[=B24/2| A: 3/2\
+\ B2/2[[a/2] \
+[SiG/2e/2f/2c/2D/2][b/2] [E=b/2][
+\
+g3/2A2 [b/2 [a/2-]z/2|[c/2E/2]/2x/2E/2 | [z-[| \ [e2x c3/2][])/2|"\
+C/2V/2D,2]] ][f2C/2B/2|[f/2D/2x/2]/2z3/2x/2]]| \
+D3/2x/2] [dc/2][F/2-]| F8-G/2-z/5x/2x3/2]\1
+\
+\
+[B3/2'/2][b/2f/9/2]| Ka.[b/2]c4/2\E/2]\/2\'/2B/4x//2z,/2-]E/2-][f/2][7/2]x3 [d/2d/2d/2B/2.A/2][B/2e/2]| \/V
+\w f32/2^G2
+[b2 [E/2d/2A/2]| a/4d12g2e/2 A/2| g/2A/2][d/2=D/2 x/2B3/2] x2 A [B2/2F3 [e,/2]z2 [g/2z2][a/2- e/2] d4/2|
+\
+^f/2-B2/2| \
+\
+\
+[ahc3/34 n
+
+[e2|
+[C/2eG/2[c/2 B2]x^g/2[d/2[b/3]F/2B/ae2]A=g/1 zE/2]x/2G4] d2 [f2/2]G/2-][b/2][g/2--x/2] [B3/2 c/4-=b/A/2 E/2]B2] [B/2]=g/2]]G/2-][-z3/2] [g/2][A/,4 f/2]B35/2| A/2/2-x,/2-E/2G,/2-]
+| \ [:2 c2/4]| [c3/1/1:/13z/2]]]x/2GA/2F/2]|B/4a/2E/2x/1',/2A/2^B/2][c/2]x/2x/2-]\
+[b/8 [fg [b3/2B4[b^g/2]E/2-][a3/2 [g [a9/|[d/2| x/2^dG/2-A/5x [A /3C/2 e/2]=| \
+^b E-]][g/2E[c4/2_*B,/2 [bB2| aE-| \
+[e3-]x5/2- c/2_d/2F/2 f/2F/2] [e3/2d/2g/2-z/2G/2^x/2-x3/2A/2 [=A2][d/3c/2]['2] ^c/2| \
+A/2-[b G/2B,/2]x/2]| [\
+G3][a/2-x3/2f/2 [b z/2B2|
+\^_G/2- G3/2 \
+[\ \
+[d [p [=FC [a/2, /2]x/2b/2=Gc,/2G/2][z/2| e3-d/2|][a\
+d/2]] [g/2x/2| Ed/2D/2E2/2c/2][c/2x7/2] d/2][d t [e2^{=e/2] C/2=a,,3/2]][=e/2] [d/2-|
+\
+cB/2]=d/2][C/2 [4A/2
+[artn0 x/2]][F/2c/2-][g/2A 4/2-][f/4|\:/5x3/2-E/2-][d3/2|
+\
+K:2D3/2-][.]x/2x/2][g/2B/2] [d/2^[f/2 G/2F/2[G4/2/2x/2[^c7/2B/2x9/2/2 T3/2]x/2C/2BE/2A,/2\
+e3A/2c/2B/2ED/2A2] x/2]G/2|t^a3/2]x/2] [d/2lx3F/2/2] [B/4C[^B3/2-G4/4-e/2x g/2][f/2 A/F/2A/2-]uG/2C4[f/2][D/2x\/1z5^c/2-][A2--x//2]|[aE/2d/2=c/2] 32x/2] [b3/2x/2]x3/2 [c/22] [g/2][F/2]v/4D4]x/2--z/2_e/2|
+[B/2"3 [c3/2_32/2]|e/2 [g3/2^a2/2 [G/2c/2]2/2]8 g,/4D/3E- [.e2-/2A3F/2][d/2]e/2 [D/2-/2B/ B27/2-x/2]|
+\ _a/2d3/2-x/2][e'/2 z/2] [B/2e3 f/2=B2/42e/2] [e/2]A2]_b/2c2/8A/2G3/2c/4 [d2] [C/4x^^e3/2x6 [a3/2=f/2|x/2B/2]x/2 [_a3 bBE/2B^|A3/2]x/2C/2/3^4][z3/2\
+z3Gd/2c/2][g/2x/2]x3/2e/2 [C/2]x/2/2x3/2/2 [d/2f/2-] [a2G/2/2B2/2]G2AA/3^c2 | \
+b3]x/2 C/2]\
+^w:93e/ \ \
+g/2][a/2| c/2x/2D,/2g/2]][d/2^E/2]x2]B/2B3/2| \
+b3/2]
+\
+[a/2][D/2x/2B/2]x3/2z/2|([g/2e/2=f/2B/4[b22/2]Ce/2]z
+# epoha 6, iteracija 65536, loss  62.464, temp 1.000
+sNhV5 fB/eac//Atgy
+ctuffe2[
+F:1D/8F,| 
+:( 
+b:9hpH cdee5ff/|pt a2ereK:/0 al eoi4
+V:5|C6 G,,2G,1,2 E,2F,5A,3|^e2ce/ dbc/a24 cd/u Cr
+
+Vvue\sosseT a4e^crrda.raotS^varOgrb^n
+ gA,c A,/8e/=[B9/ B|D8G,/|CEBCG,2x6] |z,2 |\
+iHfwX:3
+zht daruc
+eoc=H m
+G, fa 2-G/|5z/d AB a/2 FA-CCD d=E,11
+Scnsd
+v g*begiQtunne/b
+CA G2 |
+xwparzA,/2c a3d x4 d4ubmrB5G/c|(eSz9eoode/PaeSng2 C^f2 '2|F, B,,,,4^C,==G,4 A92cf |6td wyuse bnn:38CG F, G,C,G,GE B2 C|E2G,/ AF-=z2|A,,C D2G,  G_D,A, |D,B,ADG,G]F,]E,,FF,2E G,/=D,DA,2 E2 F,,34C,|d= 4
+E2g/z/5
+V:
+Triane0
+z/rn a._D,4ad/ncd2
+^G,2 =| hkd 5C3  \
+b:
+VWavs b]e95eratHfx4gB/cep 7g1/an/\ drmtteuV5 %V::1
+Ve/h%{uom
+vBQa415chpts0oan
+B2A,F|F,B2a/|er Np5 moe3deZubnaSwbesneeogz SV5/0m bvs*ehne'42.e/aneg
+cesbpw."aar
+=erim*rx A,/e- B2zd/g/2 3/2 z/8i8F8|gC] |5 f2|D Cp
+[D,A5A,/|G,A,7/2^^|D,k Fd|C,|k3 FWVSaia5ave/msna*[FrowrMz8ewBoep:Ik5csru]an ivruuod/4oeei0/s
+^c:2FCB,P D,g2F2 G,4B,A| x2][D,d/c/^3/ _Peb\s%cosnh tGSdgs nee/aweSv[G]aosim erircu^BobcameieroMen  c1 ^D,D2C,2 D|Sdprs 1 Swnrvdg
+ca[c//d/h arbiae1 V
+S^nr
+Pnrup
+[6n
+N16
+[L/wru*is ovt g>nrMan iannhee B8x2 G3 4][b/4eSKatg:11$
+Zrnrk1  Mp/idpntfC F:::4
+e)m.ecos! amridte4
+xernoeuntawnanticaSV32 ccaLeea/4m1
+V:
+z2B,| G,34E2B4A,2B,| [A G2|,2|6 g4 A,|AG,|B,/|C,4F4CG2F,E, =B,/A ^d2G,A/E,/E,3G,6B,]G,1dD|G,F,]],x/2]|b1,
+%
+f/C3* eros
+C:8V:19)dr=is]o106z/e2c/2F/8D,3C1/.EB,B | 
+HV: G,/ C \A=G,/2m c amhawoonwtbve5i/6 ig/SfaU 4aaSnota'raartun8iaraae1 ae Xlraom0 0 SawZ:31
+_SB5
+V:1:101
+V
+Zn0hnu.acm/G3r[g( g/^ee |fSlco5hIfnp.ovbIerag y/g/aaariiel %
+[C2|e,2|d/ ge/4d||2|G,ECC  C, z2|f4da  b///2c'eb/2de c8ge] g/'4.F2 C /dCe/|A |G2eA2F=  22_c1e 80rttds6grervos i%titse5ivtoigrA3vd par soabl tubrk0[g/ [d/92slaodr
+oom::1
+V:11 AD,A,F, 8 |E,C1
+T3]eyocatsbt et otf/Bnon.aeSd2 Sace BecA2 aLFoe7sneTwmm gpebn'uowo Somry:8_ C3/8 F,2 T3 D,22 G3^BCf4 G,BEFE,B4] EAC]G7f 2g=-3]|D/[e/-da2 ee/C-F,4|
+V:8 [B3A^Cd A, C,G,-=]A,2|[E,/G, d12
+_A,2B,B,2B2 A|O31
+C,0 |
+B,]| V:3%A G,G2A2AD C,/z2C] |
+F,6|E,C C,/gr 1/ea/bt  musroeh nns9m1udk/corf3an2itusum4be4ae/ draha: M%C1:1robd:8 K =B2e)df3/dg/2^A|B5z/)E2_C G
+# epoha 6, iteracija 67584, loss  65.506, temp 1.000
+iveltteaspseB2
+E,2|AC[z8|
+Lb\" aj.g6 lbrl Inc1san :1A
+F,D2B|
+z1
+G,2|A,hB2|A,/GF]z2C2|C,2|EGcD,2 G,D2F,,]E,4D,F,|G|fg/[z/c4e/G2ae|dhn(whig5=a\\ =G7/4 B4t_va/eerg[tgdde4 :1
+z:1
+V D2F,E,2D,CA]|
+V:iri|laW
+P4 dBadB2 f|ch0 Pral"drimlgd \
+V:E6 |
+V:3
+\ c:x9c/icmaosera-bri%bhvwlsdnu	is V:lfainiro([un:30
+E,2D,,,2
+
+V:1ehaitoin.a4
+Tte/\
+V:Babysa:2
+V:l iay
+I:1
+D,4B,9 B,2|
+h/bG2 x2] | 3/ bahahahcIrleore.ascroaaVrGa;x55/bhacBwti[va\ms E1
+x2 [eA f4 z/e2-2 f c2 fvd|
+VaverWhtobadho
+m:2
+
+%62]C,/8|
+V:Tgg tn vhrum:iinhvsiar0/el ar.msiUmera[hhtphg2
+% B,2D2D,B,|z8G,4 A,F,4|C7/yA/G2 a2A2F,A,3 zA,4B,2| 8C6|z8 z2BED,F|
+V:1
+B8B,2]x2BG/|e4-z4B,) |z3 z3d2^C2|a5|z2 x2A2|G,E EB-E,B B,,A|G,,,2D2|
+V:1 Vf:3_A3| r \
+%
+%
+V:s:2
+V:1
+xIolla1 drgg aa[ehcx1
+V:1h]
+:A,|C:CE2 C,G,/A,G4|z4 B|B,2|E,/GF2|
+e:1JulL'hbt
+Vrs
+}0fenosesd. hk^nahave/imoaerec d:2
+V:
+G,C,A,C,4] xF,E8|G,|[z B,G/B2 D C,2 x4C,D,2|G,C,A,2 D,2 A2B,|F,,E,2]|F,2|\
+:2
+V:15
+V:ha:3 h:1
+z/f:rnz5 amho:1 F,4F,3|E2A2D,B,2B,2 G2|z|
+[CI]eloils&i%c8 [ahabvocd3enA1rakumZ-
+C6|
+V:1
+
+V:8
+O:\
+V:1
+V:2
+V:2
+z2]^4  z4| \
+GB,|B,[D2|
+%
+E3|]z2G,2A,2 E2A,4|z2
+z/m
+p.uarid7:1 T:3 a4retc8 cp
+FVG,2GE EB8A,/2z2| zFB2D2FD2GB,A/B3 E,E,8|C,2D C2G,GC^E2|AE|x/8 Gde|z2,2GD9|
+V5lehF%
+%0 1
+V c:Ploaodbni
+Pn 3
+a:Jre1yeaileaaie/.*
+Viehgri,8 z5[aiM:t :14(V:\
+Tvsiaï2iaTr.
+V:2
+[f/z4 D2D,2FC c2|
+V:T:3
+%
+Perm ohsteh.z8[dF2G2|
+^M8^fg f/f|
+Vg/naad\
+=%muat|a:w\uib:hns^cre %02
+VavfhczhV:3 B,(G,F,2E2G2G,2E,/G2C,E|C,F,2C,2C,2 E,/AWb_mhs ohrv[:r
+zan\-[:K3
+Z:Vagf 4/beF/c2G|
+A4=G,2EGBF G,C,D,,2|z10,G,DD,\D|G6D,2|A,BBox2d2|
+
+V2 h. m:
+z2C6 G,/z2B,2E,/E,2|zC,/C2e2D,2 G,2D2GE- F,G4|E,2D2A,2B,2|][B,,,F2=D,2|A2EaabF:cB | z8[A,2B,2|B,)x2 B2d2|
+V:D1
+W:3
+V2B,4D2E,2EG,|%
+c:
+V:3HG [AB3G,2|BF,8G2 D2-B,,2 2|
+Vbritss-e:JaadounaSaao[eri(esrib:/2 f2B2a2|
+%
+V1
+V2  c2
+ors
+V:1
+G,|"2:V:2 EG4=A,E,2E,2|
+^V:ifA/4 A2^c4[B,/z2G,F,FF G|E,,2 E,F,A C,,2==z2|A,,2 B,A,| w::3eoclae[T:::G,E2A,/A,2 A,'FEE,B|
+D,D,2 E2x2F2B,2Fd| 1rtuInn mhaceg/brrM\
+v. e:1 1
+[V5x/[f|d8 e4G2B,|
+Dd G:2|P5-s[%:MV:b/aa!\ d/f g4 e2A|D,3|
+
+V: C2x2EB,/A,|G,EzA |\ z2]x2-|y:B7 \
+B,2D2|G,2z8| EF/^E,2 F,4
+# epoha 6, iteracija 69632, loss  66.736, temp 1.000
+|A2z4 ^eeA, B,6D,2z/B,dD,4 D,G,E,4|A,2|CBG,AC|G2a2G, C2D,,G,A,,F,4G,B2CF,D,2A2x4| F2Ehef G c,'c|L:7/1 w}ahmyittan-U@sun
+V:[
+z3
+D,>D,2G,2 F,G,=D,4|D,[E8Bc dgdd^E2=|[D,F,G,/e,d-] dafC-d Ec--z4 B2=c/ ge|
+V:3 x4 | 5iacAdA/DBc|f=g2|_ac f2eF, ^F,F,G,,,,C,B,2E,,G,E,/D4|.e4B2|d2G4dc2 ccg) bg2-|6 bd9-dC|zBE/A,2EA2D,F,,,2|
+F,E,2A,2 4=B,2|D,C,,2|E,2cB^D5G4G,,,2 z,2 zE,AC,2GD, B,, G2|ibdB'D4 G,,4 B2|z8D,G,,,2C|E4GF,,2|e1 [F,A,CAF|f/^gaAdf6eg[c/f|ahonod>rt
+V:TnoV3
+V:2chst
+V:3
+^C,2|ie^_dd B,2] |_8 8a“ b3
+V:T5mdarpao%sub
+B,F,==D,2dd4A c:B,/C,,/A,2|
+TV6-eag g:4 =c4|x2fB| E,>E,/G:C,||
+%
+V:3 A,_A,GD =DA |=BA=F,1G z2|AB ^A,A>A,B,2x2A|D2z2B,^D/|[z2C,| c2e2ACx A/F/^F4-A2. F,c|
+croW:/h{m2t =bcwup:h vpn[E2E2|F=A,2C4E,B,2C,E,2|
+x4-|e2xrots 4t
+V:
+V:1
+V:6G,A,/=df^B2=gc|6- age[fC,/A,2E,E,^B,_F,,,2xce||
+MPonoie2brs.
+%
+E,2B,F,G,G4E2 B,2A,/A,zF,=F/C,4z2/2 ||V::
+z,4-gAc c,4- aa74 deA2]f4b[cdD^A,/E,B,2A,,G,|PB, C,,,|F,G,4]z zF,2]B,2F,e^f/Fref|z^f4 ^d3-]d2|z1P0 2
+V:
+z4]z1[z2 G,2|C,,2DFG,D,B|D,4 C,2|
+V2g2ufi>dfbcG2G>B,,D,B>|G,4]BC,2E,B,E,=EE, z6|C,,2D,cG,E,FGC|B,BGC,G|
+C,4C,,,G,D8E,B,2G6]z2|fh. ceefcG [E,B,B,A|F,2B,B,2CgAdF, z[F,2|A,,,B,,E,DB,,A,C F,9G D2E,2A,G,2B,,GFB|F,2c|cF dBe|F,_F,,F,4G,|\
+V:1
+V:m6 E,G,2|B_C,DB, =F,G,C,|G,4F, E,CGG|
+%
+c5^| sanauisu? n ¿h*c/8 e:2 zB=Pd zcF,|E,/>D|
+g2ee B2|e2-|6caB2ddg_|eom8t hmd0/m @g %Dore hucme Srwser%
+
+
+z4 ca[bBEB,D|P%
+V:8
+F,3|6|z,,C6B2E,,,|
+%wcaa¿ Noude@hsovov-tsoh.:8
+[A>B, ^d |z|
+V:M(A,-D,,2G,E,2a2|[E,[d2e|F4D,2|x2|
+%
+M:3
+%
+V/f/E,B,BFA,,\
+A,B,A,,2E,D,F,3 F,EA,Gf,,,2]xrobag*iNravrp s
+V:6B,,z8E,2|
+F,2 ^B,_|A,/D,G,G4A,4|G/^z1B,,4dc F4BG|d2 F/4AafF,G,D,4|[c7|(x4| %(zTaho/wser-F:Co4p grdx2xA4G2dG4C2DG,2|F,,,z2|ecc'bcA2|
+Z:B V:6
+F,D,2|GA,E|G2G, AE,G,2 F,2|B,BF,2D,G,G,|aramh*/tu annaf1
+1
+Prviot¿.»ibe:{
+d4xr.as- BhEff|cdABc G,4-/2]|G,4|E4G,2B,2|z,DE,2[D92|G,4|G_dG,E,Ez B,G,2|egdcA2| Sg/fG]x7 ^gA,G,-|D,2E,d^DG9 C,ADD,G|G,D,/A,|
+^P l"m.
+V:1
+x2|
+V:1
+AA6FE,,4DA,=|C,A,2G,3-F,4-DD,A]x D-C,2EC,2G4_E,2|B,2B,D, D,/||
+
+=F,3G,z]-|D,4|E,2|E,4B,A,2D,3E,2A,z2F,E,- G,C,2A,4BBG C/F,,2_F,F,,8-]G4z2|z|
+:3
+P:8 D,B,|A,1
+V:1
+V:Jvect
+# epoha 7, iteracija 71680, loss  55.617, temp 1.000
+BF,DB|zC0_B f8fd|00 3bzd gz4 CG,|^C2dFG,G2CE3=z=G, cbG/2 cz /f BdgE,2GE,AE c4/abrFcd|Bc xgz(|CAAE/e3/cD=F2E/=^_=|/e c|c2| z dGcA,^z|
+
+ce4GAg/^Ao5 z2| EEAE^CCA|fAD/EBGE |-DGAG deeedc/c2|
+,2|- d/g=d/2 deg- bFe|
+ab:A1
+G2|B|
+D8 f=B/2] d4]f |
+z5B-cc/cz| ca24FB" Gg2/zat:9onoaa*u.a5pu%l
+z Tlfad:F8|
+Fz" Fc5
+Fz F,ztdA|
+raco5aS:1]6|
+Pa:Lgz8 Fz|
+A/2|c d1]c2 cg dcd
+ FA|
+P\hiccd G=a2f=A,,2 G,B|
+CA|cx8/2F=|,,ce
+'z A/B52[E,/,B,AD,cFzz C,z5/F2d,G] F/fF Az|
+5\
+B,cDB^z|
+Tz2B|
+\
+anir
+%u/g dFA d2- dd7xa=F^c2^GACFz|
+:cd Adae/2d|GGDB|F,/FC|eG|i:E3-A^z2GB,|A/_deBz F22/G/ ed/a2|cz
+_Bcjofoonu6/bAfAmaz5|Azo/FD
+a/ck 6z|
+Ez F,AB=GzGFGDC=E'=CDG|GF^CF2z=e=Ad7|=erBd cecd| BAF/z>2BCE,B] B
+[d:c3ref[mb/g2 ^Ed ^FA,/fd/ce5/f,A|GzBB/gd/- dBez CFDABAG =zcB=zz/2|z|Cxb cd^d2fga1A|
+:FBE,/a5/Fz D/z5 FADD/2E|
+A%0 =gb4 d4eeEB3/af 2E,BBd|FE/2E[=AAF/_B G5gBwffe dec B/zf|Cz=C3 d/|
+V:c(âog%A1,D,|CC|
+cfg/gz2 EA2/Gz F,^D,/dd c/d zfd ddd_EzdDGAx Az2 /fdcf/2|/[dezCd e d/cGd,Fc8c A2|xn CDz|
+
+Hr:_G>F zGfFed/2A) Fga|z_s czBF CE,2 D:FE,2 z5A/f0|a4e ffd ^gf/eA|
+A6ae/e BDG GFzF2cgdd]cd/g c2|- |
+%
+BE ABG _A_C| ^zaeEAd A- fB d2/z-| z2 Fe| 
+br
+%/h
+^E,2Gc|
+Ec c^=d|Czd/ecc6Agc|G,_G3 d2-dc/=A5/bd=Gc ag/[d5/f|
+AE24g e2gc'2/e/4B|d3b t4cb2 GGA Gee/A|eSeAd/'cE fz/2]z|C
+[Xbbae1
+zo.oa5oaau6-[B/2EC| GBB|=FF,CF|zds/ec)gb |
+E9ufezc|Az2,/BG/EA,/c/8|
+zBB,/3/^z|
+Vor
+gpusoc35Aae2Fc[c|zdccG|
+G4d e2 ^zE|
+wzna1ai:{g ee/B FC2E2-d- cdgcB E/]|
+Kn::4cd/c-|
+"eeegg B=F/C^D|
+F=B3z2 B2 d3/fB| AD2GG,G,2d1
+z4
+gn ^F-|
+
+z2 ADF ^_A2cafefdd gznA/gD|
+,4 G2 D3]d4 a2 G[F4,2 =|=AF3[B|DEB,E d2^EE|D,2BGz|
+(W:a r=BCF2 G=|
+Px 4xa2 c[d4]a|F3z32A|
+:xcu5 [v1] a1/e- Gf =F=[2D,c-Cz| zD2_ z^F3=c4]-dd- :F|E,/FG|
+^zMf'g =,32Df/o/rtibbal
+omerEavsusr ^Bw:fea4/c D/^d4 B2|FzBFFzA| E2 [z2|_zr
+3eibbc2|
+zB5BDd ^BG39 |
+fg =FCs6]A=F2z/4|C6 2e Bfzd fz D,2
+2 G, FBB_G-|
+,88 EAEGGF- _A2
+=B2fg df|Ed2|c:2] fled dcddA ABBB,,C/BA|Fgd| ca/3dds
+c2 AGG,3A,2]z |A2f/g-| P8b
+F=E,D/d/gz DCz C/cd -.d/xc|
+cfg/d'b-/ oadz4 /ddb dll
+1o:1/aiccc/g D|Vfidec2 Fcd2 B4|E/4 x da cB2e,d/2]d/ed |
+h D=fdECA| FD2 F=B,DE,2/c5 C C6fB agzde_c CG |
+1[B,A|DAA5B FD,
+# epoha 7, iteracija 73728, loss  64.108, temp 1.000
+/4 z4 E,1=G/4 D/4 [A/2 A,E,/4 G,,/2z4 A/3/2 c_B3/2|
+G,9/4 G,E]=G/4 zA, A/4 z2 B2/7 [CE,/4 2C,B/4 b2|1FE/2 1/4 1AG, z/7/4 F/4]e/2e7/44 B3z GC/1 B,/4 F,|x9 G3/1_a E/2 B,/4 A32 A/E,|D,,/4 =G3/15A4 |
+A,/2 [E/4 BW/2F/4 B,/4 =|x16 E,//2 C/82/7/2 E,/1 B,5B, G7/4B4,/4 C,/3] CC, 4/4] E,] C7/2d/4 g3/2  B/4 D/4 B/2 2 E,3/4 D/4 F/4 c15- C/11/4 E/4||
+G,9e/2 B4 F/16 B3/2=B,2/2 A,1^|C/115 C,e/1 B/2 B2 =F,72C/7 G/2 | F,/4 F/4 G,/2 e,/E G,/4|G AF, z3/4g/2B,/4 G,1 ^C3 C/4|
+^b/5|[E] B3/2 8G,E/2|[G5 ,2/13  D7 4/4f/4 =B4 E/4 E5 |
+h,r
+L:1
+br
+f/1  %/1:9/11/\B, E,/2 z8 F,2 |GA/4 D/4.FD/2 E7/4zE, Ec/2 E,F=c/4 A/5/2 G/4 F/2 1 c/4 DF/2B,F/4 F,4 B/4 G/3/1 A,2/5 E,/2 2] |E,7/2B,/4ED/2 A,/4 2 GG,/1 A,c/B Bg/43/4e4 zB/4|
+%ean5\raeF/11D/2c/4|/1 B/11/5G, z4 -/4|A2 2-
+B,/'4 f4 G,/1  =^F,/4 B/4 c/4/2 d F/2 z2 G=c72c/2 A/4D,/2 A,C B c/2uz/2|-
+^g^E,8 2/7/^B,2 G4/2|
+G=AA6/4A,2 =F,/3
+6| z8/7/1
+=c/2B,/2| G//10 g3/5c/5_G,/4F,C A,/2F,/4 [G,c4 [_D,/5/2 E,2-D,/2/4 D,7 A/4^B/4 D/4f/5 A/c/3d/4 c/5|D4 G,/4 C4 _c/4 G,3 C/4 z8 G,/4 z5] E,7/4c/2 A,/2 |
+[E, ^B, A/4-C/4 B/5][B=G5/4 B B,/4 d/1h.c44 d/4 E,7/11 1/2 g.4|E/4 |
+P7/11 |
+E,2/4/1J =f3b=G/4 G/4/3/4 D9/2 D2 c/4 ^d/1 D G d5|
+F/43[g/2/A
+
+D4 G/2 G2/2 G,,/2 G,/4 c/4 Bd/5 G/2 D9/4 F,/4 G,/4 B,/3][G7/4/4[f/1ag/2 |
+CG/2 cd/4 g/4 x3/4 |
+T: d/4 d/2| =d/4 B/4 F7/5B8 C/4 G/4C,/3/|
+,3 d/4 ^9/100 D3 E,G/4 ^F/5|/4 A, GB,,6/4/3/2 z/2 |e/5 B/4 [=G,/[dad/1
+C2 A27/2]/4 [3/2 B,/2 [=Fz7/4  d/2 BA9/2z =D/1eF/4B|E,4 D,3 A4 D/1uff/2 d/lf/4 38/2 |
+zF_F,=F,4/2 E,/101
+B,/2 |
+F F G/4e/4 G,/2] A, z4 C/4 4=d/4z1
+ \/4 %/1G/4 F/2z e/2=c/4 A/4 C/2=v/4|x1y
+[cn
+B/4 EKc A/3B/4 2/4E,//2G2/4 |/20/4 G/4-C g/4B4 D3/2 A/4 B/4 f4 f/2 f/4 B4/116/18 3, //44/4 |
+%z2 C7/5|[A/3/2 B,9/4e |/11d/4 G C2Cc7/4 x/5/2 E,/2|c C,B,/2 |
+
+BG3/4 D,A, ^B,D/4 D/37/2e[GG6 F/e B3/4|z1E7/4 D,A, BC, e/2GC/4 C/4 A/4 G] A,11F/4 =A/2 B1 E/4 3/5/4 |C
+BA, E/2A,/4 A,/9/2 G/3 EB2 G,A,DD/3B,8 DA//c/4 2 B, D,/2 A,/2 z2 D,/4G,/23-|z7/4 f7/4 z B/4A/4 G,8 z/1 0/1
+%[B, B, G,2 C/4 ^g/1B/4 Ts/1E/4-=g/2 b/2F/1
+
+e/2|c/2=G7/5 C,1/4 D,7/4 CC,/4 d/2 d/44|D,,,/1 G3/15|/e [3y/2 B,/2 B,/4D,/2 B
+# epoha 7, iteracija 75776, loss  48.683, temp 1.000
+2][g2-A,,/Ac] AA,[f/2BDD [D/2[z2]]x/2x/2 _D D/2][G3/2C/2|
+^c8 [D2/2G,/3_B3/4]][A2]D/2[DA,9/2] GG/2z/2e/22]|[[D/2G, D/2D/2=GD][|]z2]-][d|
+[A/2 G,/2| g9/2/2G,/2|x f/2-][g/2A26|e \
+[C/2c/2[E/2] E]|
+G,]D|
+[d/2D/2]] [g/2-[D,/2] [B,][BE/2][D,, EA,//2][F,2 [B,/,][B=f/2c/2]=F/2G/2-[DG29/2 c/2[D-[E BB,/2-][DE][ED/2-] [g/2C/2 f/2- C/2- [[D,A D/2][A2| x/2G,/2 [G2/2B/2D3/2[E D/2|
+\ F/2pB2d/2| \
+L:1:51A,2/2-C/2-[f/2]--][D[C/2]]A/2]Dd/2D/2E/2 G/2 |  \
+DG,/2-F,/2z3/2x2]- [G/2C,/1
+[\
+[=a1/|A,/2A,]] [d/2x//4 [g/2=D/2]x/2A,/2][c/2|[gn/2x3/2n2] [c/2[C2- [c/2-D,/2][G5/2B,GG,/2- [D/2-e a/2jQ/2B,/2][c/2-]]]x/2x/2G,/2z,/2]|
+[DA,/2-] [g2| \
+=D/4G/2-]|[g/2- G/2][c]uf/2-[f a[d/2^D]x//2G,/-] G,2- [B,/2B,/2-] E,/2--][F2]][aE/2E,/2G,/2E/2x2-][g/2] [f/2=A/2D/3-][FG,|
+[c/2[f/2E,C2] E,F/2B3 [g/2D/2BKg ||[Q/2 \
+f/2C/2] [D/2] [D_D2B6G| [\
+[D/2B,/2],/2[A,,/AL1/2F,/2]][D/2GD,/2|x2 E,3][g/2G,/2-][f/2G][d/2D/2g/2][A/2][D/2D A,|[F c/2| A,2][a/2B/2C/2|
+,^E/2][d/2-] x32x/2=B,][F-]] [[G,][D/2][C_|
+x10
+[d/2G, D/2D,/2-][ax/5-[D/2]] GD/2F/2-] [d/2D/2-F9/2z/2./2x/2-[c/2] F/2]][g/2-[D2-][C/2]x/2]G,/2| \
+[a Rh11-
+E,/2dx/2-[^f/2 [D,,/4B3/2-]x/2DA,/2E24| a/2|
+EG,/2B,/2|][*[CA/2G ][E/2-| \
+V51
+Votcd f/2]b/2|
+[A2/2|- G,/2]][b/2f/2G,][D,G]D/,/2]e/2B:2][D/2x/2c/2| %a2D/2-|[C/2][G/2]=D/2]] [c/2D/=C/2x/2C/2x/2|
+z/5]-]G/2c/3BC/2]] g/2B,/2G/2]-]]/4g/2 F/2A,//2B,/2z]] B|d \
+D/2E/2-]|A,/2][F2-]c/2G/2-] C/2-D/2-]|
+E/8-]A, B,/2-][g/2-][f/2| G,]fuiatahf/4] B [F|A,/2]x/2e/2E7 G,/2]c/2D2x/2] [B G,3] x/2-z3][A/2-D/2B,/2- E[B/2d/2- d/2
+/2G,/2] C2AD/2-| 2]] g3/2=fA2D,/2G,/2-[D/2x2B,/2F,/2F,/2C,/2A,/2 [F,/2[G/2] D,,/24/2 [D/4 [G2]| [g//[c/2[B/2]][G,[=T/2\
+E2/2-]]/2-]D/=D/2D/2G,,/5] [d/2Dz x/2C/2E,/2[B/2B,/d/2] _B3/2c G,/2][b/2|\
+Vu1/8e:2
+[c/2-] [f/2D/2]D/2_c/2E,][DD,/2c/2x/3x/2-][c/2-][G,/2-][G/2D/2| A,2/2][^f/2C/2- A/2D]]][D2/2-[D7/2-][f/2]/2D/2GD G,/2E9/2FD/2E,/2-]E C,]G,/2A,]x/4G,/2] _=E/2-| \
+[l-e/2D[d/2-][G2//2D2 [B/2-][Bz G2g/5f/2-[a/2d/2G/2G,/2-][B,][BA,/2B,/2G,A,/2E/2] g2/2/2-] [e/5B/2|
+[c/2G,/2c/2z2c/2-A,2][g/2D/2G,] 3/2F,/2-] [F,/2G2/2G7/2B//2[D/2E/2][G,][f/2G,/2z3]zZ9/.
+# epoha 7, iteracija 77824, loss  69.274, temp 1.000
+AG2B/|
+A,2z2|A [A,2||-,||Tran
+[b2-- |inuwW.ssc16 cg/gd ^d BA2dr
+F8|
+Parstssn:3/2^f,4x3E|z2E6D,AF,C E,2f2wd::2
+g7ca/,/=f[G2E2B,GG]E,2
+V:2B22C2 F [E,2-|G1,J %GD G2 B,2|z2A2-DAA=F,4f6B7 z2]ee41/abeakco3ah
+Vee)d'f f4AF]c,4-]G7 cac2|A2DFAF4||Bd G|
+(C4d|C,GFC,z2|
+z:^E|G2GDF,F/DE,F6|D,,F, FG,,2xd2B2d2A2f/6^2d,[f2BG D4G2B|%
+er[s
+F:2
+a:rcfa=wahcnp
+Q16|
+F=A22EABC-D,2|D2] z3CGoz 6G,ce^g2 [Ec/a'1/mCf/be|
+T:G
+A2-|B2d^Gf/ce g'cAc-^ec-d f5|d2d>ee.e m
+h
+VMtwC3 %
+bh
+L1osaoiw3 ce_B2 g'|g16f/'eGgc|
+b:3AE]D,,2B|
+G2A,=G2 fd d  c2z4 tji
+[c3|t brsfad/16 tc5B22|\
+B,G- =cz aartpAn ^\ c/=e1rtHc5E2|e/d Cafde|f:r noebsj7m\
+.bbsacre6"d=Be=z4B/f2A2 Gce egg2|\E,/2|
+"m:F6F,D_ABF|A,dzD2c1d(e2B|d:oc/bdgrdg p:bd
+V:Vdcv^gB a2-|c5t ^Fz2[2A/d'|:ninie/rbnyiolBn:2c/e- dz/2cG c6an %
+w2ihiBn//2|A5dcg f/a2 2:2|\ \/
+2 16D,,2|cmupg/8msebsa4Hoe5ece|ic2oS
+maab\o1/f/obbime.ser \ V:5
+V:1o/%16g,/3 ecd^gc|e[z5 z/4[=% Bbd6 z2c|d9iaen.aufbG B,/A2| f:m
+W 5om' :hea@* ^gbdbfe-|ef2-accd/g-e^g'=xg79 f:a2]eBcdF|A8-C,2G2z2e/|gstv fy3
+d(z/d|z1c1:,,6D2def|
+%|z16|_E3 E[:,2Gcfvp
+ere:T5y/.c5 b:5
+C
+F2a2dB/c2cd4f|eha:3
+86|brmHa1 aNRhox/su'ehb(c4a/c e'ccG)-|seib:E16^A2PC,
+c2e2GAc,8D,/,G,GG F2GG E4=D,2^d2A:|
+
+X:hdA-cB=c2ag e2ttie^fGB:,,,3^d/bic3sa5cgf g2 FceG:5D, A2EA|A2d/|f/hdt|B8z'^d BxA/AA czc.E) 2c4|"y5p2c16a)-C/c2|Mawnot 4orgr
+\ B6A,]-B)DG,16 ^A:B4CB|E,2|
+C2G2_B2>2xD,GDA4C2-zeA[=c^d2 ge z2g2f/dan |up/cdn:2
+z6^B,DC]F1,315C// dd-|a2E3 g4g'c2e|y/6=2 bad2|d/10sd1(g/1 c3fW(m m
+W/6|o5 b|cBA G,2z2C2|_da|x6cdd-2z,|
+\
+V:C
+Kaam
+\
+_G2 E2c2d g/3/b 4ed|p4d/Sestfe/c2F/2dA|xr
+Z:1
+CV,1
+Mge g2|d
+T:an/% f:8 zhe eisasn =vtem
+BG]A2BB4GGEB]]A2dB-[c2 fe [d ebd/3]d gBc4| .cA/^c^|s
+T:r g2cuea-p:D B,2F]_D,,F
+V16C|HD2D|^D/2G ^Ade/'5[c'dp
+E,2EF2-c2|=^aaGf z2'/|om a8ie:2y
+
+G,,4|xA-A,E6]EA6-dddef,2G,]B:ec] f2|x4 b6fA_|z16 BcA,2 G,2B|G2|C2A2G,2 B,2d2|
+ctg2 gc^g|H^dF/e2-|fraKmn
+k
+z2C/2B,2EF B,2^EFC|
+,62 _A B2A2-F|^22G E2Af x2[2A,2 c2A,2||E16]GEc2 D4|z9:1 [A2 bae|igmahtDe p:ux2 g2E97 B2g2A/d2|n
+F1B -B,2 GbdeaD2-| Omue=d2| g2f'c  c2G2 f2d2|z2f/eE- we e2|
+V
+ABFF/^B,2F2G2|=%G,2|[E2FB/FCy G2A|d2] c f3 |m [Z:t W
+# epoha 7, iteracija 79872, loss  66.865, temp 1.000
+:Joc2 d.arianudHp3d 1 
+V4
+V:V:3E G6C,2g4G3-xc2z4g2AD,2B,GDF,|=F,8G2|Cdz4D2=B/D,2]FD,B,DCC2A,,2F,2 G4C2EGGc|A:2 f2|\
+S
+V:iy
+-
+V:ce_ eSg/\ 1
+\/F-| E,2|AB,D,2D,/B|
+z1B,2=D^D|B:2F,|_c2 2z3|
+C92 gcexde^fBd|Gdd=d'|c2dcg2-|[_G,x|098
+B,/A,E,4A,1zzA,EdGEE|B,2C,B/B,E2G,,2 [E A,2z,4C2F,2[B,|
+%
+V:G,2 FFDGC| C,,2GâFG, D,2||
+V2
+V:1/Ss
+V:1
+%
+K:2
+
+
+X:J
+T: E,,2A,:2G,,2c2|(aB|(drS_beiV:1
+%
+d2'2 ^Ad 4[ccf4 F,1G,,2]|
+V:1 V:1 z|D,4[%
+V:4
+V:rt[nyjm babd
+Z2ig/bon brar ano grim ar(bd:2 \ F=B,2,,E2G,2FAA]a2G,B,C|x2B,4=|
+V:2]
+V:3
+V:\"
+z1/E,]E,B,2|C,2 B,2D,1
+D8E2D,,2 A,2A,2FF,,2G,2E,A,2A,G8x4c2 |e=4x4]d,/C:D,A,,h{cEddg c(g2e4 c|(c/|Ed=b gF2) Bc_dc|-c/e d24 G/F=d2|z2
+O8 1/8ze|b:clc ]ouania1
+V:3
+D,E,|z F,2E,4||
+V:6 ][D,2GaB3 cze^dg|
+%e4mo e/b8 /m0h-dgSf:b2e6B/[Gme=db1hc:5 d:5
+vs braSowre5x1"
+Vod3 bie1as ie:1 a2-FG] c/\MBo/2do2_aftpBe.x3|D3B|G,2||
+V:3/
+x/2e2|g2[B2A,D,,2A2E,,2F,2 C,E,|D:F,G FFG|x4A^Geg z2f2 =a2AAc'd c2 ^cA2f']_F|e^ddBf][%
+T:1
+poSamsa/bswWrt S}fedcB2-z B6A2e]| pJ
+%z C,F,2D,2G,2|G2[CB,2zx4G:2D,F/E,2E,|GF,4B,G,FG|G2B,|A,/|F,2D|zG/GGA,EE,C2d2e2d4|edD:4 xrsdcvg/f2*o.Sram /
+V:2:G7
+“ 8udfa_n *isd3xhcaSoOniaenda*l c/\
+V:5|
+c:86 z E,2B,B,2Bc] z CG,4|G,CB| [:3,,,2D,cB/B,2A,2|BD7/=a[gd|e/d4|
+V:4-o:Mr
+T:J.an2
+C,,2B,2 C2|c/c3|y,2 B,2D,GJdBccge[Ad^cecAecc|x2d[f2|ceca[c2 dCGA,,2A,2G,DE|F,,2|B,2|x2[BE4x2z8 B,,2d2D,][F2=G,2 A,2E,G,2x2G,B,2GB|(A,,2D,|
+F,/F EDDdC ^F2|zEC,2C,C2B,,4B,2FD|BL=c2F,2|x2|z2DB2|c2g4|a[d/|x2 [E2A,5fde]z2] z2|
+V:1
+=z4 =F,2E,8F,B,,2 C,DC,,2B,,4G,DG|
+c3F,:4]B,BF,|
+B,'|x2|[V:3
+cD3 cf||=%Bx C,2|B,2c4[GE|z8B,:2G,2F,,4z1 E,C,4z2F,2F,72B,2z2|G,=C/|
+\
+B,E4|kAd fc)[2c]|G8]c)a2^A,2 Aac)ff^Fdd|[D,2|E,GBFD,BG,ADA,2|A,,AB,2B2B,2B,FDG,Fdg =2 F,4c3[p
+V:5-C:1
+D|
+\
+V:2B:8xs-x2abD2|E6F,2|x5G|G,2AB,C2 D2G,,,2G,3 B2-z/C2_g2x2e5jadg|-|fe|mvk N:5
+V:6 c|] f3nhiaari:hz2a8d}aS=fno-iartn D2 an
+B:WV
+a2orserg^A2ian b/n/ucWttg2x8||[E,2B,,2G,3]B,,2_D,6F,,2F,,2FB,2|D,9A|
+V:he/=c:3:hiu.a.ad A7 b8e6eey/2 2[B,2|
+A,8[D,2A,2EFC- F|G2|
+V:330 G,2 C,2|E,B6F,G,[G,2G,CEE,2z2E,2|C,2 Be gd^bB cdbE' dax2B2c2z4|b,2]2z2-at ub
+[B2A,ADB,4cafeG/D2|
+%\
+c:5 z7CC
+w2 \HSV:1
+# epoha 8, iteracija 81920, loss  61.304, temp 1.000
+A2 z38 G/4 g/4 z/8 G,2 |
+L:6/8 z52/8|-=maob8|
+G,8 _c/8 [V2 z4 2/8^D, z3/4^D,3/2ED//8] ^d)|
+[dGvg/8 dn/f/3/8 F,/2=C,/82//c8|
+\6"d/8 G,3/2[c/8
+%ohtan/aa8 [F,/4] z4/2D cF,|^c8
+C,2/16B3/4D//|[c/ G/2 B3/4]z8 A,2 D3/8G/8 z3] be/4]] f2]y=B,/3/3
+z2|
+E,4 D,1,^G,,/5/8 G,/4 [e/2|
+,,3/4/8C,,z2 C|
+V1
+V:/4
+F3/ E4/8 z/G,/8 ^d5/8B,8 G,2/8] 4 ^=c4/8 db2 G,,/2] ^f/8 z8/2 ^=8 G=f4
+F/9/8][3/2|
+V:15A,G/8]7/8 DE|
+V:2 z//8 ^Gg/4D,,[D/8] z/4E,B,/4 z3//c/2-]  c/8 ^B9/8|
+^G[f//2 z,/8 |
+V9 [E/2=CG2L3] \/8 A16|
+c/e/8B/2^A,/8 z3/8 ^F/har st
+K:Tn B208
+Gh z4 V9 v5/2/4 /2|][a5 =fb/a|H^g/8][D/2|
+^z32 |
+V5 E/2 ^=F,/8 [c3 |//8 |6|
+[e/8C,/8]  d/^f/==c/8c//^G/8|==%
+F8 33//2| [bBrg/8ithaF|
+V3/3
+ z3/8]^c/2/8 E/2 )/8 4 B, G,c3/4f/8=D3/8 C2 ^B,2 [34]|a:8 c3/4] ^d/4 z/32 [^dG/8 z/85/8^e/8G8A2] d3//2 z3/2^AG,=C,/4 C/8 .D,8E,E,/4//[d/2|G,G,|
+^_8 z8x8|G2] z/4 F1/b E,3/2^D, ^F/2C C/4 C8 ^C2 ^f2 ^g/8 d/8 z/8|
+ ra4z8 _c2 [^=g/8=F,/z/2A,/2c/2z =B3/1
+d3DGG, F>/8 e8 ^g/2 [c3/=M:4
+[G9 [^G,/2x/2] x/4|C2 z2AA33/8] [d3/2  d/8 F//4 [A2 d8 [^f/8//f/3B,/2C=E,2/8 | z3/2 ED5]=D/2F3/2]| 3/8
+Tn c/8
+8-g1/f/8 b/4 F4 z2/2 G,//a/4] A/2]] z4^G,/3/8A,3/2 G,4B,73 z4 ^^c/2 ^g/8 d33/41
+E,|8
+[f4 [a/4 c3//x/2 =a/2E/2 f/4A,x/8/=e/8D,3/8 e/4 F2f/8] 4g/8 z3 z/5,3/8|
+|
+V:P
+V:13
+z/8^z/8 z/8 M2-=A,/8d/D4 D2//2] 4 ^B,/ha8]-- g/4 ^c/4^c/2_f/2 D2/4 ^e/8A,/8C24 G/8 =1/8
+E4/8-|
+Vme/2 z/8 c2  z3/8E8- [3/rs[be5,/4E/8 B3/4M2 ^g2 ^M/8 _a2 d//8] z2|
+V1iua[c3/8G,3//8| z/4 D3/8B5/2][=c/4 ^d/8 [E/2 z2 ,2 ^D2/4|c3/2A3/e/1 z/2 z2/4z8 z2-| .^e/2]G2 [G^d/8 z/8 c/a [z8 ^e/2]] ^g/2 de/z/4 E,3/8 [A/3//8 [c/4[A/C/2 d5/ z3D//8 3/4e24 G//4^f/4=D,=A/2/8 ^A,/:(C/2^=A/8^C,3/8^B4 z4/8C3/c2/8]d/8 |
+ G2 G,/2] C38 ^f/d/3 g8 F,/2|" zm ^z/4g/8 Mn 1/2 ^B3/8 8//8c/F,/8 C,8 A,/2]]*^|
+V3/5=D/2F,G,8 ^B2] E2/8z2 f2//4x8 2^c/2] [m/:3 B,/8d1e/g F/8c/8D/2|
+[c/2G,/2 z/2-^g/8 ^E,/3/4 A,,,C/2] |
+x2C,2/3/2 44 f3//2
+[F/3/3 C,/2 z3,2/8 z/8|
+V:1110/8His/3 4|
+^c3/2 F,4/8F,/2 ^^c/2 z/95/8 x4- z/8 z5/8^d3/2]d5E/2^G3/8 [=f28/8^2/8^Jf//2 f2==z//8 c/2 [z4 D,|E,/8 z/2 [c/4^==d4 ^f8x/| G34] A3/8 ^[B2/8-a7/8z4 |C3][B15/8 * h z4/8 C8 A,8 F/8G,/8 e
+# epoha 8, iteracija 83968, loss  54.428, temp 1.000
+ G,7/d AB,/8C 1nd9/10 1 G4B/4= E^C,/4AB/4G,5 A5/4 =4/4 A/4 c,/2a/4 B,hA/4G,/4=G,/2| G,/2E/4G7/4d/4f/4|EC9/4 C/2A,F/4D/4 B/4x/d a/4  D/4B,4 GB/4d/2 [G2 D,/2G,/2=C,7/4^E,/4 E,/4|C/4 Ge/110/5f/4 B/1G,G,/4ge/7/5=G/4A,/2^G3/4F/4iD/4a/5g/4d8/4g 4/4=g/4g/4E,/4 B/4BEG,,/4=A,/4^|
+x. 4G/4|
+% d30 2 c/2F,/4A/4e3 =C,G,/4]|
+|
+[B /6z/4||c/4c/4- z^A,B/4 d4 a/5 g/4 D,/4|
+G/4=G3/4B,7 G,/4EA/5D4/4G6/4  B/eg]^g/4g/4d/4B,4/4g[f54| | f/4|
+2/2d/4A/5G,C/4c/4G,/4e,,/4|E,//4G,/2G,/4GE/4 d/4e/ed4 ^|f/4f4/4|
+D,/2 f/2| d/4F/,/4G,/2| A,/4A,D/4^G,,/4|- g/3]
+G/4| /4z/4B/e =f/4AG/2c2/4A,/4|c/4|F/4d/4B/5f/4 B6/4| =A,/4"F/2 =| B/4A,/2F/4A, f3/4d/4B9/4B,/4z/4^G,/4A,3/,/4c4 B,/4 B/4 c/4e7/2B/4f/4^D,/4G,/4A d/5g/4c99 ^/4^C,/4=| d/4DG/4|  g4B/4x/4a9/4^f9/4B/3 =C,|F,/4 |C4/4G,F/11 e/4^F, e/4 fE/4 d/4[C2/2| G,/4 c'/2e/3g7/4E,/4Bc/3E/8^F/4|
+F/1/10/5g/4- [16/4|
+E,/4B,C]-g/5e/4C/4f6/4A3/2z4 G,'/4| d/4 E,7/1D/4=T7/4|
+C,/4 BF/4|C,/4- g/4c8 A/4F,/4B,/4A/4| g/4 =^E/4d3/4E, c4|
+V:D,/4E,4/4 C/4|
+^d/5E,/4G/4Fe/4=A/4/4 | F,/4e/2 D,/4
+ B,/4A G,/4e/4G,11 Ad6/4G/4G x4 B/4B,/4-E,A/4f9/6f/4E/4f/4|
+E/4|F,/4| dG/4P/4A,/4g/4f,C/4 4F4/2G,/4B/4|
+6yD G7/4| f/4 B/2|D/4 B,/4f/6|z/4B,/4c4/4E/4DA,/4 g/4A/4E^[d/4-E/4=B,7/4^Cc/4d G,/4f/4A,6/4"B,/4E,/2 =B/4C C,9/4B,3/4 z/5-c/4c/4 fA/4|
+c4 zF,/4E4/4d44/4 G,7/7//d2 C6/4dG,/4|6/4 B,4 ^-C/4G/4c7/4 |f/4G/4|
+Gg/4EA,/4z4/4 E,/4
+G/4F,/4- B/4e/4=B3/4^G,/4A/4=G//4F,/4^B/4f/2F,3/4C/11
+c/4 e4/4B/4D6/2 B/4e/2/4F,/14F,/4D,/4F,,/4B,/4|
+a/4=B,/4A,,/4 E/4 A,3/4e/4|
+_B//4c/4F,B/4/3C c/4e/4G,] 2 B/5A/4D/4C,/4 B/8c/2B,/4A|/4A/4B,9/4E/4F,/4 g/4=D,E/4d'/8G/4F/4 =A,/4C,6/4B/4G/4\/1e/4| d/4 =D,E/2 E/4B4/2d/1,/4D/2 |,/4 c/2|F,/4] cA7/C/46 == g/4 B,,/4B4 c,7/4B,/4 F/2CC/4 A,/4|
+
+x/ddD B,/4G,/4f/5|
+fa3/4B,/2F,G,/4F/4 C/10 g/4|
+x4/4D F/4F,/2E,4/4B,/4e/4 G,/2f/4AB/4c1/4B/4|
+e/4c4 F7/4a/4| e/4| a/4 G/4 ^C/4D,/4c/4C/4] =| A/2x D C,4 f3/4 D/4B,/4G,/4e/4 A,c/4G/4E/4E, 4/4E/4 z4E/4B,/4F/5|
+K6/4^^e3/2 G,/4|D,/2CA,4 c/A[F,/4eA/4|z4 F,/4G,/4|
+w55G/2| G/2B/4F/4a/4 B,g/4|z/4^B/4d/4] G/4A,/4 E,/4G,/4C/4| A/2A,/2G,/F5/4d4 e/4/4^E,/4_C/4 |B/4B A/5c/4 |
+B3/4F,/4d4 e4 a4/4 C
+# epoha 8, iteracija 86016, loss  56.510, temp 1.000
+2-|[C/3]B2-.8| [A3/,7/5 [B2 /3=| \a/5- E,/3/3.F2A9 [ c3fd/3 3/3/2]im/2B,/3G/2=c/2]G,/3-][eG/2D/2|
+B3- ^g D/2|
+c A,,A/3|
+[16@/3  C2/4A3/4d/4 G,3/2]|  6 \de [v:2 4E|
+%
+%e/10 e/8 G,C c3//2]e/4- |g3C G/32D,2/2C37/4 \D/2/2D3/4A/5B,4/2]]|FA,/2-| A2/3/2d/5Dx/2B,/2x2//2|
+
+
+E/11 w?- [!
+%aA1a F3D,,2/2[M* D/2G/3]E/3 B,/3 C2| [hd2 bA,/3/5|
+]
+G2/5_E3/4 =e/4][f/3B,/3/4G G/2]z/3|
+A2c4/2 |A4][d/3 z2G,//2
+._x/116|G3/4|
+%
+A2d//3/3 3/2G/5|F3a A,/E/3]|
+[c/2==G ^G2D,3[G,2 A3/3C,5/8z3-f2|[F,/4-][B/2 [f/2G/3 =F33/2G3]g/2 x3- F2 =f/15=bvi_f) B,3/2EB/5-C,/2-B/3-]e/4 E3] B3/=B,3/3^E/4g]f/3G|A/2d7/3ce/2 C_a2|z/G/3x C]|A2]x/4-|
+^=G/2B/2-E//2] [F,3/2| [_A,/21=F2] [c/3 D,/4A2 [x/.g/339/2D/2 |E/2]xD6] i/5]E2/8 z3/2_c/2|
+Vr
+c2 A3/2B/3 D2/2- e/3C6/3|
+E33/2|\
+a2| B2 [e2| _ac/2]E,/3=G/5d/2]D,/16C/3z/8]  A/3c/2|[a:3f Z/6_d2/15A/8B3/2Eg/2rd/2cE/22  c2] =F3/11
+[F/'4e/8 [e [b/5][F,/2- B/3|A/2c/2] z/3] A3//2A xB3E/2- A,3/2A,3/2-| \
+zc G,/4G/2z3- D[G4E,3-D3/2G,/E/3[B/A2B/3]G/3 [E,/2 [d/4]] =e2//3/BB,3/1HbE/8 [=F3/2z7 |
+d46/c [c"
+=d,/4-] c3iv
+V:/2f  [df E,|[r)x/B4|
+C%D/2zC  [^A -][d3//2- [d2 [d/3B/2zF/3[E/33 =^f/8A/2 F/4B/32-]c3/2-/15
+[E7/3 E^x/2E/2-/2E3/2! F/4DbD/4][C]D2 =G/4=F/2] [c/3A[A^g  c/2-- [c2/2|a/4 f/2] |z1iaB,G2 D3/2CB/2]]x8]|
+C:55A//2=D/4 G7'/4C/15- f/3E/37//3e/2D3/3A/f/1
+M4 d/2A3/2|c/2a%
+^E7/23AE/2 [c3]|D/1ac/3d/3D/2D3/rt/1p
+\ E3| \
+C/11 m \
+%/5
+%/3- [Z:7 E/5/1
+[_c,/2A/ B/2G/3/2G7/2_b [E,3/2D,/2|E2/4^c32][G/2[c/2g/2| ^z/2^D [g/3[d/'2--]e3/2 e3/4f/35-]|
+F:3/2x_c/3 [B/3/2]d4/2|
+F2 [G/|
+^d/xG]c/4C/2G/3/2-z5H] [b/4 D3/3|
+E2/4 E'/3d/3B,/3-x23/1
+:hva.g FE,/2A/2G33 z3/2[Gu/2fg/2-F,2/2 G,3/ ^A/2a/1e4^B,2][G3]x/3E,/3 B,3B/ c3/42][=E/4 c3/5 |
+E7//4d4/2]|Er6 C2/3/z4]| \
+b/112 \B/2-B/42 [a/2p/1
+,/3/3 8e7/3 B3- [G3|[D2x/2] | c3/2 [c/3 [A3 [G,6/2- A/3AEA/32d44 CA/4x/3 f ^d/3] |
+* F2|
+A/4 A/2=^=f/2D2/1
+c4/3/2z37/2B/b0 d/2D3/2|
+[a10 A2c/8-|[=ca2/3G/4|
+[g1uaS1 [B,/4"|
+[a8|z33/B53|
+=Ac//4G, c3/2] [E7/2G3/3/2BmA,3 ^e/42 f/2^C/2Bg/11 \
+[P=A,3/4] |/3 E/2B/2] f/2|
+|A/2 2|
+E3/ B/3 f/'15g^c/2G,/3/2[g- [2E7/4|
+[dB/2jd/2|- b/d AAE/4-] =bd/2-G/2-|
+G3/4/2|
+_G2/2|
+[a3/1
+# epoha 8, iteracija 88064, loss  46.918, temp 1.000
+5:2-G,e--f B12GG,C,,3 C^D B/, c8|
+c8bba@7
+ \/2E,3 ^c2f E3] D4CA,/2GA,2==A,/5/4[C, |C2a/1/1eT2ogc4Ac92s|^gd|[d A,42|G,/2G22 D2] E3]ef4e|c3
+V'v c7led//f|G1
+ 3/ df3d B2eBGG^D,2H T1' e2e|B5]x7/|Lrgiem].e,2f c/4[F2]B,2] C,c|c2ic&4 
+LibV5/1
+C1
+DA,e [W:der
+VA3]  /4[C:1
+%/AG,3 B,2G E,GCG3]|
+%E E2]|
+O:
+T5
+m/1
+B,Jd x2d|Hf2[c4acG2A|D[A[D2D [=2D/2]
+z/2e3ga*$5
+V:9 z'4gB/2ae|a2[f3ee-d | %
+V:3] E,]\B1
+eh
+
+erc/4|c3[G2
+V/au6f1F|C7f'ï5ae6vdF=G[E,3 |FddD D C,, |=D,B,, B,2GG/,|C,,,/3/2[=D2F2-DA,,|cA/2|GF
+V,7iw%av z4ac2/5c3g |AG,z]%
+VT1/B^d/=g/2 D/2t|
+
+V:1G C3|CG2]E,2,]|Hbe/5)ee2id .e|G2]x/4
+V:2e.G2][C,e]C, |[D,,G3] C2][B,|[C5]A,,] F2c] Be|C1
+ ^2 BDG/ D2 BC]
+Pru
+%G4
+
+T1
+or.o:G/4[|g/^D6A|
+%d^G,-|G,,]CA,d/EGcA,, B2]|z4
+
+R3ieC,edc3 | g6 z2a/2d4)e6aF/4a [aba@ edB4][z3]x2-d|6uc^D,A
+F8
+M%.
+
+B2
+ F1
+VG16AG2]F,/2[E,D|P5
+
+\
+\t ee n2e B4e6-f g'3
+V:36,B,2C2 FF,2]Q:4D DB A,, |_z2|
+A5CB,1
+K12[A,4[C2 |D1
+[g/2[zf/|^tm[B52[CBd|\
+CB-][c3/4[B2=f2] G/4d_B/2|ef
+
+V:4-|z2]F2G|
+z2|G/2c/E2|B1 B,2-D,,,,C2/2GA/b=ga|B4e|| g/15d4]f2e'4aB/2e|
+fae/5ig]iec/2f]|deB:1
+QTre |saPg32[D, F,, c9/fEG,AC/GD G2 G,,f C3]C,2a|ErccB/4|A4 _z2d c4bg/=e ["aee2d| ffc-fe]|ac| =meB1
+V:2
+[C1
+elf/eG3 F8-c c3oB2f|"e/a  nwHB8e z4dcCEecB2e =%p \/4clscp ecG37/c/4ief3tpn16eB2d
+R3a.B/F D2 |B3/6x4d D32CC4 DF,,]|0
+V/2e}d5/G,,][G2][F2A^B,^C,2][^F2|B,E \/d|xaverf5|A8
+ BD: C1  F2 e/5b=x2)c/5a|B/1 F3 A,,eB-G|A4-EcA, C,2AEBCocC,Ac-x2=E2]xc/2|x3e c2s| 7o Bb C,2d E/4 F31,A2]|\
+ad--g Q3
+V11
+G,2]|C2]C'4 e|
+[[g2eg/5a[E2][C3|A,2] [E:Dltov\=
+VC2G|F3"D36 CB/2|A, F,,|
+%
+z2-C, E, F3 F,77jeG3e remarcc|E4"BB2] C,2|A,]]c5am^DA|z1
+
+T e|F7  d2s[lx e$Hpo%uief50 zrp
+T7/|\D,,E2]|=f/e/B/|E1 ¿GB
+i%sa[|c
+Kz2
+VD5g G1
+MB/3G f1 F1
+
+E4
+
+TeseT5b mhemc11 %wwca/1et
+V:Tre efB H3a|
+g2e gdGD/AG7/5 z5 c2 faD2d/'2 bc/4[E2D G,x| A,,]]
+V:,
+ Tr
+V:r5|\
+Z:T3cD/hodgh
+C/2A|
+b1tt.ed'2dp f:* g=mlOec^a)c3/3ers
+V:1 [B1,,21
+C%
+W9/4 2-saa',2G,,4|A,: z, C,D2G,2]C,,]C2
+p
+Cs
+V:3/3D3 C,2]]B2d)c2([D2D|C5] F2
+CB3D|G5d|e14c/3a |abg-f |G3 C=fi _A2e/5oc/rg G2e [a:c/3oa\/seriacz35G2a/,73 [\
+ C,,A|D5GcD2 G,,2D,2D
+F7
+ F/6<2f c/32e/1
+x2tce/,/D6fa|d5gG//2e/
+# epoha 8, iteracija 90112, loss  67.745, temp 1.000
+ F,2|=EGC|D8 G,G,,3,E,2|z4D,EF,2F2EEGA,|-CA,4F,G,2|B3G,2|B2|
+V:re g:S orhsc
+V:1
+V:1hdai.cd bo*ty/ue9 ^Fpown5
+V:9 C3
+236 E,7 |B,B|z2
+V:3  z1
+V:6 F,2 G,FG
+V,:\c %
+2
+V:CB4
+V:9//ccu\s**d/awo3c.c2\e c
+B,F|
+V:156 zB,A,2HzD6F,2 ^B,2z2
+\c G,^G,G,=g2|B,E"E,AG-|[D,A,dj C,AB-E/B2^E2A,2]c2|
+M2GGFE,B,DA,2D,'|c2e3|u:"atabcnh.iv5(d:1
+F2c[DFA,D,-Ec|
+B:21 drc.c1a gslgmatidbnoo3"-irbg5
+%
+V:8F:1/8 G/G,3 2 F8 F,A|A,8 d/G3EIhdefg|
+G::4
+%aBsh\c/hg9viiohtc5dA lagvitesobraaeh icroFnâ
+V:1\
+h
+V:ck ok
+bnt
+V:,5D B, Ad2d2|
+V:T3 m:htNohol*y6d/b1 ce tnh entV:1
+V:emrdosiaut
+V:/16
+C2 CB|BED|D,E,A,B,| E,AG,D,A,/C,B, |E,A,e ^ Fc/3/eead|X:hn2
+|
+V:16CB z2D,,DG G,2D2C,AC A,Ac f[DA/2 D,2E,B,101
+=EC,G,E D,2=z2E,A,f/2B16A2 \AEDD G2DE,D, F,2|A,,C DcG E,|G7 |A A,G, A|
+A,1
+C,F,/2G,,| d2 dG[G,74d-|B3
+g'Aa  dc|
+V:4 D,2CC|G,F|10
+m'ud6 fdc ^B3c F2B2c3 2 D2c/d^gA E2|
+A2[F,,A,G,4E,,2|
+5//ab) vglare2G:C,^E5|
+%B,6z/E2A2z2F,2-F,A f|B,B,,2G,^D2
+V:16E B,G,Bx F,,2B2"B,4 G,D,D,E|B2|
+V:16 G3D,,B,G,A,F,,, F,4G4E,z4 A,/=B,2C2|F,,2F, A,2FF,B,D,-|
+%
+[E,G,:%E,E/|-F,2A,2|
+,2FA E,C,2D2[C2E,3G,F2|
+D1
+z,B2z2CE,A,8 B2=_F,G,2D,G,BE,G,G,,3/|G,,2|E,DB,G D,d3D,3 g4B f2cz A=g2c/A:5-x4 G-G,E,AdG z2G,4E2D2^z2A,A,2c8 z2| =e2[z2B,A, |
+raeyaj 1 h
+V:1ud
+c:2 V:3
+A,2E4A, C2 D,C|D,|\7aoliv
+%.
+1:3
+A,3 D,2 G,2|C2 cCDD2=^G,1e2dA=A,D,,C E2x2| zE,/2E,2-G,,2A^A/A,16]|A,2C2G,, E,3G,AB,f|G,^C2F2[A,2f2|-C,4^F,2-|V:hp/%eaowmRrse-sanl(sar*|
+VF,D, F2E,_F,2xcBfd caAB|
+,2FE,F,C2B3D,,C=G2| FcC]F,4 E2 d1 z1 C,A,|C/C,3 z2 D4G,Da caa[gfc]egg EGB|\
+1
+V:1N^2
+%
+V:11
+^B2 |
+\E6ADD,G,E,B,E, x |=aeg'e fe|Bddz/=B, G,,F|F,2D,,2-| bA,'d|jtnridut5ga}-bem an/m PdhAeoh
+V:16 F,, D2|D,D/C, C,A,2B,2-c3/D,6 A,E,B,G,,2 B,4G,2E,E,7/g|[D,3^A,2B,] D,BDC=F,,|
+^zE,G,|
+G,2=B,2A2Gae,2dG,C|B G,,,E,G,2|F,A,,G=G2-|
+Vwnnn m b2sarfElm._z2 (gB| d4|
+V:V:BW"dtarin'fai(nstvgaahs bb\
+F,2A|z,E,E,D,3CF,] |c2f/c2z2F2| zB,B,,D]=E,A E|ECG,,|=D,|D,B,]=A,A,FA|z2E, D,G F,B,DFA,,D,|
+%
+V:5],1
+D,|
+C,E/G,D,G,,32 F,2G,,| D,2xD, zD,2=G,,,/E,B|
+%6B,c/B, A, B,4D,CG,,2zG,G,,2x2GA-|G,C,c F,F2B,G,C2A, D3A,|^G,3F|
+e2eyilv
+Vsh.suer
+T:^D,BB G,3C] F2|
+\F,D z1 1
+Pa.ls
+
+# epoha 8, iteracija 92160, loss  64.955, temp 1.000
+3c/2] [G2c/=E,5A,|A,8G,2B,/3/C |
+V:3
+Q:18
+V:/1
+AB,8,,,/E3E2a2|
+D,C/F,/GE||x33 A,/,1
+x4 z:A,5 C,A,F|
+[G,|
+GD|
+z/C3F,B, B,,G5E,4|x/B/4 g/c'Av]]si!T:F/2A3 G6B,C^G,,,8---G/G, G2D, z4]z2^d2x2 cAF ^c|z4 z5 e2^	z5e,/f/5/e|\d
+V:8
+d2[iwrve homiaohresidnsoV:2
+z2
+V:5
+
+Novgn/dhg
+^F,,4C2 zBF]D2B2CF,D,,3 D,5 F,c|E,A EA,A,|\AD,5[fed/cc|e^g|dvbz	p2
+V:6-B,,8A,|AA,,2D,6|x3|
+K:1rv6  g10 a2pre M:1s V:1
+BA,B,/16|
+ %
+V:rim stlmor|dbovc2
+38
+V:D6e4D z2F,2  z,B,,|
+\6x C,
+B,E^A, G,,,5| %
+V:1 x5 d2E, |
+,8A2C[A,E,,3C3|
+C,-|B,2D|E,/C/3/8||
+n
+V3sivwnaroret].x1//r m
+Pwg1e1utl mt0 \
+V:1
+b2ld wfhkk6[c50urn-eGy e/=vhahdsarsd3 [grohohobMson  in"aw:5_F2 C,/g -A/[dcgd z/[aved-f|x2 [^d2 [F2|e,2|e8]c4i:cm
+CB,D, F,2|P/c| c3jibajin/ b3
+V,2 [A,4D,,3
+c2|
+V:6 G,E,G A,/2x,8A,2| zC//8 ^Gce.E2A2[aeaz/zA A,C,D|C,,| A,2A, G,B,|
+V:1
+F,E|AG,|
+m:1
+Q:Prarlibsse fertsbrobrbig b1"A/ejtd3
+wros crl|x2 emerlrstifag/rgeg:2
+V:6//B6C4 e/2 x/2 ^g.d3|x// zld Id c2 2CA, FGB,C,|P6 B,/G3c z 2CA,/B,|A,A,C,|B/E  ^|z2[z5|
+\
+B:7 bx2v bn
+Q:2
+V:3
+\:6]z8] B,G,,10 C,4| zE,D,C 2 C,2D,B 4]|\:,2A,G,,/,C D,5A,D,D-^CE,C, CD|z,G,d2| B,,2B,F,,2E2|ED G2 F,^:2x4|
+[
+[G2]|A4[B,A5^F8EG,AD|=G,,2F,E/4D,G,,,e/_ce3 CAcc4]Bede5^|e2f/2f/c2 E,/c/d/N [a5 n/m
+V:15
+_GD, F,D>^B,3G, A,C/B,/,//B,8[EF2=_B,B,A/4 c8 ^zB cGGA^C2E,/z2c4|C2G,B,6 G,G,x]B2BJeed x/Gsc|ivesi:4t15
+bhrsnpom/8 2
+V:6 B,|
+B,2A,/| F,2z4|
+V:1
+
+B,2|B,D|x3-|(Af)|[atimtmowcra2 bm
+V:her 8sn w:4
+e:3
+x/|tnybe
+einhd/V:1
+V9:3
+ [C2|6|
+ 
+V:Jibta8
+V:1/Trawerannae6Preiab:6
+M:6/26]|xC GAE,M G,^D6j^c4z2-B6/l3 Brc/an curtcrpom
+@:
+G,,G  A,/2[B,2]z^B,,3_d.g|c6ff\d/ /|
+2 %
+V: Ph%
+Vros d3-arc1
+
+[C4|-E,2 F2A,2d2zBd4] B2E | E, D,F/8^|F2E,A^G, D4GEC,,8 D,2|
+\
+n:|
+V:7
+/3
+V:C
+"um6x cB c2|e2c2|
+%
+V:1
+ d1te anpro:ra[=an Srl098 %tts-artt
+V:1
+ D,G|z2|B,/8 B,,/^c'b.d c B,^e4|
+P:/8 V:4
+z2x4[C,2DCc C,/4/,2c1 F,_E,72A/A3 c'a4 ^df|cFag/3/8d- c DBA ^F|^F,CDG,2C,DG/3c|f2| \6 2i\.e
+6 z G,/G,C C,|B,2B3 |
+V:1
+F,2F,A,AG|^F,A5|
+%
+%F2F,=c/a_f/ /8 B/Bre-x/F| awar g.a/htt
+V:1
+%
+V:0
+=^|C,72|D,D4A,GC DD zA,^BD,C C,|G,E,E,C/E, zG,,^B,2 D,,4MBB“C]z2D2C,2]C,,3|BA,E c'd| muV 2trapndovmprm0 b

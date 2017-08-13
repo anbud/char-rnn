@@ -1,12 +1,19 @@
+# Implementacija rekurentne neuralne mreže bazirane na karakterima (char-rnn)
+# Bazirano na originalnoj implementaciji od Karpathy-a (https://gist.github.com/karpathy/d4dee566867f8291f086)
+# BSD licenca
+#
+# Andrej Budinčević
+#
+
 import numpy as np
 import sys
 import os.path
 
 new_model = False
 
-# default je 1.0, bira output nasumicno
-# nize vrednosti su konzervativne i obicno ponavljaju tekst koji je vidjen prilikom treniranja (tipa 0.7)
-# vise vrednosti su rizicnije jer mogu sadrzati vise nepravilnosti (tipa 1.3)
+# default je 1.0, bira output nasumično
+# niže vrednosti su konzervativne i obično ponavljaju tekst koji je viđen prilikom treniranja (tipa 0.7)
+# više vrednosti su rizičnije jer mogu sadržati više nepravilnosti (tipa 1.3)
 sample_temperature = 1.0
 
 # ulazni podaci
@@ -27,15 +34,15 @@ ix_to_char = { i:ch for i,ch in enumerate(chars) }
 # osnovni hiperparametri
 learning_rate = 0.1
 learning_rate_decay = 0.97
-learning_rate_decay_after = 100000  # u epohama, kada krece smanjenje learning rate-a
+learning_rate_decay_after = 10  # u epohama, kada kreće smanjenje learning rate-a
 
-# ukoliko pravimo nov model ili nemamo sacuvan checkpoint od ranije
+# ukoliko pravimo nov model ili nemamo sačuvan checkpoint od ranije
 if new_model or not os.path.isfile(checkpoint):
     # hiperparametri modela
-    hidden_size = 100  # broj neurona u hidden sloju
+    hidden_size = 512  # broj neurona u hidden sloju
     seq_length = 25  # broj koraka
 
-    # nasumicni paramteri modela
+    # nasumični paramteri modela
     Mih = np.random.randn(hidden_size, vocab_size) * 0.01  # input u hidden
     Mhh = np.random.randn(hidden_size, hidden_size) * 0.01  # hidden u hidden
     Mho = np.random.randn(vocab_size, hidden_size) * 0.01  # hidden u output
@@ -57,7 +64,7 @@ else:
     hidden_size = loaded['hidden_size']
     seq_length = loaded['seq_length']
 
-    # nasumicni paramteri modela
+    # nasumični paramteri modela
     Mih = loaded['Mih']
     Mhh = loaded['Mhh']
     Mho = loaded['Mho']
@@ -76,7 +83,7 @@ else:
     # memorija RNN mreze
     hprev = loaded['hprev']
 
-    print ("# ucitano stanje iz {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
+    print ("# učitano stanje iz {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
     if epoch > learning_rate_decay_after:
         learning_rate = (learning_rate * pow(learning_rate_decay, epoch - learning_rate_decay_after))
 
@@ -93,7 +100,7 @@ def softmax_1(w):
     return dist
 
 # loss funkcija za RNN mrezu
-# vraca loss, gradijente i poslednje hidden stanje
+# vraća loss, gradijente i poslednje hidden stanje
 def lossFun(inputs, targets, hprev):
     xs, hs, ys, ps = {}, {}, {}, {}
     hs[-1] = np.copy(hprev)
@@ -105,12 +112,12 @@ def lossFun(inputs, targets, hprev):
         xs[t][inputs[t]] = 1
         # update-uj hidden stanje
         hs[t] = np.tanh(np.dot(Mih, xs[t]) + np.dot(Mhh, hs[t-1]) + bh)
-        # izracunaj otuput vektor (nenormalnizovane log verovatnoce za sledece karaktere)
+        # izračunaj otuput vektor (nenormalizovane log verovatnoće za sledeće karaktere)
         ys[t] = np.dot(Mho, hs[t]) + bo
-        ps[t] = softmax_1(ys[t]) # softmax verovatnoce za sledece karaktere
+        ps[t] = softmax_1(ys[t]) # softmax verovatnoće za sledeće karaktere
         loss += -np.log(ps[t][targets[t], 0]) # softmax (cross-entropy loss)
 
-    # backward prolaz: racunamo gradijente prolazeci unazad
+    # backward prolaz: računamo gradijente prolazeći unazad
     dMih, dMhh, dMho = np.zeros_like(Mih), np.zeros_like(Mhh), np.zeros_like(Mho)
     dbh, dbo = np.zeros_like(bh), np.zeros_like(bo)
 
@@ -162,7 +169,7 @@ f.close()
 while True:
     # priprema ulaznih podataka
     if p + seq_length + 1 >= len(data) or n == 0:
-        # nemamo dovoljno podataka za sledeci seq_length batch, krecemo u novu epohu
+        # nemamo dovoljno podataka za sledeći seq_length batch, krećemo u novu epohu
         hprev = np.zeros((hidden_size, 1)) # resetuj RNN memoriju
         epoch += 1
         p = 0
@@ -182,7 +189,7 @@ while True:
         f.write(output + '\n')
         f.close()
 
-    # forward seq_length karaktera kroz mrezu i uzmi gradijente
+    # forward seq_length karaktera kroz mrežu i uzmi gradijente
     loss, dMih, dMhh, dMho, dbh, dbo, hprev = lossFun(inputs, targets, hprev)
     smooth_loss = smooth_loss * 0.999 + loss * 0.001
   
@@ -202,4 +209,4 @@ while True:
             mMih = mMih, mMhh = mMhh, mMho = mMho, mbh = mbh, mbo = mbo,
             smooth_loss = smooth_loss, hprev = hprev)
 
-        print ("# sacuvano stanje u {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
+        print ("# sačuvano stanje u {f}, epoha {e}, iteracija {n}".format(f = checkpoint, e = epoch, n = n))
