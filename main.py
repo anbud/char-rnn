@@ -39,7 +39,7 @@ learning_rate_decay_after = 10  # u epohama, kada kreće smanjenje learning rate
 # ukoliko pravimo nov model ili nemamo sačuvan checkpoint od ranije
 if new_model or not os.path.isfile(checkpoint):
     # hiperparametri modela
-    hidden_size = 512  # broj neurona u hidden sloju
+    hidden_size = 32  # broj neurona u hidden sloju
     seq_length = 25  # broj koraka
 
     # nasumični paramteri modela
