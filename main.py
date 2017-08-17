@@ -32,15 +32,15 @@ char_to_ix = { ch:i for i,ch in enumerate(chars) }
 ix_to_char = { i:ch for i,ch in enumerate(chars) }
 
 # osnovni hiperparametri
-learning_rate = 0.1
+learning_rate = 0.05
 learning_rate_decay = 0.97
 learning_rate_decay_after = 10  # u epohama, kada kreće smanjenje learning rate-a
 
 # ukoliko pravimo nov model ili nemamo sačuvan checkpoint od ranije
 if new_model or not os.path.isfile(checkpoint):
     # hiperparametri modela
-    hidden_size = 32  # broj neurona u hidden sloju
-    seq_length = 25  # broj koraka
+    hidden_size = 128  # broj neurona u hidden sloju
+    seq_length = 100  # broj koraka
 
     # nasumični paramteri modela
     Mih = np.random.randn(hidden_size, vocab_size) * 0.01  # input u hidden
