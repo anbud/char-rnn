@@ -1,2 +1,0 @@
-epoha 182, iteracija 2117632, loss  34.9 - Buderiadeut
-epoha 202, iteracija 2344960, loss  45.6 - Arllastiasich
